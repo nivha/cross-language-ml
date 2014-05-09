@@ -24,10 +24,10 @@ class Category(models.Model):
     Model for one Wikipedia category, in one language.
     """
     # The url of the category in Wikipedia
-    url = models.CharField(URL_MAX_LEN)
+    url = models.CharField(max_length=URL_MAX_LEN)
 
     # Category name
-    name = models.CharField(NAME_MAX_LEN)
+    name = models.CharField(max_length=NAME_MAX_LEN)
 
     # Language of the category
     language = LanguageField()
@@ -40,9 +40,9 @@ class Article(models.Model):
     # The category of this article
     category = models.ForeignKey(Category)
     # Url from where the article was taken
-    url = models.CharField(URL_MAX_LEN)
+    url = models.CharField(max_length=URL_MAX_LEN)
     # Article title
-    title = models.CharField()
+    title = models.CharField(max_length=NAME_MAX_LEN)
     # The original language in which the article was written (to be distinguished from the translations)
     original_language = LanguageField()
 
@@ -69,7 +69,7 @@ class ArticleContent(Article):
     One article may have many contents (in one original language and many translations).
     """
     # The article which this is its content
-    article = models.ForeignKey(Article)
+    article = models.ForeignKey(Article, related_name='articlecontent_set')
 
     # The language of the text
     language = LanguageField()
@@ -79,3 +79,4 @@ class ArticleContent(Article):
 
     def is_translated(self):
         return self.article.original_language == self.language
+
