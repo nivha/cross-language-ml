@@ -34,7 +34,7 @@ def GetWikipediaPage(name):
              "user":rev.attrib.get("user"), "comment":rev.attrib.get("comment") }
 
 
-def GetWikipediaCategory(categoryname):
+def GetWikipediaCategory(categoryname, language):
     "Downloads all/some names and metadata of pages in given category"
     params = {"action":"query", "format":"xml", "generator":"categorymembers", "prop":"info", "gcmlimit":100 }
     params["gcmtitle"] = "Category:%s" % categoryname.encode("utf8")
@@ -52,7 +52,8 @@ def GetWikipediaCategory(categoryname):
             pdata['title'] = pdata['title'].encode('utf8')
             if pdata["title"][:5] == "File:":
                 continue
-            pdata["link"] = "http://en.wikipedia.org/wiki/{:s}".format(urllib.quote(pdata["title"].replace(" ", "_")))
+            pdata['title_raw'] = urllib.quote(pdata["title"].replace(" ", "_"))
+            pdata["link"] = "http://{:s}.wikipedia.org/wiki/{:s}".format(language, pdata['title_raw'])
             result.append(pdata)
         cmcontinue = tree.xpath('//query-continue/categorymembers') # attrib.get("gcmcontinue") is fed back in as gmcontinue parameter                     
         if not cmcontinue: 
@@ -61,7 +62,7 @@ def GetWikipediaCategory(categoryname):
     return result
 
 
-def GetWikipediaCategoryRecurse(categoryname):
+def GetWikipediaCategoryRecurse(categoryname, language):
     "Downloads everything in a given category and all the subcategories"
     prestack = [ categoryname ]
     usedcategories = set()
@@ -70,7 +71,7 @@ def GetWikipediaCategoryRecurse(categoryname):
         lcategoryname = prestack.pop()
         if lcategoryname in usedcategories:
             continue
-        for d in GetWikipediaCategory(lcategoryname):
+        for d in GetWikipediaCategory(lcategoryname, language):
             if d["title"][:9] == "Category:":
                 prestack.append(d["title"][9:])
             else:
