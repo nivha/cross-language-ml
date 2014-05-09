@@ -47,11 +47,12 @@ def GetWikipediaCategory(categoryname):
             if "redirect" in pdata:   # case of the redirect page having a category, eg Paviland_Cave
                 continue
             pdata.pop("new", None)
-            assert pdata.keys() == ['lastrevid', 'pageid', 'title', 'counter', 'length', 'touched', 'ns'], (pdata.keys(), pdata)
+            assert set(['lastrevid', 'pageid', 'title', 'counter', 'length', 'touched', 'ns']).issubset(set(pdata.keys())), (pdata.keys(), pdata)
             pdata['length'] = int(pdata['length'])
+            pdata['title'] = pdata['title'].encode('utf8')
             if pdata["title"][:5] == "File:":
                 continue
-            pdata["link"] = "http://en.wikipedia.org/wiki/%s" % urllib.quote(pdata["title"].replace(" ", "_"))
+            pdata["link"] = "http://en.wikipedia.org/wiki/{:s}".format(urllib.quote(pdata["title"].replace(" ", "_")))
             result.append(pdata)
         cmcontinue = tree.xpath('//query-continue/categorymembers') # attrib.get("gcmcontinue") is fed back in as gmcontinue parameter                     
         if not cmcontinue: 
