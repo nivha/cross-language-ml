@@ -32,6 +32,9 @@ class Category(models.Model):
     # Language of the category
     language = LanguageField()
 
+    def __unicode__(self):
+        return "%s: %s" % (self.language, self.name)
+
 
 class Article(models.Model):
     """
@@ -61,8 +64,11 @@ class Article(models.Model):
         """
         return self.articlecontent_set.exclude(language=self.original_language)
 
+    def __unicode__(self):
+        return "%s: %s, in category %s" % (self.original_language, self.title, self.category.name)
 
-class ArticleContent(Article):
+
+class ArticleContent(models.Model):
     """
     An article content, contains the content of an article in a specific language.
     May be in the original language or a translated content.
@@ -79,4 +85,7 @@ class ArticleContent(Article):
 
     def is_translated(self):
         return self.article.original_language == self.language
+
+    def __unicode__(self):
+        return "%r: content for %r" % (self.language, self.article.title)
 
