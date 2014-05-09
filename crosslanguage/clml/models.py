@@ -6,6 +6,7 @@ LANGUAGES = (
     ('HE', 'Hebrew'),
 )
 
+
 URL_MAX_LEN = 300
 NAME_MAX_LEN = 130
 
