@@ -10,6 +10,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="cross-language-ml.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,10 +42,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="217" column="7" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.8857527" vertical-offset="3030" max-vertical-offset="3791">
+            <state line="211" column="4" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="3030" max-vertical-offset="3791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wiki_fetcher.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wiki_fetcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.31989247" vertical-offset="0" max-vertical-offset="744">
               <folding />
             </state>
           </provider>
@@ -65,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wiki_fetcher.py" />
       </list>
     </option>
   </component>
@@ -335,7 +346,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="7" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.8857527" vertical-offset="3030" max-vertical-offset="3791">
+        <state line="211" column="4" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="3030" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_fetcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.31989247" vertical-offset="0" max-vertical-offset="744">
           <folding />
         </state>
       </provider>
