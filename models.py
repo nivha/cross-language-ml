@@ -1,7 +1,3 @@
-
-
-
-
 class Cateogry:
     url = Charfield
     name = Charfield
