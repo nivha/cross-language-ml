@@ -215,5 +215,9 @@ pip-log.txt
 .mr.developer.cfg
 
 #.idea
+<<<<<<< HEAD
 .idea/*
 .idea/workspace.xml
+=======
+.idea/
+>>>>>>> bee3c8b0c228887e6965c192f37185f4f0d1c3a1
