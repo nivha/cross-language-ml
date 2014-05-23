@@ -1,11 +1,12 @@
 
 import os
-os.environ["DJANGO_SETTINGS_MODULE"] = 'settings'
+os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.crosslanguage.settings'
 
 from wikipedia import Wikipedia as W_Orig
 from wiki2plain import Wiki2Plain
 from WikiUtils import GetWikipediaCategoryRecurse
 from django.conf import settings
+
 
 
 class FetcherError(Exception):
@@ -53,7 +54,7 @@ class Article(object):
     def fetch(self):
         wiki = Wikipedia(self.language)
         s = wiki.article(self.title_raw)
-        self.text = Wiki2Plain(s)
+        self.text = Wiki2Plain(s).text
         self.fetched = True
 
     def savetofile(self, path):
@@ -90,11 +91,15 @@ class CategoryFetcher(object):
         self.fetch_raw_articles()
         for article in self.articles:
             path = os.path.join(category_base_dir, "{:s}.txt".format(article.title_raw))
+            print path
+            article.fetch()
             article.savetofile(path)
 
 
 if __name__=="__main__":
-    c = CategoryFetcher("Institute_of_Physics", 'en')
+    #c = CategoryFetcher("Maxwell_Medal_and_Prize_recipients", 'en')
+    #c = CategoryFetcher("Institute_of_Physics", 'en')
+    c = CategoryFetcher("Anexos:Estrellas", 'es')
     c.fetch_to_files()
 
 

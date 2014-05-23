@@ -1,0 +1,25 @@
+Artur Ekert (born 19 September 1961 in Wrocław, Poland) is a Professor of Quantum Physics at the Mathematical Institute, University of Oxford, and a Lee Kong Chian Centennial Professor at the National University of Singapore and also the Director of CQT (Centre for Quantum Technologies). His research interests extend over most aspects of information processing in quantum-mechanical systems, with a focus on quantum communication and quantum computation. He is best known as one of the inventors of quantum cryptography.
+
+==Biography==
+Artur Ekert studied physics at the Jagiellonian University in Cracow and at the University of Oxford. Between 1987 and 1991 he was a D.Phil. student at Wolfson College, University of Oxford. In his doctoral thesis (Oxford, 1991) he showed how quantum entanglement and non-locality can be used to distribute cryptographic keys with perfect security. 
+In 1991 he was elected a Junior Research Fellow and subsequently (1994) a Research Fellow at Merton College, Oxford. At the time he established the first research group in quantum cryptography and computation, based in the Clarendon Laboratory, Oxford. Subsequently it evolved into the Centre for Quantum Computation, now based at DAMTP in Cambridge. Between 1993 and 2000 he held a position of the Royal Society Howe Fellow. In 1998 he was appointed a Professor of Physics at the University of Oxford and a Fellow and Tutor in Physics at Keble College, Oxford. From 2002 until early 2007 he was the Leigh-Trapnell Professor of Quantum Physics at the Department of Applied Mathematics and Theoretical Physics, Cambridge University and a Professorial Fellow of King's College, Cambridge. Since 2007 he has been a Professor of Quantum Physics at the Mathematical Institute, Oxford University, and a Lee Kong Chian Centennial Professor at the National University of Singapore. For his discovery of quantum cryptography he was awarded the 1995 Maxwell Medal and Prize by the Institute of Physics and the 2007 Hughes Medal by the Royal Society. He is also a co-recipient of the 2004 European Union Descartes Prize. He has worked with and advised several companies and government agencies.
+
+==Research==
+Artur Ekert's research extends over most aspects of information processing in quantum-mechanical systems, with a focus on quantum cryptography and quantum computation. Building on the idea of quantum non-locality and Bell's inequalities  he introduced entanglement-based quantum key distribution in his 1991 paper  which generated a spate of new research that established a vigorously active new area of physics and cryptography, and is still the most cited paper in the field.
+His subsequent work with John Rarity and Paul Tapster, from the Defence Research Agency (DRA) in Malvern, resulted in the proof-of-principle experimental quantum key distribution, introducing parametric down-conversion, phase encoding and quantum interferometry into the repertoire of cryptography.
+He was the first to develop the concept of a security proof based on entanglement purification. Ekert has made a number of pioneering contributions to both theoretical aspects of quantum computation and proposals for its experimental realisations. These include proving that almost any quantum logic gate operating on two quantum bits is universal, proposing one of the first realistic implementations of quantum computation, e.g. using the induced dipole-dipole coupling in an optically driven array of quantum dots, introducing more stable geometric quantum logic gates, and proposing "noiseless encoding", which became later known as decoherence free subspaces. His other notable contribution include his work on quantum state swapping, optimal quantum state estimation and quantum state transfer. He is also known for his work on connections between the notion of mathematical proofs and the laws of physics and his semi-popular writing on the history of science.
+
+== See also ==
+
+* Centre for Quantum Technologies
+* National University of Singapore
+* Quantum Information Science
+* University of Oxford
+
+==References==
+
+==External links==
+* Artur Ekert personal home page
+* Mathematical Institute, University of Oxford
+* Centre for Quantum Technologies
+* Ekert at The Mathematics Genealogy Project

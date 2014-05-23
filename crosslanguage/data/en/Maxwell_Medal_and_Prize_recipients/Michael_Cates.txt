@@ -1,0 +1,37 @@
+Michael Elmhirst Cates, FRS, FRSE (born 5 May 1961) is a British physicist. He is Professor of Natural Philosophy and Royal Society Research Professor [http://royalsociety.org/grants/case-studies/michael-cates/] at the University of Edinburgh.
+
+His scientific work is varied, but focuses on the theory of soft matter, such as polymers, colloids, gels, liquid crystals, and granular material. A frequent goal is to create a mathematical model that predicts the stress in a flowing material as a functional of the flow history of that material. Such a mathematical model is called a constitutive equation.
+
+==Early life==
+Cates was born on 5 May 1961. He read Natural Sciences and earned a PhD at Trinity College, Cambridge in 1985, where he studied with Sir Sam Edwards.
+
+==Academic career==
+Cates was a Research Fellow and Lecturer at the Cavendish Laboratory, University of Cambridge before moving to Edinburgh in 1995.
+
+==Honours==
+He won the 2013 Weissenberg Award of the European Society of Rheology  and was awarded the 2011 Pierre-Gilles de Gennes Lecture Prize
+.
+He won the 2009 Gold Medal of the British Society of Rheology. He was awarded the 2009 Dirac Prize by the Institute of Physics. He won the 1991 Maxwell Medal and Prize. 
+He is currently an elected member of the Council of the Royal Society, and has been an Honorary Fellow of Trinity College, Cambridge since 2013.
+
+==Works==
+Michael Cates has over 300 refereed scientific publications. His H-index is 67.
+
+Highly cited publications include:
+
+* Theory of the Grafted Polymer Brush, ST Milner, TA Witten and ME Cates, Macromolecules 21, 2610-2619 (1988)
+
+* Statics and dynamics of worm-like surfactant micelles, ME Cates and SJ Candau, Journal of Physics: Condensed Matter 2, 6969-6892 (1990)
+
+* Reptation of living polymers: dynamics of entangled polymers in the presence of reversible chain-scission reactions, ME Cates, Macromolecules 20, 2289-2296 (1987)
+
+* Rheology of soft glassy materials, P Sollich, F Lequeux, P Hebraud and ME Cates, Physical Review Letters 78, 2020-2023 (1997)
+
+* Multiple glassy states in a simple model system, KN Pham et al, Science 296, 104-106 (2002)
+
+* Jamming, force chains, and fragile matter, ME Cates, JP Wittmer, JP Bouchaud and P Claudin, Physical Review Letters 81, 1841-1844 (1998)
+
+Over 200 recent publications are listed at the website of PHYESTA (Physics at Edinbrgh and St Andrews).
+==References==
+
+==External links==

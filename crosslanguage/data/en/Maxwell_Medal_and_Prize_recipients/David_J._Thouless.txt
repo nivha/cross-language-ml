@@ -1,0 +1,25 @@
+David James Thouless (born 21 September 1934) is a condensed-matter physicist and Wolf Prize winner.
+
+Thouless earned his PhD at Cornell University under Hans Bethe. He was a professor of mathematical physics at Birmingham University in the United Kingdom before becoming a professor of physics at the University of Washington in Seattle in 1980.  Thouless has made many theoretical contributions to the understanding of extended systems of atoms and electrons, and of nucleons.  Areas that his work has impacted include superconductivity phenomena, properties of nuclear matter, and excited collective motions within nuclei.
+
+Thouless is a Fellow of the Royal Society, Fellow of the American Physical Society, Fellow of the American Academy of Arts and Sciences, and a member of the U.S. National Academy of Sciences. Among his many awards are the Wolf Prize for Physics (1990), the Paul Dirac Medal of the Institute of Physics (1993), and the Lars Onsager Prize of the American Physical Society (2000).
+
+==Selected Publications==
+
+*J. M. Kosterlitz & D. J. Thouless, "Ordering, metastability and phase transitions in two-dimensional systems", Journal of Physics C: Solid State Physics, Vol. 6 pages 1181-1203 (1973)
+
+* D. Thouless, M. Kohmoto, M. Nightingale & M. den Nijs, "Quantized Hall Conductance in a Two-Dimensional Periodic Potential", Phys. Rev. Lett. 49, 405 (1982).
+
+* Topological Quantum Numbers in Nonrelativistic Physics, World Scientific Publishing Co. Pte Ltd, 1998
+
+* The quantum mechanics of many-body systems (Pure and applied physics series), Academic Press, 1972
+
+==See also==
+*Berezinsky-Kosterlitz-Thouless transition
+*Thouless energy
+
+==References==
+
+==External links==
+*David Thouless profile in the LANL Daily News Bulletin
+* David James Thouless, University of Washington: 2000 Lars Onsager Prize Recipient (Americal Physical Society)

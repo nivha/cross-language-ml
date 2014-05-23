@@ -31,7 +31,8 @@ class Wikipedia:
         return result
     
     def article(self, article):
-        url = self.url_article % (self.lang, urllib.quote_plus(article))
+        #url = self.url_article % (self.lang, urllib.quote_plus(article))
+        url = self.url_article % (self.lang, article)
         content = self.__fetch(url).read()
         
         if content.upper().startswith('#REDIRECT'):
