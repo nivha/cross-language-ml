@@ -15,22 +15,17 @@ import codecs
 class FileTranslator(object):
 
     def __init__(self, source_lang, target_lang):
-        self.source_lang = self._language_to_str(source_lang)
-        self.target_lang = self._language_to_str(target_lang)
-
-    def _language_to_str(self, lang):
-        return {
-            Language.English: 'en',
-            Language.Spanish: 'es',
-            Language.Hebrew: 'iw',
-        }[lang]
+        self.source_lang = source_lang
+        self.target_lang = target_lang
 
     def translate_text(self, text_to_translate, quit_browser=True):
         try:
             # Initialize firefox driver
             driver = webdriver.Firefox()
             # Open Google Translate website
-            url = "http://translate.google.com/#%s/%s/%s" % (self.source_lang, self.target_lang, text_to_translate)
+            url = "http://translate.google.com/#%s/%s/%s" % (self.source_lang.to_google_translate(),
+                                                             self.target_lang.to_google_translate(),
+                                                             text_to_translate)
             # print 'url: ' + url
             driver.get(url)
 
@@ -57,7 +52,7 @@ class FileTranslator(object):
 
 
 if __name__ == '__main__':
-    translator = FileTranslator(Language.English, Language.Spanish)
+    translator = FileTranslator(Language(Language.English), Language(Language.Spanish))
     source_path = os.path.join(settings.DATA_DIR, 'en', 'Maxwell_Medal_and_Prize_recipients', 'Artur_Ekert.txt')
     target_path = os.path.join(settings.DATA_DIR, 'en', 'Maxwell_Medal_and_Prize_recipients', 'es', 'Artur_Ekert.txt')
 
