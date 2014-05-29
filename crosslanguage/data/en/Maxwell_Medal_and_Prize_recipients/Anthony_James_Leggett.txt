@@ -1,52 +1,119 @@
-Sir Anthony James Leggett, KBE, FRS (born 26 March 1938), also Tony Leggett, has been a Professor of Physics at the University of Illinois at Urbana-Champaign since 1983.
+{{Infobox scientist
+|name              = Anthony James "Tony" Leggett
+|image             = Nobel Laureate Sir Anthony James Leggett in 2007.jpg
+|image_size        = 300px
+|caption           = Sir Anthony James Leggett
+|birth_date        = {{birth date and age|df=y|1938|3|26}}
+|birth_place       = [[Camberwell]], London, England
+|death_date        = 
+|death_place       = 
+|residence         = [[United States]]
+|citizenship       = Dual United Kingdom-United States
+|ethnicity         = [[British people|British]]
+|fields            = [[Physics]]
+|workplaces        = [[University of Sussex]]<br>{{nowrap|[[University of Illinois at Urbana-Champaign]]}}
+|alma_mater        = [[Oxford University]]
+|doctoral_advisor  = [[Dirk ter Haar]]
+|academic_advisors = 
+|doctoral_students = [[Amir Caldeira|Amir O. Caldeira]]
+|notable_students  = 
+|known_for         = [[Caldeira-Leggett model]]<br>Foundations of [[quantum mechanics]]<br>[[Superfluidity|Superfluid]] [[Helium-3|phase of helium-3]]<br>[[Leggett–Garg inequality]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Maxwell Medal and Prize]] (1975)<br>[[Dirac_Prize#Paul_Dirac_Medal_and_Prize|Paul Dirac Medal]] (1992)<br>[[Nobel Prize in Physics]] (2003)<br>[[Wolf Prize in Physics]] (2002/03)}}
 
-Professor Leggett is widely recognized as a world leader in the theory of low-temperature physics, and his pioneering work on superfluidity was recognized by the 2003 Nobel Prize in Physics. He has shaped the theoretical understanding of normal and superfluid helium liquids and strongly coupled superfluids. He set directions for research in the quantum physics of macroscopic dissipative systems and use of condensed systems to test the foundations of quantum mechanics.
+'''Sir Anthony James Leggett''', [[Order of the British Empire|KBE]], [[Royal Society|FRS]] (born 26 March 1938), also '''Tony Leggett''', has been a [[Professor]] of [[Physics]] at the [[University of Illinois at Urbana-Champaign]] since 1983.<ref>{{cite web|url=http://www.physics.uiuc.edu/people/Leggett/|title= Anthony Leggett UIUC Faculty page}}</ref> 
+
+Professor Leggett is widely recognized as a world leader in the theory of [[Cryogenics|low-temperature physics]], and his pioneering work on [[superfluid]]ity was recognized by the 2003 [[Nobel Prize in Physics]].<ref name="nobelprize">{{cite web|url=http://nobelprize.org/nobel_prizes/physics/laureates/2003/|title= Nobel Prize in Physics 2003.}}</ref> He has shaped the theoretical understanding of normal and superfluid helium liquids and strongly coupled superfluids.<ref>{{cite journal|author=A. J. Leggett. |title=A theoretical description of the new phases of liquid 3He |journal=Rev. Mod. Phys.|volume=47|pages=331–414|year=1975|doi=10.1103/RevModPhys.47.331|bibcode = 1975RvMP...47..331L|issue=2 }}</ref> He set directions for research in the quantum physics of macroscopic [[dissipative system]]s and use of condensed systems to test the foundations of [[quantum mechanics]].<ref>{{cite journal|author=A. O. Caldeira and A. J. Leggett. |title=Quantum tunneling in a dissipative system|journal=Ann. Phys.|volume= 149|pages=374–456|year=1983|url=http://www.icmt.illinois.edu/publications/leggett/1983AnnPhys-QuantumTunnellingInADissipativeSystem.pdf|doi=10.1016/0003-4916(83)90202-6|bibcode = 1983AnPhy.149..374C|issue=2 }}</ref>
 
 ==Early life==
-He was born in Camberwell, South London, and raised as catholic. His father's forebears were village cobblers in a small village in Hampshire; his father broke with this tradition to become a greengrocer; his father would relate how he used to ride with him to buy vegetables at the Covent Garden market in London. His mother's parents were of Irish descent; her father had emigrated to England and worked as a clerk in the naval dockyard in Chatham . His maternal grandmother, who survived into her eighties, was sent out to domestic service at the age of twelve, she eventually married his grandfather and raised a large family, then in her late sixties emigrated to Australia to join her daughter and son-in-law, and finally returned to the UK for her last years.
+He was born in [[Camberwell]], South London, and raised as [[catholic]].<ref name="biografia">{{cite web|url=http://nobelprize.org/physics/laureates/2003/leggett-autobio.html|title=Anthony J. Leggett – Autobiography}}</ref> His father's forebears were village cobblers in a small village in Hampshire; his father broke with this tradition to become a [[greengrocer]]; his father would relate how he used to ride with him to buy vegetables at the [[Covent Garden]] market in London. His mother's parents were of Irish descent; her father had emigrated to England and worked as a clerk in the [[Chatham Dockyard|naval dockyard in Chatham]] .<ref name="biografia"/> His maternal grandmother, who survived into her eighties, was sent out to [[domestic service]] at the age of twelve, she eventually married his grandfather and raised a large family, then in her late sixties emigrated to [[Australia]] to join her daughter and son-in-law, and finally returned to the UK for her last years.
 
-His father and mother were each the first in their families to receive a university education; they met and became engaged while students at the Institute of Education at the University of London, but were unable to get married for some years because his father had to care for his own mother and siblings. His father worked as a secondary school teacher of physics,
-chemistry and mathematics. His mother also taught secondary school mathematics for a time, but had to give this up when he was born. He was eventually followed by two sisters, Clare and Judith, and two brothers, Terence and Paul. Their parents were both Roman Catholics, so the siblings were all brought up in that faith. He ceased to be a practicing Catholic in his early twenties.
+His father and mother were each the first in their families to receive a university education; they met and became engaged while students at the Institute of Education at the [[University of London]], but were unable to get married for some years because his father had to care for his own mother and siblings. His father worked as a [[secondary school]] teacher of [[physics]],
+[[chemistry]] and [[mathematics]]. His mother also taught secondary school mathematics for a time, but had to give this up when he was born. He was eventually followed by two sisters, Clare and Judith, and two brothers, Terence and Paul. Their parents were both [[Roman Catholics]], so the siblings were all brought up in that faith. He ceased to be a practicing [[Catholic]] in his early twenties.<ref name="biografia"/>
 
-Soon after he was born, his parents bought a house in Upper Norwood, south London. When he was 18 months old, WWII broke out and he was evacuated to Englefield Green, a small village in Surrey on the edge of the great park of Windsor Castle, where he stayed for the duration of the war. After the end of the war, he returned to the Upper Norwood house and lived there until 1950; his father taught at a school in north-east London and his mother looked after the five children full-time. He attended the local Catholic primary school, and later, following a successful performance in the "eleven plus" examination which he took rather earlier than most, and then transferred to Wimbledon College.
+Soon after he was born, his parents bought a house in [[Upper Norwood]], south London. When he was 18 months old, WWII broke out and he was evacuated to [[Englefield Green]], a small village in [[Surrey]] on the edge of the great park of [[Windsor Castle]], where he stayed for the duration of the war. After the end of the war, he returned to the Upper Norwood house and lived there until 1950; his father taught at a school in north-east London and his mother looked after the five children full-time. He attended the local Catholic [[primary school]], and later, following a successful performance in the "[[eleven plus]]" examination which he took rather earlier than most, and then transferred to [[Wimbledon College]].
 
 == Education==
-He won a scholarship to Balliol College, Oxford, in December 1954 and entered the University the following year with the intention of reading the degree technically known as Literae Humaniores (classics).
+He won a scholarship to [[Balliol College, Oxford]], in December 1954 and entered the University the following year with the intention of reading the degree technically known as [[Literae Humaniores]] (classics).
 
-He completed a second undergraduate degree, this time in physics at Merton College. One person who was willing to overlook his unorthodox credentials was Dirk ter Haar, then a reader in theoretical physics and a fellow of Magdalen College, Oxford; so he signed up for research under his supervision. As with all ter Haar's students in that period, the tentatively assigned thesis topic was "Some Problems in the Theory of Many-Body Systems", which left a considerable degree of latitude.
+He completed a second undergraduate degree, this time in physics at [[Merton College, Oxford|Merton College]]. One person who was willing to overlook his unorthodox credentials was [[Dirk ter Haar]], then a reader in theoretical physics and a fellow of [[Magdalen College, Oxford]]; so he signed up for research under his supervision. As with all ter Haar's students in that period, the tentatively assigned thesis topic was ''"Some Problems in the Theory of Many-Body Systems"'', which left a considerable degree of latitude.
 
-Dirk took a great interest in the personal welfare of his students and their families, and was meticulous in making sure they received adequate support; indeed, he encouraged Leggett to apply for a Prize Fellowship at Magdalen, which he held from 1963 to 1967. In the end Leggett's thesis consisted of studies of two somewhat disconnected problems in the general area of liquid helium, one on higher-order phonon interaction processes in superfluid 4He and the other on the properties of dilute solutions of 4He in normal liquid 3He (a system which unfortunately turned out to be much less experimentally accessible than the other side of the phase diagram, dilute solutions of 3He in 4He). Oxford University awarded Leggett an Honorary DLitt in June 2005.
+Dirk took a great interest in the personal welfare of his students and their families, and was meticulous in making sure they received adequate support; indeed, he encouraged Leggett to apply for a Prize Fellowship at Magdalen, which he held from 1963 to 1967. In the end Leggett's thesis consisted of studies of two somewhat disconnected problems in the general area of liquid [[helium]], one on higher-order [[phonon]] interaction processes in [[superfluid]] <sup>4</sup>He and the other on the properties of dilute solutions of <sup>4</sup>He in normal liquid <sup>3</sup>He (a system which unfortunately turned out to be much less experimentally accessible than the other side of the phase diagram, dilute solutions of <sup>3</sup>He in <sup>4</sup>He). [[University of Oxford|Oxford University]] awarded Leggett an [[Honorary degree|Honorary DLitt]] in June 2005.
 
 ==Career ==
-Leggett spent the period August 1964 - August 1965 as a postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC), and David Pines and his colleagues (John Bardeen, Gordon Baym, Leo Kadanoff and others) provided a fertile environment.
-He then spent a year in the group of Professor Takeo Matsubara at Kyoto University in Japan.
+Leggett spent the period August 1964 - August 1965 as a postdoctoral fellow at the [[University of Illinois at Urbana-Champaign]] (UIUC), and [[David Pines]] and his colleagues ([[John Bardeen]], [[Gordon Baym]], [[Leo Kadanoff]] and others) provided a fertile environment.
+He then spent a year in the group of Professor Takeo Matsubara at [[Kyoto University]] in Japan.
 
-After one more postdoctoral year which he spent in "roving" mode, spending time at Oxford, Harvard and Illinois, in the autumn of 1967 he took up a lectureship at the University of Sussex, where he was to spend the next fifteen years of his career.
+After one more postdoctoral year which he spent in "roving" mode, spending time at Oxford, Harvard and Illinois, in the autumn of 1967 he took up a lectureship at the [[University of Sussex]], where he was to spend the next fifteen years of his career.
 
-In early 1982 he accepted an offer from the University of Illinois at Urbana-Champaign (UIUC) of the MacArthur Chair with which the university had recently been endowed. As he had already committed himself to an eight-month stay at Cornell in early 1983, he finally arrived in Urbana in the early fall of that year, and has been there ever since.
+In early 1982 he accepted an offer from the [[University of Illinois at Urbana-Champaign]] (UIUC) of the MacArthur Chair with which the university had recently been endowed. As he had already committed himself to an eight-month stay at Cornell in early 1983, he finally arrived in Urbana in the early fall of that year, and has been there ever since.
 
-Leggett's own research interests shifted away from superfluid 3He since around 1980; he worked inter alia on the low-temperature properties of glasses, high-temperature superconductivity, the Condensate (BEC) atomic gases and above all on the theory of experiments to test whether the formation of quantum mechanics will continue to describe the physical world as we push it up from the atomic level towards that of everyday life.
+Leggett's own research interests shifted away from superfluid <sup>3</sup>He since around 1980; he worked inter alia on the low-temperature properties of glasses, high-temperature superconductivity, the [Bose-Einstein Condensate] (BEC) atomic gases and above all on the theory of experiments to test whether the formation of quantum mechanics will continue to describe the physical world as we push it up from the atomic level towards that of everyday life.
 
-In 2007 he accepted a position at the University of Waterloo Canada. For the next five years, he will spend at least two months a year on campus at the Institute for Quantum Computing.
+In 2007 he accepted a position at the [[University of Waterloo]] Canada. For the next five years, he will spend at least two months a year on campus at the [[Institute for Quantum Computing]].
 
-He currently serves as the chief scientist at the Institute for Condensed Matter Theory, a research institute hosted by the University of Illinois at Urbana-Champaign.
+He currently serves as the chief scientist at the [[Institute for Condensed Matter Theory]], a research institute hosted by the University of Illinois at Urbana-Champaign.
 
 ==Family==
-In June 1972 he married Haruko Kinase, at that time she was an undergraduate student at Sussex and he was a professor. In 1978, they had a daughter Asako.  His wife Haruko earned a Ph.D. in cultural anthropology from the University of Illinois at Urbana-Champaign and is currently doing research on the hospice system. Their daughter, Asako, also graduated from UIUC, with a joint major in geography and chemistry.
+In June 1972 he married Haruko Kinase, at that time she was an undergraduate student at Sussex and he was a professor. In 1978, they had a daughter Asako.<ref name="biografia"/>  His wife Haruko earned a Ph.D. in cultural anthropology from the [[University of Illinois at Urbana-Champaign]] and is currently doing research on the hospice system.<ref name="biografia"/> Their daughter, Asako, also graduated from UIUC, with a joint major in geography and chemistry.
 
 ==Research ==
-His research focuses on cuprate superconductivity, conceptual issues in the foundations of quantum mechanics, superfluidity in highly degenerate atomic gases, low temperature properties of amorphous solids and topological quantum computation.
+His research focuses on cuprate [[superconductivity]], conceptual issues in the foundations of [[quantum mechanics]], [[superfluidity]] in highly degenerate [[atomic gases]], low temperature properties of [[amorphous solids]] and [[topological quantum computation]].
 
-The 29 December 2005 edition of the International Herald Tribune printed an article, "New tests of Einstein's 'spooky' reality", which referred to Leggett's Autumn 2005 debate at a conference in Berkeley, California, with fellow Nobel laureate Norman Ramsey of Harvard University. Both debated the worth of attempts to change quantum theory. Leggett thought attempts were justified, Ramsey opposed. Leggett believes quantum mechanics may be incomplete because of the quantum measurement problem.
+The 29 December 2005 edition of the ''[[International Herald Tribune]]'' printed an article, "New tests of Einstein's 'spooky' reality", which referred to Leggett's Autumn 2005 debate at a conference in [[Berkeley, California]], with fellow Nobel laureate [[Norman Ramsey]] of [[Harvard University]].<ref>[http://www.nytimes.com/2005/12/28/health/28iht-sneinstein.html "New tests of Einstein's 'spooky' reality"]</ref> Both debated the worth of attempts to change quantum theory. Leggett thought attempts were justified, Ramsey opposed. Leggett believes quantum mechanics may be incomplete because of the [[Measurement problem|quantum measurement problem]].
 
 ==Affiliations==
-He is a member of the National Academy of Sciences, the American Philosophical Society, the American Academy of Arts and Sciences, the Russian Academy of Sciences (foreign member), and is a Fellow of the Royal Society (UK), the American Physical Society, and American Institute of Physics, and Life Fellow of the Institute of Physics.
+He is a member of the [[United States National Academy of Sciences|National Academy of Sciences]], the [[American Philosophical Society]], the [[American Academy of Arts and Sciences]], the [[Russian Academy of Sciences]] (foreign member), and is a Fellow of the [[Royal Society]] (UK), the [[American Physical Society]], and [[American Institute of Physics]], and Life Fellow of the [[Institute of Physics]].
 
 ==Honours==
-He was awarded the 2003 Nobel Prize in Physics (with V. L. Ginzburg and A. A. Abrikosov) for pioneering contributions to the theory of superconductors and superfluids. He is an Honorary Fellow of the Institute of Physics (U.K.). He was appointed Knight Commander of the Order of the British Empire (KBE) in the 2004 Queen's Birthday Honours "for services to physics". He also won the 2002/2003 Wolf Foundation Prize for research on condensed forms of matter (with B. I. Halperin). He was also honoured with the Eugene Feenberg Memorial Medal (1999). He was also elected as the Foreign Associate of the National Academy of Sciences in 1997. He was also elected a Fellow of the Royal Society. He holds dual US/UK citizenship. He has been elected as a Foreign Fellow of the Indian National Science Academy (2011).
+He was awarded the 2003 Nobel Prize in Physics (with [[Vitaly Ginzburg|V. L. Ginzburg]] and [[Alexei Alexeyevich Abrikosov|A. A. Abrikosov]]) for pioneering contributions to the theory of superconductors and superfluids. He is an Honorary Fellow of the [[Institute of Physics]] (U.K.). He was appointed [[Knight Commander of the Order of the British Empire]] (KBE) in the [[2004 Birthday Honours|2004]] [[Queen's Birthday Honours]] "for services to physics".<ref name="LG 12 June 2004">{{London Gazette |issue=57315 |date=12 June 2004 |startpage=23 |endpage= |supp=yes |accessdate=2012-07-31}}</ref> He also won the 2002/2003 [[Wolf Prize|Wolf Foundation Prize]] for research on condensed forms of matter (with B. I. Halperin). He was also honoured with the Eugene Feenberg Memorial Medal (1999). He was also elected as the Foreign Associate of the National Academy of Sciences in 1997. He was also elected a Fellow of the Royal Society. He holds dual US/UK citizenship. He has been elected as a Foreign Fellow of the Indian National Science Academy (2011).
 
 ==References==
+<references/>
 
 ==External links==
+*{{wikiquote-inline}}
+* [http://www.ideasroadshow.com/issues/sir-anthony-leggett-2013-11-15 "The Problems of Physics - A conversation with Tony Leggett"], ''Ideas Roadshow'', 2013
 
-* "The Problems of Physics - A conversation with Tony Leggett", Ideas Roadshow, 2013
+{{Wolf Prize in Physics}}
+{{Nobel Prize in Physics Laureates 2001-2025}}
+{{2003 Nobel Prize winners}}
+
+{{Authority control|VIAF=30722101}}
+
+{{Persondata
+|NAME= Leggett, Anthony James
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[UK|British]]-[[United States|American]] [[physicist]]
+|DATE OF BIRTH= 26 March 1938
+|PLACE OF BIRTH= [[Camberwell]], [[London]], [[England]], [[UK]]
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Leggett, Anthony James}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:People educated at Wimbledon College]]
+[[Category:American physicists]]
+[[Category:American Nobel laureates]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:Academics of the University of Sussex]]
+[[Category:English emigrants to the United States]]
+[[Category:English physicists]]
+[[Category:British Nobel laureates]]
+[[Category:Fellows of Magdalen College, Oxford]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:Nobel laureates in Physics]]
+[[Category:People from Camberwell]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Royal Society]]
+[[Category:University of Waterloo faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:English Nobel laureates]]
+[[Category:Maxwell Medal and Prize recipients]]

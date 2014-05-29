@@ -1,13 +1,69 @@
-Andrew John Schofield (Andy Schofield) is a theoretical physicist and a professor at the University of Birmingham where he is the Head of School of Physics and Astronomy. His research focus is in the theory of correlated quantum systems, with current interests concerning: Non Fermi liquids, Quantum criticality and High-temperature superconductivity.
+{{Infobox scientist
+| name              = Andy Schofield
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = {{flag|UK}}
+| fields            = [[Theoretical physics]]
+| workplaces        = [[University of Birmingham]]
+| alma_mater        = [[University of Cambridge]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[Joseph M. Wheatley]]<ref>http://academictree.org/physics/tree.php?pid=50056&pnodecount=5&cnodecount=2&fontsize=3</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Maxwell Medal and Prize]]
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = 
+| footnotes         = 
+| spouse            = 
+}}
+'''Andrew John Schofield''' (Andy Schofield) is a [[theoretical physicist]] and a [[professor]] at the [[University of Birmingham]] where he is the Head of School of Physics and Astronomy. His research focus is in the theory of correlated [[quantum]] systems, with current interests concerning: [[Non Fermi Liquid|Non Fermi liquids]], [[Quantum critical point|Quantum criticality]] and [[High-temperature superconductivity]].<ref>http://www.theory.bham.ac.uk/staff/schofield/research/</ref>
 
 ==Biography==
-Andy Schofield was educated at Whitgift School before reading Natural Sciences at the Gonville and Caius College, University of Cambridge. He did his PhD at the Cavendish Laboratory in Cambridge and won a College Research Fellowship at Gonville and Caius. He was a postdoctoral researcher at  Rutgers, New Jersey before return to Cambridge as a Royal Society University Research Fellow. He joined the School of Physics and Astronomy at the University of Birmingham in 1999 and has been Head of School since 2010.
+Andy Schofield was educated at [[Whitgift School]] before reading [[Natural Sciences]] at the [[Gonville and Caius College]], University of Cambridge. He did his PhD at the [[Cavendish Laboratory]] in Cambridge and won a College Research Fellowship at Gonville and Caius. He was a postdoctoral researcher at  [[Rutgers]], [[New Jersey]] before return to Cambridge as a [[Royal Society]] University Research Fellow.<ref>http://physics.aps.org/authors/a_j_schofield</ref> He joined the School of Physics and Astronomy at the University of Birmingham in 1999 and has been Head of School since 2010.
 
 ==Awards==
-*The Schuldham Plate (1989), Gonville and Caius
-*In 2002 Andy Schofield was awarded the Maxwell Medal and Prize. 
-*He was elected Fellow of the Institute of Physics in 2002.
+*The Schuldham Plate (1989), Gonville and Caius<ref>http://babylon.acad.cai.cam.ac.uk/students/prizes.php</ref>
+*In 2002 Andy Schofield was awarded the [[Maxwell Medal and Prize]].<ref>http://www.iop.org/about/awards/career/maxwell/medallists/page_38660.html</ref> 
+*He was elected Fellow of the [[Institute of Physics]] in 2002.
 
 ==References==
+{{Reflist}}
 
 ==External links==
+*{{official website|http://www.theory.bham.ac.uk/staff/schofield/}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Schofield, Andrew John
+| ALTERNATIVE NAMES = Schofield, Andy
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 
+| PLACE OF BIRTH    = 
+| DATE OF DEATH     = 
+| PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Schofield, Andrew John}}
+[[Category:Theoretical physicists]]
+[[Category:British physicists]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:Fellows of the Institute of Physics]]

@@ -1,0 +1,69 @@
+{{Infobox Organization
+|name         = Institute of Knowledge Transfer
+|image        = 
+|size         = 
+|caption      = 
+|abbreviation = IKT
+|motto        = 
+|formation    = May 2007
+|extinction   = 
+|type         = 
+|status       = Non-profit company
+|purpose      = Knowledge transfer in the UK
+|headquarters = 76 [[Portland Place]], W1B 1NT 
+|region_served = UK
+|membership   = 
+|language     = 
+|leader_title = President
+|leader_name  = Sir Brian Fender FInstKT
+|main_organ = IKT Board (Chairman - [[Adrian Hill MBE]])
+|parent_organization = 
+|affiliations = [[Institute of Physics]]
+|num_staff    = 
+|num_volunteers = 
+|budget       = 
+|website      = [http://www.ikt.org.uk IKT]
+|remarks = 
+}}
+
+The '''Institute of Knowledge Transfer''' (IKT) is the sole<ref>See list of [[Professional bodies]]</ref> accredited [[professional body]] open to all those who predominately work in the broad and emerging profession of [[knowledge transfer]].
+
+==History==
+It was established in May 2007 <ref>[http://intellect.computing.co.uk/2007/05/the_value_of_kn.html Computing Magazine]</ref> as an 'Institute' with approval<ref>See entry in register at [http://www.companieshouse.co.uk]. The term Institute is a restricted term under the UK's Companies Act and can only be used by permission of the Secretary of State</ref> of the UK's (previously) Department of Trade and Industry's Secretary of State's, the IKT is a not-for-profit Company By Guarantee.<ref>A not for profit entity under English law that has no shareholders and which prohibits the distribution of profits</ref>  
+
+==Function==
+The objectives of the IKT are to assist in the process of turning technology, know-how, expertise and skills into innovative, commercial products and services by improving the standards of competency knowledge transfer practitioners ''and'' by stimulating the quality and provision of training.
+
+It produces the ''Exchange'' magazine every quarter.
+
+==Structure==
+As with other legitimate professional bodies in the UK, membership of the IKT is recognised by the UK [[HM Revenue and Customs]] as a tax deductible expense.
+
+It is situated on [[Portland Place]] (A4201), south of [[Regent's Park tube station]]. The IKT is based at the [[Institute of Physics]]'s headquarters in London UK, but is open to members from any territory.  Membership of the IKT is also open to members from both private sector ''and'' public sectors working in roles that focus on the exchange and innovative application of knowledge. 
+
+Under the Presidency of Sir [[Brian Fender]] (Chair of [[BTG plc|BTG]] plc and ex Chief Executive of the [[Higher Education Funding Council for England]]), the IKT has the support of a host of existing organisations in the knowledge transfer domain (including: AIRTO, UKSPA, HEFCE, the [[Confederation of British Industry|CBI]], Welsh Assembly Government, [[Universities UK]], [[UK Intellectual Property Office]], and ProTon Europe, amongst others).  It differs from existing organisations in this space in that it is open only to ''individuals'' that meet established competency criteria. These criteria include relevant educational qualification, relevant career and CPD and are assessed by an independent Membership and Professional Standards Committee (constituted KT professionals in the UK, North America and continental Europe).
+
+==See also==
+* [[United Kingdom Science Parks Association]]
+* [[National Research Development Corporation]]
+* [[Higher Education Innovation Fund]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.ikt.org.uk Institute of Knowledge Transfer]
+* [http://www.ginnn.com The Global Innovation Network "GInnN"]
+
+===Video clips===
+* [http://www.youtube.com/user/instituteofkt IKT YouTube channel]
+
+{{DEFAULTSORT:Institute Of Knowledge Transfer}}
+[[Category:Professional associations based in the United Kingdom]]
+[[Category:Knowledge transfer]]
+[[Category:Organisations based in the City of Westminster]]
+[[Category:2007 establishments in the United Kingdom]]
+[[Category:Research and development in the United Kingdom]]
+[[Category:Organizations established in 2007]]
+[[Category:Innovation organizations]]
+[[Category:Institute of Physics]]

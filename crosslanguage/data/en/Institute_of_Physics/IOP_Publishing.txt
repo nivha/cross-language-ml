@@ -1,0 +1,164 @@
+{{refimprove|date=March 2013}}
+
+{{Infobox organization
+| name         = 
+| bgcolor      = <!-- header background color -->
+| fgcolor      = <!-- header text color -->
+| image        = IOP_Publishing_Red_Logo.gif
+| image_border = 
+| size         = 120
+| alt          = <!-- alt text; see [[WP:ALT]] -->
+| caption      = 
+| map          = <!-- optional -->
+| msize        = <!-- map size, optional, default 200px -->
+| malt         = <!-- map alt text -->
+| mcaption     = <!-- optional -->
+| abbreviation = 
+| Publication types = Peer-reviewed scientific journals 
+| Distribution = Worldwide
+| formation    = 1986
+| extinction   = <!-- date of extinction, optional -->
+| type         = 
+| status       = <!-- ad hoc, treaty, foundation, etc -->
+| purpose      = 
+| headquarters = [[Bristol]], [[England]], [[United Kingdom|UK]]
+| location     = 
+| coords       = <!-- Coordinates of location using a coordinates template -->
+| region_served = 
+| membership   = 
+| language     = <!-- official languages -->
+| leader_title = 
+| leader_name  = 
+| main_organ   = <!-- gral. assembly, board of directors, etc -->
+| parent_organization = [[Institute of Physics]]
+| affiliations = <!-- if any -->
+| num_staff    = 
+| num_volunteers = 
+| budget       = 
+| website      = [http://ioppublishing.org ioppublishing.org]
+| remarks      = 
+}}
+'''IOP Publishing''' (previously named Institute of Physics Publishing) is the publishing company of the [[Institute of Physics]]. It provides publications through which scientific research is distributed worldwide, including journals, community websites, magazines, conference proceedings and books. The Institute of Physics is a scientific charity devoted to increasing the practice, understanding and application of physics. Any financial surplus earned by IOP Publishing goes to support physics through the activities of the Institute.
+
+The main IOP Publishing headquarters is located in Bristol, England and the North American headquarters is based in Philadelphia, United States. It also has several regional offices including Washington, D.C.; Mexico City, Beijing; Tokyo; Moscow; St. Petersburg; Munich; and Sydney. It employs over 300 staff.
+
+It was the first physics publisher to publish a journal on the internet. In 1994, the journal [[Classical and Quantum Gravity]] was published as a [[TeX]] file. In January 1996, the organisation launched the full electronic journals programme on the [[World Wide Web]], ahead of other physics publishers.<ref>{{cite book |title=125 Years: The Physical Society & The Institute of Physics |year=1999}}</ref>
+
+==Journals==
+IOP Publishing publishes over 70 journals which are available in print and online. IOPscience is the online service for the journal content. Journals include:<ref>{{cite web|url=http://ioppublishing.org/publications/journals |title=Journals |publisher=Ioppublishing.org |date= |accessdate=2013-09-20}}</ref>
+
+{{div col|cols=3}}
+* 2D Materials
+* Advances in Natural Sciences: Nanoscience and Nanotechnology
+* [[Applied Physics Express]]
+* [[Biofabrication]]
+* [[Bioinspiration & Biomimetics]]
+* [[Biomedical Materials (journal)|Biomedical Materials]]
+* [[Chinese Physics B]]
+* Chinese Physics C
+* [[Chinese Physics Letters]]
+* [[Classical and Quantum Gravity]]
+* Communications in Theoretical Physics
+* [[Computational Science & Discovery]]
+* [[EPL (journal)|EPL (Europhysics Letters)]]
+* [[Environmental Research Letters]]
+* [[European Journal of Physics]]
+* Fluid Dynamics Research
+* [[Inverse Problems]]
+* [[Izvestiya: Mathematics]]
+* [[Japanese Journal of Applied Physics]]
+* Journal of Breath Research
+* [[Journal of Cosmology and Astroparticle Physics]]
+* [[Journal of Geophysics and Engineering]]
+* [[Journal of Instrumentation]]
+* [[Journal of Micromechanics and Microengineering]]
+* Journal of Neural Engineering
+* [[Journal of Optics (IOP Publishing)|Journal of Optics]]
+* [[Journal of Physics A: Mathematical and Theoretical]]
+* [[Journal of Physics B: Atomic, Molecular and Optical Physics]]
+* [[Journal of Physics D: Applied Physics]]
+* [[Journal of Physics G: Nuclear and Particle Physics]]
+* [[Journal of Physics: Condensed Matter]]
+* [[Journal of Radiological Protection]]
+* Journal of Semiconductors
+* [[Laser Physics (journal)|Laser Physics]]
+* [[Laser Physics Letters]]
+* Materials Research Express 
+* [[Journal of Statistical Mechanics: Theory and Experiment]]
+* [[Measurement Science and Technology]]
+* Methods and Applications in Fluorescence
+* [[Metrologia]]
+* [[Modelling and Simulation in Materials Science and Engineering]]
+* [[Nanotechnology (journal)|Nanotechnology]]
+* [[New Journal of Physics]]
+* [[Nonlinearity (journal)|Nonlinearity]]
+* Nuclear Fusion
+* [[Physica Scripta]]
+* [[Physical Biology]]
+* [[Physics Education]]
+* [[Physics in Medicine and Biology|Physics in Medicine & Biology]]
+* [[Physics-Uspekhi]]
+* Physiological Measurement
+* Plasma Physics and Controlled Fusion
+* Plasma Science and Technology
+* [[Plasma Sources Science and Technology]]
+* [[Quantum Electronics (journal)|Quantum Electronics]]
+* [[Reports on Progress in Physics]]
+* Research in Astronomy and Astrophysics
+* Russian Chemical Reviews
+* [[Russian Mathematical Surveys]]
+* [[Sbornik: Mathematics]]
+* [[Science and Technology of Advanced Materials]]
+* [[Semiconductor Science and Technology]]
+* [[Smart Materials and Structures]]
+* [[Superconductor Science and Technology]]
+* Surface Topography: Metrology and Properties 
+* [[The Astronomical Journal]]
+* [[The Astrophysical Journal]]
+* [[The Astrophysical Journal Letters]]
+* [[The Astrophysical Journal Supplement Series]]
+* Translational Materials Research 
+{{div col end}}
+
+Some of these journals are published on behalf of other societies; for example, Journal of Breath Research is published for the International Association for Breath Research. and the International Society for Breath Odor Research, and the Astrophysical Journal group of titles are published for the [[American Astronomical Society]].
+
+==Websites==
+IOP Publishing also operates dedicated community websites<ref>[http://ioppublishing.org/publications/websites Retrieved 09.07.13]</ref>
+{{div col|cols=1}}
+* asia.iop.org 
+* brightrecruits.com
+* cerncourier.com 
+* conferenceseries.iop.org 
+* china.iop.org 
+* environmentalresearchweb.org
+* eprintweb.org
+* japan.iop.org 
+* latinoamerica.iop.org
+* medicalphysicsweb.org 
+* nanotechweb.org
+* physicsworld.com
+
+==Magazines==
+* CERN Courier covers current developments in high-energy physics and related fields worldwide. It is published 10 times a year and reaches more than 72,000 readers in every major particle-physics research center in the world.
+
+* ESRFnews is published twice yearly and distributed for free to synchrotron radiation sites in more than 50 countries. The magazine reflects ongoing scientific and technical developments at the European Synchrotron Radiation Facility.
+
+* [[Physics World]] is the membership magazine of the [[Institute of Physics]]. Published monthly, it covers all areas of physics, both pure and applied, and is relevant to physicists in research, industry and education worldwide. The magazine is free to members of the Institute of Physics, although selected articles can be read by anyone for free online at [http://physicsworld.com physicsworld.com]. It is also available via an annual subscription. [[Physics World]] won "Best magazine - Professional Association or Royal College" at the MemCom Awards 2012. It also won "Best specialist site for journalism" at the Online Media Awards and "Best marketing and editorial collaboration" at the Specialized Information Publishers Association (SIPA) awards in 2011.
+
+==Books==
+IOP Publishing sold its books publishing division (with the [[imprint]] ''Adam Hilger'') to [[Taylor & Francis]] in 2005.<ref>{{cite web|url=http://www.taylorandfrancisgroup.co.uk/members.asp |title=Taylor & Francis Group Corporate Website - Members of the Group |publisher=Taylorandfrancisgroup.co.uk |date= |accessdate=2013-09-20}}</ref>  As a consequence of recent significant changes in the publishing landscape and demand for ebooks, IOP Publishing launched an ebook programme in 2012.<ref>{{cite web|url=http://www.ppa.co.uk/news/industry/2012/10/iop-publishing-launches-ebook-initiative/ |title=IOP Publishing launches ebook initiative |publisher=PPA |date=2012-10-18 |accessdate=2013-09-20}}</ref>
+
+==Conference proceedings==
+IOP Publishing publishes three open access publications which specialise in conference proceedings publication.
+* IOP Conference Series: Earth and Environmental Science
+* IOP Conference Series: Materials Science and Engineering
+* [[Journal of Physics: Conference Series]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.ioppublishing.org/ Company website]
+
+[[Category:Institute of Physics]]
+[[Category:Publishing companies of the United Kingdom]]

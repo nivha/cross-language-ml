@@ -1,21 +1,53 @@
-Michael Elmhirst Cates, FRS, FRSE (born 5 May 1961) is a British physicist. He is Professor of Natural Philosophy and Royal Society Research Professor [http://royalsociety.org/grants/case-studies/michael-cates/] at the University of Edinburgh.
+{{Infobox scientist
+| name              = Michael Cates
+| image             = Mike-cates.jpg
+| caption           = Professor Cates in 2012
+| birth_name        = Michael Elmhirst Cates
+| birth_date        = {{Birth date and age|1961|5|5|df=y}}
+| birth_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Physics]] <br> [[Soft matter]]
+| workplaces        = [[University of Cambridge]] <br> [[University of Edinburgh]]
+| alma_mater        = [[Trinity College, Cambridge]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = [[Sam Edwards (physicist)|Sir Sam Edwards]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = [[Maxwell Medal and Prize]] (1991) <br> [[Dirac Prize#Paul Dirac Medal and Prize|Paul Dirac Medal and Prize]] (2009)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
 
-His scientific work is varied, but focuses on the theory of soft matter, such as polymers, colloids, gels, liquid crystals, and granular material. A frequent goal is to create a mathematical model that predicts the stress in a flowing material as a functional of the flow history of that material. Such a mathematical model is called a constitutive equation.
+'''Michael Elmhirst Cates''', [[Fellow of the Royal Society|FRS]], [[FRSE]] (born 5 May 1961) is a British [[physicist]]. He is Professor of Natural Philosophy and [[Royal Society]] Research Professor [http://royalsociety.org/grants/case-studies/michael-cates/] at the [[University of Edinburgh]].<ref>http://phyesta.supa.ac.uk/staff/prof-michael-cates</ref>
+
+His scientific work is varied, but focuses on the theory of [[soft matter]], such as [[polymers]], [[colloids]], [[gels]], [[liquid crystals]], and [[granular material]]. A frequent goal is to create a [[mathematical model]] that predicts the [[stress (mechanics)|stress]] in a flowing material as a [[functional (mathematics)|functional]] of the flow history of that material. Such a mathematical model is called a [[constitutive equation]].
 
 ==Early life==
-Cates was born on 5 May 1961. He read Natural Sciences and earned a PhD at Trinity College, Cambridge in 1985, where he studied with Sir Sam Edwards.
+Cates was born on 5 May 1961.<ref name="Who's Who 2014">{{cite web|title=CATES, Prof. Michael Elmhirst|url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U245746|work=Who's Who 2014|publisher=A & C Black|accessdate=5 May 2014}}</ref> He read Natural Sciences and earned a PhD at [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge|Cambridge]] in 1985, where he studied with Sir [[Sam Edwards (physicist)|Sam Edwards]].
 
 ==Academic career==
-Cates was a Research Fellow and Lecturer at the Cavendish Laboratory, University of Cambridge before moving to Edinburgh in 1995.
+Cates was a Research Fellow and Lecturer at the [[Cavendish Laboratory]], University of Cambridge before moving to Edinburgh in 1995.
 
 ==Honours==
-He won the 2013 Weissenberg Award of the European Society of Rheology  and was awarded the 2011 Pierre-Gilles de Gennes Lecture Prize
+He won the 2013 Weissenberg Award of the European Society of [[Rheology]] <ref>http://rheology-esr.net/2013/04/04/weissenberg-award-to-michael-cates/ </ref> and was awarded the 2011 [[Pierre-Gilles de Gennes]] Lecture Prize<ref>http://lmc2011.univie.ac.at/de-gennes-lecture/</ref>
 .
-He won the 2009 Gold Medal of the British Society of Rheology. He was awarded the 2009 Dirac Prize by the Institute of Physics. He won the 1991 Maxwell Medal and Prize. 
-He is currently an elected member of the Council of the Royal Society, and has been an Honorary Fellow of Trinity College, Cambridge since 2013.
+He won the 2009 Gold Medal of the British Society of [[Rheology]]. He was awarded the 2009 [[Dirac_Prize#Paul_Dirac_Medal_and_Prize|Dirac Prize]] by the Institute of Physics. He won the 1991 [[Maxwell Medal and Prize]]. 
+He is currently an elected member of the Council of the [[Royal Society]], and has been an Honorary Fellow of [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge|Cambridge]] since 2013.<ref>http://phyesta.supa.ac.uk/staff/prof-michael-cates</ref>
 
 ==Works==
-Michael Cates has over 300 refereed scientific publications. His H-index is 67.
+Michael Cates has over 300 refereed scientific publications. His [[H-index]] is 67.
 
 Highly cited publications include:
 
@@ -31,7 +63,27 @@ Highly cited publications include:
 
 * Jamming, force chains, and fragile matter, ME Cates, JP Wittmer, JP Bouchaud and P Claudin, Physical Review Letters 81, 1841-1844 (1998)
 
-Over 200 recent publications are listed at the website of PHYESTA (Physics at Edinbrgh and St Andrews).
+Over 200 recent publications are listed at the website of PHYESTA (Physics at Edinbrgh and St Andrews).<ref>http://phyesta.supa.ac.uk/staff/prof-michael-cates</ref>
 ==References==
+{{reflist}}
 
 ==External links==
+
+{{Persondata
+| NAME              = Cates, Michael
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    = Bristol 
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Cates, Michael}}
+[[Category:British physicists]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Living people]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:1961 births]]

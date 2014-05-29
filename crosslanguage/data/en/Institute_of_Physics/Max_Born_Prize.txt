@@ -1,0 +1,61 @@
+{{Distinguish2|the [[Max Born Award]] from the [[Optical Society]]}}
+The '''Max Born Prize''' is a scientific prize awarded yearly by the [[Deutsche Physikalische Gesellschaft|German Physical Society]] (DPG) and the British [[Institute of Physics]] (IOP) in memory of the German physicist [[Max Born]]. The terms of the award are that it is "to be presented for outstanding contributions to [[physics]]". The award goes to physicists based in Germany and in the UK or Ireland in alternate years.<ref>{{cite web|url=http://www.iop.org/about/awards/bilateral/born/page_38469.html |title=The Born medal and prize |publisher=[[Institute of Physics]] |accessdate=August 30, 2011}}</ref><ref name="DPG_Born_Prize">{{cite web|url=http://www.dpg-physik.de/preise/preistraeger_mb.html |title=Max-Born-Preis |language=German |trans_title=Max Born Prize |publisher=[[Deutsche Physikalische Gesellschaft|German Physical Society]] |accessdate=August 30, 2011}}</ref>
+
+The prize is accompanied by a silver medal "about 6 cm in diameter and 0,5 cm thick. One face carries a profile of Max Born and his name and dates. The other face carries the equation pq - qp = h/2πi and the full names of IOP and DPG. The recipient's full name and year of award is engraved around the rim."<ref name="DPG_Statute">{{cite web|url=http://www.dpg-physik.de/preise/satzungen/born.html|title=Statute of the Max-Born-Prize|publisher=[[Deutsche Physikalische Gesellschaft|German Physical Society]]|accessdate=October 23, 2012}}</ref>
+
+==List of recipients==
+The following people received the Max Born Prize:<ref name="DPG_Born_Prize"/><ref name="IOP_Born_Prize_Recipients">{{cite web|url=http://www.iop.org/about/awards/bilateral/born/medallists/page_38473.html |title=Born medal recipients |publisher=[[Institute of Physics]] |accessdate=October 23, 2012}}</ref>
+{{multicol}}
+*1973 [[Roger Cowley]]
+*1974 [[Walter Greiner]]
+*1975 [[Trevor Moss]]
+*1976 [[Hermann Haken]]
+*1977 [[Walter Eric Spear|Walter Spear]]
+*1978 [[Herbert Walther]] 
+*1979 [[John Bryan Taylor|John Taylor]]
+*1980 [[Helmut Faissner]]
+*1981 [[Cyril Domb]]
+*1982 [[Wolfgang Kaiser]]
+*1983 [[Andrew Keller]]
+*1984 [[Amand Faessler]]
+*1985 [[George Isaak]]
+*1986 [[Josef Stuke]]
+{{multicol-break}}
+*1987 [[Cyril Hilsum]]
+*1988 [[Peter Armbruster]]
+*1989 Robert Williams
+*1990 [[Ernst Otto Göbel]]
+*1991 [[Gilbert Lonzarich]]
+*1992 [[Joachim Heintze]]
+*1993 [[David Hanna]]
+*1994 [[Wolfgang Demtröder]]
+*1995 [[Michael Key]]
+*1996 [[Jürgen Mlynek]]
+*1997 [[Robin Marshall]]
+*1998 [[Gerhard Abstreiter]]
+*1999 [[John Dainton]]
+*2000 [[Rolf Felst]]
+{{multicol-break}}
+*2001 [[Volker Heine]]
+*2002 [[Siegfried Dietrich]]
+*2003 Brian Foster
+*2004 [[Matthias Scheffler]]
+*2005 [[Michael William Finnis]]
+*2006 [[Dieter Bimberg]]
+*2007 [[Alan D. Martin]]
+*2008 [[Hagen Kleinert]]
+*2009 [[Robin Devenish]]
+*2010 [[Simon White]]
+*2011 [[David Philip Woodruff]]
+*2012 [[Martin Bodo Plenio]]
+*2013 [[Max Klein]]
+{{multicol-end}}
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Born Prize}}
+[[Category:Physics awards]]
+[[Category:British science and technology awards]]
+[[Category:Institute of Physics]]
+[[Category:Awards established in 1973]]

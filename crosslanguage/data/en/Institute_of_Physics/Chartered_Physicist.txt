@@ -1,0 +1,20 @@
+'''Chartered Physicist''' ('''CPhys''') is a chartered status and a [[professional qualification]] awarded by the [[Institute of Physics]].
+
+Achieving chartered status in any profession denotes to the wider community a high level of specialised subject knowledge and professional competence. The award of the Chartered Physicist (CPhys) demonstrates the highest standards of professionalism, up-to-date expertise, quality and safety, and for capacity to undertake independent practice and exercise leadership. As well as competence, the title denotes commitment to keep pace with advancing knowledge and with the increasing expectations and requirements for which any profession must take responsibility.<ref name="CPhys guidlines">[http://www.iop.org/membership/prof-des/chartership/cphys/page_51812.html CPhys Overview]</ref>
+
+Until 1998 the status of Chartered Physicist was granted automatically with membership of the Institute of Physics, however since then it has become a separate qualification that is equal in stature to [[Chartered Engineer]]. In order to gain the qualification, a physicist must be appropriately qualified (an MSci or [[MPhys]] undergraduate master's degree is standard, although experience leading to an equivalent level can be counted), have had a minimum of two years of structured training and a minimum of two years responsible work experience, have demonstrated a commitment to continuing professional development, and have gained a number of competencies.
+
+==See also==
+*[[Chartered Scientist]]
+*[[European Chemist]]
+*[[Chartered Chemist]]
+*[[European Engineer]]
+*[[Chartered Engineer]]
+
+==References==
+{{Reflist}}
+
+[[Category:Physics education]]
+[[Category:Professional certification in science]]
+[[Category:Institute of Physics]]
+[[Category:Chartered Scientists| Physicist]]

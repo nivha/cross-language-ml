@@ -1,16 +1,38 @@
-Sir Samuel Frederick Edwards FLSW FRS (born  1 February 1928) is a British physicist.
+{{Use dmy dates|date=November 2012}}
+{{More footnotes|date=April 2011}}
+{{Infobox scientist
+| name =  Samuel Frederick Edwards
+| image = SamEdwardsBetter.jpg
+| image_size     = 180px
+| birth_date = 1 February 1928
+| birth_place = [[Swansea]]
+| death_date =
+| death_place =
+| death_cause =
+| nationality = British
+| field = physics
+| work_institution = [[University of Cambridge]]
+| alma_mater =[[University of Cambridge]] <br> [[Harvard University]]
+| doctoral_advisor = [[Julian Schwinger]]
+| doctoral_students = [[Elliott H. Lieb]] <br> [[Monica Olvera de la Cruz]] <br> [[Michael Cates]]
+| known_for =path integral methods<br> physics of disordered systems
+| prizes = [[Davy Medal]] (1984) <br> [[Boltzmann medal]] (1995)<br> [[Royal Medal]] (2001)<br> [[Dirac Medal]] (2005)
+}}
+'''Sir Samuel Frederick Edwards''' [[Fellow of the Learned Society of Wales|FLSW]] [[Fellow of the Royal Society|FRS]] (born  1 February 1928) is a British [[physicist]].
 
 ==Early life and studies==
-Sir Samuel was born on 1 February 1928 in Swansea, the son of Richard and Mary Jane Edwards.
+Sir Samuel was born on 1 February 1928 in [[Swansea]], the son of Richard and Mary Jane Edwards.
 
-He was educated at the Bishop Gore School in Swansea, and Gonville and Caius College, University of Cambridge, the University of Manchester in Britain, and at Harvard University, in the United States. He wrote his thesis under Julian Schwinger on the structure of the electron, and subsequently developed the functional integral form of field theory.
+He was educated at the [[Bishop Gore School]] in [[Swansea]], and [[Gonville and Caius College, Cambridge|Gonville and Caius College]], [[University of Cambridge]], the University of Manchester in Britain, and at [[Harvard University]], in the [[United States]]. He wrote his thesis under [[Julian Schwinger]] on the structure of the electron, and subsequently developed the functional integral form of field theory.
 
 ==Academic research==
-Edwards' work in condensed matter physics started in 1958 with a paper which showed that statistical properties of disordered systems (glasses, gels etc.) could be described by the Feynman diagram and path integral methods invented in quantum field theory. During the following 35 years Edwards has worked in the theoretical study of complex materials, such as polymers, gels, colloids and similar systems.
+Edwards' work in [[condensed matter physics]] started in 1958 with a paper which showed that statistical properties of disordered systems (glasses, gels etc.) could be described by the [[Feynman diagram]] and [[path integral formulation|path integral]] methods invented in quantum field theory. During the following 35 years Edwards has worked in the theoretical study of complex materials, such as polymers, gels, colloids and similar systems.
 
-He was Chairman of the Science Research Council 1973-1977 and between 1984-1995 was Cavendish Professor of Physics at Cambridge University.  He is a member of the Board of Sponsors of The Bulletin of the Atomic Scientists[http://www.thebulletin.org] and Past President of Cambridge Society for the Application of Research.
+He was Chairman of the Science Research Council 1973-1977 and between 1984-1995 was [[Cavendish Professor of Physics]] at [[Cambridge University]].  He is a member of the Board of Sponsors of The [[Bulletin of the Atomic Scientists]][http://www.thebulletin.org] and Past President of Cambridge Society for the Application of Research.
 
-Edwards was knighted in 1975. Awards presented to him include the Davy Medal (1984) and the Royal Medal (2001) of the Royal Society, the Boltzmann medal of the International Union of Pure and Applied Physics (1995), and the Dirac Medal of the International Centre for Theoretical Physics (2005). He is also a Founding Fellow of the Learned Society of Wales and he holds an honorary degree (Doctor of Science) from the University of Bath (1978).
+Edwards was knighted in 1975. Awards presented to him include the [[Davy Medal]] (1984) and the [[Royal Medal]] (2001) of the [[Royal Society]], the [[Boltzmann medal]] of the [[International Union of Pure and Applied Physics]] (1995),<ref>{{citation | title=Samuel Edwards: Boltzmann Medallist 1995 
+|publisher=IUPAP Commission on Statistical Physics 
+|url=http://iupap.cii.fc.ul.pt/Boltz_Award/BA1995.html |accessdate=2013-02-20}}</ref> and the [[Dirac Medal]] of the [[International Centre for Theoretical Physics]] (2005). He is also a Founding Fellow of the [[Learned Society of Wales]] and he holds an honorary degree (Doctor of Science) from the University of Bath (1978).
 
 ==Personal life==
 In 1953 Sir Sam married Merriell E.M. Bland, with whom he has three daughters and a son.
@@ -18,7 +40,41 @@ In 1953 Sir Sam married Merriell E.M. Bland, with whom he has three daughters an
 His relaxations are gardening and chamber music.
 
 ==References==
-
-* 
-*  (together with contents pages for the above book).
+{{reflist}}
+* {{cite book|author = Paul M. Goldbart and Nigel Goldenfeld, David Sherrington (eds.)| title = Stealing the gold: a celebration of the pioneering physics of Sam Edwards | year = 2004 | location = Oxford | publisher = OUP | isbn = 0-19-852853-1}}
+* {{cite journal|last=Edwards|first=S.F.|title=A new method for the evaluation of electric conductivity in metals|journal=Philosophical Magazine|year=1958|volume=3|pages=1020–1031|url=http://fds.oup.com/www.oup.co.uk/pdf/0-19-852853-1.pdf|format=PDF|doi=10.1080/14786435808243244|bibcode = 1958PMag....3.1020E|issue=33 }} (together with contents pages for the above book).
 * "International Who's Who"
+
+{{Authority control|VIAF=103118427}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Edwards, Samuel Frederick
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1 February 1928
+| PLACE OF BIRTH    = [[Swansea]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Edwards, Samuel Frederick}}
+[[Category:1928 births]]
+[[Category:Living people]]
+[[Category:Welsh physicists]]
+[[Category:People from Swansea]]
+[[Category:People educated at Bishop Gore School]]
+[[Category:Alumni of Gonville and Caius College, Cambridge]]
+[[Category:Harvard University alumni]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:Fellows of Gonville and Caius College, Cambridge]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Royal Medal winners]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Learned Society of Wales]]
+[[Category:Presidents of the British Science Association]]
+[[Category:Maxwell Medal and Prize recipients]]
+
+
+{{UK-physicist-stub}}
+{{Wales-academic-bio-stub}}

@@ -1,16 +1,87 @@
-Sir Christopher Llewellyn Smith FRS (born November 19, 1942) completed his D.Phil. in theoretical physics at New College, Oxford in 1967. Thereafter he worked at the Lebedev Physical Institute in Moscow, CERN and then the SLAC before returning to Oxford in 1974. Llewellyn Smith was elected a Fellow of the Royal Society in 1984.
+{{Infobox university chancellor
+| name          = Sir Christopher Llewellyn Smith FRS
+| image         = LLewellyn Smith as CERN DG.jpg
+| caption       = Sir Christopher Llewellyn Smith during his term of office as Director General of [[CERN]] in 1996
+| order         =
+| university    = Provost of [[University College, London]]
+| term_start    = 1999
+| term_end      = 2002
+| predecessor   = [[Derek Roberts|Sir Derek Roberts]]
+| successor     = Sir Derek Roberts
+| university2   =
+| term_start2   =
+| term_end2     =
+| predecessor2  =
+| successor2    =
+| birth_date    = {{Birth date and age|1942|11|19}}
+| birth_place   =
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place   =
+| alma_mater    = University of Oxford
+| residence     =
+| profession    =
+| religion      =
+| salary        =
+| spouse        =
+| children      =
+| signature     =
+| website       =
+| footnotes     = 
+}}
+'''Sir Christopher Llewellyn Smith''' [[Royal Society|FRS]] (born November 19, 1942) completed his [[D.Phil.]] in theoretical physics at [[New College, Oxford]] in 1967. Thereafter he worked at the [[Lebedev Physical Institute]] in [[Moscow]], [[CERN]] and then the [[SLAC]] before returning to [[Oxford]] in 1974. Llewellyn Smith was elected a Fellow of the [[Royal Society]] in 1984.
 
-While Chairman of Oxford Physics (1987–92) he led the merger of five different departments into a single Physics Department. Smith was Director General of CERN from 1994 through 1998. Thereafter he served as Provost and President of University College London (1999–2002).
+While Chairman of Oxford Physics (1987–92) he led the merger of five different departments into a single Physics Department. Smith was Director General of [[CERN]] from 1994 through 1998. Thereafter he served as Provost and President of [[University College London]] (1999–2002). 
 
-Llewellyn Smith received the Glazebrook Medal and Prize of the Institute of Physics in 1999 and was knighted in 2001. In 2004 he became Chairman of the Consultative Committee for Euratom on Fusion (CCE-FU). Until 2009 he was Director of UKAEA Culham Division, which holds the responsibility for the United Kingdom's fusion programme and operation of the Joint European Torus (JET). He is a member of the Advisory Council for the Campaign for Science and Engineering.
-In 2013, he joined the National Institute of Science, Education and Research(NISER), Bhubaneswar, India as a Distinguished Professor.
+Llewellyn Smith received the [[Glazebrook Medal]] and Prize of the Institute of Physics in 1999 and was knighted in 2001. In 2004 he became Chairman of the Consultative Committee for Euratom on Fusion (CCE-FU). Until 2009 he was Director of UKAEA Culham Division, which holds the responsibility for the United Kingdom's [[nuclear fusion|fusion]] programme and operation of the [[Joint European Torus]] (JET). He is a member of the Advisory Council for the [[Campaign for Science and Engineering]].<ref name="CaSE Advisory Council">{{cite web|url=http://www.sciencecampaign.org.uk/about/who/advisory.htm|title=Advisory Council of the Campaign for Science and Engineering|accessdate=2011-02-11}}</ref>
+In 2013, he joined the [http://www.niser.ac.in/ National Institute of Science, Education and Research](NISER), Bhubaneswar, India as a Distinguished Professor.
 ==See also==
-*List of Directors General of CERN
+*[[List of Directors General of CERN]]
 
 ==References==
-.
+{{Reflist|colwidth=30em}}.
 
 ==External links==
+{{Commonscat|Christopher Llewellyn Smith}}
+*[http://www.fusion.org.uk/cls/index.html Fusion UK: Professor Sir Christopher Llewellyn Smith biography]
+*[http://www-thphys.physics.ox.ac.uk/people/ChrisLlewellynSmith/ Chris Llewellyn Smith's webpage]
 
-*Fusion UK: Professor Sir Christopher Llewellyn Smith biography
-*Chris Llewellyn Smith's webpage
+{{s-start}}
+{{s-bef|before=[[Carlo Rubbia]]}}
+{{s-ttl|title=Director General of [[CERN]]|years= 1994 &ndash; 1998}}
+{{s-aft|after=[[Luciano Maiani]]}}
+{{s-aca}}
+{{s-bef|before=[[Derek Roberts]]}}
+{{s-ttl|title=Provost of [[University College, London]]|years= 1999 &ndash; 2002}}
+{{s-aft|after=[[Derek Roberts]]}}
+{{s-end}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Smith, Christopher Llewellyn
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =Particle physicists
+| DATE OF BIRTH     = November 19, 1942
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:LlewellynSmith, Christopher}}
+[[Category:Living people]]
+[[Category:Alumni of New College, Oxford]]
+[[Category:Academics of University College London]]
+[[Category:Particle physicists]]
+[[Category:British physicists]]
+[[Category:Experimental physicists]]
+[[Category:Experimental particle physics]]
+[[Category:British nuclear physicists]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Fellows of St John's College, Oxford]]
+[[Category:Fellows of the Royal Society|Smith]]
+[[Category:Knights Bachelor]]
+[[Category:CERN]]
+[[Category:International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East people]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:1942 births]]
+[[Category:Provosts_of_University_College_London]]
+
+
+{{UK-physicist-stub}}

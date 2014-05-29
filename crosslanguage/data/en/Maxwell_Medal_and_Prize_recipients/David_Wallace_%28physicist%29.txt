@@ -1,22 +1,102 @@
-Sir David James Wallace, CBE, FRS, FREng, DL (born 1945) is a physicist and  master of Churchill College, Cambridge.
+{{Hatnote|Not to be confused with David Wallace (b. 1976), the philosopher of physics at the University of Oxford.}}
+
+{{Infobox scientist
+| name              = David James Wallace
+| image             = Higgs, Peter (1929)2.jpg
+| image_size        = 
+| alt               = 
+| caption           = David Wallace (left) and [[Peter Higgs]]
+| birth_date        =  {{Birth date and age|df=y|1945|10|7}}<ref name="whoswho">{{cite web |url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U38671 |title=‘WALLACE, Sir David (James)’, Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press |format= |work= |accessdate=}}{{subscription required}}</ref>
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Cambridge]]<br>[[Princeton University]]<br>[[University of Southampton]]<br>[[Loughborough University]]<br>[[University of Edinburgh]]<br>[[EPCC]]<br>[[Harrow School]]<ref name="cv"/><br>[[Institute of Physics]]
+| alma_mater        = [[University of Edinburgh]]
+| thesis_title      = Applications of current algebras and chiral symmetry breaking
+| thesis_url        = http://books.google.co.uk/books?id=a64FcgAACAAJ
+| thesis_year       = 1971
+| doctoral_advisor  = [[Peter Higgs]]<ref name="mathgene">{{MathGenealogy|id=96117}}</ref>
+| academic_advisors = 
+| doctoral_students = [[Christopher Bishop]]<br>Neil Gunther<br>Simon Hands<br>Beate Schmittmann<ref name="mathgene"/>
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Order of the British Empire]]<br>[[Fellow of the Royal Society]]<br>[[Deputy Lieutenant]]<br>[[Harkness Fellowship]]<br>Fellow of the [[Royal Academy of Engineering]]
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           =  {{URL|http://www.chu.cam.ac.uk/fellows/111-David-Wallace}}
+| footnotes         = 
+| spouse            = Elizabeth Anne Yeats<ref name="whoswho"/>
+}}
+'''Sir David James Wallace''', [[Order of the British Empire|CBE]], [[Royal Society|FRS]], [[Royal Academy of Engineering|FREng]], [[Deputy Lieutenant|DL]] (born 1945) is a physicist and  master of [[Churchill College, Cambridge]].<ref name="microsoft">{{AcademicSearch|42037095}}</ref>
 
 ==Education==
-Wallace was educated at Hawick High School in Hawick, Borders, Scotland and went to the University of Edinburgh where he earned a degree in Mathematical Physics and a PhD in Elementary Particle Theory, under the supervision of Peter Higgs.
+Wallace was educated at [[Hawick High School]]<ref name="whoswho"/> in [[Hawick]], [[Scottish Borders|Borders]], [[Scotland]] and went to the [[University of Edinburgh]] where he earned a degree in Mathematical Physics and a PhD in [[Elementary particle|Elementary Particle]] Theory, under the supervision of [[Peter Higgs]].<ref name="mathgene"/><ref name="wallacephd">{{cite thesis |degree=PhD |first=David|last=Wallace |title=Applications of Current Algebras and Chiral Symmetry Breaking |publisher=University of Edinburgh |date=1971 |url=http://books.google.co.uk/books?id=a64FcgAACAAJ|authorlink=David Wallace (physicist)}}</ref>
 
 ==Research==
-After postdoctoral research work as a Harkness Fellow at Princeton University, Wallace became a physics lecturer at the University of Southampton in 1972.
+After [[postdoctoral research]] work as a [[Harkness Fellowship|Harkness Fellow]] at [[Princeton University]], Wallace became a physics lecturer at the [[University of Southampton]] in 1972.
 
-In 1979, he became Tait Professor of Mathematical Physics at the University of Edinburgh. He became Director of the Edinburgh Parallel Computing Centre (EPCC) and in 1996 he was awarded the CBE for his computing work.
+In 1979, he became [[Peter Guthrie Tait|Tait]] Professor of Mathematical Physics at the [[University of Edinburgh]]. He became Director of the [[EPCC|Edinburgh Parallel Computing Centre (EPCC)]] and in 1996 he was awarded the CBE for his computing work.
 
-He was formerly Vice President and Treasurer of the Royal Society and Chair of the Council for the Mathematical Sciences. From 1994 to January 2006 he was the Vice-Chancellor of Loughborough University. From 2006 to 2011 he was the Director of the Isaac Newton Institute for Mathematical Sciences in Cambridge. Wallace has also been President of the Institute of Physics and Deputy Lieutenant of Leicestershire.
+He was formerly Vice President and Treasurer of the [[Royal Society]] and Chair of the [[Council for the Mathematical Sciences]]. From 1994 to January 2006 he was the [[Vice-Chancellor]] of [[Loughborough University]]. From 2006 to 2011 he was the Director of the [[Isaac Newton Institute for Mathematical Sciences]] in [[University of Cambridge|Cambridge]]. Wallace has also been President of the [[Institute of Physics]] and [[Deputy Lieutenant]] of [[Leicestershire]].
 
 ==Personal==
-He has a wife, Elizabeth and a daughter, Sara. He enjoys mycophagy.
+He has a wife, Elizabeth<ref name="whoswho"/><ref name="cv">{{cite web |url=http://www.chu.cam.ac.uk/about/fellows/DavidWallaceCVSeptember2012.pdf |title=David Wallace CV |format= |work= |archivedate=2013-02-12|archiveurl=http://www.webcitation.org/6ENhfbrPa}}</ref> and a daughter, Sara. He enjoys [[Edible mushroom|mycophagy]].
 
 ==References==
+{{reflist}}
 
 ==External links==
-*Cam.ac.uk: "Master Appointed to Churchill College
-*Number-10.gov.uk: "Master Of Churchill College, Cambridge" (via The National Archives, UK)
+*[http://www.admin.cam.ac.uk/news/dp/2005080202 Cam.ac.uk: "Master Appointed to Churchill College]
+*[http://webarchive.nationalarchives.gov.uk/20080909065407/number10.gov.uk/page8002 Number-10.gov.uk: "Master Of Churchill College, Cambridge"] (via [[The National Archives (United Kingdom)|The National Archives]], UK)
+*{{Wayback|date=20050205014909 |url=http://www.lboro.ac.uk/admin/vc/ |title=Archive Version of Loughbourgh University: Vice Chancellor's Office}}
+*[http://www.admin.cam.ac.uk/news/press/dpp/2005062702 University of Cambridge: "Director of the Isaac Newton Institute for Mathematical Sciences appointed"]
 
-*University of Cambridge: "Director of the Isaac Newton Institute for Mathematical Sciences appointed"
+{{s-start}}
+{{s-aca}}
+{{succession box|title=Vice-Chancellor of <br>[[Loughborough University]]|before=[[David (DEN) Davies|Professor Sir David Davies]]|after=[[Shirley Pearce|Professor Shirley Pearce]]|years=1994&ndash;2005}}
+{{succession box|title=Director of <br>[[Isaac Newton Institute for Mathematical Sciences]]|before=[[Sir John Kingman]]|after=[[John Toland (mathematician)|Professor John Toland]]|years=2006&ndash;2011}}
+{{succession box|title=Master of [[Churchill College, Cambridge|Churchill College]]|before=[[John Boyd (ambassador)|Sir John Boyd]]|after=[[Athene Donald|Professor Dame Athene Donald]]|years=2006&ndash;2014}}
+{{s-end}}
+
+{{Authority control|VIAF=51636062}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Wallace, David James
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Scottish physicist and mathematician
+| DATE OF BIRTH     = 1945
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wallace, David James}}
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Vice-Chancellors of Loughborough University]]
+[[Category:Princeton University alumni]]
+[[Category:Scottish mathematicians]]
+[[Category:Scottish scholars and academics]]
+[[Category:Scottish physicists]]
+[[Category:Harkness Fellows]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Masters of Churchill College, Cambridge]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Deputy Lieutenants of Leicestershire]]
+[[Category:People from Hawick]]
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Maxwell Medal and Prize recipients]]

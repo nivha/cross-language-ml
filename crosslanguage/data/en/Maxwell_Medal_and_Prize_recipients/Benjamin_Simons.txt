@@ -1,9 +1,47 @@
-Ben Simons is a British theoretical physicist, working in the field of theoretical condensed matter physics and in biophysics.
+{{Infobox scientist
+| name              = Ben Simons
+| birth_date        = 
+| nationality       = {{flag|UK}}
+| birth_place       = 
+| fields            = [[Condensed matter theory]]
+| workplaces        = [[Massachusetts Institute of Technology]]<br> [[University of Cambridge]]
+| alma_mater        = [[University of Cambridge]]
+| doctoral_advisor  = [[J. M. F. Gunn]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Mesoscopic physics]] <ref name=aps>{{cite web|title=Author Profile for Ben Simons|url=http://physics.aps.org/authors/Ben_Simons|publisher=American Physical Society|accessdate=25 April 2011}}{{dead link|date=April 2014}}</ref> 
+| awards            = [[Maxwell Medal and Prize]] (2001)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = }}
+'''Ben Simons''' is a [[People of the United Kingdom|British]] [[theoretical physics|theoretical physicist]], working in the field of theoretical [[condensed matter physics]] and in [[biophysics]].
 
-Simons is Professor of Theoretical Physics at the University of Cambridge Cavendish Laboratory. In 2001 he was awarded the Maxwell Medal and Prize by the Institute of Physics.
+Simons is Professor of Theoretical Physics at the [[University of Cambridge]] [[Cavendish Laboratory]].<ref name="aps"/> In 2001 he was awarded the [[Maxwell Medal and Prize]] by the [[Institute of Physics]].<ref name=iop-maxwell>{{cite web|title=Maxwell medal recipients|url=http://www.iop.org/about/awards/career/maxwell/medallists/page_38660.html|publisher=Institute of Physics|accessdate=25 April 2011}}</ref>
 
 Simons has two brothers, Thomas and Joseph. His father is a professor at Oxford University, Professor John. P Simons. He is married and has two children.
 
 ==External links==
+*{{official website|http://www.phy.cam.ac.uk/people/simonsb.php}}
 
 ==References==
+<references/>
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Simons, Benjamin D.
+| ALTERNATIVE NAMES = Ben Simons
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 
+| PLACE OF BIRTH    = 
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Simons, Ben}}
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:Fellows of St John's College, Cambridge]]
+[[Category:Theoretical physicists]]
+[[Category:Maxwell Medal and Prize recipients]]
+
+
+{{UK-physicist-stub}}

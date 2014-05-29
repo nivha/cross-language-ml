@@ -1,15 +1,71 @@
-Clifford Victor Johnson is an English theoretical physicist and professor at the University of Southern California Department of Physics and Astronomy. His research focus is in superstring theory and particle physics, specifically related to strongly coupled phenomena. He has previously worked at the Kavli Institute for Theoretical Physics at the University of California, Santa Barbara, the Institute for Advanced Study and Princeton University. He received the 2005 Maxwell Medal and Prize from the Institute of Physics, "For his outstanding contribution to string theory, quantum gravity and its interface with strongly coupled field theory; in particular for his work on understanding the censorship of singularities, and the thermodynamic properties, of quantum spacetime." He received a National Science Foundation Career Award in 1997. In 2005, the Journal of Blacks in Higher Education listed Clifford Johnson as the most highly cited black professor of mathematics or a related field at an American university or college.
+{{Infobox scientist
+| name              = Clifford Victor Johnson
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = [[United Kingdom|British]]
+| fields            = [[theoretical physics]], [[particle physics]], [[mathematical physics]]
+| workplaces        = [[University of Southern California]] <br> [[Kavli Institute for Theoretical Physics]] <br> [[University of California, Santa Barbara]] <br> [[Institute for Advanced Study]] <br> [[Princeton University]]
+| alma_mater        = [[University of Southampton]] ([[Ph.D.]]) <br> [[Imperial College London]] ([[B.Sc.]])
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Maxwell Medal and Prize]]
+| signature         = 
+| signature_alt     = 
+| footnotes         = 
+}}
 
-He graduated with a Bachelor of Science in Physics from Imperial College London in 1989 and he completed his Doctor of Philosophy in Mathematics and Physics from the University of Southampton in 1992.
+'''Clifford Victor Johnson''' is an [[England|English]] [[theoretical physicist]] and [[professor]] at the [[University of Southern California]] Department of Physics and Astronomy. His research focus is in [[superstring theory]] and [[particle physics]], specifically related to strongly coupled phenomena.<ref>[http://www.sciencenews.org/view/feature/id/42632/title/Strings_Link_the_Ultracold_with_the_Superhot Strings Link the Ultracold With the Superhot] ''Science News'', April 25, 2009,</ref><ref>[http://arstechnica.com/science/news/2009/02/string-theory-officially-useful-may-not-represent-reality.ars String Theory Officially Useful, May Not Represent Reality] ''Ars Technica'', February 17, 2009</ref> He has previously worked at the [[Kavli Institute for Theoretical Physics]] at the [[University of California, Santa Barbara]], the [[Institute for Advanced Study]] and [[Princeton University]].<ref>[http://college.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003388&CFID=7339566&CFTOKEN=89505218 Faculty Profile]</ref> He received the 2005 [[Maxwell Medal and Prize]] from the Institute of Physics, "For his outstanding contribution to string theory, quantum gravity and its interface with strongly coupled field theory; in particular for his work on understanding the censorship of singularities, and the thermodynamic properties, of quantum spacetime."<ref>[http://www.iop.org/activity/awards/Early_career_awards/The_Maxwell_Medal_and_Prize/Maxwell_medal_recipients/page_10193.html Recipients of the Maxwell Medal and Prize] Institute of Physics</ref><ref>[http://cerncourier.com/cws/article/cern/29175/2 Faces and Places] ''Cern Courier'' October 4, 2004</ref><ref>[http://college.usc.edu/news/stories/38/u-k-society-lauds-usc-college-physics-professor/ U.K. Society Lauds USC College Professor] ''USC College News'' October 1, 2004</ref><ref>[http://www.pbs.org/kcet/wiredscience/education/2008/01/careers-in-science-professor-o.html Careers in Science: Professor of Physics] ''Wired Science'' January 11, 2008</ref> He received a [[National Science Foundation]] Career Award in 1997.<ref>[http://college.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003388&CFID=7339566&CFTOKEN=89505218 Faculty Profile]</ref> In 2005, the Journal of Blacks in Higher Education listed Clifford Johnson as the most highly cited black professor of mathematics or a related field at an American university or college.<ref>[http://www.jbhe.com/news_views/49_mostcited_blackmathematicians.html The Most Highly Cited Black Mathematicians] ''The Journal of Blacks in Higher Education'' 2005</ref>
 
-He also actively works to promote science in the public. As part of this effort, he regularly appears on the History Channel series The Universe and acts as a science consultant for the Discovery Channel. Johnson founded the African Summer Theory Institute, "which brings teachers, researchers, and students of all levels together for a month-long conference on a science topic—a different one every year—to discuss, to network, and, of course, to learn."
+He graduated with a [[Bachelor of Science]] in Physics from [[Imperial College London]] in 1989 and he completed his [[Doctor of Philosophy]] in Mathematics and Physics from the [[University of Southampton]] in 1992.
+
+He also actively works to promote science in the public. As part of this effort, he regularly appears on the [[History (U.S. TV channel)|History Channel]] series ''The Universe'' and acts as a science consultant for the [[Discovery Channel]].<ref>[http://articles.latimes.com/2008/dec/07/entertainment/ca-physics7 Prime Time Makes a Scientific Discovery] ''Los Angeles Times'', December 7, 2008</ref> Johnson founded the African Summer Theory Institute, "which brings teachers, researchers, and students of all levels together for a month-long conference on a science topic—a different one every year—to discuss, to network, and, of course, to learn." <ref>[http://www.myhero.com/myhero/hero.asp?hero=clifford_johnson_06 Science Hero: Clifford V. Johnson] ''Science Heroes''</ref>
 
 ==Bibliography==
+*{{cite book|author=Clifford V. Johnson|authorlink=Clifford Victor Johnson | title=D-Branes | publisher=[[Cambridge University Press]] |url=http://www.cambridge.org/gb/knowledge/isbn/item1169323| year=2003 | isbn=0-521-80912-6 }}
 
 ==References==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist|2}}
 
 ==External links==
-* His faculty page at University of Southern California
-* Clifford Johnson (homepage)
-* Asymptotia
-* African Summer Theory Institute
+* [http://college.usc.edu/physics/people/faculty_display.cfm?person_ID=1003388 His faculty page at University of Southern California]
+* [http://physics.usc.edu/~johnson1/ Clifford Johnson] (homepage)
+* [http://asymptotia.com/ Asymptotia]
+* [http://www.asti.ac.za/ African Summer Theory Institute]
+
+{{Authority control|VIAF=17477002}}
+
+{{Persondata         <!-- Metadata: see [[Wikipedia:Persondata]] -->
+| NAME              =Johnson, Clifford Victor
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Johnson, Clifford Victor}}
+[[Category:Alumni of Imperial College London]]
+[[Category:Alumni of the University of Southampton]]
+[[Category:Living people]]
+[[Category:String theorists]]
+[[Category:British physicists]]
+[[Category:English physicists]]
+[[Category:University of Southern California faculty]]
+[[Category:Theoretical physicists]]
+[[Category:Maxwell Medal and Prize recipients]]
