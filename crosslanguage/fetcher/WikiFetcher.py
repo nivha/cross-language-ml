@@ -1,6 +1,9 @@
 # coding=utf-8
 
 import os
+from wikitools import wiki
+from fetcher.CategoryFetcher import CategoryFetcher
+
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 
@@ -16,57 +19,7 @@ class FetcherError(Exception):
     pass
 
 
-# class Wikipedia(object):
-#     """
-#         Singleton implementation for Wikipedia object
-#         (not yet multithreaded proof)
-#     """
-#
-#     _initiated = False
-#     _language = ''
-#     _wiki = None
-#
-#     def __init__(self, language):
-#         if not self._initiated or language != self._language:
-#             self._wiki = W_Orig(language)
-#             self._language = language
-#
-#     def article(self, article):
-#         return self._wiki.article(article)
-
-
-# class Article(object):
-#     """
-#         Container class for Article
-#     """
-#     def __init__(self, raw_article):
-#         self.language   = None
-#         self.link       = None
-#         self.title      = None
-#         self.text       = None
-#         self.fetched    = False
-#
-#         self.parse(raw_article)
-#
-#     def parse(self, raw_article):
-#         self.language = raw_article['pagelanguage']
-#         self.link = raw_article['link']
-#         self.title = raw_article['title']
-#         self.title_raw = raw_article['title_raw']
-#
-#     def fetch(self):
-#         wiki = Wikipedia(self.language)
-#         s = wiki.article(self.title_raw)
-#         self.text = Wiki2Plain(s).text
-#         self.fetched = True
-#
-#     def savetofile(self, path):
-#         if not self.fetched: raise FetcherError("Article must be fetched before saving")
-#         with open(path, 'w') as f:
-#             f.write(self.text)
-
-
-class CategoryFetcher(object):
+class WikiFetcher(object):
     """
         Fetch all articles in a Wikipedia Category
         Save each article to a file in the project's storage hierarchy
@@ -77,13 +30,19 @@ class CategoryFetcher(object):
         self.language = language
         self.category_base_dir = os.path.join(settings.DATA_DIR, self.language, urllib.quote_plus(self.category))
 
+        sites_by_language = {
+            'en':   ''
+        }
+
+        site = wiki.Wiki("http://es.wikipedia.org/w/api.php")
+
+
         self.articles = []
 
-    # def fetch_raw_articles(self):
-    #     raw_articles = GetWikipediaCategoryRecurse(self.category, self.language)
-    #     for raw_article in raw_articles:
-    #         article = Article(raw_article)
-    #         self.articles.append(article)
+    def fetch_raw_articles(self):
+        cf = CategoryFetcher(site, 'es')
+        articles = cf.get_category_recursively('Categoría:Libros_de_ciencias_de_la_computación')
+        self.articles = [article.urltitle for article in articles]
 
     def fetch_to_files(self):
         """
