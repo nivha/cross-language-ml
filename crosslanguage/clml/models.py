@@ -1,9 +1,9 @@
 from django.db import models
 
 LANGUAGES = (
-    ('EN', 'English'),
-    ('ES', 'Spanish'),
-    ('HE', 'Hebrew'),
+    ('en', 'English'),
+    ('es', 'Spanish'),
+    ('he', 'Hebrew'),
 )
 
 

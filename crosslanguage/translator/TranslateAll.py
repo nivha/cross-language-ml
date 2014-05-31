@@ -1,15 +1,13 @@
 import os
-import time
-from translator.FileTranslator import FileTranslator
-
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
+
+import time
+from translator.FileTranslator import FileTranslator
 
 from crosslanguage.utils import Language
 import shutil
 
-
-__author__ = 'Ori'
 
 class CategoryTranslator(object):
     """
@@ -83,7 +81,7 @@ class DataTranslator(object):
 
 
 if __name__ == '__main__':
-    translate_all_lang_categories(Language(Language.English), [Language(Language.Hebrew), Language(Language.Spanish)])
+    translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
     # tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], 'Maxwell_Medal_and_Prize_recipients')
     # tr.do_translation()
 

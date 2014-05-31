@@ -13,11 +13,17 @@ class Language(object):
     Hebrew = 'Hebrew'
 
     # For each language, how it is represented in Wikipedia's URLs.
-    # This is also the path of
+    # This is also the path of the files on the hard drive.
     lang_to_path = {
         English: 'en',
         Spanish: 'es',
         Hebrew: 'he',
+    }
+    #
+    path_to_lang = {
+        'en': English,
+        'es': Spanish,
+        'he': Hebrew,
     }
 
     # This is how the language is represented in Google Translate URLs.
@@ -27,8 +33,11 @@ class Language(object):
         Hebrew: 'iw',
     }
 
-    def __init__(self, lang):
-        self.lang = lang
+    def __init__(self, lang, path_lang=None):
+        if path_lang is None:
+            self.lang = lang
+        else:
+            self.lang = Language.path_to_lang[path_lang]
 
     def to_path(self):
         return self.lang_to_path[self.lang]
