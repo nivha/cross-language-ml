@@ -1,0 +1,113 @@
+{{Infobox Journal
+| cover        = 
+| editor       = Jason Gardner
+| discipline   = [[condensed matter physics]]
+| abbreviation = J. Phys.: Condens. Matter
+| publisher    = [[IOP Publishing]]
+| country      = United Kingdom
+| frequency    = 50 per year
+| history      = Journal of Physics: Condensed Matter (1989–present); Journal of Physics C: Solid State Physics (1968–1988); Journal of Physics F: Metal Physics (1971–1988); along with other previous journals
+| openaccess   = 
+| impact       = 2.355
+| impact-year  = 2012
+| website      = http://iopscience.org/jpcm
+| link1        = http://iopscience.iop.org/1475-4878/1/1
+| link1-name   = Transactions of the Optical Society, Vol 1, 1899
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 34482386 
+| LCCN         = 89655558 
+| CODEN        = JCOMEL
+| ISSN         = 0953-8984
+| eISSN        = 1361-648X
+| boxwidth     = 27em
+}}
+
+'''''Journal of Physics: Condensed Matter''''' is a weekly, [[peer review]]ed, [[scientific journal]], established in 1989, and published by the [[IOP Publishing]]. This journal reports on all areas of [[condensed matter physics]] including [[soft matter]] and [[nanostructures]]. This [[Academic journal|journal]] publishes papers (experimental, theoretical and simulation studies) that contain fundamental [[condensed matter]] science. The editor-in-chief is Jason Gardner of [[National Synchrotron Radiation Research Center]] in Taiwan and the [[Australian Nuclear Science and Technology Organisation]]
+.<ref name=Warwick>[http://www2.warwick.ac.uk/fac/sci/physics/research/condensedmatt/supermag/whoswho/dr_jason_gardner/ Warwick University Physics page]. Retrieved 2013-09-20</ref> Gardner previously worked at the [[National Institute of Standards and Technology]].<ref name=WldCt>See OCLC number (link) in infobox. WorldCat. OCLC database. September 2010</ref><ref name=index>
+{{Cite web
+ | title =Home page
+ | publisher =[[IOP Publishing]] (IOP) 
+ | date =September 2010
+ | url =http://iopscience.iop.org/0953-8984/
+ | accessdate =2010-09-13
+}}</ref>
+
+==Former titles history==
+This journal was formed by a merger of ''Journal of Physics C: Solid State Physics'' (1968–1988) and ''Journal of Physics F: Metal Physics'' (1971–1988).
+
+This publication is also derived from the following former titles, either partially, or from a past, total merger: ''Metal Physics'' (1970);  ''Proceedings of the Physical Society'' (1958–1967); ''Proceedings of the Physical Society. Section A'' (1949–1957); ''Proceedings of the Physical Society. Section B'' (1949–1957); ''Proceedings of the Physical Society'' (1926–1948); ''Proceedings of the Physical Society'' (1874–1925); and  ''Transactions of the Optical Society''  (1899–1931)<ref name=cassi>[http://cassi.cas.org/search.jsp CASSI Source index]. ISSN 0953-8984 search. American Chemical Society. September 2010. Retrieved 2010-09-12</ref><ref name=Section-B>{{Cite web
+  | title =Proceedings of the Physical Society. Section B  
+  | work =Journal history 
+  | publisher =IOP Publishing ([[IOP]]) 
+  | date =January 1 to December 1, 1957 
+  | url =http://iopscience.iop.org/0370-1301/ 
+  | format =Volume 70 
+  | accessdate =2010-09-13}}</ref>
+
+==Scope==
+Papers are published under the following subject sections:<ref>http://iopscience.iop.org/0953-8984/page/Scope Retrieved 2013-07-09</ref>
+{{columns-list|colwidth=30em|
+* Surface, interface and atomic-scale science
+* Liquids, soft matter and biological physics
+* Nanostructures and nanoelectronics
+* Solid structure and lattice dynamics
+* Electronic structure
+* Correlated electrons
+* Superconductors and metals
+* Semiconductors
+* Dielectrics and ferroelectrics
+* Magnetism and magnetic materials
+}}
+
+==Abstracting and indexing==
+This journal is abstracted / indexed in the following databases:<ref name=index>{{Cite web
+  | title =Abstracted in 
+  | work =indexing for this journal 
+  | publisher =IOP Publishing ([[IOP]]) 
+  | date =September 2010
+  | url =http://iopscience.iop.org/0953-8984/page/Abstracted%20in 
+  | accessdate =2010-09-13}}</ref>
+
+*[[Aerospace and High Technology Database]]
+*[[Chemical Abstracts]]
+*[[Chimica]]
+*[[Compendex]]
+*[[Environmental Sciences & Pollution Management]]
+*[[GeoRef]]
+*[[Google Scholar]]
+*[[International Nuclear Information System]]
+*[[Inspec]]
+*[[Mass Spectrometry Bulletin]]
+*[[NASA Astrophysics Data System]]
+*[[PASCAL (database)|PASCAL]]
+*[[PubMed]]
+*[[Scopus]]
+*[[VINITI Abstracts Journal]] ([[Referativnyi Zhurnal]])
+
+*'''[[Thomson Reuters| Thomson Reuters databases]]:'''
+:*[[Science Citation Index]]
+:*[[SciSearch]]
+:*ISI Alerting Services
+:*[[Materials Science Citation Index]]
+:*[[Current Contents]] - Physical, Chemical & Earth Sciences
+
+==See also==
+* [[Modelling and Simulation in Materials Science and Engineering]]
+
+==References==
+{{reflist}}
+
+==General references==
+*[http://iopscience.iop.org/journals?type=archive Journal Archive] Institute of Physics Publishing. (Journals). September 2010. Retrieved 2010-09-13.
+
+==External links==
+*[http://iopscience.org/jpcm ''Journal of Physics: Condensed Matter'' website]
+*[http://ioppublishing.org/ IOP Publishing]
+
+{{DEFAULTSORT:Journal of Physics Condensed Matter}}
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]

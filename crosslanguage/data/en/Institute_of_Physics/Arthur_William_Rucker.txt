@@ -1,0 +1,45 @@
+Sir '''Arthur William Rucker''' (or '''Rücker'''), [[Knight Bachelor|KB]], [[Fellow of the Royal Society|FRS]] (23 October 1848, [[Clapham Park]], [[London]], [[England]] &ndash; 1 November 1915, [[Everington]] at [[Yattendon]] in [[Berkshire]]) was a British [[physicist]]. 
+
+==Biography==
+Rucker gained his BA at [[Brasenose College, Oxford|Brasenose College]], [[University of Oxford|Oxford]], in 1871, and was a Fellow there from 1871 to 1876. He was Professor of Physics at [[Yorkshire College]], [[Leeds]] from 1874 to 1885, and then at the [[Royal College of Science]] from 1886 to 1901, when he left to become [[Principal (academia)|Principal]] of the [[University of London]].<ref>{{Cite newspaper The Times |articlename=University intelligence |day_of_week=Friday |date=12 July 1901 |page_number=9 |issue=36505| }}</ref> 
+
+===Royal Society===
+He was elected a Fellow of the [[Royal Society]] in 1884. He jointly gave the Royal Society's [[Bakerian Lecture]] in 1889, and was awarded the Royal Society's [[Royal Medal]] in 1891: "For his researches on liquid films, and his contributions to our knowledge of terrestrial magnetism". He served as Secretary of the Royal Society from 1896 to 1901, and was knighted in 1902.<ref>{{cite journal|title=RÜCKER, Sir Arthur William |journal=Who's Who,|year=1905|volume= 57|pages=p. 1397|url=http://books.google.com/books?id=vDsJAAAAIAAJ&pg=PA1397}}</ref>
+
+==Lectures==
+In 1889 Rucker was invited to deliver the [[Royal Institution Christmas Lectures|Royal Institution Christmas Lecture]] on electricity.
+
+==Family life==
+His first wife died in 1878 and he married Thereza, a daughter of [[Nevil Story Maskelyne|Nevil Story-Maskylene]], in 1892.
+
+==Sources==
+*[http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=0&dsqSearch=(Surname='rucker') Entry for Rucker] in the Royal Society's Library and Archive catalogue's details of Fellows (accessed 27 April 2008)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.jstor.org/pss/207303 Obituary: Sir Arthur Rucker], [[Geographical Review]], Vol. 1, No. 4 (Apr., 1916), pp.&nbsp;309–309
+*[http://www.scienceandsociety.co.uk/results.asp?image=10303126 Sir Arthur William Rucker], picture from [[Science and Society Picture Library]] (Science Museum, London)
+
+{{Authority control|VIAF=15550409}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Rucker, Arthur William
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 23 October 1848
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1 November 1915
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Rucker, Arthur William}}
+[[Category:1848 births]]
+[[Category:1915 deaths]]
+[[Category:British physicists]]
+[[Category:Alumni of Brasenose College, Oxford]]
+[[Category:Fellows of Brasenose College, Oxford]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Bachelor]]
+[[Category:Royal Medal winners]]
+[[Category:Presidents of the Physical Society]]
+[[Category:People from Yattendon]]

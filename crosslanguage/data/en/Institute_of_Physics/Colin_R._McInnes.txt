@@ -1,0 +1,42 @@
+{{Use dmy dates|date=November 2012}}
+{{for|the novelist|Colin MacInnes}}
+'''Colin Robert McInnes''', {{post-nominals|country=GBR|MBE|FRSE|FRAeS|FInstP|FREng}}, is a [[Scotland|Scottish]] engineer known for his work in [[solar sails]]. He is currently one of the leading figures in the field, being the author (or co-author) of over 50 solar sail papers since 2001.<ref>{{cite web|url=http://www.mecheng.strath.ac.uk/staffprofile.asp?id=97|title=University of Strathclyde: Prof Colin McInnes}}</ref>  He also wrote a book on the subject, ''Solar Sailing: Technology, Dynamics and Mission Applications'', which is commonly referenced in solar sail journal papers. 
+
+McInnes obtained a BSc (Hons) in Physics and Astronomy and PhD in Astrodynamics from the [[University of Glasgow]] in 1988 and 1991 respectively.<ref>{{cite web|url=http://www.mecheng.strath.ac.uk/staffinfo.asp?id=97#topofpage|title=University of Strathclyde: Prof Colin McInnes}}</ref> He was then appointed as a lecturer in the Department of Aerospace Engineering at the University of Glasgow in October 1991 and was subsequently Reader (1996) and Professor (1999). During this time he has been a visiting researcher at the Central Design Bureau for Unique Instrumentation, Moscow, and the Institute for Space and Astronautical Science, Tokyo. He joined the Department of Mechanical Engineering at the University of Strathclyde in September 2004. His research interests centre on trajectory and mission analysis for solar sails, autonomous spacecraft control and space robotics. He is a fellow of the Royal Aeronautical Society, the Royal Society of Edinburgh and was elected a fellow of the Royal Academy of Engineering in July 2003.
+
+He is currently a director of research at the [[University of Strathclyde]].
+
+He was appointed [[Member of the Order of the British Empire]] (MBE) in the [[2014 Birthday Honours]] for services to space research, science, and technology.<ref>{{London Gazette |issue=60895 |date=14 June 2014 |startpage=b22 |supp=yes}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://cms.mecheng.strath.ac.uk/t4/cmsstaffprofile.asp?id=97 Staff Profile - Prof Colin  McInnes], University of Strathclyde
+
+{{Authority control|VIAF=17472388}}
+{{Persondata 
+| NAME              = McInnes, Colin R.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British engineer
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:McInnes, Colin R.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Academics of the University of Strathclyde]]
+[[Category:Recipients of the Makdougall Brisbane Prize]]
+[[Category:Scottish engineers]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Members of the Order of the British Empire]]
+
+{{Scotland-scientist-stub}}
+{{Scotland-academic-bio-stub}}
+{{Scotland-engineer-stub}}

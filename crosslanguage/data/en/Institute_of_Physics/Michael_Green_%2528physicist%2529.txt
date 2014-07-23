@@ -1,0 +1,81 @@
+{{Other people|Michael Green}}
+{{EngvarB|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+{{Infobox scientist
+|name = Professor Michael Green
+| birth_name = Michael Boris Green
+| image =
+| image_size =
+| caption = 
+|birth_date = {{birth date and age|1946|05|22|df=y}}<ref name="whoswho">{{cite web |url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U18027/ |title=GREEN, Prof. Michael Boris |format= |work=Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press |accessdate=}}{{subscription required}}</ref>
+|birth_place = London<ref name="whoswho"/>
+|residence = [[Cambridge]]
+|nationality = British<ref name="whoswho" />
+|death_date = 
+|death_place = 
+|field = [[Physics]]
+|work_institution = [[University of Cambridge]]<br />[[Queen Mary, University of London]]<br>[[Princeton University]]<br>[[University of Oxford]]
+|alma_mater = [[Churchill College, Cambridge]]<ref name="whoswho"/>
+| thesis_title = Crossing Symmetry And Duality in Strong Interactions
+| thesis_year = 1970
+| thesis_url = http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=8946
+|doctoral_advisor = Richard J. Eden<ref name="mathgene">{{MathGenealogy|id=103689}}</ref>
+|doctoral_students = Wafic Sabra<br>Michael Gutperle<br>Ling-Yan Hung<br>Miguel Paulos<br>Aninda Sinha<br>David Richards<br>Marco Barrozo<br>Bogdan Stefanski<br>Tathagata Dasgupta<br>Linda Uruchurtu<ref name="mathgene"/>
+|known_for  = [[Superstring theory]]<ref name="superstring">{{cite doi|10.1016/0370-2693(84)92021-5}}</ref><br>[[Green–Schwarz mechanism]]
+|prizes = {{no wrap|Fellow of the [[Royal Society]]<ref name="royal"/><br />[[Dirac Prize]]<br />[[Dannie Heineman Prize for Mathematical Physics]] {{small|(2002)}}<br/> [[Fundamental Physics Prize]] {{small|(2013)}}}}
+| website = {{URL|http://www.damtp.cam.ac.uk/user/mbg15}}<br>{{URL|http://www.damtp.cam.ac.uk/people/m.b.green}}
+| spouse = Joanna Chataway<ref name="whoswho"/>
+}}
+
+'''Michael Boris Green''' [[Fellow of the Royal Society|FRS]]<ref name="royal"/> (born 22 May 1946) is a British [[physicist]] and one of the pioneers of [[string theory]]. Currently a professor in the [[Faculty of Mathematics, University of Cambridge#Applied Mathematics and Theoretical Physics|Department of Applied Mathematics and Theoretical Physics]] and a Fellow in [[Clare Hall, Cambridge]] in England, he succeeded [[Stephen Hawking]] on 1 November 2009 as the [[Lucasian Professor of Mathematics]].<ref name="times">{{Cite web|first=Mark|last=Henderson|url=http://timesonline.typepad.com/science/2009/10/stephen-hawkings-successor-as-lucasian-professor-of-mathematics-michael-green.html|title=Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green|publisher=Times Online|date = 20 October 2009|accessdate = 20 October 2009}}</ref><ref name="cam">{{Cite web|url=http://www.admin.cam.ac.uk/news/dp/2009102005|title=Michael Green elected 18th Lucasian Professor at the University of Cambridge|publisher=University of Cambridge|date = 20 October 2009|accessdate = 20 October 2009}}</ref><ref name="scopus">{{Scopus|id=7406237287}}</ref>
+
+==Education and background==
+Green was born the son of Genia Green and Absalom Green. He attended [[William Ellis School]] in London and [[Churchill College, Cambridge]]<ref name="whoswho" /> where he graduated with a Bachelor of Arts with [[first class honours]] in theoretical physics (1967) and a PhD in [[elementary particle|elementary]] [[particle physics|particle theory]] (1970).<ref name="mathgene"/><ref name="greenphd">{{cite thesis |degree=PhD |first=Michael Boris|last=Green |title=Crossing symmetry and duality in strong interactions|publisher=University of Cambridge |date=1970 |url=http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=8946|authorlink=Michael Green (physicist)}}</ref><ref name="dirac">{{cite web|url=http://libraryold.ictp.it/FP-DB/docs/1989/Dirac-1989-Citation-Green.pdf|title=Dirac Medal 1989 Presentation Ceremony Leaflet|accessdate=20 October 2009|date=April 1990|format=pdf}}</ref>
+
+==Career==
+Following his PhD, Green did [[postdoctoral research]] at [[Princeton University]] (1970–72), Cambridge and the [[University of Oxford]]. Between 1978 and 1993 he was a Lecturer and Professor at [[Queen Mary, University of London]] and in July 1993 he was appointed [[John Humphrey Plummer Professor of Theoretical Physics]] at the University of Cambridge. On 19 October 2009 he was confirmed as the next [[Lucasian Professor of Mathematics]], to succeed [[Stephen Hawking]] on 1 November 2009.<ref name="times"/><ref name="cam"/>
+
+==Research==
+After many years in collaboration with [[John Henry Schwarz]],<ref name="anomaly">{{cite doi|10.1016/0370-2693(84)91565-X}}</ref> he co-discovered the anomaly cancellation in type&nbsp;I string theory in 1984. This insight, named the [[Green–Schwarz mechanism]], initiated the [[First Superstring Revolution]]. Green has also worked on [[Dirichlet boundary condition]]s in string theory which have led to the postulation of [[D-brane]]s<ref>{{cite doi|10.1088/0264-9381/14/1/008}}</ref> and [[Instanton]]s.<ref>{{cite doi|10.1016/S0550-3213(97)00269-1}}</ref>
+
+==Awards and honours==
+Green has been awarded the Dirac and Maxwell Medals of the [[Institute of Physics]], UK, the [[Dirac Prize]] of the [[International Centre for Theoretical Physics]] (Trieste) and the [[Dannie Heineman Prize for Mathematical Physics]] of the [[American Physical Society]]. He was elected a Fellow of the [[Royal Society]] in 1989.<ref name="royal"/> Green has co-authored more than 150 research papers.<ref name="scopus"/><ref name="spires">{{Cite web|url=http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=f+ea+green,+michael+b.|title=Michael Green Bibliography listing|publisher=[[SPIRES|Spires High Energy Physics]] database|location=Stanford University|accessdate=22 October 2009}}</ref>
+
+His nomination for the [[Royal Society]] reads{{centred pull quote|Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.<ref name="royal">{{cite web|url=http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F1989%2F10%27)|title = Green, Michael Boris: Library and Archive Catalogue|publisher=The Royal Society|accessdate=11 November 2013|location=London}}</ref>}}
+
+On 12 December 2013, Michael Green shared the [[Fundamental Physics Prize]] with [[John Henry Schwarz]] "for opening new perspectives on quantum gravity and the unification of forces."
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.physics2005.iop.org/Green.htm Institute of physics page]{{dead link|date=December 2013}}
+
+{{Lucasian Professors of Mathematics}}
+
+{{Authority control |VIAF=85220804 |LCCN=n/85/346191 }}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Green, Michael
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =22 May 1946
+| PLACE OF BIRTH    =London
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Green, Michael}}
+[[Category:1946 births]]
+[[Category:Academics of Queen Mary, University of London]]
+[[Category:Alumni of Churchill College, Cambridge]]
+[[Category:English Jews]]
+[[Category:English physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of Clare Hall, Cambridge]]
+[[Category:Jewish scientists]]
+[[Category:Living people]]
+[[Category:Members of the Department of Applied Mathematics and Theoretical Physics]]
+[[Category:String theorists]]
+[[Category:Lucasian Professors of Mathematics]]
+[[Category:Maxwell Medal and Prize recipients]]

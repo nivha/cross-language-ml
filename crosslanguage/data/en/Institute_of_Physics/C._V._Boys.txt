@@ -1,0 +1,79 @@
+{{Infobox scientist
+ |name              =Sir Charles Vernon Boys
+ |image             = CVBoys.jpg
+ |image_size       =
+ |caption           = Sir Charles Vernon Boys, FRS
+ |birth_date        =15 March 1855
+ |birth_place       = [[Wing, Rutland]]<ref name="MacTutor">[http://www-history.mcs.st-and.ac.uk/Biographies/Boys.html J J O'Connor and E F Robertson, "Sir Charles Vernon Boys"], MacTutor History of Mathematics archive, [[University of St Andrews]]</ref>
+ |death_date        =30 March 1944
+ |death_place       =[[St Mary Bourne]], [[Andover, Hampshire]]<ref name="MacTutor"/>
+ |residence         =
+ |citizenship       = [[United Kingdom|British]]
+ |nationality       =
+ |ethnicity         =
+ |field             =[[physics|physicist]]
+ |work_institutions =
+ |alma_mater        =
+ |doctoral_advisor  =
+ |doctoral_students =
+ |known_for         =
+ |author_abbrev_bot =
+ |author_abbrev_zoo =
+ |influences        =
+ |influenced        =
+ |prizes            = {{no wrap|[[Royal Medal]] {{small|(1896)}}<br>[[Duddell Medal and Prize]] {{small|(1924)}}<br>[[Rumford Medal]] {{small|(1924)}}<br>[[Elliott Cresson Medal]] {{small|(1939)}}}}
+ |footnotes         =
+ |signature         =
+}}
+'''Sir Charles Vernon Boys''', [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1944.0021}}</ref> (15 March 1855 – 30 March 1944) was a [[United Kingdom|British]] [[physics|physicist]], known for his careful and innovative experimental work.<ref>{{MacTutor Biography|id=Boys}}</ref>
+
+== Early life ==
+
+Boys was the eighth child of the Reverend Charles Boys, the [[Church of England|Anglican]] vicar of [[Wing, Rutland]].  He was educated at [[Marlborough College]] and the [[Royal School of Mines]], where he learned physics from [[Frederick Guthrie]] and taught himself higher mathematics while completing a degree in [[mining]] and [[metallurgy]].  As a student at the School of Mines he invented a mechanical device (which he called the "[[integraph]]") for plotting the [[integral]] of a function.  He worked briefly in the [[coal]] industry before accepting Guthrie's offer of a position as "demonstrator."
+
+== Experimental physics ==
+
+Boys achieved recognition as a scientist for his invention of the [[fused quartz]] fibre [[torsion spring|torsion balance]], which allowed him to measure extremely small [[force]]s. He made the fused quartz fibres for his instrument by attaching a quartz rod to a [[crossbow]] quarrel, heating the rod to the point of melting, and firing the crossbow. By this means he produced fibre so thin that it could not be resolved with an optical microscope.<ref name="frs" />  He used this invention to build a [[radiometer|radiomicrometer]] capable of responding to the light of a single candle more than one mile away, and used that device for [[astronomy|astronomical]] observations.  In 1895 he published a measurement of the [[gravitational constant]] ''G'' that improved upon the accuracy achieved by [[Henry Cavendish|Cavendish]].  Boys' method relied on the same theory as Cavendish's, but used two masses suspended at one height and two nearby masses suspended at a different height, to minimize the unwanted interaction between opposite masses.<ref name="Cavendish">{{cite doi|10.1038/050330a0}}</ref>
+
+He was a critic of the solar design of [[Frank Shuman]], so Shuman hired him, and together they patented a "[[:File:US_Patent_1240890.pdf|Sun-Boiler]]", which is similar to modern day [[parabolic trough]] solar power plants.<ref>[https://netfiles.uiuc.edu/mragheb/www/NPRE%20498ES%20Energy%20Storage%20Systems/Solar%20Thermal%20Power%20and%20Energy%20Storage%20Historical%20Perspective.pdf Solar Thermal Power and Energy Storage Historical Perspective]</ref>
+
+== Public service and educational work ==
+
+In 1897 Boys became a [[Metropolitan Gas Act 1860|Metropolitan Gas Referee]], charged with assessing a fair price for [[coal gas]]. He initially worked on the replacement of the [[Candlepower|standard candle]], used to determine the quality of the gas for lighting, by the [[Augustus George Vernon Harcourt|Harcourt pentane lamp]]. As heating grew to become the principal use of coal gas, Boys undertook fundamental work on [[calorimetry]] to measure and record the heat content of the gas, achieving a substantial increase in precision of measurement.  At this time the national gas bill for the United Kingdom was fifty million  [[Pound sterling|pounds]], so a one-percent correction to the bill represented a very significant amount of money.<ref name="frs" />
+
+Boys also worked on high-speed [[photography]] of lightning and bullets in flight, and conducted public lectures on the properties of [[Soap bubble|soap films]], which were gathered into the book ''Soap Bubbles: Their Colours and the Forces Which Mould Them'', a classic of scientific popularization.  The first edition of ''Soap Bubbles'' appeared in 1890 and the second in 1911; it has remained in print to this day.  The book deeply impressed [[France|French]] writer [[Alfred Jarry]], who in 1898 wrote the absurdist novel ''[[Exploits and Opinions of Dr. Faustroll, Pataphysician]]'', in which the title character, who was born at the age of 63 and sails in a sieve, is described as a friend of C.V. Boys (''see also'' [['Pataphysics]]). The book was also a favourite of American poet, [[Elizabeth Bishop]].
+
+== Recognition ==
+
+Boys was an assistant professor at the [[Royal College of Science]] (now [[Imperial College London]]) in [[South Kensington]] from 1889 to 1897, as well as an examiner at the [[University of London]]. In 1899 he presented the [[Royal Institution Christmas Lectures]].  He was elected to the [[Royal Society]] in 1888<ref name="frs"/> and knighted in 1935.  He was awarded the [[Royal Medal]] in 1896 and the [[Rumford Medal]] in 1924.  He was awarded the [[Elliott Cresson Medal]] in 1939.
+
+== Personal life ==
+
+He married Marion Amelia Pollock in 1892.  She caused a scandal by having an affair with the Cambridge mathematician [[Andrew Forsyth]], as a result of which Forsyth was forced to resign his chair.  Boys divorced Marion in 1910 and she later married Forsyth.
+
+==References==
+{{reflist}}
+
+{{wikisource author|Charles Vernon Boys}}
+{{wikiquote}}
+
+{{Authority control|VIAF=18004298}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Boys, C.V.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 15 March 1855
+| PLACE OF BIRTH    = [[Wing, Rutland]]
+| DATE OF DEATH     = 30 March 1944
+| PLACE OF DEATH    = [[St Mary Bourne]], [[Andover, Hampshire]]
+}}
+{{DEFAULTSORT:Boys, C.V.}}
+[[Category:1855 births]]
+[[Category:1944 deaths]]
+[[Category:People from Rutland]]
+[[Category:Knights Bachelor]]
+[[Category:People educated at Marlborough College]]
+[[Category:British physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Royal Medal winners]]
+[[Category:Presidents of the Physical Society]]

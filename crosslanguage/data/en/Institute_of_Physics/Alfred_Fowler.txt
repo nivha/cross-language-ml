@@ -1,0 +1,113 @@
+{{For|the American astrophysicist|William Alfred Fowler}}
+{{Use dmy dates|date=May 2012}}
+{{Use British English|date=May 2012}}
+{{Infobox scientist
+|name              = Alfred Fowler
+|image             = Alfred Fowler.jpg
+|image_size        = 
+|caption           = 
+|birth_date        = {{Birth date|1868|3|22|df=y}}
+|birth_place       = [[Yorkshire]], [[England]]
+|death_date        = {{death date and age|1940|6|24|1868|3|22|df=y}}
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = 
+|ethnicity         = 
+|fields            = [[Astronomy]]
+|workplaces        = 
+|alma_mater        = 
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Gold Medal of the Royal Astronomical Society]] (1915)<br>[[Royal Medal]] (1918)<br>[[Henry Draper Medal]] (1920)<br>[[Bruce Medal]] (1934)
+|religion          =
+|signature         = <!--(filename only)-->
+|footnotes         = 
+}}
+
+'''Alfred Fowler''', [[CBE]] [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1941.0016}}</ref> (22 March 1868 [[Yorkshire]] &ndash; 24 June 1940) was an English [[astronomer]].  Not to be confused with American astrophysicist [[William Alfred Fowler]].
+
+He was born in Wilsden, Yorkshire and educated at London's Normal School of Science, which was later absorbed into [[Imperial College, London]]. 
+
+He was appointed Instructor (later Assistant Professor) of Astrophysics at Imperial College and worked there until his death. He was an expert in [[spectroscopy]], being one of the first to determine that the temperature of [[sunspot]]s was cooler than that of surrounding regions.
+
+He was elected a [[Fellow of the Royal Society]] in 1910, when his citation read 
+
+:"''Associate of the Royal College of Science. Assistant Professor of Physics (Astrophysics Department) Imperial College and Technology, South Kensington. Distinguished for his contributions to Astronomical Physics by spectroscopic observations of eclipses, solar pre-eminences, and sunspots, and by experimental researches bearing on their interpretation. Associated in observations of total eclipses of the sun with [[Norman Lockyer|Sir Norman Lockyer]] in 1893, 1896, 1898, 1900, and (with [[Hugh Longbourne Callendar|Prof Callendar]]) in 1905.'' "
+
+:''He was awarded their [[Royal Medal]] in 1918 and delivered their [[Bakerian Lecture]]s in 1914 and 1924.''
+
+Fowler was president of the [[Royal Astronomical Society]] from 1919 to 1921 and died in [[Ealing, London]] in 1940.
+
+==Honours==
+
+'''Awards'''
+*[[Gold Medal of the Royal Astronomical Society]] (1915)
+*[[Royal Medal]] (1918)
+*[[Fellow of the Royal Society]]<ref name="frs"/>
+*[[Henry Draper Medal]] from the [[United States National Academy of Sciences|National Academy of Sciences]] (1920)<ref name=Draper>{{cite web|title=Henry Draper Medal|url=http://www.nasonline.org/about-nas/awards/henry-draper-medal.html|publisher=National Academy of Sciences|accessdate=19 February 2011}}</ref>
+*[[Bruce Medal]] (1934)
+*[[Commander of the Most Excellent Order of the British Empire]] (1935)
+'''Named after him'''
+*The crater [[Fowler (crater)|Fowler]] on the [[Moon]] (jointly with [[Ralph H. Fowler]])
+
+==Published Papers==
+*''The Spectra of Metallic Arcs in an Exhausted Globe'' (with H Page, (Proc Roy Soc, vol lxxii); 
+*''Formulae for Spectrum Series'' (with H Shaw, Astrophys Journ, vols xviii, xxi); 
+*''The Spectra of Antarian Stars in relation to the Fluted Spectrum of Titanium'' (Proc Roy Soc, vol lxxiii, 1904); 
+*''Observations of the Spectra of Sunspots, Region C to D'' (Monthly Notices Roy Astron Soc, vol lxv, 1905); 
+*''Spectroscopic Observations of the Great Sunspot (February, 1905) and Associated Prominences'' (ibid, vol lxv, 1905); 
+*''Total Solar Eclipse, 1905, August 30'' (with H L Callendar) (Proc Roy Soc, vol lxxvii, 1905); 
+*''High Level Chromosperic Lines and their Behaviour in Sunspot Spectra'' (Monthly Notices Roy Astron Soc, vol lxvi, 1906); 
+*''Observations and Discussion of the Spectra of Sunspots, Region B to E'' (Trans Internat Union Solar Research, vol i, 1906); 
+*''Enhanced Lines of Iron in the Region F to C, and Note on Silicon in the Chromosphere'' (Monthly Notices, Roy Astron Soc vol lxvii, 1906); 
+*''The Fluted Spectrum of Titanium Oxide'' (Proc Roy Soc, vol lxxx, 1907); 
+*''The Origin of certain Bands in the Spectra of Sunspots'' (Monthly Notices, Roy Astron Soc, vol lxvii, 1907); 
+*''Report of Committee on Sunspot Spectra'' (Trans Internat Union Solar Research, vol ii, 1908); 
+*''The Spectrum of Scandium and its relation to Solar Spectra'' (Phil Trans, A, 1908); 
+*''The Reproduction of Prismatic Spectrum Photographs on a Uniform Scale of Wave-lengths'' (Astrophys Journ, vol xxviii, 1908);
+*''Spectroscopic Comparison of o Ceti with Titanium Oxide'' (Monthly Notices, Roy Astron Soc, vol lxix, 1909).
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.phys-astro.sonoma.edu/BruceMedalists/FowlerA/index.html Bruce Medal page]
+* [http://adsabs.harvard.edu//full/seri/PASP./0046//0000087.000.html Awarding of Bruce medal: PASP '''46''' (1934) 87]
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0075//0000355.000.html Awarding of RAS gold medal: MNRAS '''75''' (1915) 355]
+
+===Obituaries===
+* [http://adsabs.harvard.edu//full/seri/ApJ../0094//0000001.000.html ApJ '''94''' (1941) 1]
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0101//0000132.000.html MNRAS '''101''' (1941) 132]
+* [http://adsabs.harvard.edu//full/seri/Obs../0063//0000262.000.html Obs '''63''' (1940) 262]
+* [http://adsabs.harvard.edu//full/seri/PASP./0052//0000301.000.html PASP '''52''' (1940) 301] (one paragraph)
+
+{{Authority control|LCCN=n/89/673094}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Fowler, Alfred
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = British astronomer
+| DATE OF BIRTH     = 22 March 1868
+| PLACE OF BIRTH    = [[Yorkshire]], [[England]]
+| DATE OF DEATH     = 24 June 1940
+| PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Fowler, Alfred}}
+[[Category:1868 births]]
+[[Category:1940 deaths]]
+[[Category:People from Yorkshire]]
+[[Category:English astronomers]]
+[[Category:Academics of Imperial College London]]
+[[Category:Royal Medal winners]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:Fellows of the Royal Society]]
+[[Category:National Academy of Sciences laureates]]
+[[Category:Presidents of the Institute of Physics]]

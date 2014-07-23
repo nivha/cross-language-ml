@@ -1,0 +1,254 @@
+La era de las máquinas espirituales (The Age of Spiritual Machines) es un libro de Ray Kurzweil (1998), de contenido filosófico, tecnológico, informático y científico que habla de la historia de la evolución y su relación con la vida natural y la tecnología, así como el papel del hombre en la historia de esta útima y de la informática y el futuro de ésta en su evolución hacia la relación hombre-máquina.
+
+El libro está dividido en tres partes y un epílogo y se describe el protagonismo de la evolución tecnológica.
+
+* 1ª parte: Se da a conocer el concepto de la teoría de la evolución y su aplicación en la inteligencia tanto humana como artificial. Para ello se comprende la naturaleza exponencial del tiempo de acuerdo con la Ley de Moore, a través de la historia de la humanidad, para así, dar lugar a la formación de una nueva inteligencia en la Tierra.
+
+* 2ª parte: Se da a entender cómo es la limitación humana presente en los siglos XX y XXI y el papel de los cálculos y datos procesados en el hombre y la computadora, así como los avances tecnológicos que abren nuevos caminos para la integración hombre-máquina, aunque también se da a la luz las implicaciones y limitaciones de las computadoras en el contacto social con la humanidad en 1999.
+
+* 3ª parte: Avances futuros en la informática y en su aplicación con el hombre, aplicables para los cien años posteriores a 1999; con ello se demostrará con hechos (a modo de predicción, explicados por el autor) que la computadora será parte inalienable de la humanidad aunque no exenta de debates de diversa índole en todos los aspectos.
+
+El epílogo contiene una reflexión acerca del papel que juegan las leyes de la evolución en el campo de la inteligencia artificial y de un posible destino de la inteligencia en el control del universo.
+
+Aunque el autor ha escrito todo el libro y en parte es explicado de manera personal por Kurzweil, no deja de sorprender una conversación a lo largo del contenido del libro en forma de entrevista con un personaje ficticio que probablemente sea el propio autor, del que revela su nombre al final (Molly).
+
+== Predicciones sobre los avances sucesivos de la tecnología ==
+
+=== 2009 - 2018 ===
+
+* Las personas usarán principalmente computadoras portátiles, que se habrán vuelto espectacularmente más ligeras y finas que las de diez años antes. Las computadoras personales estarán disponibles con muchos tamaños y formas, y frecuentemente estarán alojadas en la ropa y joyas como relojes de pulsera, anillos, pendientes, y otros ornamentos. Las computadoras con una interfaz visual de alta resolución variarán desde anillos, alfileres y tarjetas de crédito hasta el tamaño de un libro delgado.
+
+* Las personas típicamente tendrán al menos una docena de computadoras sobre y alrededor de sus cuerpos, que estarán conectadas por red local. Estas computadoras proporcionarán facilidades similares a teléfonos móviles, mensáfonos y navegadores, proporcionarán identidad automática (para conducir transacciones comerciales y permitir la entrada en zonas seguras), direcciones de navegación, y otros diversos servicios.
+
+* Para la mayoría, estas verdaderas computadoras personales no tendrán partes móviles. La memoria será completamente electrónica, y la mayoría de las computadoras personales no tendrán teclados.
+
+* Las memorias rotatorias (discos duros, CD-ROM, DVD) estarán en camino de desaparecer, aunque estas memorias magnéticas se usarán aún en computadoras de servidores con grandes cantidades de información almacenada. La mayoría de los usuarios tendrán servidores en sus hogares y oficinas en las que almacenarán grandes cantidades de «objetos» digitales, incluyendo su software, bases de datos, documentos musicales, películas, y entornos de realidad virtual (aunque éstos aún estarán en una etapa temprana de desarrollo). Serán servicios para mantener los objetos digitales propios en repositorios centrales, aunque la mayoría de la gente preferirá mantener su información privada bajo su propio control físico.
+
+* Los cables empezarán a desaparecer. Las comunicaciones entre componentes, tales como dispositivos de puntero, micrófonos, pantallas, impresoras, y el teclado ocasional, usarán tecnología inalámbrica de corta distancia.
+
+* Las computadoras incluirán rutinariamente tecnología inalámbrica para conectarse a una omnipresente red mundial, proporcionando comunicación de gran banda ancha disponible instantáneamente y fiable. Los objetos digitales tales com libros, álbumes musicales, películas y software se distribuirán rápidamente como archivos de datos a través de la red inalámbrica, y típicamente carecerán de un objeto físico asociado a ellos.
+
+* La mayor parte del texto se creará mediante software de reconocimiento continuo de la voz (CSR), aunque los teclados se seguirán usando. El CSR será muy preciso, bastante más que los transcriptores usados sólo unos pocos años antes.
+
+* También estarán por todas partes las interfaces lingüísticas del usuario (LUI), que combinarán CSR y comprensión natural del lenguaje. Para tareas rutinarias, tales como transacciones comerciales simples y solicitudes de información, los LUI serán bastante sensibles y precisos. Tenderán a estar, no obstante, estrechamente enfocados en ciertas tareas específicas. Estarán frecuentemente combinados con personalidades animadas. Interactuar con una personalidad animada para realizar una compra o hacer una reserva será como hablar con una persona mediante videoconferencia, excepto por el hecho de que la persona estará simulada.
+
+* Las pantallas de las computadoras tendrán todas las cualidades visuales del papel —alta resolución, alto contraste, gran ángulo de visión, y ausencia de parpadeo. Los libros, revistas y periódicos se leerán ahora de forma rutinaria en pantallas que serán del tamaño de, por ejemplo, libros pequeños.
+
+* También se usarán pantallas dentro de gafas. Estas gafas especiales permitirán a los usuarios ver el entorno visual normal mientras que crean una imagen virtual que parecerá sostenerse en frente de ellos. Estas imágenes virtuales estarán creadas por un pequeño láser montado dentro de las gafas que proyectará las imágenes directamente sobre la retina del usuario.
+
+* Los altavoces estarán sustituidos por dispositivos muy pequeños basados en microprocesadores que podrán crear sonido tridimensional de alta calidad. Esta tecnología estará basada en la creación de sonidos de frecuencia audible creados por la interacción de tonos de frecuencias muy altas. Como resultado, altavoces muy pequeños podrán crear un sonido tridimensional muy robusto.
+
+* Una computadora personal de 1.000 dólares (de 1999) podrá realizar alrededor de mil billones de cálculos por segundo. Las supercomputadoras tendrán un hardware que igualará al menos la capacidad del cerebro humano (20 billones de cálculos por segundo). Se recolectarán computadoras sin uso en Internet, creando supercomputadoras virtuales en paralelo con un hardware con la capacidad del cerebro humano.
+
+* Habrá un creciente interés por las redes neuronales masivas en paralelo, algoritmos genéticos y otras teorías caóticas o de complejidad computacional; sin embargo la mayor parte de los cálculos de las computadoras se realizarán aún mediante el proceso secuencial convencional, aunque con algún procesamiento en paralelo limitado.
+
+* Se habrá iniciado la investigación sobre la ingeniería inversa del cerebro humano por medio de escáneres destructivos de los cerebros de personas recientemente fallecidas y de escáneres no invasivos mediante imágenes de resonancia magnética de personas vivas.
+
+* La creación de máquinas autónomas creadas por nanoingeniería (es decir, máquinas construidas átomo por átomo y molécula por molécula) habrá sido demostrada e incluirán sus propios controles computacionales. No obstante, la nanoingeniería no estará aún considerada una tecnología práctica.
+
+* Aunque las escuelas aún no serán de última generación, la gran importancia de la computadora como herramienta de conocimiento estará ampliamente reconocida. Las computadoras jugarán un papel central en todas las facetas de la educación, al igual que en otras esferas de la vida.
+
+* La mayor parte de la lectura se realizará en pantallas, aunque la «base instalada» de documentos en papel será aún formidable. La generación de los documentos en papel estará menguando, no obstante, a medida que los libros y otros documentos del siglo XX sean rápidamente escaneados y almacenados. Los documentos de alrededor de 2009 llevarán frecuentemente incrustados imágenes en movimiento y sonidos.
+
+* Los estudiantes de todas las edades llevarán típicamente una computadora propia, que será como una tableta gráfica de un peso aproximado de una libra con una resolución visual muy alta, apta para la lectura. Los estudiantes interactuarán con sus computadoras principalmente con la voz y un dispositivo parecido a un lápiz. Los teclados aún existirán, pero la mayor parte del lenguaje textual se creará con la voz. Se accederá al material educativo a través de comunicación inalámbrica.
+
+* Cursos informáticos inteligentes habrán emergido como un modo común de aprender. Recientes estudios polémicos habrán demostrado que los estudiantes pueden aprender habilidades básicas como la lectura y las matemáticas con software interactivo tan fácilmente como con profesores humanos, particularmente cuando la proporción de estudiantes respecto a profesores humanos sea mayor de uno a uno. Aunque los estudios habrán sido atacados, la mayoría de los estudiantes y sus padres habrán aceptado este concepto durante años. El modo tradicional de un profesor humano instruyendo a un grupo de niños será aún algo predominante, pero las escuelas estarán crecientemente basadas en enfoques de software, quedando los profesores humanos para atender principalmente asuntos como la motivación, el bienestar psicológico y la socialización. Muchos niños aprenderán a leer por su cuenta usando sus computadoras personales antes de entrar en la escuela primaria.
+
+* Los alumnos de educación preescolar y primaria leerán de forma rutinaria a su nivel intelectual usando sotware de conversión de texto a voz antes de aprender a leer. Estos sistemas de lectura una imagen completa de los documentos, y podrán leer el texto en voz alta mientras se resalta lo que se va leyendo. Las voces sintéticas sonarán totalmente humanas. Aunque algunos educadores a principios del siglo XXI expresaron preocupación acerca de que los estudiantes pudiesen basarse excesivamente en el software de lectura, tales sistemas habrán sido fácilmente aceptados por los niños y sus padres. Los estudios habrán demostrado que los estudiantes mejoran sus habilidades de lectura al ser expuestos a presentaciones de texto de forma visual y auditiva sincronizada.
+
+* El aprendizaje a distancia (por ejemplo, clases y seminarios en los que los participantes estén dispersos geográficamente) será algo común.
+
+* El aprendizaje empezará a convertirse en una parte significativa de la mayor parte de los empleos. El entrenamiento y el desarrollo de nuevas habilidades empezará a emerger como una responsabilidad en curso en la mayoría de las carreras, y no sólo un suplemento ocasional, a medida que el nivel de habilidad necesario para empleos significativos aumente cada vez más.
+
+* Las personas con discapacidad empezarán a superar rápidamente sus inconvenientes mediante la tecnología inteligente de 2009. Los estudiantes con problemas de lectura de forma rutinaria aminorarán su discapacidad mediante sistemas de lectura conversores de texto a voz.
+
+* Las máquinas de lectura conversoras de texto a voz para ciegos serán ahora muy pequeñas, baratas, del tamaño de la palma de la mano, y podrán leer libros (los que aún existan en formato de papel) y otros documentos impresos, así como otros textos del mundo real tales como signos y visualizadores. Estos sistemas de lectura serán igualmente expertos en leer los miles de billones de documentos electrónicos que habrá disponibles de forma instantánea a través de la ubicua red mundial inalámbrica.
+
+* Tras décadas de tentativas inefectivas, se introducirán útiles dispositivos de navegación que podrán asistir a los ciegos para evitar obstáculos físicos en su camino, así como guiarse, usando la tecnología del sistema de posicionamiento global (GPS). Una persona ciega podrá interactuar con sus sistemas personales de lectura y navegación a través de una comunicación por voz bidireccional, a modo de perro lazarillo que lee y habla.
+
+* Las personas sordas o con problemas de audición llevarán frecuentemente máquinas que traducirán la voz texto, mostrando una transcripción en tiempo real o una persona animada gesticulando en el lenguaje de signos. Habrán eliminado el principal problema de comunicación asociado con la sordera, y también podrán traducir lo que se está hablando a otro idioma en tiempo real, así que las usarán frecuentemente las personas con audición también.
+
+* Se habrán introducido dispositivos de órtesis controlados por computadora. Estas «máquinas andantes» permitirán a los parapléjicos caminar y subir escaleras. Los dispositivos protésicos aún no serán útiles para todas las personas parapléjicas, ya que muchas personas discapacitadas físicamente presentarán articulaciones con años de falta de uso. Sin embargo, el advenimiento de esta tecnología motivará en mayor medida la sustitución de estas articulaciones.
+
+* Habrá una creciente percepción de que la ceguera, la sordera y el impedimento físico no producen desventajas. Los discapacitados describirán sus discapacidades como meros inconvenientes. La tecnología inteligente se habrá convertido en la gran niveladora de posibilidades.
+
+* La tecnología de traducción telefónica (donde hablas en inglés y tus amigos japoneses te oyen en japonés, y viceversa) se usará comúnmente para muchos pares de idiomas. Será una capacidad rutinaria de una computadora personal, que también servirá como teléfono.
+
+* La comunicación telefónica será principalmente inalámbrica, e incluirá normalmente imágenes de alta resolución en movimiento. Se producirán encuentros de todos los tipos y tamaños entre participantes separados geográficamente.
+
+* Habrá una efectiva convergencia, al menos en cuanto a hardware y software correspondiente, de todos los medios, que existirán como objetos digitales (es decir, archivos) distribuidos por la omnipresente red mundial de comunicación inalámbrica de banda ancha. Los usuarios podrán descargar instantáneamente libros, revistas, periódicos, televisión, radio, películas, y otras formas de software a sus dispositivos de comunicación personal altamente portátiles.
+
+* Virtualmente toda la comunicación es digital y cifrada, con claves públicas disponibles para las autoridades gubernamentales. Muchos individuos y grupos, incluyendo aunque sin limitarse a organizaciones criminales, usarán una capa adicional de código cifrado virtualmente indescifrable sin claves para terceras personas.
+
+* La tecnología del tacto estará apareciendo y permitirá a las personas tocar y sentir objetos y otras personas a distancia. Estos dispositivos de fuerza y retroalimentación se usarán en juegos y en sistemas simuladores de entrenamiento.
+
+* Los juegos interactivos incluirán normalmente entornos visuales y sonoros envolventes, aunque aún no estará disponible un entorno envolvente táctil satisfactorio. Los canales de chat de finales de los años 1990 habrán sido sustituidos por entornos virtuales donde poder tener citas con personas con realismo visual completo.
+
+* Las personas tendrán experiencias sexuales a distancia con otras personas así como con compañeros virtuales. Sin embargo, la falta de un entorno táctil envolvente habrá mantenido el sexo virtual apartado de la corriente dominante. Los compañeros sexuales serán populares como formas de entretenimiento sexual, pero serán más parecidos a juegos que a algo real. Y el sexo telefónico será mucho más popular ahora que los teléfonos incluyen normalmente alta resolución e imágenes en movimiento y en tiempo real de la persona al otro lado.
+
+* Obviando correcciones ocasionales, los diez años que llevaron al 2009 habrán visto una expansión económica y prosperidad continuas debido al dominio del contenido cultural de los productos y servicios. Las mayores ganancias continuarán estando en los valores de mercado. La deflación preocupará a los economistas de principios del siglo XXI, pero pronto comprobarán que fue algo positivo. La comunidad de alta tecnología señalará que una deflación significativa había existido ya anteriormente en las industrias de software y hardware durante muchos años sin detrimento.
+
+* Estados Unidos continuará siendo el líder económico debido a su primacía en la cultura popular y su entorno empresarial. Ya que los mercados de la información serán grandes mercados mundiales, Estados Unidos se habrá beneficiado en gran medida de la historia de sus inmigrantes. Ser comprendido por todos los pueblos del mundo (especialmente los descendientes de pueblos del mundo que se habían enfrentado a un riesgo elevado para conseguir una vida mejor) será la herencia ideal para la nueva economía basada en el conocimiento. China habrá aparecido también como una fuerte potencia económica. Europa estará a años de distancia de Japón y Corea respecto a adoptar el énfasis de los estadounidenses sobre el capital de riesgo, opciones de reserva de empleados, y políticas de impuestos que animen a las empresas, aunque estas prácticas se habrán hecho populares por todo el mundo.
+
+* Al menos la mitad de todas las transacciones se realizarán en línea.
+
+* Los asistentes inteligentes que combinan reconocimiento continuo de voz, comprensión natural del lenguaje, resolución de problemas, y personalidades animadas ayudarán normalmente a encontrar información, responder a preguntas, y conducir transacciones. Estos asistentes se habrán convertido en una interfaz predominante para interactuar con servicios basados en la información, con un amplio rango de opciones disponibles.
+
+* La mayoría de las compras de libros, álbumes musicales, vídeos, juegos, y otras formas de software no implicarán un objeto físico, de modo que habrán surgido nuevos modelos económicos para distribuir estas formas de información. Uno comprará estos objetos de información «paseándose» por centros comerciales virtuales, probando y seleccionando objetos de interés, realizando una transacción en línea rápida y segura, y descargando luego rápidamente la información mediante comunicación inalámbrica de alta velocidad. Habrá muchos tipos y gradaciones para tener acceso a estos productos. Podrá «comprarse» un libro, un álbum musical, vídeo, etc., lo cual dará al usuario acceso permanente. Alternativamente, podrá alquilarse el acceso para leer, ver o escuchar una vez, o varias veces. O podrá alquilarse el acceso durante cada minuto que pasa. El acceso podrá estar limitado a una persona o a un grupo de personas (por ejemplo, una familia o una compañía). O bien el acceso estará limitado a una computadora en particular, o a cualquier computadora usada por una persona en particular o por un conjunto de personas.
+
+* Habrá una acusada tendencia hacia la separación geográfica de los grupos de trabajo. La gente trabajarán juntos a pesar de vivir y encontrarse en diferentes lugares.
+
+* El hogar medio tendrá más de cien computadoras, la mayoría de la cuales estarán alojadas en electrodomésticos y sistemas de comunicación incorporados. Los robots domésticos habrán aparecido, pero no estarán aún totalmente aceptados.
+
+* Existirán carreteras inteligentes, principalmente para viajes de larga distancia. Una vez que el sistem de guía de la computadora del automóvil se fije en los sensores de control de estas autopistas, uno podrá recostarse y relajarse. Las carreteras locales, no obstante, serán aún convencionales de forma predominante.
+
+* Una compañía del este de Mississippi y norte de la línea Mason-Dixon habrá sobrepasado los mil billones de dólares en el mercado de capitales.
+
+* La privacidad se habrá convertido en un tema político importante. El uso prácticamente constante de tecnologías de la comunicación empezará a dejar un rastro muy detallado de cada movimiento realizado por cada persona. El litigio, del cual habrá un gran trato, habrá colocado algunas restricciones en la amplia distribución de datos personales. Las agencias gubernamentales, sin embargo, continuarán teniendo el derecho de acceder a los archivos de las personas, lo cual habrá dado como resultado la aparición entre la población de tecnologías de cifrado invulnerables.
+
+* Habrá un creciente movimiento neo-ludita, a medida que la escalera de habilidades continúa creciendo de forma acelerada. Como con movimientos luditas más antiguos, su influencia estará limitada por el nivel de prosperidad hecho posible por la tecnología. El movimiento conseguirá establecer la educación continuada como un derecho fundamental asociado con el empleo.
+
+* Habrá una preocupación continua por una clase sumergida en la que la escalera de habilidades se ha dejado atrás. El tamaño de dicha clase parecerá estable, no obstante. Aunque no será políticamente popular, esta clase estará políticamente neutralizada por la asistencia pública y el generalmente alto nivel de prosperidad.
+
+* La alta calidad de las pantallas de computadora, y las facilidades del software de renderización visual asistida por computadora, habrá hecho que la pantalla de la computadora sea una oportunidad para el arte visual. La mayor parte del arte visual será el resultado de la colaboración entre los artistas humanos y su software inteligente de arte. Las pinturas virtuales (pantallas de alta resolución colgadas en la pared) se habrán hecho populares. Más que mostrar siempre la misma obra de arte, o con una pintura convencional o un póster inteligente, estas pinturas virtuales podrán cambiar el trabajo visualizado con una orden verbal del usuario, o podrán cambiar cíclicamente a través de colecciones de arte. Podrá tratarse de obras creadas por artistas humanos o arte original creado en tiempo real por software artístico cibernético.
+
+* Los músicos humanos se mezclarán con los cibernéticos. La creación de música se habrá hecho disponible para personas que no sean músicos. Crear música no requerirá necesariamente la fina coordinación motora del uso de controladores tradicionales. Los sistemas cibernéticos de creación musical permitirán que las personas que aprecian la música pero no poseen conocimientos musicales ni práctica creen música en colaboración con su software de composición automática. La música interactiva generada por el cerebro, que creará una resonancia entre las ondas cerebrales del usuario y la música que oye, será otro género popular.
+
+* Los músicos usarán de forma común controladores electrónicos que emularán el estilo de ejecución de los viejos instrumentos acústicos (por ejemplo, piano, guitarra, violín, percusión), pero habrá una oleada de interés en los nuevos controladores «aéreos» en los que podrá crearse música moviendo las manos, los pies, la boca, y otras partes del cuerpo. Otros controladores implicarán la interacción con dispositivos especialmente diseñados.
+
+* Los escritores usarán procesamiento de texto activado por la voz; los correctores gramaticales serán ahora útiles; y la distribución de documentos escritos desde artículos a libros normalmente no implicarán papel y tinta. Software de mejora del estilo y de edición automática se usará ampliamente para mejorar la calidad de la escritura. También será de amplio uso el software de traducción idiomática para traducir obras a muchos idiomas. No obstante, el proceso central de creación de lenguaje escrito estará menos afectado por la tecnologías de software inteligente que las artes visuales y musicales. A pesar de ello, empezarán a aparecer autores «cibernéticos».
+
+* Más allá de las grabaciones musicales, imágenes, y vídeos de películas, el tipo de objeto de entretenimiento digital más popular será el software de experiencia virtual. Estos entornos virtuales interactivos permitirán el descenso de ríos virtuales, viajar en ala delta por el Gran Cañón, o tener un encuentro íntimo con la estrella cinematográfica preferida. Los usuarios también experimentarán en entornos de fantasía sin equivalente en el mundo físico. La experiencia visual y auditiva de la realidad virtual será convincente, pero la interacción táctil aún estará limitada.
+
+* En la guerra, la seguridad de la computación y la comunicación será el foco principal del departamento de defensa de los Estados Unidos. Se reconocerá en general que el lado que pueda mantener la integridad de sus recursos computacionales dominará el campo de batalla.
+
+* Los humanos estarán generalmente a mucha distancia de la escena de batalla. La guerra estará dominada por dispositivos aerotransportados inteligentes no tripulados. Muchos de estas armas volantes serán del tamaño de pequeños pájaros, o más pequeñas.
+
+* Los Estados Unidos continuarán siendo la potencia militar dominante en el mundo, lo cual estará ampliamente aceptado por el resto del mundo, ya que la mayoría de los países se concentrarán en la competición económica. Los conflictos militares entre naciones serán raros, y la mayoría de los conflictos serán entre naciones y pequeñas bandas de terroristas. La mayor amenaza para la seguridad nacional vendrá de parte de las armas biológicas.
+
+* Los tratamientos por ingeniería biomédica habrán reducido las afecciones por cáncer, cardiopatías y muchos otros problemas de salud. Se habrá conseguido un progreso significativo en la comprensión de la base del proceso de la información de la enfermedad.
+
+* La telemedicina se usará ampliamente. Los médicos podrán examinar a pacientes mediante el examen visual, sonoro y táctil a distancia. Clínicas de salud con equipos relativamente baratos y un sólo técnico proporcionarán cuidados de salud en áreas remotas donde los médicos habían sido anteriormente escasos.
+
+* El reconocimiento de patrones basado en computadora se usará de forma normal para interpretar datos visuales y otros procedimientos diagnósticos. El uso de tecnologías visuales no invasivas se habrá incrementado sustancialmente. El diagnóstico implicará casi siempre la colaboración entre un médico humano y un sistema experto de reconocimiento de patrones.
+
+* Los médicos consultarán de forma rutinaria sistemas basados en conocimiento (generalmente por medio de una comunicación bidireccional por voz con imágenes), que proporcionarán una guía automática, acceso a las investigaciones médicas más recientes, y guías de práctica.
+
+* Las historias clínicas de toda una vida se mantendrán en bases de datos informáticas. La preocupación sobre el acceso a estas historias (como con muchas otras bases de datos de información personal) habrá emergido como un tema de importancia.
+
+* Los médicos se entrenarán en entornos de realidad virtual, que incluirán una interfaz táctil. Estos sistemas simularán la experiencia visual, auditiva y táctil de los procedimientos médicos, incluyendo la cirugía. Los pacientes simulados estarán disponibles para continuar la educación médica, para los estudiantes de Medicina, y para personas que simplemente quieren jugar a ser médicos.
+
+* Habrá un renovado interés en el test de Turing, que fue propuesto por Alan Turing en 1950 como una forma de comprobar la inteligencia en una máquina. Aunque las computadoras aún fracasarán en el test, crecerá la confianza en que lo pasen en una o dos décadas.
+
+* Habrá mucha especulación sobre la potencial capacidad de sentir (esto es, la consciencia) de la inteligencia basada en computadoras. La inteligencia cada vez más aparente de las computadoras habrá estimulado el interés en la filosofía.
+
+=== 2019 - 2028 ===
+
+* Una computadora de 1.000 dólares tendrá tanta potencia bruta como el cerebro humano.
+* La suma del poder computacional de todas las computadoras será comparable al poder cerebral total de la raza humana.
+* Las computadoras estarán alojadas en el entorno (dentro del mobiliario, las joyas, las paredes, la ropa, etc.)
+* Las personas experimentarán la realidad virtual en tres dimensiones por medio de gafas y lentes de contacto que proyectarán imágenes directamente hacia la retina (visualizador (display) retinal). Junto con una fuente auditiva (auriculares), los usuarios podrán telecomunicarse con otras personas y acceder a Internet.
+* Estas gafas especiales y lentes de contacto podrán proporcionar «realidad aumentada» y «realidad virtual» de tres modos diferentes. En primer lugar, podrán proyectar «visualizaciones directoras» (HUD) a través del campo visual del usuario, superponiendo imágenes que permanecen fijas en el entorno independientemente de la perspectiva u orientación del usuario. En segundo lugar, objetos o personas virtuales podrían renderizarse por las gafas en lugares fijos, de modo que cuando los ojos del usuario mirasen a otra parte, los objetos permanecerían en su lugar. En tercer lugar, los dispositivos podrían bloquear completamente el mundo real y sumergir totalmente al usuario en un entorno de realidad virtual.
+* Las personas se comunicarán con sus computadoras por medio de un diálogo bidireccional y gestos en lugar de con teclados. Además, la mayor parte de esta interacción ocurrirá a través de asistentes computarizados con diferentes personalidades que el usuario podrá seleccionar o personalizar. Relacionarse con computadoras será por lo tanto cada vez más parecido a relacionarse con seres humanos.
+* La mayoría de las transacciones comerciales o solicitudes de información implicarán el trato con una persona simulada.
+* La mayor parte de las personas poseerán más de una computadora personal, aunque el concepto de lo que es una «computadora» habrá cambiado considerablemente: Las computadoras dejarán de estar limitadas en cuanto a diseño a computadoras portátiles o CPU contenidas en una caja grande conectada a un monitor. En su lugar, dispositivos con las posibilidades de una computadora llegarán con toda clase de inesperadas formas y tamaños.
+* Los cables que conectan las computadoras con los periféricos habrán desaparecido casi completamente.
+* Las memorias de computadora rotatorias (disco duro, disco compacto, DVD, etc.) dejarán de usarse.
+* Entramados tridimensionales de nanotubos serán el sustrato informático dominante.
+* Las redes neuronales masivas en paralelo y los algoritmos genéticos serán de amplio uso.
+* Los escaneos destructivos del cerebro y los escaneos cerebrales no invasivos habrán permitido a los científicos comprender el cerebro mucho mejor. Los algoritmos que permiten que el relativamente pequeño código genético del cerebro construya un órgano mucho más complejo se empezarán a transferir a redes neuronales computarizadas.
+* Cámaras del tamaño de alfileres estarán por todas partes.
+* La nanotecnología tendrá más posibilidades y se usará para aplicaciones especiales, aunque aún no conseguirá preponderancia. «Máquinas de nanoingeniería» empezarán a usarse en la industria.
+* Pantallas delgadas, ligeras y portátiles con muy altas resoluciones serán los medios preferidos para visualizar documentos. Las gafas y lentes de contacto anteriormente mencionadas también se usarán con este mismo propósito, y todos los dispositivos descargarán la información de forma inalámbrica.
+* Las computadoras habrán hecho que los libros y documentos de papel queden casi completamente obsoletos.
+* La mayor parte de la enseñanza se llevará a cabo mediante cursos informáticos inteligentes y adaptados presentados por profesores simulados por computadora. En el proceso de aprendizaje, humanos adultos tendrán los papeles de consejeros y mentores en lugar de ser instructores académicos. Estos asistentes generalmente no estarán presentes físicamente, y ayudarán a los estudiantes a distancia.
+* Los estudiantes aún aprenderán juntos y harán vida social, aunque lo harán generalmente a distancia a través de computadoras.
+* Todos los estudiantes tendrán acceso a las computadoras.
+* La mayoría de los trabajadores humanos pasarán la mayor parte del tiempo adquiriendo nuevas habilidades y conocimiento.
+* Los ciegos llevarán gafas especiales que interpretarán el mundo real para ellos a través de voz. Los videntes también usarán estas gafas para amplificar sus propias capacidades.
+* Implantes retinales y neurales también existirán, pero tendrán un uso limitado ya que serán menos útiles.
+* Los sordos usarán gafas especiales que convertirán la voz en texto o signos, y la música en imágenes o sensaciones táctiles. Los implantes cocleares, entre otros, serán de amplio uso.
+* Las personas con daños en la médula espinal podrán caminar y subir escalones mediante estimulación nerviosa controlada por computadora y andadores robóticos exoesqueléticos.
+* Las máquinas traductoras del lenguaje serán de mucho mayor calidad, y se usarán de forma rutinaria en las conversaciones.
+* El acceso a Internet será completamente inalámbrico y proporcionado por computadoras que podrán llevarse puestas o implantadas.
+* Dispositivos que proporcionen sensaciones en la superficie de la piel de sus usuarios (p. ej., trajes ajustados al cuerpo y guantes) también se usarán a veces en la realidad virtual para completar la experiencia. El «sexo virtual» —en el cual dos personas podrán tener relaciones sexuales a través de realidad virtual, o en la que un humano podrá practicar sexo con un compañero simulado que sólo existe en una computadora— llegará a ser una realidad.
+* Cuando la realidad virtual visual y auditiva haya pasado de moda, la tecnología del tacto habrá madurado completamente y será totalmente convincente, aunque requerirá que el usuario entre en una cabina de realidad virtual. Será la forma preferida de practicar el sexo ya que será segura y mejorará la experiencia. Este sistema se usará frecuentemente para sexo por computadora y para exámenes médicos a distancia.
+* El crecimiento económico mundial continuará. No se producirá un colapso económico global.
+* La amplia mayoría de las interacciones comerciales ocurrirán entre humanos y minoristas simulados, o entre asistentes personales virtuales y minoristas simulados.
+* Los robots domésticos estarán por doquier y serán fiables.
+* Las computadoras harán la mayor parte de la conducción de vehículos —los humanos tendrán de hecho prohibido conducir en las autopistas sin asistencia—. Además, cuando los humanos tomen el mando, el sistema informático de a bordo monitorizará sus acciones y tomará el control cuando el humano conduzca imprudentemente. Como resultado, habrá muy pocos accidentes de circulación.
+* Existirán prototipos de vehículos voladores personales con microalerones. También estarán controlados principalmente por computadora.
+* Los humanos empezarán a tener profundas relaciones con personalidades automáticas, que tendrán algunas ventajas sobre los compañeros humanos. La profundidad de algunas personalidades por computadora convencerá a algunas personas de que deberían dárseles más derechos.
+* Los lugares públicos y las zonas de trabajo estarán monitorizadas por doquier para prevenir la violencia y todas las acciones se grabarán de forma permanente. La privacidad será un tema político importante, y algunas personas se protegerán con códigos informáticos de seguridad.
+* Se satisfarán las necesidades básicas de las clases bajas. (Kurzweil no especifica si esto se refiere al mundo desarrollado o a todos los países).
+* Las computadoras también también estarán dentro de algunos humanos en forma de implantes cibernéticos. Serán mayoritariamente usados por personas con discapacidad para recuperar algunas facultades físicas (p. ej., implantes retinales que permitirán a los ciegos ver o implantes espinales acompañados de piernas mecánicas que permitirán a los paralíticos caminar).
+* La mayoría de las carreteras tendrán sistemas de conducción automatizados —redes de dispositivos de monitorización y comunicación que permitirán a los automóviles controlados por computadora la conducción de forma segura.
+* Las relaciones entre robots y humanos comenzarán a medida que las personalidades simuladas se vuelvan más convincentes.
+* Artistas virtuales —computadoras creativas capaces de producir su propio arte y música— emergerán en todos los campos de las artes.
+* Mientras que un número creciente de seres humanos creerán que sus computadoras y las personalidades simuladas con las que interactúan son inteligentes hasta el punto de la consciencia a nivel humano, los expertos descartarán la posibilidad de que alguna pueda pasar el test de Turing.
+* Habrá conexiones de comunicación a Internet de banda ancha y conectividad ubicua en todo momento; interacción con personalidades virtuales como interfaz principal; tecnología del lenguaje efectiva (proceso natural del lenguaje, reconocimiento de voz, síntesis de voz).
+
+=== 2029 - 2048 ===
+
+* Una computadora personal será 1.000 veces más potente que el cerebro humano.
+* La mayor parte de la computación será realizada por computadoras.
+* Se habrán conseguido mayores avances en la comprensión de los secretos del cerebro humano. Cientos de sub-regiones diferentes con funciones especializadas habrán sido identificadas. Algunos de los algoritmos que codifican el desarrollo de estas regiones se habrán descifrado e incorporado en computadoras de redes neuronales.
+* Las redes neuronales masivas en paralelo, que se construirán por medio de ingeniería inversa del cerebro humano, serán de uso común.
+* Las gafas y auriculares que se usaban para proporcionar realidad virtual estarán ahora obsoletas gracias a la existencia de implantes de computadora que irán dentro de los ojos y oídos. Los implantes serán tanto permanentes como de quita y pon. Permitirán una interfaz directa con las computadoras, las comunicaciones y las aplicaciones basadas en Internet. Estos implantes serán también capaces de grabar lo que el usuario ve y oye.
+* También habrá disponibles implantes diseñados para una conexión directa con el cerebro. Serán capaces de aumentar los sentidos naturales y de mejorar funciones cerebrales elevadas como la memoria, la velocidad de aprendizaje y la inteligencia en general.
+* Las computadoras ahora serán capaces de aprender y crear nuevo conocimiento de forma completamente independiente y sin ayuda humana. Escaneando el enorme contenido de Internet, algunas computadoras «conocerán» literalmente cada pequeña pieza de información pública (cada descubrimiento científico, cada libro y película, cada declaración pública, etc.) generada por seres humanos.
+* Implantes cerebrales directos permitirán a los usuarios entrar en una realidad virtual de total inmersión —con estimulación sensorial completa— sin ningún equipo externo. Las personas podrán tener sus mentes en un lugar totalmente diferente en cualquier momento. Esta tecnología será de uso ampliamente extendido.
+* La mayor parte de la comunicación ocurrirá entre humanos y máquinas en lugar de humanos entre sí.
+* Los sectores industrial, agrícola y de transportes de la economía estarán casi completamente automatizados y emplearán a muy pocos humanos. En todo el mundo, la pobreza, la guerra y las enfermedades serán casi inexistentes gracias a que la tecnología aliviará las carencias.
+* El crecimiento de la inteligencia artificial provocará un verdadero movimiento de los «derechos del robot», y habrá un debate público abierto sobre qué clase de derechos civiles y protecciones legales deberían tener las máquinas. La existencia de humanos con altos niveles de aumento cibernético y de un mayor número de otras personas con implantes cibernéticos menos extremos llevará a cambiar la definición de lo que constituye un «ser humano».
+* Aunque las computadoras pasarán rutinariamente el test de Turing, la controversia persistirá sobre si las máquinas son tan inteligentes como los humanos en todas las áreas.
+* Las inteligencias artificiales reivindicarán ser conscientes y pedirán abiertamente el reconocimiento de ese hecho. La mayoría de las personas admitirán y aceptarán esta nueva realidad.
+* La ingeniería inversa del cerebro humano se habrá completado.
+* La inteligencia no biológica combinará la sutileza y fuerza de reconocimiento de patrones de la inteligencia humana con la velocidad, memoria y capacidad de compartición de conocimiento de la inteligencia maquinal.
+* La inteligencia no biológica continuará creciendo exponencialmente mientras que la inteligencia biológica permanecerá fija.
+
+=== 2049 - 2071 ===
+
+* Los alimentos serán con frecuencia «compuestos» por nanomáquinas. Éstos serán externamente indistinguibles de los «naturales», pero podrán hacerse más saludables ya que la producción podrá controlarse a nivel molecular. Esta tecnología desacoplará la producción alimentaria de las condiciones climáticas y la disponiblidad de recursos naturales. Una implicación de esto es que la producción cárnica dejará de requerir la matanza de animales.
+* La distinción entre realidad virtual y realidad "real" llegará a confundirse a medida que los nano-robots empiecen a usarse de forma común, permitiendo la composición o descomposición inmediata de toda clase de objetos físicos.
+
+=== 2072 - 2098 ===
+
+* La picoingeniería (tecnología a escala de billonésimas de metro) se hará práctica.
+
+=== 2099 ===
+
+* El cerebro humano se habrá estudiado completamente por ingeniería inversa y se comprenderá todo su funcionamiento.
+* El pensamiento humano natural no tendrá ninguna ventaja sobre las mentes de las computadoras.
+* Las máquinas habrán alcanzado el mismo estado legal que los humanos.
+* Los humanos y las máquinas se mezclarán en el mundo físico y mental. Los implantes cerebrales cibernéticos permitirán a los humanos fundir sus mentes con inteligencias artificiales.
+* En consecuencia, dejarán de existir distinciones claras entre humanos y máquinas.
+* La mayoría de los seres conscientes carecerán de una forma física permanente.
+* El mundo estará irrefrenablemente poblado por inteligencias artificiales que existirán completamente como programas de computadora pensantes capaces de pasar instantáneamente de una computadora a otra a través de Internet (o cualquier otra cosa equivalente en 2099). Estos seres basados en computadora serán capaces de manifestarse en el mundo físico cuando deseen creando o asumiendo el control de cuerpos robóticos, con inteligencias artificiales también capaces de controlar varios cuerpos a la vez.
+* Los seres individuales se mezclarán y separarán constantemente, haciendo imposible determinar cuántas "personas" hay en la Tierra.
+* Esta nueva plasticidad de la consciencia y la habilidad de los seres de unir sus mentes alterará severamente la naturaleza de la identidad propia.
+* La mayor parte de las interacciones interpersonales ocurrirán en entornos virtuales. De hecho, que dos personas se encuentren físicamente en el mundo real para tener una conversación o una transacción comercial sin ninguna interferencia tecnológica será muy raro.
+* Los seres humanos orgánicos serán un pequeña minoría de las formas de vida inteligente en la Tierra. Incluso entre los Homo sapiens restantes, el uso de implantes computarizados que aumenten profundamente las habilidades será algo que existirá por todas partes y que se aceptará como algo normal. La pequeña fracción de humanos que opten por permanecer "naturales" y sin modificaciones efectivamente existirán, pero en un plano de la consciencia diferente al de los demás, por lo que verán imposible interactuar totalmente con las inteligencias artificiales o con los humanos altamente modificados.
+* Los humanos "naturales" estarán protegidos del exterminio. A pesar de sus deficiencias y debilidades, los humanos serán respetados por las inteligencias artificiales por haber sido los creadores de las máquinas.
+* Ya que el conocimiento y las aptitudes podrán descargarse instantáneamente y ser comprendidas por la mayoría de los seres inteligentes, el proceso de aprendizaje se comprimirá en algo instantáneo en lugar de la experiencia de años de lucha de los humanos normales. Libres de esta carga consumidora de tiempo, las inteligencias artificiales enfocarán ahora sus energías en realizar nuevos descubrimientos y contribuciones.
+* Las inteligencias artificiales serán capaces de dividir su atención y energías en incontables direcciones, haciendo posible que un ser controle una multitud de esfuerzos simultáneamente.
+* La femtoingeniería (ingeniería a la escala de una milésima de billonésima de metro) podría ser posible.
+* Las inteligencias artificiales se comunicarán a través de un lenguaje electrónico compartido.
+* El material gráfico y la música creados por las máquinas abarcarán áreas del espectro lumínico y frecuencias sonoras que los humanos normales no podrán percibir.
+* El dinero experimentará una deflación.
+* Algunos humanos al menos tan viejos como los procedentes del baby boom estarán aún vivos y en buenas condiciones.
+* Los virus informáticos serán una amenaza importante ya que la mayoría de los seres inteligentes estarán basados en software.
+* Las inteligencias artificiales realizarán «copias de seguridad» de sí mismas, garantizando una especie de inmortalidad para casos en que por ejemplo la inteligencia sea asesinada.
+* El concepto de «esperanza de vida» se habrá convertido en irrelevante para los humanos y máquinas gracias a la inmortalidad médica y las computadoras avanzadas.
+* El ritmo del cambio tecnológico continuará acelerándose a medida que se aproxima el siglo XXII.
+
+=== Dentro de miles de años ===
+
+* "Los seres inteligentes considerarán el destino del universo". Presumiblemente, esto significa que las inteligencias artificiales creadas por los humanos tendrán la habilidad de controlar todo el universo, tal vez evitando que muera.
+
+== Referencias ==
+
+Categoría:Computación ubicua
+Categoría:Inteligencia artificial
+Categoría:Libros de informática
+Categoría:Transhumanismo

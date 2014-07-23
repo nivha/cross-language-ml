@@ -1,0 +1,39 @@
+'''Adolf Schallamach''' (1905-1997) was a scientist at the [[British Rubber Producers' Research Association]] noted for pioneering understanding of the mechanisms of rubber [[friction]].<ref>{{cite journal|last=Schallamach|first=Adolf|title=Recent advances in knowledge of rubber friction and tire wear|journal=Rubber Chemistry and Technology|year=1968|volume=41|issue=1|pages=209–244|doi=10.5254/1.3539171|accessdate=19 Aug 2013}}</ref>
+
+In 1970, Schallamach received the [[Colwyn Medal]], and in 1982 he received the [[Charles Goodyear Medal]].
+
+== Personal ==
+
+Schallamach was born in 1905 in Poznan, Poland.  He died on 22 June 1997.<ref>{{cite web|title=Obituary|url=http://rios.lgm.gov.my/cms/fedDigiContentDetail.jsp?searchText=&selTab=digiCon&id=vital1:35224&type=Article|accessdate=19 August 2013}}</ref>   
+
+== Education ==
+
+In 1929 Schallamach received his Diplom Ingenieur in electrical engineering, having studied at technical high schools in Zurich and Breslau.  He completed his doctoral dissertation at the University of Breslau in 1934 but had to leave Germany as a Jewish refugee before receiving his degree. He was only able to receive his doctorate officially in 1948 from the [[University of Braunschweig]] after Breslau had become Polish.<ref>{{cite journal|last=Grosch|first=Karl|title=Honoring Adolf Schallamach|journal=Tire Science and Technology|year=1977|year=1977|volume=5|issue=1|pages=3–5|doi=10.2346/1.2167229|url=http://dx.doi.org/10.2346/1.2167229|accessdate=19 Aug 2013}}</ref>
+
+== Career ==
+
+After immigrating to the United Kingdom, Schallamach obtained a position at the [[Davy Faraday Laboratory of the Royal Institution]], researching crystal structure at low temperatures. He held this position from 1934 until 1943, eventually achieving distinction as a Fellow of the [[Institute of Physics]] in 1942.
+
+In 1943, he joined the British Rubber Producers' Research Association as a Research Physicist.  He initially studied the dielectric properties of elastomers, but soon was called on to pursue studies into the friction and abrasion properties of rubber.  His developments included a viscoelastic of theory of friction that explained the observed rate dependence of rubber friction in terms of molecular arguments.  Also, he observed the occurrence of [[Schallamach waves]] during abrasion experiments, and he provided an explanation for them in terms of the [[elastic instability]] of the elastomer surface.  
+
+He was inducted into the International Rubber Science Hall of Fame in 1998.
+
+==Publications==
+{{cite book|title=Über die Temperaturabhängigkeit der Elektronenaustrittsarbeit und des lichtelektrischen Effekts reiner Metalloberflächen bei tiefen Temperaturen|last=Schallamach|first=Adolf|language=German|year=1948}}
+
+== References ==
+{{Reflist}}
+
+{{Authority control |VIAF=39867887}}
+
+{{DEFAULTSORT:Schallamach, Adolf}}
+[[Category:1905 births]]
+[[Category:1997 deaths]]
+[[Category:Polymer scientists and engineers]]
+[[Category:British scientists]]
+[[Category:Jewish scientists]]
+[[Category:Tire industry people]]
+[[Category:International Rubber Science Hall of Fame]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:University of Breslau alumni]]
+[[Category:Jews who emigrated to the United Kingdom to escape Nazism]]

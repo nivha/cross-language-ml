@@ -1,0 +1,70 @@
+{{italictitle}}
+{{Infobox journal
+| title        = Physics in Medicine & Biology
+| cover        = [[File:Physics in Medicine and Biology.gif]]
+| editor       = Professor Simon Cherry 
+| discipline   = [[Physics]], [[medicine]]
+| language     = [[English language|English]]
+| abbreviation = Phys. Med. Biol.
+| publisher    = [[IOP Publishing]]
+| country      = UK
+| frequency    = 24 per year
+| history      = 1956–present   
+| openaccess   = 
+| impact       = 2.701
+| impact-year  = 2012
+| website      = http://iopscience.org/pmb
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         =
+| CODEN        =
+| ISSN         = 0031-9155
+| eISSN        = 1361-6560
+}}
+
+'''''Physics in Medicine & Biology''''' (PMB) is a [[peer review]]ed journal concerned with the application of theoretical and practical [[physics]] to [[medicine]], [[physiology]] and [[biology]].<ref name="web1">{{Cite web
+  | title = Journal scope
+  | publisher = [[IOP Publishing]]
+  | url = http://www.iop.org/EJ/journal/-page=scope/0031-9155
+  | accessdate = 2010-01-01}}
+</ref> The first issue was published in July 1956.<ref>{{Cite web
+  | title = Physics in Medicine & Biology, Volume 1, 1956–1957
+  | publisher = [[IOP Publishing]]
+  | url = http://www.iop.org/EJ/volume/0031-9155/1
+  | accessdate = 2010-01-01}}
+</ref>
+
+PMB is published by [[IOP Publishing]] on behalf of the [[Institute of Physics and Engineering in Medicine]].<ref>{{Cite web
+  | title = Editorial information
+  | publisher = [[IOP Publishing]]
+  | url = http://www.iop.org/EJ/journal/-page=about/0031-9155
+  | accessdate = 2010-01-01}}
+</ref> It is also an official journal of the following medical societies: the Canadian Organization of Medical Physics, the Deutsche Gesellschaft für Medizinische Physik, the Japanese Association of Radiological Physics, the European Federation of Organisations for Medical Physics and the International Organization for Medical Physics.
+
+The editor-in-chief is Professor Simon Cherry of the Department of Biomedical Engineering, at the University of California, Davis, USA.
+
+The journal had an [[impact factor]] of 2.701 for 2012 according to [[Journal Citation Reports]].<ref>[[Web of Science]] database</ref> It is indexed in [[INSPEC]] Information Services, [[Chemical Abstracts]], BIOSIS Previews/Biological Abstracts, Engineering Index/Ei [[Compendex]], [[EMBASE]]/Excerpta Medica, PASCAL Database, Article@[[INIST]], [[Institute for Scientific Information|ISI]] (SciSearch, ISI Alerting Services, Science Citation Index, Current Contents/Life Sciences), [[Index Medicus]]/[[MEDLINE]], VINITI Abstracts Journal, and Sociedad Iberoamericano de Información Científica (SIIC).<ref>{{Cite web
+  | title = Abstracted in
+  | publisher = [[IOP Publishing]]
+  | url = http://iopscience.iop.org/0031-9155/page/Abstracted%20in
+  | accessdate = 2012-08-24}}
+</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://iopscience.org/pmb ''Physics in Medicine & Biology'' homepage]
+*[http://iopscience.iop.org/ IOPscience]
+*[http://www.ioppublishing.org/ IOP Publishing]
+
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 1956]]
+[[Category:English-language journals]]

@@ -1,0 +1,39 @@
+'''Armand de Waele''' (1887–1966) was a [[British people|British]] [[chemist]], noted for his contributions to [[rheology]], and after whom the [[Power-law fluid|Ostwald-de Waele]] relationship for [[non-Newtonian fluid]]s is named.<ref name=Ostwald1929>Ostwald called it the de Waele-Ostwald equation: ''Kolloid Zeitschrift'' (1929) 47 (2) 176-187</ref>
+
+de Waele was born in [[Islington]], [[London]], in 1887, the son of a [[Belgian]] father and [[French people|French]] mother.  He held [[dual nationality]] until the age of 21, when he chose to be a British rather than Belgian.  He obtained a [[BSc]]<!--probably in chemistry but not known-->  from the [[University of Westminster|Regent Street Polytechnic]] then worked in the [[paint]] and [[linoleum]] industries. In 1914 he married a Frenchwoman<!--name not given in obituary--> with whom he had two sons, and the same year was conscripted into the [[Royal Flying Corps]].<ref name=Obit>''Chemistry and Industry'', May 13, 1967, page 777 Obituary; Armand de Waele (1887-1966)</ref>
+
+After the [[First World War]] he joined [[Gestetner]] as Chief Research Chemist, where he remained till 1957 when he retired.  During this period he published 30 papers on rheology and patents on duplicating as well as a book.<ref name=Obit/>  He was a Fellow of the [[Royal Institute of Chemistry]] and of the [[Institute of Physics]].<ref name=deWaele1956>A. de Waele, F.R.I.C., F.Inst.P., (1956) ''Journal of the Society of Cosmetic Chemists'', 7 (4) p336</ref>
+
+==Some Publications==
+*[https://archive.org/details/rubberresinspai00waelgoog] R.S. Morrell, A. de Waele (1920) ''Rubber, Resins, Paints and Varnishes'' (Van Nostrand)
+*A. de Waele ''Journal of the  Oil & Colour Chemists Association'' (1923) 6, pp33–69 "Viscometry and Plastometry"
+*US Patent 1744755 (1930) ''Stencil sheet for use in duplicating''
+*US Patent 1828766 (1931) ''Production of stencil sheets for use in duplicating''
+*US Patent 1819078 (1931) ''Stencil sheet for use in duplicating typewritten or manuscript documents, drawings and the like''
+*US Patent 1910005 (1933) ''Vulcanized or sulphurized oil composition''
+*[http://journal.scconline.org/pdf/cc1956/cc007n04/p00336-p00346.pdf] ''Journal of the Society of Cosmetic Chemists'' (1956) 7, 4, pp336–346 "Introduction to the Rheology of Disperse Systems"
+
+==References==
+{{reflist}}
+
+{{Authority control|VIAF=118252775}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = De Waele, Armand
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British chemist
+| DATE OF BIRTH     = 1887
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1966
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:De Waele, Armand}}
+[[Category:1887 births]]
+[[Category:1966 deaths]]
+[[Category:British chemists]]
+[[Category:Rheologists]]
+[[Category:Fluid mechanics]]
+[[Category:Fellows of the Institute of Physics]]
+
+
+{{UK-chemist-stub}}

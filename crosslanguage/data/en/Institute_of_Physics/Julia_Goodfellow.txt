@@ -1,0 +1,93 @@
+{{Infobox scientist
+| name              = Julia Mary Goodfellow
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        =  {{Birth date and age|1951|07|01|df=y}}<ref name="whoswho">{{cite web |url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U17484 |title=GOODFELLOW, Dame Julia (Mary),  |format= |work=Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press |accessdate=}}{{subscription required}}</ref>
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Bristol]]<br>[[University of Kent]]<br>[[Open University]]<br>[[Birkbeck, University of London|Birbeck College]]
+| alma_mater        = 
+| thesis_title      = Structural studies of the corneal stroma
+| thesis_url        = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.456973
+| thesis_year       = 1975
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            =  [[Order of the British Empire|DBE]]<br>[[FMedSci]],
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           =  {{URL|http://www.kent.ac.uk/about/vicechancellor/profile.html}}
+| footnotes         = 
+| spouse            = [[Peter Goodfellow]]<ref name="whoswho"/>
+}}'''Prof. Dame Julia Mary Goodfellow''', [[Order of the British Empire|DBE]], [[FMedSci]], [[Institute of Physics|FInstP]] (née Lansdall; born 1 July 1951) is [[Vice-Chancellor]] of the [[University of Kent]],<ref>[http://www.kent.ac.uk/news/stories/dbeforvc/2010 University of Kent website, 1]</ref><ref>[http://www.kent.ac.uk/news/inthenews/june/24.html University of Kent website, 2]</ref><ref>[http://www.bbk.ac.uk/about_us/fellows/goodfellow Birkbeck College website]</ref><ref name="microsoft">{{AcademicSearch|53319377}}</ref> and Chair of the [[British Science Association]].<ref>[http://www.britishscienceassociation.org/british-science-association/council British Science Association Council]</ref>
+
+==Early life and education==
+Goodfellow completed her undergraduate degree in physics at the [[University of Bristol]] and completed a Ph.D. in biophysics at the [[Open University]]<ref name="goodfellowphd">{{cite thesis |degree=PhD |first=Julia|last=Goodfellow |title=Structural studies of the corneal stroma |publisher=Open University |date=1975 |url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.456973|authorlink=Julia Goodfellow}}</ref> Research Unit in [[Oxford]]. She began her career as Professor of Biomolecular Science at [[Birkbeck College]] in 1995.<ref>[http://www.kent.ac.uk/vicechancellor/profile.html Goodfellow profile at the University of Kent website]</ref><ref>{{cite pmid|17052110}}</ref><ref>{{cite pmid|15840832}}</ref><ref>{{cite pmid|12854956}}</ref><ref>{{cite pmid|12668424}}</ref><ref>{{cite pmid|11897357}}</ref><ref>{{cite pmid|11839282}}</ref><ref>{{cite pmid|11706012}}</ref> In 2002, she was appointed CEO of the [[Biotechnology and Biological Sciences Research Council]], which funds scientific research projects at British universities.
+
+==Honours==
+*2001: Appointed [[Order of the British Empire|Commander of the Order of the British Empire]] (CBE)
+*2010: Promoted to [[Order of the British Empire|Dame Commander of the Order of the British Empire]] (DBE) 'For services to Science'<ref name="LG 12 June 2010">{{London Gazette |issue=59446 |date=12 June 2010 |startpage=6 |endpage= |supp=yes |accessdate=19 March 2013}}</ref>
+
+==Affiliations==
+* STEMnet
+* [[Daphne Jackson Trust]]
+* John Innes Foundation
+* East Malling Trust
+* British Science Association
+
+==Personal life==
+In 1972, Julia Lansdall married [[Peter Goodfellow]], with whom she has one daughter and one son.
+
+==References==
+<references/>
+
+{{S-start}}
+{{s-gov}}
+{{s-bef | before = [[Raymond Baker (chemist)|Ray Baker]]}}
+{{s-ttl | title = [[Chief executive officer|CEO]] of the [[Biotechnology and Biological Sciences Research Council]] | years = 2002–2007}}
+{{s-aft | after = [[Douglas Kell]]}}
+|-
+{{S-end}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Goodfellow, Julia
+| ALTERNATIVE NAMES = Lansdall, Julia Mary
+| SHORT DESCRIPTION = Academic, professor
+| DATE OF BIRTH     = 1 July 1951
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Goodfellow, Julia}}
+[[Category:1951 births]]
+[[Category:Academic administrators]]
+[[Category:Academics of Birkbeck, University of London]]
+[[Category:Alumni of the Open University]]
+[[Category:Alumni of the University of Bristol]]
+[[Category:British women scientists]]
+[[Category:Dames Commander of the Order of the British Empire]]
+[[Category:English academics]]
+[[Category:English biophysicists]]
+[[Category:English educators]]
+[[Category:English physicists]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Living people]]
+[[Category:People associated with the University of Kent]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Women academic administrators]]
+[[Category:Fellows of the Academy of Medical Sciences]]

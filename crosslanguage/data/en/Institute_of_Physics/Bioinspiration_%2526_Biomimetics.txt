@@ -1,0 +1,57 @@
+{{Infobox journal
+| title        = Bioinspiration & Biomimetics
+| cover        = 
+| editor       = Robert Allen
+| discipline   = Biological and Physical sciences
+| language     = English
+| abbreviation = Bioinspir. Biomim.
+| publisher    = IOP Publishing
+| country      = UK
+| frequency    = 4
+| history      = 2006–present
+| openaccess   = [[Hybrid open access journal|Hybrid]]
+| impact       = 2.412
+| impact-year  = 2012
+| website      = http://iopscience.org/bb
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         =
+| CODEN        = BBIICI
+| ISSN         = 1748-3182
+| eISSN        = 1748-3190
+}}
+
+'''''Bioinspiration & Biomimetics''''' is a [[peer-review]]ed journal that publishes research involving the study and distillation of principles and functions found in biological systems that have been developed through evolution. 
+
+The editor-in-chief is Robert Allen at the [[University of Southampton]], [[UK]].
+
+The journal is indexed in [[Medline]]/[[PubMed]], [[Inspec]], [[Scopus]], EMBiology, Current Awareness in Biological Sciences, [[NASA Astrophysics Data System]], [[VINITI]] Abstracts Journal ([[Referativnyi Zhurnal]]).
+
+==Abstracting and indexing==
+This journal is indexed by the following databases:
+* Science Citation Index 
+* Materials Science Citation Index
+* Journal Citation Reports/Science Edition
+* PubMed/MEDLINE 
+* Scopus 
+* Inspec 
+* [[Chemical Abstracts Service]] 
+* [[Current Awareness in Biological Sciences]] 
+* [[EMBiology]]  
+* NASA [[Astrophysics Data System]] 
+* [[VINITI Abstracts Journal]] ([[Referativnyi Zhurnal]])
+
+==External links==
+*[http://iopscience.org/bb Bioinspiration & Biomimetics]
+*[http://ioppublishing.org/ IOP Publishing]
+
+{{DEFAULTSORT:Bioinspiration and Biomimetics}}
+[[Category:Biology journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 2006]]

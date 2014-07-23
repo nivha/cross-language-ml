@@ -1,0 +1,122 @@
+{{About|the technology entrepreneur|the luthier|Hermann Hauser (luthier)}}
+{{BLP sources|date=March 2010}}
+{{Infobox person
+|name          = Hermann Maria Hauser
+|image         = Hermann_Hauser.jpg
+|image_width   = 150px 
+|birth_name    = Hermann Maria Hauser
+|birth_date    = {{Birth based on age as of date|48|1998|January|04}}<ref name="nytimes silicon fen">{{cite news | url=http://www.nytimes.com/1998/01/04/business/in-old-england-a-silicon-fen.html?pagewanted=2 | title=In Old England, A Silicon Fen | work=[[The New York Times]] | date=January 4, 1998 | accessdate=December 14, 2011 | author=Ibrahim, Youssef M. | location=New York}}</ref>
+|birth_place   = [[Vienna]]
+|death_date    =
+|death_place   =
+|residence     =
+|nationality   = [[Austrians|Austrian]]
+|ethnicity     = Austrian
+|citizenship   =
+|other_names   =
+|known_for     =
+|education     =
+|alma_mater    =
+|employer      =
+|occupation    = [[Inventor]], [[Entrepreneur]]
+|years_active  =
+|home_town     =
+|title         =
+|height        =
+|weight        =
+|religion      =
+|spouse        =
+|partner       =
+|children      =
+|parents       =
+|signature     =
+|website       =
+}}
+'''Hermann Maria Hauser''', [[CBE]]<ref>{{cite web | url= http://www.iconbar.com/articles/Founder_of_Acorn_Computers_honoured_with_CBE/index1109.html | title=Founder of Acorn Computers honoured with CBE | publisher=Icon Bar| accessdate=2010-04-15}}</ref> [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite web | url = http://royalsociety.org/people/hermann-hauser | title = Dr Hermann Maria Hauser CBE FREng FRS | publisher = [[Royal Society]] }}</ref> [[Royal Academy of Engineering|FREng]] FinstP [[CPhys]], is an [[entrepreneur]] who was born in [[Vienna]], Austria but is primarily associated with [[Silicon Fen]] in England.<ref name="ft 20 questions">{{cite web | url=http://www.ft.com/cms/s/0/c27e428c-0ec3-11e0-9ec3-00144feabdc0.html#axzz1ed9EPUKA | title=20 questions: Hermann Hauser | work=[[Financial Times]] | date=December 23, 2010 | accessdate=November 24, 2011 | author=Jacobs, Emma | quote=[...] the kingpin of the high-tech cluster, dubbed Silicon Fen [...]}}</ref>
+
+When he was 15 he came to the United Kingdom to learn English at a language school in [[Cambridge]]. After his first degree in [[Physics]] from [[Vienna University]], he returned to [[University of Cambridge|Cambridge]] to do a [[PhD]] in Physics at the [[Cavendish Laboratory]].
+
+He is probably most well known for his part in setting up [[Acorn Computers|Acorn]] with [[Chris Curry]] in 1978 (portrayed in the BBC drama [[Micro Men]]),<ref>{{cite web | url= http://www.bbc.co.uk/programmes/b00n5b92 | title=BBC Four Programmes Micro Men | publisher=BBC| accessdate=2010-04-15}}</ref> and was voted the UK's 'Computer Personality of the Year' of 1984.  When [[Olivetti]] took control of [[Acorn Computers|Acorn]] in 1985<ref>{{cite web | url= http://www.computinghistory.org.uk/det/5852/Olivetti-buy-49-of-Acorn-Computers/  | title=Olivetti buy 49% of Acorn Computers
+ | publisher=Computing History | accessdate=2010-04-15}}</ref> he became vice-president for research at [[Olivetti]] where he was in charge of laboratories in the U.S. and Europe. In 1986, Hauser co-founded the [[Olivetti Research Laboratory]] (ORL) in Cambridge along with Professor [[Andy Hopper]]. Hopper became the laboratory's Director.
+
+==Career==
+{{prose|section|date=June 2011}}
+In 1988, Hauser left Olivetti to start the Active Book Company, investing one million pounds of his own money. Not wanting to repeat the mistakes made by Acorn, which had kept its technology to itself, he demonstrated the Active Book to as many large companies as he could. [[AT&T Corporation]] acquired Active Book and incorporated it into [[EO Personal Communicator|EO]] in July 1991. Hauser became Chief Technical Officer and Chairman of EO Europe. EO folded on Friday, 29 July 1994.
+
+In 1990, Hauser was involved in spinning out [[Advanced RISC Machines]] (ARM) from Acorn.
+
+In 1993, Hauser set up [[Advanced Telecommunication Modules Ltd]] with Andy Hopper. The company was acquired by Conexant Systems on 1 March 2004. He founded NetChannel Ltd in June 1996 as a holding company in order to begin work on marketing the NetStation. NetChannel was sold to AOL in 1996.<ref name="irishtimes lillington 2012">{{cite news | url=http://www.irishtimes.com/newspaper/finance/2012/1108/1224326306603.html | title=From little Acorn grew an angel investor with an eye for the next big thing | work=[[The Irish Times]] | date=November 8, 2012 | accessdate=November 12, 2012 | author=Lillington, Karlin}}</ref> He claimed in the 1990s that the networking technology used for [[AppleTalk]] was based on the (unpatented) [[Cambridge Ring]].<ref name="compmus">{{cite journal |url = http://www.poppyfields.net/acorn/docs/armdocs/hauser.shtml | title = Missing The Big Time|first = Wendy | last = Grossman | journal = Personal Computer World Magazine |date=May 1993 }}</ref><ref name="wired anderson 1996">{{cite news|last=Anderson|first=Christopher|title=Herman Hauser's Second Chance|url=http://yoz.com/wired/2.05/features/hauser.html|accessdate=28 May 2012|newspaper=[[Wired UK]]|date=May 1996}}</ref>
+
+In 1997 he co-founded Amadeus Capital Partners Ltd, a venture capital company, and in 1998 he co-founded [[Cambridge Network|Cambridge Network Ltd]] with [[David Cleevely]] and [[Alec Broers]].<ref>{{cite web | url= http://my.safaribooksonline.com/0130654159/ch11lev1sec11 | title=A Gentle Persuasion to Collaborate — Organizing and Building the Cambridge Network | publisher=Safari Books Online | accessdate=2009-01-08}}</ref>
+
+In 1998, Hauser was elected into an Honorary Fellowship of [[Hughes Hall, Cambridge]], and he was also elected into an Honorary Fellowship of [[King's College, Cambridge|King's College]] with effect from 1 January 2000. In the same year he was awarded the [[Mountbatten Medal]].<ref>{{cite web | url= http://www.theiet.org/about/libarc/archives/institution-history/mountbatten-medal.cfm  | title=Archives Mountbatten Medallists | publisher=IET | accessdate=2010-04-15}}</ref>
+
+In 2000, [[Plastic Logic]] was founded, with Hauser as chairman.<ref>
+{{cite news
+| first = Peter
+| last = Clarke
+| title = Cambridge spin-off to study plastic semiconductors
+| date = 2000-11-27
+| publisher = [[EE Times]]
+| url = http://www.eetimes.com/electronics-news/4168361/Cambridge-spin-off-to-study-plastic-semiconductors-item-1
+| work = EE Times
+| accessdate = 2011-06-08
+| quote = [...] Herman Hauser, chairman of Plastic Logic [...]}}
+</ref>
+
+Hauser was awarded an Honorary CBE for "innovative service to the UK enterprise sector" in 2001.
+
+On 14 June 2001, the Hauser-Raspe Foundation was registered as a charity by Dr Hermann Hauser and Dr Pamela Raspe to advance education.
+
+On 8 July 2002, Hauser was elected as a Fellow of the [[Institute of Physics]] and as a Fellow of the [[Royal Academy of Engineering]].
+
+In May 2004 he presented the prestigious IEE [[Pinkerton Lecture]].
+
+In August 2004, Amadeus Capital Partners led the Series B [[venture capital financing]] of Solexa, Ltd and Hermann Hauser joined its Board of Directors.  Solexa developed a next-generation DNA sequencing technology which became the market leader.  Solexa was sold to Illumina, Inc (ILMN) of San Diego in January 2007 for over $600M.  In 2009, Dr. Hauser was announced as the first customer of the Illumina Personal Genome Sequencing service.
+
+In 2005, Hauser received a Lifetime Achievement Award for his work as a venture capitalist and entrepreneur. The award was presented at the annual [[European Electronics Industry Awards]] in London.
+
+As of 2009, Dr. Hauser is the head of the East Anglia Stem Cell research network.
+
+Dr Hauser is a [[Non-Executive Director]] of Cambridge Display Technology Ltd, a Non-Executive Director of [[XMOS]]<ref>{{cite web | url= http://www.xmos.com/company/team/dr-hermann-hauser | title=XMOS Dr Hermann Hauser | publisher=XMOS| accessdate=2010-04-15}}</ref> Ltd and a Member of the Board of Red-M (Communications) Ltd. He holds honorary doctorates from the Universities of [[University of Bath|Bath]] and [[Loughborough University|Loughborough]] and from [[Anglia Ruskin University]]. He is a member of the Advisory Board on the Higher Education Innovation Fund, and of the UK's [http://www.cst.gov.uk/ Council for Science and Technology]. Hauser was commissioned by the [[Department for Business, Innovation and Skills]] to write a report on technology and innovation in the UK,<ref name="russellgroup 2010">{{cite news | url=http://www.russellgroup.ac.uk/russell-group-latest-news/121-2010/4163-hermann-hausers-recommendations-to-government-on-innovation/ | title=Hermann Hauser's recommendations to government on innovation | date=April 2, 2010 | accessdate=April 10, 2012 | publisher=[[Russell Group]]}}</ref><ref name="bis.gov.uk 2010">{{cite web | url=http://www.bis.gov.uk/assets/biscore/innovation/docs/10-843-role-of-technology-innovation-centres-hauser-review | title=The Current and Future Role of Technology and Innovation Centres in the UK | date=March 25, 2010 | accessdate=April 10, 2012}}</ref> which contributed to the government's fund for [[Technology and Innovation Centre]]s.<ref name="telegraph 2011">{{cite news | url=http://www.telegraph.co.uk/technology/news/8499528/WIREDs-top-100-the-top-20.html | title=WIRED's top 100: the top 20 | work=[[The Daily Telegraph]] | date=May 6, 2011 | accessdate=April 10, 2012}}</ref>
+
+In 2010, ''[[Eureka (Times magazine)|Eureka]]'', in its "100 most important scientists", placed Hauser at 51.<ref name="physicsworld top uk scientists">{{cite web | url=http://physicsworld.com/blog/2010/10/100_top_uk_scientists_revealed.html | title=100 top UK scientists revealed | publisher=[[The Times]] | work=[[Eureka (Times magazine)|Eureka]] | date=October 7, 2010 | accessdate=November 24, 2011 | author=Durrani, Matin | quote=In 51st is entrepreneur and founder of Acorn Computers Hermann Hauser [...]}}</ref> He became patron of [[The Centre for Computing History]] in December 2011, 30 years after the launch of the [[BBC Micro]].<ref name="businessweekly hauser patron">{{cite news | url=http://www.businessweekly.co.uk/hi-tech/13254-hauser-patron-of-new-centre-for-computing-history | title=Hauser patron of new Centre for Computing History | work=Business Weekly | date=December 12, 2011 | accessdate=December 13, 2011 | author=Walker, Alice | location=Cambridge | publisher=Q Communications | quote=Dr Hermann Hauser has been named as patron of the new Centre for Computing History in Cambridge UK. [...] agreed to take on the important role 30 years after the company he co-founded - Acorn Computers - unveiled the BBC Micro [...]}}</ref>
+
+==Notes==
+{{Reflist|30em}}
+
+== External links ==
+*[http://www.lboro.ac.uk/service/publicity/degree_days/degree_1998/hauser.html Public oration], [[Loughborough University]], 1998
+*[http://yoz.com/wired/2.05/features/hauser.html Hermann Hauser's Second Chance] by Christopher Anderson, 1996
+*[http://www.cambridgenetwork.co.uk/ Cambridge Network [Founded by Hermann Hauser&#93;]
+*[http://www.ingenia.org.uk/ingenia/articles.aspx?Index=462 Dr Hermann Hauser CBE FREng], ''Ingenia'', Issue 33, Dec 2007
+*[http://www.alanmacfarlane.com/ancestors/hauser.htm Hermann Hauser interviewed by Alan Macfarlane 3 September 2008 (film)]
+<!-- http://www.lboro.ac.uk/service/publicity/degree_days/degree_1998/hauser.html -->
+
+{{Authority control|WORLDCATID=np-hauser,%20hermann|VIAF=168388841|LCCN=nb/2011/004473}}
+
+{{BBC Computer Literacy Project}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Hauser, Hermann
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Austrian businessman
+| DATE OF BIRTH     =23 October 1948
+| PLACE OF BIRTH    =[[Vienna]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hauser, Hermann}}
+[[Category:Living people]]
+[[Category:Austrian businesspeople]]
+[[Category:British businesspeople]]
+[[Category:Acorn Computers]]
+[[Category:Alumni of King's College, Cambridge]]
+[[Category:Fellows of King's College, Cambridge]]
+[[Category:Fellows of Hughes Hall, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Austrian emigrants to England]]
+[[Category:Businesspeople from Vienna]]

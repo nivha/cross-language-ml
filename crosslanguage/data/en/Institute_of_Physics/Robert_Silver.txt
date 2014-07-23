@@ -1,0 +1,33 @@
+'''Robert Simpson Silver''' [[CBE]] [[Fellow of the Royal Society of Edinburgh|FRSE]] (1913-1997) was a Scottish physicist and mechanical engineer, awarded the [[Unesco Prize for Science]] in 1968 for his discovery of a process for the [[Desalination|demineralisation]] of [[sea water]]. Prior to his work there had been no commercially viable desalination process that involved continuous flow; plants had to be stopped and emptied of accumulated salt from time to time, such as when a passenger liner using desalination was in port. Silver performed a thermodynamic analysis showing that [[reverse osmosis]] and multistage flash were the optimal processes. As reverse osmosis technology was inadequate in the mid-20th century he designed multistage flash equipment, of which the first large-scale installation was in Kuwait.
+
+Silver was also a poet and playwright who had work performed at the [[Edinburgh Festival]].
+
+{{Persondata
+| NAME              = Silver, Robert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1913
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1997
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Silver, Robert}}
+[[Category:1913 births]]
+[[Category:1997 deaths]]
+[[Category:20th-century scientists]]
+[[Category:20th-century physicists]]
+[[Category:People from Montrose, Angus]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Academics of Heriot-Watt University]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Scottish physicists]]
+[[Category:Scottish mechanical engineers]]
+[[Category:Scottish inventors]]
+
+
+{{Scotland-engineer-stub}}
+{{Scotland-scientist-stub}}
+{{UK-physicist-stub}}

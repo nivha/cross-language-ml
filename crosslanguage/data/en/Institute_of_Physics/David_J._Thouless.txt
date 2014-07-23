@@ -1,0 +1,70 @@
+{{more footnotes|date=February 2013}}
+{{Infobox scientist
+| name        = David James Thouless
+| image       = 
+| image_size =
+| birth_date  = {{Birth date and age|df=y|1934|9|21}}
+| birth_place = [[Bearsden]], [[Scotland]]
+| residence   = United States
+| nationality = Scottish <br />American
+| field       = [[Condensed matter physics]]
+| alma_mater  = [[Trinity Hall, Cambridge]]<br>[[Cornell University]]
+| work_institution  = [[University of California, Berkeley]]<br />[[Birmingham University]]<br />[[University of Washington]]
+| doctoral_advisor  = [[Hans Bethe]]
+| doctoral students = [[Sung Wu Rhee]] <br> /> [[Jens Koch]] <br> /> [[Chulan Kwon]] <br> />
+| known_for = [[Kosterlitz–Thouless transition]]<br />[[Thouless energy]]<br />[[Topological quantum number]]s
+| prizes    = {{nowrap|[[Lars Onsager Prize]] {{small|(2000)}}  }}
+| footnotes = 
+}}
+'''David James Thouless''' (born 21 September 1934) is a condensed-matter [[physicist]] and [[Wolf Prize]] winner.<ref>[http://books.google.ca/books?id=Z4PN4GnsrSgC&q=%22Thouless,+david+james%22+1934&dq=%22Thouless,+david+james%22+1934&hl=en&sa=X&ei=k9WWUdjJM-X5iwKd-oGQAw&ved=0CFQQ6AEwCA The international who's who 1991-92]</ref>
+
+Thouless earned his PhD at [[Cornell University]] under [[Hans Bethe]]. He was a professor of mathematical physics at [[Birmingham University]] in the [[United Kingdom]] before becoming a professor of physics at the [[University of Washington]] in [[Seattle]] in 1980.  Thouless has made many theoretical contributions to the understanding of extended systems of atoms and electrons, and of nucleons.  Areas that his work has impacted include superconductivity phenomena, properties of nuclear matter, and excited collective motions within nuclei.
+
+Thouless is a Fellow of the [[Royal Society]], Fellow of the [[American Physical Society]], Fellow of the [[American Academy of Arts and Sciences]], and a member of the U.S. [[United States National Academy of Sciences|National Academy of Sciences]]. Among his many awards are the [[Wolf Prize]] for Physics (1990), the [[Dirac Prize|Paul Dirac Medal]] of the [[Institute of Physics]] (1993), and the Lars Onsager Prize of the [[American Physical Society]] (2000).
+
+==Selected Publications==
+
+*J. M. Kosterlitz & D. J. Thouless, "[http://dx.doi.org/10.1088/0022-3719/6/7/010 Ordering, metastability and phase transitions in two-dimensional systems]", Journal of Physics C: Solid State Physics, Vol. 6 pages 1181-1203 (1973)
+
+* D. Thouless, M. Kohmoto, M. Nightingale & M. den Nijs, "[http://dx.doi.org/10.1103/PhysRevLett.49.405 Quantized Hall Conductance in a Two-Dimensional Periodic Potential]", Phys. Rev. Lett. 49, 405 (1982).
+
+* Topological Quantum Numbers in Nonrelativistic Physics, World Scientific Publishing Co. Pte Ltd, 1998
+
+* The quantum mechanics of many-body systems (Pure and applied physics series), Academic Press, 1972
+
+==See also==
+*[[Berezinsky-Kosterlitz-Thouless transition]]
+*[[Thouless energy]]
+
+==References==
+
+{{Reflist}}
+
+==External links==
+*[http://www.lanl.gov/orgs/pa/newsbulletin/2004/04/23/text04.shtml David Thouless profile in the LANL Daily News Bulletin]
+* ''David James Thouless, University of Washington: 2000 Lars Onsager Prize Recipient'' ([http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?name=David%20James%20Thouless Americal Physical Society])
+
+{{Wolf Prize in Physics}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Thouless, David
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American nuclear physicist
+| DATE OF BIRTH     = 21 September 1934
+| PLACE OF BIRTH    = [[Bearsden]], [[Scotland]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Thouless, David}}
+[[Category:1934 births]]
+[[Category:People from Bearsden]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Cornell University alumni]]
+[[Category:American physicists]]
+[[Category:American nuclear physicists]]
+[[Category:Living people]]
+[[Category:University of Washington faculty]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:Alumni of Trinity Hall, Cambridge]]

@@ -1,0 +1,49 @@
+{{Use dmy dates|date=October 2013}}
+'''Heather Reid''' [[Officer of the Most Excellent Order of the British Empire|OBE]] [[Chartered Physicist|CPhys]] [[Institute of Physics|FinstP]] (born c. 1969), known affectionately by her fans as '''"Heather the Weather"''', is a Scottish [[meteorologist]] and former television [[weather presenter]] for [[BBC Scotland]]. She was formerly employed by the UK [[Met Office]], starting in 1993.<ref name="bbc1">[http://news.bbc.co.uk/1/hi/scotland/8403564.stm Heather the weather to leave BBC Scotland], BBC News Online, 9 December 2009</ref> She was BBC Scotland's senior weather forecaster, having presented the weather on ''[[Reporting Scotland]]'' from 1994 to 2009.<ref name="bbc1"/>
+
+==Career==
+
+Reid was born in [[Paisley, Scotland|Paisley]], and graduated from [[Edinburgh University]] with an honours degree in [[physics]]. She followed this with a masters degree in [[image processing]] from Edinburgh University's Meteorology Department.
+
+Between 1999 and 2001, Reid was Chairperson of the [[Institute of Physics]] in Scotland. She is also is a fellow of the [[Royal Meteorological Society]] and has an honorary lectureship in the Physics and Astronomy Dept at [[Glasgow University]]. In 2001, she was awarded the Public Awareness of Physics prize for her science communication work and the prestigious [[Kelvin Prize|Kelvin Medal]] from the [[Institute of Physics]] in 2004. Reid holds an honorary doctorate from the University of Paisley, and has also served as a Council member and non-executive director of the [[Institute of Physics]] London. On 16 June 2010 she was awarded an honorary doctorate by the [[University of Glasgow]].
+
+In the summer of 2006, Reid became a member of the Board of Trustees of [[Glasgow Science Centre]], maintaining a connection that has seen her involved in various stages with the Centre, notably developing educational weather shows and workshops.
+
+Reid was awarded the title of Officer of the [[Order of the British Empire]] (OBE) for services to physics in HM [[Elizabeth II of the United Kingdom|Queen Elizabeth II's]] New Year Honours list, announced on 30 December 2006.<ref name="bbc1"/> She presented her final forecast for ''Reporting Scotland'' on 22 December 2009,<ref name="bbc1"/> and now works as science education consultant with a variety of organisations. Reid is also a member of the science and engineering education advisory group recently set up by the [[Scottish Government]].
+
+She currently resides in Glasgow with her husband [[Miles J. Padgett|Miles Padgett]], a professor of physics, and their daughter.<ref>[http://news.bbc.co.uk/1/hi/scotland/1496752.stm BBC News | SCOTLAND | Sun shines on Heather the wedder<!-- Bot generated title -->]</ref>
+
+==Popular culture==
+
+Edinburgh band Randan Discothèque's 2010 single "Heather the Weather" is a homage to Heather Reid.<ref>[http://www.list.co.uk/article/31923-randan-discotheques-heather-the-weather-single-of-the-month/ Randan Discotheque's Heather the Weather - Single of the Month]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{bbc.co.uk|id=weather/bbcweather/forecasters/heatherreid.shtml|title=Heather Reid}}
+*[http://www.britishcouncil.org/science-testimonials-heather-reid.htm British Council feature]{{dead link|date=November 2012}}
+*[http://web.archive.org/web/20070929022438/http://www.girlguidingscotland.org.uk/information/info_interview_reid.htm Featured interview by Girl Guiding Scotland] (archive)
+*{{IMDb name|id=0717286|name=Heather Reid}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Reid, Heather
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British weather forecaster
+| DATE OF BIRTH     = 1969
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Reid, Heather}}
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:BBC Scotland newsreaders and journalists]]
+[[Category:1969 births]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Living people]]
+[[Category:Scottish meteorologists]]
+[[Category:Scottish physicists]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:Women physicists]]
+[[Category:People from Paisley]]
+[[Category:BBC weather forecasters]]

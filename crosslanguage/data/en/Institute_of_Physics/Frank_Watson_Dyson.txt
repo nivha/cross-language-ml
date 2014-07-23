@@ -1,0 +1,111 @@
+{{Infobox scientist
+|name              = Sir Frank Watson Dyson
+|image             = Frank Watson Dyson.jpg
+|image_size       = 240px
+|caption           = 
+|birth_date        = {{birth-date|8 January 1868}} 
+|birth_place       = [[Measham]], [[Leicestershire]], [[England]]
+|death_date = {{death-date|25 May 1939 }} (aged 71)
+|death_place       = At sea
+|residence         = 
+|citizenship       = 
+|nationality       = British
+|ethnicity         = 
+|field             = 
+|work_institutions = 
+|alma_mater        = [[Trinity College, Cambridge]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = Astronomer Royal
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Royal Medal]] {{small|(1921)}}
+|footnotes         = 
+|signature         = Dyson Frank signature.jpg
+}}
+
+'''Sir Frank Watson Dyson''', [[Order of the British Empire|KBE]], [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1940.0015}}</ref> (8 January 1868 &ndash; 25 May 1939) was an [[England|English]] [[astronomer]] and [[Astronomer Royal]] who is remembered today largely for introducing time signals ("pips") from Greenwich, England, and for the role he played in proving Einstein's theory of general relativity.
+
+== Biography ==
+Dyson was born in [[Measham]], near [[Ashby-de-la-Zouch]], Leicestershire, the son of the Rev Watson Dyson, but soon moved to Yorkshire. There he attended [[Heath Grammar School]], [[Halifax, West Yorkshire|Halifax]], and subsequently won scholarships to [[Bradford Grammar School]] and [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge|Cambridge University]], where he studied mathematics and astronomy, being placed [[Second Wrangler]] in 1889.<ref>{{acad|id=DY886FW|name=Dyson, Frank Watson}}</ref>
+
+In 1894 he was given the post of Senior Assistant at Greenwich Observatory and worked on the [[Astrographic Catalogue]], which was published in 1905.<ref name = Harvard>{{cite web | url = http://adsabs.harvard.edu/full/1939Obs....62..179S|title = Obituary: Sir Frank Watson Dyson| accessdate = 2012-05-17}}</ref>
+
+He was appointed [[Astronomer Royal for Scotland]] from 1905 to 1910, and Astronomer Royal (and director of the [[Royal Greenwich Observatory]]) from 1910 to 1933. In 1928, he introduced in the Observatory a new [[Shortt-Synchronome clock|free-pendulum clock]], the most accurate clock available at that time and organised the regular wireless transmission from the GPO wireless station at Rugby of [[Greenwich Mean Time]]. He also, in 1924, introduced the distribution of the "[[Greenwich Time Signal|six pips]]" via the BBC. He was for several years President of the [[British Horological Institute]] and was awarded their Gold Medal in 1928.<ref name = Harvard/>
+
+Dyson was noted for his study of [[solar eclipse]]s and was an authority on the [[spectrum]] of the [[corona]] and on the chromosphere.  He is credited with organizing expeditions to observe the 1919 solar eclipse at [[Brazil]] and [[Principe]], observations from which confirmed [[Einstein]]'s theory of the effect of gravity on light.
+
+Dyson died while travelling from Australia to England in 1939 and was buried at sea. He had married Caroline Bisset Best, the daughter of Palemon Best, with whom he had two sons and six daughters.<ref name = Harvard/>
+
+== Honours and Awards ==
+
+* [[Fellow of the Royal Society]] - 1901<ref name="frs"/>
+* President, [[Royal Astronomical Society]] - 1911&ndash;1913
+* Vice-president, Royal Society - 1913&ndash;1915
+* Knighted - 1915
+* President, British Astronomical Association, 1916&ndash;1918
+* Royal Medal of the [[Royal Society]] - 1921
+* [[Bruce Medal]] of the Astronomical Society of the Pacific - 1922
+* [[Gold Medal of the Royal Astronomical Society]] - 1925
+* [[Order of the British Empire|Knight Commander of the Order of the British Empire]] - 1926
+* Gold medal of British Horological Institute - 1928
+* President of the International Astronomical Union - 1928&ndash;1932
+* Between 1894&ndash;1906, Dyson lived at 6 Vanbrugh Hill, [[Blackheath, London|Blackheath]], London SE3, in a house now marked by a [[blue plaque]].
+* The crater [[Dyson (crater)|Dyson]] on the [[Moon]] is named after him, as is the [[asteroid]] [[1241 Dysona]].
+
+[[Image:1919 eclipse positive.jpg|right|150px|thumb|Eclipse photograph from 1919 expedition<ref>{{Cite doi |10.1098/rsta.1920.0009}}</ref>]]
+
+==Frank Dyson and Freeman Dyson==
+Frank Dyson and theoretical physicist [[Freeman Dyson]] are not related. However, the latter does credit Sir Frank with sparking his interest in astronomy; because they shared the same last name, Sir Frank's achievements were discussed by Freeman Dyson's family when he was a young boy.{{citation needed|date=September 2011}} Inspired, Dyson's first attempt at writing was a 1931 piece of [[juvenilia]] entitled "Sir Phillip Robert's Erolunar Collision" &mdash; Sir Philip being a thinly disguised version of Sir Frank.
+
+== Selected writings ==
+* [https://archive.org/details/astronomy00dysouoft Astronomy], Frank Dyson, London, Dent, 1910
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+* [http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0180%2FRGO%208 Online catalogue of Dyson's working papers (part of the Royal Greenwich Observatory Archives held at Cambridge University Library)]
+* [http://www.phys-astro.sonoma.edu/BruceMedalists/Dyson/index.html Bruce Medal page]
+* [http://adsabs.harvard.edu//full/seri/PASP./0034//0000002.000.html Awarding of Bruce Medal: PASP '''34''' (1922) 2]
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0085//0000672.000.html Awarding of RAS gold medal: MNRAS '''85''' (1925) 672]
+* [http://adsabs.harvard.edu//full/seri/AN.../0268//0000207.000.html Astronomische Nachrichten '''268''' (1939) 395/396] (one line)
+* [http://adsabs.harvard.edu//full/seri/MNRAS/0100//0000238.000.html Monthly Notices of the Royal Astronomical Society '''100''' (1940) 238]
+* [http://adsabs.harvard.edu//full/seri/Obs../0062//0000179.000.html The Observatory '''62''' (1939) 179]
+* [http://adsabs.harvard.edu//full/seri/PASP./0051//0000336.000.html Publications of the Astronomical Society of the Pacific '''51''' (1939) 336]
+
+{{Astronomers Royal}}
+
+{{Authority control|VIAF=8134870}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Dyson, Frank Watson
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = English astronomer and Astronomer Royal 
+| DATE OF BIRTH     = 8 January 1868
+| PLACE OF BIRTH    = [[Measham]], [[Leicestershire]], England
+| DATE OF DEATH     = 25 May 1939
+| PLACE OF DEATH    = At sea
+}}
+{{DEFAULTSORT:Dyson, Frank Watson}}
+[[Category:1868 births]]
+[[Category:1939 deaths]]
+[[Category:Astronomers Royal]]
+[[Category:People who died at sea]]
+[[Category:Burials at sea]]
+[[Category:English astronomers]]
+[[Category:People from Measham]]
+[[Category:Royal Medal winners]]
+[[Category:People educated at Bradford Grammar School]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:Second Wranglers]]
+[[Category:Recipients of the Bruce Medal]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:20th-century astronomers]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:People educated at Heath Grammar School]]
+[[Category:Academics of the University of Edinburgh]]

@@ -1,0 +1,48 @@
+{{refimprove|date=October 2013}}
+
+{{Infobox magazine
+| title = CERN Courier
+| cover =
+| editor =
+| category = [[High-energy physics]]
+| language = English
+| former_names =
+| abbreviation =
+| publisher = [[IOP Publishing]]
+| country =
+| frequency = 12/year
+| firstdate = 1959
+| openaccess = 1998–present
+| license =
+| impact =
+| impact-year =
+| website = http://cerncourier.com/cws/latest/cern
+| link1 =
+| link1-name =
+| link2 =
+| link2-name =
+| JSTOR =
+| OCLC =
+| LCCN =
+| CODEN = CECOA
+| issn = 0007-831X
+| e-issn = 0304-288X
+}}
+
+'''''CERN Courier''''' (or sometimes '''''CERN Courier: International Journal of High Energy Physics''''') is a monthly [[trade magazine]] reporting news and events related to [[CERN]]'s [[high-energy physics]] community. It was established in 1959 and is published by [[IOP Publishing]] since October 1998. '''''CERN Computer Newsletter''''' is a side-publication covering news related to the CERN's computing facilities.
+
+In addition to news and events, ''CERN Courier'' will often do cover pieces on influential physicists or retrospectives on significant historical moments of high-energy physics history. [[Book review]]s, [[white paper]]s, [[obituary|obituaries]], and product releases are also featured in the magazine.
+
+==References==
+
+<references />
+
+==External links==
+* {{Official|http://cerncourier.com/cws/latest/cern}}
+
+[[Category:CERN]]
+[[Category:Professional and trade magazines]]
+[[Category:IOP Publishing academic journals]]
+[[Category:English-language magazines]]
+[[Category:Magazines established in 1959]]
+[[Category:Monthly magazines]]

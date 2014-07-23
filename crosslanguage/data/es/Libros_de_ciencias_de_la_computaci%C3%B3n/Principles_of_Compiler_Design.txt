@@ -1,0 +1,17 @@
+Principles of Compiler Design (Principios de diseño del compilador), es un libro clásico de sobre compiladores para los lenguajes el de programación de computadora escrito por Alfred Aho y Jeffrey D. Ullman.
+
+A menudo llamado "el libro del dragón" porque su cubierta representa a un caballero y un dragón en batalla; el dragón es verde, y está etiquetado "Complejidad de la Construcción del Compilador", mientras que el caballero maneja una lanza etiquetada "generador parser LALR". El libro puede ser llamado "el libro del dragón verde" para distinguirlo de su sucesor, el libro Compilers: Principles, Techniques, and Tools (Compiladores: Principios, Técnicas y Herramientas) de Aho, Sethi y Ullman, que es "el libro del dragón rojo" porque el dragón en su cubierta es rojo. La segunda edición de Compilers: Principles, Techniques, and Tools agregó a un cuarto autor, Monica S. Lam, y el dragón se convirtió en púrpura; por lo tanto convirtiéndose en "el libro del dragón púrpura".
+
+La contraportada ofrece un humorístico diferente punto de vista sobre el problema - el dragón es reemplazado por molinoes de viento, y el caballero es Don Quijote.
+
+Hoy en día, Principles of Compiler Design está bastante anticuado, pero cuando salió, en 1977, fue aclamado por su inclinación práctica; incluyó tratamientos de todas las fases de la compilación, con suficiente detalle algorítmico que los estudiantes podían construir sus propios pequeños compiladores en un semestre.
+
+El libro fue publicado por Addison-Wesley, ISBN 0-201-00022-9. Los reconocimientos mencionan que el libro fue enteramente compuesto en los Laboratorios Bell usando troff en el sistema operativo Unix, que en aquel momento había sido poco visto fuera de los laboratorios.
+
+== Véase también ==
+
+* Compilers: Principles, Techniques, and Tools
+
+Categoría:Libros de informática
+Categoría:Compiladores
+Categoría:Teoría de lenguajes de programación

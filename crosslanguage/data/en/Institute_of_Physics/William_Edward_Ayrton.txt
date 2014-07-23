@@ -1,0 +1,116 @@
+{{Infobox scientist
+|name              = William Edward Ayrton
+|image             = William Edward Ayrton (1847-1908).jpg
+|image_size        = 
+|caption           = William Edward Ayrton
+|birth_date        = September 14, 1847 
+|birth_place       = [[London]], [[England]]
+|death_date        = {{Death date and age|1908|11|08|1847|11|14}}
+|death_place       = London
+|citizenship       = [[United Kingdom|British]]
+|nationality       = 
+|fields            = [[physics]], [[electrical engineering]]
+|workplaces        = 
+|alma_mater        =
+|academic_advisors = [[William Thomson, 1st Baron Kelvin|The Lord Kelvin]]
+|notable_students  = 
+|known_for         = 
+|influences        = 
+|influenced        = 
+|awards            = [[Fellow of the Royal Society]]<br>[[Royal Medal]] {{small|(1901)}}
+|religion          =
+}}
+'''William Edward Ayrton''', [[Fellow of the Royal Society|FRS]] (14 September 1847 – 8 November 1908) was an [[England|English]] [[physicist]] and [[electrical engineer]].
+
+==Life==
+Ayrton was born in [[London]], the son of Edward Nugent Ayrton, a barrister, and educated at [[University College School]] and [[University College, London]]. He later studied under [[Lord Kelvin]] at [[Glasgow]].
+
+Ayrton’s second wife, [[Hertha Marks Ayrton]], whom he married in 1885, assisted him in his research, and became known for her own scientific work on the electric arc and other subjects.  In 1899, Ayrton supported Hertha on her way to being elected the first woman member of the [[Institution of Electrical Engineers]] and the Royal Society awarded her a Royal Medal in 1906. Their daughter [[Barbara Ayrton-Gould|Barbara]] later became a [[Labour Party(UK)|Labour]] MP, and grandson [[Michael Ayrton]], was an [[artist]] and [[sculptor]].
+
+Previously, Ayrton had been married to a cousin, [[Matilda Chaplin Ayrton|Matilda Chaplin]] (1846–1883); their marriage had taken place while Ayrton was on home leave from India and Matilda was involved in the [[Edinburgh Seven]] campaign to open [[medical education]] to women.
+
+Chaplin and Ayrton's daughter was the feminist and author [[Edith Ayrton]], wife of [[Israel Zangwill]] and mother of [[Oliver Zangwill]].<ref name="Nyenhuis2003">{{cite book|last=Nyenhuis|first=Jacob E.|title=Myth and the creative process: Michael Ayrton and the myth of Daedalus, the maze maker|year=2003|publisher=Wayne State University Press|location=Detroit|isbn=0-8143-3002-9|page=207|chapter=notes}}</ref>
+
+==Career==
+
+===India===
+In 1868, Ayrton went to [[Bengal]] in the service of the [[British India|Indian Government]] [[Telegraph]] department, where he invented a method of detecting faults in lines, which was of great benefit in the maintenance of the overland communications network.
+
+===Japan===
+In 1873, Ayrton accepted an [[O-yatoi gaikokujin|invitation from the Japanese government]] as Chair of Natural Philosophy and Telegraphy at the new [[Imperial College of Engineering]], [[Tokyo]]. He is credited with introducing the electric [[arc lamp|arc light]] to Japan in 1878.
+
+===London===
+On his return to London six years later, Ayrton became professor of applied physics at the [[Finsbury College]] of the [[City and Guilds of London Technical Institute]], and, in 1884, he was chosen professor of electrical engineering,<ref>{{Cite EB1911|noicon=1|wstitle=Ayrton, William Edward}}</ref> or of applied physics,<ref name="Nyenhuis2003" /> at the [[Central Technical College]], [[South Kensington]].  He published, both alone and jointly with others, a large number of papers on physical, and in particular electrical, subjects, and his name was especially associated, together with that of Professor [[John Perry (engineer)|John Perry]], with the invention of a long series of electrical measuring instruments, including the spiral-spring [[ammeter]], and the [[wattmeter]].  They also worked on [[railway electrification]], produced a [[dynamometer]] and the first electric [[tricycle]].  Ayrton is also known for his work on the electric [[searchlight]].
+
+Ayrton died in London in 1908 and is buried in [[Brompton Cemetery]].
+
+==Honours and awards==
+He was elected president in 1892 of the [[Institute of Electrical Engineers]]. 
+He was elected a [[Fellow of the Royal Society]] in 1881 and awarded their [[Royal Medal]] in 1901.
+
+[[File:WilliamAyrtonBrompton.jpg|thumb|right|225px|Funerary monument, Brompton Cemetery, London]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Graham Gooday's entry in the New [[Dictionary of National Biography]] published in September 2004.
+*{{cite book
+ | last = Cortazzi 
+ | first = Hugh
+ | year = 2002 
+ | title = Britain and Japan, Biographical Portraits, Volume IV 
+ | publisher = Japan Library 
+ | location = 
+ | isbn = 1-903350-14-X
+}}
+*{{cite book
+ | last = Morris-Suzuki
+ | first = Tessa
+ | year = 1994
+ | title = The Technological Transformation of Japan: From the Seventeenth to the Twenty-First Century
+ | publisher = Cambridge University Press
+| isbn = 0-521-42492-5
+}}
+
+==See also==
+{{EB1911 poster|Ayrton, William Edward}}
+*[[Henry Dyer]]
+*[[John Milne]]
+*[[Anglo-Japanese relations]]
+* [[Ayrton shunt]]
+
+{{Authority control|VIAF=8171259}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Ayrton, William Edward
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION = British physicist
+|DATE OF BIRTH= 14 September 1847 
+|PLACE OF BIRTH= [[London]]
+|DATE OF DEATH= 8 November 1908
+|PLACE OF DEATH= [[London]]
+}}
+{{DEFAULTSORT:Ayrton, William Edward}}
+[[Category:1847 births]]
+[[Category:1908 deaths]]
+[[Category:People from London]]
+[[Category:Alumni of University College London]]
+[[Category:English expatriates in Japan]]
+[[Category:English physicists]]
+[[Category:Foreign advisors to the government in Meiji-period Japan]]
+[[Category:Foreign educators in Japan]]
+[[Category:Burials at Brompton Cemetery]]
+[[Category:English inventors]]
+[[Category:Fellows of the Royal Society]]
+[[Category:People educated at University College School]]
+[[Category:Royal Medal winners]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:19th-century English people]]
+[[Category:20th-century British people]]
+[[Category:Presidents of the Physical Society]]
+[[Category:English electrical engineers]]
+[[Category:19th-century physicists]]
+[[Category:20th-century physicists]]
+[[Category:19th-century engineers]]

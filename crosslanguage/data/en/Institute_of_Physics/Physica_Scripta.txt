@@ -1,0 +1,54 @@
+{{Infobox Journal
+| cover        = [[File:PhysScriptaCover.gif]]
+| editor       = 
+| discipline   = Physics
+| abbreviation = Phys. Scripta
+| publisher    = [[IOP Publishing]]
+| country      = UK
+| frequency    = Monthly
+| history      = 1970-present
+| openaccess   = 
+| impact       = 1.032
+| impact-year  = 2012
+| website      = http://iopscience.iop.org/1402-4896
+| link1        = 
+| link1-name   = 
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         = 
+| CODEN        = 
+| ISSN         = 1402-4896
+| eISSN        = 1402-4896
+| boxwidth     = 
+}}
+
+'''''Physica Scripta''''' is an international [[scientific journal]] for experimental and [[theoretical physics]]. It was established in 1970 and is published jointly by [[IOP Publishing]] on behalf of the [[Royal Swedish Academy of Sciences]] jointly with other Academies of Sciences and Physical Societies of the five [[Nordic Countries]]. The journal covers both experimental and theoretical physics, with an accent on atomic, molecular and optical physics, plasma physics, condensed matter physics and mathematical physics. The Editor-in-Chief is Suzy Lidström.
+
+==Abstracting, indexing, and impact factor==
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.032.
+
+It is indexed in the following bibliographic databases:
+{{Multicol}}
+*[[Chemical Abstracts]]
+*[[Compendex]]
+*[[GEOREF]]
+*INIS
+*[[Inspec]]
+* Ref Zh	
+*[[Scopus]]
+*[[SPIRES]]	
+*[[Zentralblatt MATH]]
+
+==External links==
+*[http://iopscience.org/ps Official website]
+*[http://ioppublishing.org/ IOP Publishing]
+
+
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Royal Swedish Academy of Sciences]]
+[[Category:Publications established in 1970]]

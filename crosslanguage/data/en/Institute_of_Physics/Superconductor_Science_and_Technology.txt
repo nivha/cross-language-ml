@@ -1,0 +1,40 @@
+{{Infobox journal
+| title = Superconductor Science and Technology
+| cover =
+| abbreviation = Supercond. Sci. Technol.
+| discipline = [[Superconductivity]]
+| editor = D. P. Hampshire
+| publisher = [[IOP Publishing]]
+| country = United Kingdom
+| frequency = Monthly
+| history = 1988-present
+| impact = 2.758
+| impact-year = 2012
+| openaccess = [[Hybrid open access|Hybrid]]
+| website = http://iopscience.iop.org/0953-2048/
+| ISSN = 0953-2048
+| eISSN = 1361-6668
+| CODEN = SUSTEF
+| LCCN = 88651712
+| OCLC = 664561486
+}}
+'''''Superconductor Science and Technology''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering research on all aspects of [[superconductivity]], including theories of superconductivity, the basic [[physics]] of superconductors, the relation of [[microstructure]] and growth to superconducting properties, the theory of novel devices, and the fabrication and properties of thin films and devices. The [[editor-in-chief]] is D. P. Hampshire ([[University of Durham]]). It was established in 1988 and is  published by [[IOP Publishing]]. According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 2.758.<ref name=WoS>{{cite book |year=2013 |chapter=Superconductor Science and Technology |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |accessdate=2013-02-08 |series=[[Web of Science]]}}</ref>
+
+==Article types==
+The journal publishes articles in the following categories:
+* Papers: regular articles reporting original research in superconductivity and its application without formal length restrictions
+* Rapid communications: short articles reporting very substantial new advances and no longer than 5 journal pages or 4500 words including figures
+* Topical reviews: [[literature review|review papers]] commissioned by the editors
+
+==References==
+<references/>
+
+== External links ==
+* {{Official website|http://iopscience.iop.org/0953-2048/}}
+
+[[Category:Physics journals]]
+[[Category:Bimonthly journals]]
+[[Category:Publications established in 1988]]
+[[Category:English-language journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Hybrid open access journals]]

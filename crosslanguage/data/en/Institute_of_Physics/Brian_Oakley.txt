@@ -1,0 +1,42 @@
+{{EngvarB|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+'''Brian Wynne Oakley''', [[CBE]] (10 October 1927&nbsp;– 17 August 2012)<ref name="The Daily Telegraph">{{cite news| title=Death announcement: Brian Oakley| newspaper=[[Daily Telegraph]] | date=21 August 2012| accessdate=21 August 2012|url=http://announcements.telegraph.co.uk/deaths/153058/oakley-brian-wynne-10.10.27}}</ref> was a British civil servant and industrialist who took a leading role in the area of information technology, especially the 1980s [[Alvey Programme]].
+
+In [[World War II]], Brian Oakley served with the [[Royal Signals]] as a [[subaltern]].<ref name="resurrection">{{cite journal| first=Martin | last=Campbell-Kelly | authorlink=Martin Campbell-Kelly | title=Obituary: Brian Wynne Oakley | journal=Resurrection: The Bulletin of the [[Computer Conservation Society]]| volume=60 | page=34 | date=Winter 2012/3 }}</ref> He then studied science at [[Exeter College, Oxford]].<ref name="essex">[http://www.essex.ac.uk/honorary_graduates/or/1998/brian-oakley-oration.aspx Honorary Graduates — Brian Wynne Oakley, CBE], [[University of Essex]], UK, 9 July 1998.</ref> Later he became a Fellow of the [[Institute of Physics]] and the [[British Computer Society]]. In 1950 he joined the [[Telecommunications Research Establishment]] (TRE)<ref name="resurrection" /> where he undertook research in [[telecommunications]] and civilian applications of military research. He then worked in [[Whitehall]] as a civil servant, joining the [[Ministry of Technology]] under the [[Harold Wilson]] government in 1969. Subsequently, he became the chief official of the [[Science and Engineering Research Council]] (SERC).
+
+Oakley was director of the United Kingdom [[Alvey Programme]] (1983–87), a [[British government]]-sponsored research programme for projects in the area of information technology, initiated as a reaction to the Japanese [[Fifth generation computer]] project.<ref>Brian Oakley and Kenneth Owen, ''Alvey: Britain's Strategic Computing Initiative'', [[MIT Press]], 1990. ISBN 0-262-15038-7.</ref><ref>[[Martin Campbell-Kelly]], [http://www.jstor.org/pss/3115764 Review of ''Alvey: Britain's Strategic Computing Initiative''], ''[[Business History Review]]'', Vol. 64, No. 3, pages 570–572, Autumn, 1990. [[JSTOR]].</ref>
+He went on to be Chairman of the software house [[Logica]] ([[Cambridge]]) Ltd.<ref name="resurrection" />
+He also chaired the managing board of the Computer Centre of the [[University of London]], an important UK supercomputing centre, and a director of the [[European Initiative for Quantum Computing]].
+
+From 1988–89, Oakley was President of the [[British Computer Society]].<ref>[http://www.bcs.org/server.php?show=conWebDoc.1635 BCS Past Presidents], [[British Computer Society]], UK.</ref>
+In 1991, on hearing that [[British Telecom]] planned to dispose of its site at [[Bletchley Park]] for housing, together with [[Tony Sale]], he helped to save the site<ref>{{cite web| url=http://www.theregister.co.uk/2012/08/29/brian_wynne_oakley_obituary/ | title=RIP Brian Wynne Oakley: Saviour of Bletchley Park | first=Gavin | last=Clarke | work=[http://www.theregister.co.uk/ The Register] | location=UK | date=29 August 2012 | accessdate=28 December 2012}}</ref> and establish the Bletchley Park Trust and became a director of the Trust.<ref name="resurrection" /> He was also Chairman of the [[Computer Conservation Society]] from 1996 to 2000.
+
+Oakley was a [[Commander of the Order of the British Empire]]. He also held honorary doctorates at [[Sheffield Hallam University]] (1994)<ref>[http://www.shu.ac.uk/hallampeople/honorary/ Honorary Awards], [[Sheffield Hallam University]], UK.</ref> and the [[University of Essex]] (1998).<ref name="essex" />
+
+==References==
+{{reflist}}
+
+{{Authority control|VIAF=68022087}}
+
+{{Persondata
+| NAME              = Oakley, Brian
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Civil servant, chief executive, computer scientist
+| DATE OF BIRTH     = 1927-10-10
+| PLACE OF BIRTH    = United Kingdom
+| DATE OF DEATH     = 2012-08-17
+| PLACE OF DEATH    = United Kingdom
+}}
+{{DEFAULTSORT:Oakley, Brian}}
+[[Category:1927 births]]
+[[Category:2012 deaths]]
+[[Category:Alumni of Exeter College, Oxford]]
+[[Category:British computer scientists]]
+[[Category:British civil servants]]
+[[Category:British chief executives]]
+[[Category:People in information technology]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:Presidents of the British Computer Society]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:People associated with Bletchley Park]]

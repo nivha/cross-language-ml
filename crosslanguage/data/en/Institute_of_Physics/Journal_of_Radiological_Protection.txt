@@ -1,0 +1,57 @@
+{{Infobox journal
+| title = Journal of Radiological Protection
+| formernames = Journal of the Society for Radiological Protection
+| cover = [[File:Journal of Radiological Protection.gif]]
+| editor = Richard Wakeford
+| discipline = [[Radiobiology]]
+| abbreviation = J. Radiol. Prot.
+| publisher = [[IOP Publishing]] on behalf of the [[Society for Radiological Protection]]
+| country = United Kingdom
+| frequency = Quarterly
+| history = 1981-present
+| openaccess = 
+| impact = 1.386
+| impact-year = 2012
+| website = http://iopscience.org/jrp
+| link1 =
+| link1-name =
+| link2 =
+| link2-name =
+| JSTOR =
+| OCLC = 
+| LCCN =
+| CODEN = JRPREA
+| ISSN = 0952-4746
+| eISSN = 1361-6498
+}}
+'''''Journal of Radiological Protection''''' is a quarterly [[Peer review|peer-reviewed]] [[scientific journal]] covering [[Radiobiology|radiobiological]] research on all aspects of radiological protection, including [[non-ionizing]] as well as [[ionizing radiation]]s. It is the official journal of the [[Society for Radiological Protection]] and published on their behalf by [[IOP Publishing]]. It was established in 1981 as the ''Journal of the Society for Radiological Protection'', before obtaining its current name in 1988. The [[editor-in-chief]] is Richard Wakeford ([[University of Manchester]]).
+
+== Abstracting and indexing ==
+The journal is abstracted and indexed in:
+{{columns-list|colwidth=30em|
+* [[Inspec]]
+* [[BIOSIS Previews]]
+* [[Biological Abstracts]]
+* [[Cambridge Scientific Abstracts]]
+* [[Health and Safety Science Abstracts]]
+* [[Risk Abstracts]]
+* [[Compendex|Ei Compendex]]
+* [[EMBASE]]/[[Excerpta Medica]]
+* [[Chemical Abstracts Service]]
+* [[Index Medicus]]/[[MEDLINE]]
+* [[VINITI Database RAS]]
+}}
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.386.<ref name=WoS>{{cite book |year=2013 |chapter=Journal of Radiological Protection |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://iopscience.org/jrp}}
+
+
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:English-language journals]]
+[[Category:Quarterly journals]]
+[[Category:Publications established in 1988]]

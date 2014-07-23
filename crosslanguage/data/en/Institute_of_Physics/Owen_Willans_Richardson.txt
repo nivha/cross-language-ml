@@ -1,0 +1,78 @@
+{{Infobox scientist
+| name              = Sir Owen Willans Richardson  
+| image             = Niels BohrUpOwenWillansRichardsonDownSolvay1927.JPG
+| caption           = Niels Bohr and Richardson (right) at the 1927 Solvay conference
+| birth_date        = {{birth date|1879|04|26|df=y}}
+| birth_place       = [[Dewsbury]], [[Yorkshire]], [[England]]
+| death_date        = {{death date and age|1959|02|15|1879|04|26|df=y}}
+| death_place       = [[Alton, Hampshire]], [[England]]
+| nationality       = [[United Kingdom]]
+| field             = [[Physics]]
+| work_institutions = [[University of Cambridge]]<br>[[Princeton University]]<br>[[King's College London]]
+| alma_mater        = [[University of Cambridge]]<br>[[University College London|University College, London]]
+| doctoral_advisor  = [[J. J. Thomson]]
+| doctoral_students = [[Karl Taylor Compton]]<br />[[Clinton Davisson]]
+| known_for         = [[Richardson's Law]]
+| prizes            = {{nowrap|[[Royal Medal]] (1930)<br>[[Nobel Prize in Physics]] (1928)<br>[[Hughes Medal]] (1920)}}
+}}
+
+'''Sir Owen Willans Richardson''', [[Fellow of the Royal Society|FRS]] (26 April 1879 &ndash; 15 February 1959)  was a [[United Kingdom|British]] [[physicist]] who won the [[Nobel Prize in Physics]] in 1928 for his work on [[thermionic emission]], which led to [[Thermionic emission#Richardson's Law|Richardson's Law]].<ref name="nobelbio">{{cite web | author=Nobel Foundation | title=Owen Willans Richardson: The Nobel Prize in Physics 1928  | url=http://www.nobel.se/physics/laureates/1928/richardson-bio.html | work=Les Prix Nobel | publisher= | year=1928 | accessdate=2007-09-17}}</ref>
+
+==Biography==
+Richardson was born in [[Dewsbury]], [[Yorkshire]], [[England]], the only son of Joshua Henry and Charlotte Maria Richardson. He was educated at [[Batley Grammar School]] and [[Trinity College, Cambridge]], where he gained First Class Honours in Natural Sciences.<ref name="ReferenceA">{{acad|id=RCRT897OW|name=Richardson, Owen Willans}}</ref> He then got a DSc from [[University College London]] in 1904.<ref name="ReferenceA"/><ref>[[List of Nobel laureates affiliated with University College London]]</ref>
+
+[[File:Owen Richardson.jpg|thumb|left|upright|Owen Willans Richardson (1928)]]
+After graduating in 1900, he began researching the emission of electricity from hot bodies at the [[Cavendish Laboratory]] in Cambridge, and in 1902 he was made a fellow at Trinity. In 1901, he demonstrated that the current from a heated wire seemed to depend exponentially on the temperature of the wire with a mathematical form similar to the [[Arrhenius equation]]. This became known as Richardson's law: "If then the negative radiation is due to the corpuscles coming out of the metal, the saturation current ''s'' should obey the law <math>s = A\,T^{1/2}\,e^{-b/T}</math>."<ref>O. W. Richardson (1901) [http://books.google.com/books?id=QAUPAAAAIAAJ&pg=PA286#v=onepage&q&f=false "On the negative radiation from hot platinum,"] ''Philosophical of the Cambridge Philosophical Society'', '''11''' : 286-295; see especially p. 287.</ref>
+
+Richardson was professor at [[Princeton University]] from 1906 to 1913, and returned to the UK in 1914 to become Wheatstone Professor of Physics at [[King's College London]], where he was later made director of research. He retired in 1944, and died in 1959.
+
+He also researched the [[photoelectric effect]], the [[Gyromagnetic ratio|gyromagnetic effect]], the emission of electrons by chemical reactions, soft [[X-rays]], and the spectrum of hydrogen.
+
+Richardson married Lilian Wilson, sister of his Cavendish colleague [[Harold A. Wilson (physicist)|Harold Wilson]], in 1906, and had two sons and a daughter. Richardson's own sister married the American physicist (and 1937 Nobel laureate) [[Clinton Davisson]], who was Richardson's PhD student at Princeton. After Lilian's death in 1945, he was remarried in 1948 to Henriette Rupp, a physicist.
+
+Owen Williams Richardson had a son Harold Owen Richardson who specialized in Nuclear Physics and was also the Chairman, Physics Department, Bedford College, London University and later on became emeritus Professor at London University.
+
+==Honours==
+Richardson became a Fellow of the [[Royal Society]] in 1913, and was awarded its [[Hughes Medal]] in 1920. He was awarded the Nobel Prize in Physics in 1928, "for his work on the thermionic phenomenon and especially for the discovery of the law named after him".<ref>[http://nobelprize.org/nobel_prizes/physics/laureates/1928/ Nobel prize citation, Nobel foundation website]</ref> He was knighted in 1939.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{Citation | pmid=17818864 | last=Richardson | first= | publication-date=30 September 1921 | year=1921 | title=Problems Of Physics | volume=54 | issue=1396 | periodical= | pages=283–91 | doi=10.1126/science.54.1396.283 | journal=Science | first1=OW|bibcode = 1921Sci....54..283R }}
+*{{Citation | pmid=17830216 | last=Richardson | first= | publication-date=11 July 1913 | year=1913 | title=The Emission Of Electrons From Tungsten At High Temperatures: An Experimental Proof That The Electric Current In Metals Is Carried By Electrons | volume=38 | issue=967 | periodical= | pages=57–61 | doi=10.1126/science.38.967.57 | journal=Science | first1=OW|bibcode = 1913Sci....38...57R }}
+*{{Citation | pmid=17800821 | last=Richardson | first= | publication-date=12 July 1912 | year=1912 | title=The Laws Of Photoelectric Action And The Unitary Theory Of Light (Lichtquanten Theorie) | volume=36 | issue=915 | periodical= | pages=57–8 | doi=10.1126/science.36.915.57-a | journal=Science | first1=OW|bibcode = 1912Sci....36...57R }}
+*{{Citation | pmid=17792421 | last=Richardson | first= | last2=Compton | first2= KT| publication-date=17 May 1912 | year=1912 | title=The Photoelectric Effect | volume=35 | issue=907 | periodical= | pages=783–4 | doi=10.1126/science.35.907.783 | journal=Science | first1=OW|bibcode = 1912Sci....35..783R }}
+
+==External links==
+*[http://www.nobel.se/physics/laureates/1928/richardson-lecture.pdf Owen Richardson's Nobel lecture on thermionics, December 12, 1929]
+
+{{Nobel Prize in Physics Laureates 1926-1950}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Richardson, Owen Willans
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 26 April 1879
+| PLACE OF BIRTH    = [[Dewsbury]], [[Yorkshire]], [[England]]
+| DATE OF DEATH     = 15 February 1959
+| PLACE OF DEATH    = [[Alton, Hampshire]], [[England]]
+}}
+{{DEFAULTSORT:Richardson, Owen Willans}}
+[[Category:1879 births]]
+[[Category:1959 deaths]]
+[[Category:Academics of King's College London]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:British Nobel laureates]]
+[[Category:English physicists]]
+[[Category:Fellows of King's College London]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Bachelor]]
+[[Category:Nobel laureates in Physics]]
+[[Category:People educated at Batley Grammar School]]
+[[Category:People from Dewsbury]]
+[[Category:Princeton University faculty]]
+[[Category:Royal Medal winners]]
+[[Category:Presidents of the Physical Society]]
+[[Category:Theoretical physicists]]
+[[Category:English Nobel laureates]]

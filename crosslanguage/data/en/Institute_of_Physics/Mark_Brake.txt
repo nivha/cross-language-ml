@@ -1,0 +1,82 @@
+{{Infobox scientist
+|name              = Mark Brake
+|image             = Mark Brake.jpg
+|image_size        = 
+|alt               = 
+|caption           = 
+|birth_date        = 31 October 1958
+|birth_place       = [[Mountain Ash, Rhondda Cynon Taff]], [[Wales]]
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = British
+|ethnicity         = 
+|fields            = [[Physics]], [[Science Communication]]
+|workplaces        = 
+|alma_mater        = 
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = Popularising the relationship between space, science and culture
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|signature         = <!--(filename only)-->
+|signature_alt     = 
+|footnotes         = 
+}}
+
+'''Mark Brake''' (born 31 October 1958) is an author. Until 2010 he was a professor of science communication at the [[University of Glamorgan]].<ref>[http://www.markbrake.com/about/ Mark Brake website]</ref>
+
+== Education ==
+Brake was born at [[Mountain Ash, Rhondda Cynon Taf|Mountain Ash]], [[Wales]], [[UK]].  He was awarded a BSc by the [[Polytechnic of Wales]] and a MSc by [[University College Cardiff]] in 1988.<ref name=THE>Melanie Newman, [http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=408845&c=1 "Dr? No: Glamorgan scientist falsely claimed PhD"], ''Times Higher Education'', 29 October 2009</ref>
+
+== False PhD Claim ==
+Brake submitted a grant application to the Research Councils' Procurement Organisation in 2006 in which he falsely claimed to have a PhD.<ref name=THE/><ref>Sarah Miloudi, [http://www.walesonline.co.uk/news/wales-news/2009/10/19/cardiff-scientist-with-nasa-links-falsely-claimed-phd-91466-24960138/ "Cardiff scientist with Nasa links falsely claimed PhD"], ''Western Mail'', 19 October 2009</ref> After 2009, the matter became public knowledge, particularly pressed by Professor [[Peter Coles]] of [[Cardiff University]], but Glamorgan still refused to sack Brake. In 2010 Brake was declared 'redundant' with the minimum of publicity and his employment with the University of Glamorgan was terminated.<ref>{{cite web|last=Coles|first=Peter|title=Brake Out|url=http://telescoper.wordpress.com/2010/04/07/brake-out/|work=In the Dark|accessdate=13 October 2012}}</ref>
+
+== Public Engagement with Science ==
+Between 2003 and 2008, Brake was responsible for leading [[public engagement]] initiatives in science, which attracted around £5 million of funding.<ref>{{cite web |url=http://people.glam.ac.uk/view/190/#interests |title=Mark Brake - about |publisher=Univ Glamorgan |date= |accessdate=2009-12-11}}</ref>  The RoCCoTO project, launched in 2001, was a community-based science course for the public, featuring ideas about science and their cultural context in an instance of "Third Culture" studies.<ref>{{cite web |url=http://news.bbc.co.uk/1/hi/wales/1612268.stm |title=Dome is home to robotic telescope |publisher=BBC News |date=22 October 2001 |accessdate=2009-12-11}}</ref>  The RoCCoTO project received a Public Engagement Award from the [[Astrobiology Society of Britain]] in 2008.<ref>{{cite web |url=http://news.glam.ac.uk/news/en/2008/jul/04/glamorgan-astronomers-receive-prize-public-engagem/ |title=Glamorgan Astronomers Receive Prize for Public Engagement |publisher=Univ Glamorgan |date=2008-07-14 |accessdate=2009-12-11}}</ref>  [http://alienworlds.glam.ac.uk/ Alien Worlds], an award-winning multimedia website associated with the RoCCoTO project was launched in July 2009.  The website is an animated guide to phenomena such as eclipses of the [http://alienworlds.glam.ac.uk/solarEclipse.html Sun] and [http://alienworlds.glam.ac.uk/lunarEclipse.html Moon], and demonstrates Earth’s place in a cosmic perspective through advanced, animated visuals.
+
+== View on Darwin ==
+
+Brake has stated <ref>{{cite web|url=
+http://www.guardian.co.uk/science/2009/dec/09/evolution-darwin-wallace-malthus
+|title=Darwin and Wallace inspired by Malthus |publisher=Guardian |date=2009-12-09  |accessdate=2009-12-11}}</ref> 
+that [[Charles Darwin]] did not have the version of the theory of evolution described in his 1859 [[Origin of Species]] until after he had become aware of [[Alfred Russel Wallace]]'s theory, published in 1855 and 1856, and in a letter to Darwin in 1857. This view has been contested.<ref>{{cite web|url=
+http://www.guardian.co.uk/science/2009/dec/11/darwin-debate-invisible-college
+|title=Darwin debate |publisher=Guardian |date=2009-12-11 |accessdate=2009-12-11}}</ref>
+
+== Publications ==
+*''Different Engines: How Science Drives Fiction and Fiction Drives Science'' (2007) ISBN 0-230-01980-3
+*''Futureworld: Where Science Fiction Becomes Science'' (2008) ISBN 0-7522-2672-X
+*''Revolution in Science: How Galileo and Darwin Changed Our World'' (2009) ISBN 0-230-20268-3
+*''Introducing Science Communication: A Practical Guide'' (2009) ISBN 0-230-57385-1
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.markbrake.com/ Official Website]
+*[http://people.glam.ac.uk/view/190/#publications List of academic papers by Mark Brake]
+
+{{Authority control|VIAF=64335860}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Brake, Mark
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     =1958-10-31
+| PLACE OF BIRTH    =[[Mountain Ash, Rhondda Cynon Taff]], [[Wales]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Brake, Mark}}
+[[Category:1958 births]]
+[[Category:Academics of the University of Glamorgan]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Living people]]
+[[Category:People from Mountain Ash, Wales]]

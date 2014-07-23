@@ -1,0 +1,130 @@
+{{Use dmy dates|date=September 2011}}
+{{Use British English|date=September 2011}}
+{{Infobox scientist
+|name              = Balfour Stewart
+|image             = PSM V11 D270 Balfour Stewart.jpg
+|image_size       = 200px
+|caption           = 
+|birth_date        = 1 November 1828
+|birth_place       = [[Edinburgh]], [[Scotland]]
+|death_date        = {{death date and age|1887|12|19|1828|11|01|df=yes}}
+|death_place       = Ballymagarvey, Balrath, [[County Meath]], [[Ireland]]
+|residence         = 
+|citizenship       = [[United Kingdom|British]]
+|nationality       = [[Scotland|Scottish]]
+|ethnicity         = 
+|field             = [[Physics]]
+|work_institutions = [[Kew Observatory]], [[Victoria University of Manchester|Owens College, Manchester]]
+|alma_mater        = [[University of St. Andrews]] [[University of Edinburgh]]
+|doctoral_advisor  = [[James David Forbes]]
+|doctoral_students = 
+|known_for         = [[Heat]], [[Meteorology]], & [[Terrestrial Magnetism]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Rumford Medal]] {{small|(1868)}}
+|religion          = 
+|footnotes         = 
+|signature         =
+}}
+'''Balfour Stewart''' (1 November 1828 – 19 December 1887) was a [[Scotland|Scottish]] physicist. His studies in the field of [[radiant heat]] led to him receiving the [[Rumford Medal]] of the [[Royal Society]] in 1868. In 1859 he was appointed director of [[Kew Observatory]]. He was elected professor of physics at [[Victoria University of Manchester|Owens College, Manchester]], and retained that chair until his death, which happened near [[Drogheda]], in Ireland, on 19 December 1887. He was the author of several successful science textbooks, and also of the article on "Terrestrial Magnetism" in the ninth edition of the [[Encyclopædia Britannica]].
+
+==Career==
+Stewart was born in [[Edinburgh]], and was educated at [[Dundee]], the [[University of St Andrews]], and the [[University of Edinburgh]]. The son of a tea merchant, he was for some time engaged in business in [[Leith]] and in [[Australia]], but, returning to his studies of physics at Edinburgh, he became assistant to [[James David Forbes|J. D. Forbes]] in 1856. Forbes was especially interested in questions of [[heat]], [[meteorology]], and [[terrestrial magnetism]], and it was to these that Stewart also mainly devoted himself.
+
+Radiant heat first claimed his attention, and by 1858 he had completed his first investigations into the subject. These yielded a remarkable extension of [[Pierre Prévost]]'s "Law of Exchanges," and enabled him to establish the fact that radiation is not a surface phenomenon, but takes place throughout the interior of the radiating body, and that the radiative and absorptive powers of a substance must be equal, not only for the radiation as a whole, but also for every constituent of it.
+
+In recognition of this work he received in 1868 the [[Rumford Medal]] of the [[Royal Society]], into which he had been elected six years before. Of other papers in which he dealt with this and kindred branches of physics may be mentioned "Observations with a Rigid Spectroscope," "Heating of a Disc by Rapid Motion in Vacuo," "Thermal Equilibrium in an Enclosure Containing Matter in Visible Motion," and "Internal Radiation in Uniaxal Crystals."
+
+In 1859 he was appointed director of [[Kew Observatory]], and there naturally became interested in problems of meteorology and terrestrial magnetism. In 1870, the year in which he was very seriously injured in a railway accident, he was elected professor of physics at [[Victoria University of Manchester|Owens College, Manchester]], and retained that chair until his death, which happened near [[Drogheda]], in Ireland, on 19 December 1887.
+
+He was the author of several successful textbooks of science, and also of the article on "Terrestrial Magnetism" in the ninth edition of the Encyclopædia Britannica. In conjunction with [[Peter Guthrie Tait|Professor P. G. Tait]] he wrote ''The Unseen Universe'', at first published anonymously, which was intended to combat the common notion of the incompatibility of science and religion.<ref>{{EB1911|inline=1|title=Stewart, Balfour|volume=25|pages=912-913}}</ref>
+
+A devoted churchman, Stewart was prominently identified with the [[Society for Psychical Research]].<ref>[[New International Encyclopedia]]</ref> It was in his 1875 review of ''The Unseen Universe'', that William James first put forth his [[Will to Believe Doctrine]].
+
+==Stewart Super Flare==
+{{Over-quotation|section|date=June 2009}}
+{{overly detailed|section=yes|date=April 2011}}
+
+Balfour Stewart recorded a [[Solar flare|super flare]] on the evening of 28 August 1859 and the morning of 2 September 1859, at the [[Kew Observatory]], and presented his findings in a paper presented to the [[Royal Society]] on 21 November 1861.<ref name="BSp1">[http://www.jstor.org/pss/111936 On the Great Magnetic Disturbance of 28 August to 7 September 1859, as Recorded by Photography at the Kew Observatory. (Abstract)] by Balfour Stewart, Proceedings of the Royal Society of London, Vol. 11, (1860 - 1862), pp. 407-410</ref><ref name="BSp2">[http://www.jstor.org/pss/108745 On the Great Magnetic Disturbance Which Extended from 28 August to 7 September 1859, as Recorded by Photography at the Kew Observatory] by Balfour Stewart, Philosophical Transactions of the Royal Society of London, Vol. 151, (1861), pp. 423-430</ref> 
+He noted that while "magnetic disturbances of unusual violence and very wide extent" were recorded in various places around the world, the Kew Observatory had the benefit of self-recording [[magnetograph]]s,<ref name="BSp3">[http://books.google.com/books?id=hYMMHAAACAAJ An account of the construction of the self-recording magnetographs at present in operation at the Kew Observatory of the British Association.] by Balfour Stewart, 1859; [https://archive.org/download/AnAccountOfTheConstructionOfTheSelf-recordingMagnetographs/BAssoc1859pp200-228.pdf PDF Copy]</ref> which allowed "the means of obtaining a continuous photographic register of the state of the three elements of the earth’s magnetic force—namely, the declination, and the horizontal and vertical intensity."
+
+Stewart went on the make the following observation.
+<blockquote>
+I now proceed to notice some of the peculiarities of this magnetic storm.
+<br /><br />
+It appears that '''we have two distinct well-marked disturbances''', each commencing abruptly and ending gradually, the first of which began on the evening of August&nbsp;28 and the second on the early morning of September&nbsp;2. These two great disturbances correspond therefore in point of time to the two great [[auroral]] displays already alluded to.
+</blockquote>
+The second disturbance is now known as the [[Carrington Super Flare]], while the first disturbance is unnamed. As Stewart recorded and described this disturbance, this event will be referred to as the '''Stewart Super Flare''' in this discussion.
+
+At the 11 November 1859 meeting of the [[Royal Astronomical Society]], [[Richard Christopher Carrington|Richard Carrington]] presented a paper<ref>[http://adsabs.harvard.edu/abs/1859MNRAS..20...13C Description of a Singular Appearance seen in the Sun on 1 September 1859]; Carrington, R.C.; ''[[Monthly Notices of the Royal Astronomical Society]]'', Vol. 20, p.13-15</ref> describing his observations of the super flare that occurred on 1 September, at 11:18 GMT and later named in his honor. In what appears to be an editorial addition made after the meeting the follow observation was appended in parenthesis.
+
+<blockquote>([[Richard Christopher Carrington|Mr. Carrington]] exhibited at the November Meeting of the [[Royal Astronomical Society|Society]] a complete diagram of the disk of the sun at the time, and copies of the photographic records of the variations of the three magnetic elements, as obtained at [[Kew Observatory|Kew]], and pointed out that a moderate but very marked disturbance took place at about 11<sup>h</sup> 20<sup>m</sup> <small>A.M</small>., Sept.&nbsp;1st, of short duration; and that towards four hours after midnight there commenced a great magnetic storm, which subsequent accounts established to be considerable in the southern as in the northern hemisphere. While the contemporary occurrence may deserve noting, he would not have it supposed that he even leans towards hastily connecting them. “One swallow does not make a summer.”)</blockquote>
+
+From this addendum, it is clear that [[Richard Christopher Carrington|Richard Carrington]] was not willing to commit professionally to connecting the magnetic disturbance with the event he had observed on the surface of the sun even though they occurred at nearly identical times.
+He had indeed displayed the magnetographs at the [[Royal Astronomical Society]] meeting. The time of 11:20 GMT is good agreement with other reports but the time of 4:00 GMT on 2 September 1859 for the commencement of the magnetic storm is an hour earlier than reported by Stewart.
+
+Stewart also reported<ref name="BSp2" /> on the magnetic disturbance that occurred at the same time as the event observed by [[Richard Christopher Carrington|Richard Carrington]].
+
+<blockquote>But, beside these two remarkable disturbances into which it divided itself, this great storm comprehends a minor disturbance, not approaching these two in extent, but yet possessing an interest peculiar to itself, which entitles it to be mentioned.
+
+On September&nbsp;1, a little before noon, [[Richard Christopher Carrington|Mr. R.C. Carrington]] happened to be observing, by means of a telescope, a large [[sunspot|spot]] which might then be seen on the surface of our luminary, when a remarkable appearance presented itself, which he described in a communications to the [[Royal Astronomical Society]].
+
+'''<small>(Richard Carrington’s paper is then quoted at length.)</small>'''
+
+On calling at [[Kew Observatory]] a day or two afterwards, [[Richard Christopher Carrington|Mr. Carrington]] learned that at the very moment when he had observed this phenomena the three magnetic elements at Kew were simultaneously disturbed. If no connexion had been known to subsist between these two classes of phenomena, it would, perhaps, be wrong to consider this in any other light than a casual coincidence; but since [[Edward Sabine|General Sabine]] has proved that a relation subsists between magnetic disturbances and [[sun spots]], it is not impossible to suppose that in this case our luminary was taken "in the act".
+
+This disturbance occurred as nearly as possible at 11<sup>h</sup> 15<sup>m</sup> <small>A.M.</small> Greenwich mean time, on September&nbsp;1, 1859, affecting all the elements simultaneously, and commencing quite abruptly.</blockquote>
+
+By citing the previous research of [[Edward Sabine]], which established a correlation between [[sunspots]] and [[magnetic storm]]s, Stewart was able to correctly advance the theory that the event observed by [[Richard Christopher Carrington|Richard Carrington]] and the magnetic disturbance that was recorded at the same time were in fact connected. The magnetic phenomena that occurred at about 11:18 GMT on 1 September 1859 are now known as a [http://www.ips.gov.au/Educational/3/1/1 Solar Flare Effect] (SFE) or a Magnetic Crochet, but the connection would not be proven for another 80 years.<ref>[http://www.leif.org/research/1859%20Storm%20-%20Extreme%20Space%20Weather.pdf The 1859 Solar–Terrestrial Disturbance and the Current Limits of Extreme Space Weather Activity], Solar Physics (2004) 224: 407–422 (2005), E.W. Cliver and L. Svalgaard</ref> The SFE is a sudden ionosphere disturbances caused by [[soft X-rays]] and [[Extreme ultraviolet]] (EUV) driven enhancement of the ionosphere current vortices responsible for the regular daily variation observed on magnetometer traces. SFE are mostly observed in locations close to the sub-solar point (i.e. the point on earth when the sun is overhead) and can only be observed from stations in the sunlit hemisphere at the time of the solar flare. Using Stewart’s times, the [[magnetic storm]] associated with the [[Carrington Super Flare]] took 17 hours and 45 minutes to reach the Earth.
+
+Stewart reported that the [[magnetic storm]] from the Stewart Super Flare, began at 22:30 GMT on the evening of 28 August 1859 as recorded by self-recording magnetographs at the Kew Observatory. Assuming that the transit time for the first super flare was the same as the second or 17 hours and 45 minutes, the Stewart Super Flare occurred at about 04:45 GMT on the morning of 28 August 1859. As the Solar Flare Effect can only be observed from the sunlit hemisphere the question becomes, what time was sunrise at the [[Kew Observatory]] on the morning of 28 August 1859?
+
+The coordinates for [[Kew Observatory]] are (51°29'N, 0°17'W). Using the [[US Naval Observatory]] “Sun or Moon Rise/Set Table for One Year” [http://aa.usno.navy.mil/data/docs/RS_OneYear.php calculator], sunrise on the morning of 28 August 1859 sunrise was 05:06GMT. The [[Kew Observatory]] was still 21 minutes from sunrise and the Solar Flare Effect would not have been registered by the self-recording magnetographs at the Kew Observatory.
+
+Stewart did not publish the [[magnetograph]] records for the morning of 28 August 1859. While it is extremely unlikely, the original [[magnetograph]] records for that date should be inspected to determine if any disturbance was recorded because of the uncertainties in timings and the nearness of sunrise.
+
+In the time zone at GMT+7 in would have been 15 minutes to high noon on 28 August. Any observatory situated at plus or minus two time zones would have been in an excellent position to observe the super flare and record the magnetic signature of Solar Flare Effect. Unfortunately in 1859 the [[Kew Observatory]] had the only [[Automatic registration of instruments by photography|self-recording magnetographs]].<ref name="BSp3" /> Other magnetic observatories were manually operated and typically only took readings at hourly intervals unless there was a magnetic storm, in which case readings were taken at 15 minute intervals. One such magnetic observatory was the [[Colaba Observatory]] on the Island of [[Colaba]] which is now part of [[Mumbai]] ([[Bombay]]), [[India]] at GMT+5.5. In a 2003 paper<ref>[http://www.agu.org/pubs/crossref/2003/2002JA009504.shtml The extreme magnetic storm of 1–2 September 1859] by BT Tsurutani, WD Gonzalez, GS Lakhina, S Alex; JOURNAL OF GEOPHYSICAL RESEARCH, 2003 VOL. 108, NO. A7, 1268</ref> the manually recorded magnetic readings from the [[Colaba Observatory]] for 1 September, through 2 September 1859 were recalibrated and evaluated. No mention is made in this paper of reading before 1 September or any visual observations of the sun. After 150 years it is very unlikely that any additional data will surface but any reports of strange events about noon Asian time on 28 August 1859 would be of interest.
+
+==Writings==
+* ''Elementary Treatise on Heat'' (1866; sixth edition, revised, 1895)
+* ''Lessons in Elementary Physics'' (1871)
+* ''Physics'' (1872)
+* ''The Conservation of Energy'' (1875; ninth edition, 1900)
+* ''Lessons in Practical Physics'' with W. H. Gee, (volume i, 1885; volume ii, 1887)
+*[https://archive.org/search.php?query=creator%3A%28Balfour%20Stewart%29 ''Books by Balfour Stewart'' available in the Internet Archive]
+*[http://books.google.com/books?&as_auth=%22Balfour+Stewart%22 ''Books by Balfour Stewart'' available in Google Books]
+*[http://scholar.google.com/scholar?q=author%3A%22Balfour+Stewart%22&as_ylo=1848&as_yhi=1890 ''Papers by Balfour Stewart'' available in Google Scholar]
+
+==References==
+{{Wikisource author}}
+{{reflist}}
+
+==External links==
+*{{DNB Cite|wstitle=Stewart, Balfour}}
+
+{{Authority control|VIAF=17329396}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Stewart, Balfour
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British scientist
+| DATE OF BIRTH     = 1 November 1828
+| PLACE OF BIRTH    = Edinburgh, Scotland
+| DATE OF DEATH     = 19 December 1887
+| PLACE OF DEATH    = Ballymagarvey, Balrath, County Meath, Ireland
+}}
+{{DEFAULTSORT:Stewart, Balfour}}
+[[Category:1828 births]]
+[[Category:1887 deaths]]
+[[Category:People from Edinburgh]]
+[[Category:Scottish physicists]]
+[[Category:Scottish scholars and academics]]
+[[Category:People educated at the High School of Dundee]]
+[[Category:Alumni of the University of St Andrews]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Scottish non-fiction writers]]
+[[Category:Academics of the University of Manchester]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]

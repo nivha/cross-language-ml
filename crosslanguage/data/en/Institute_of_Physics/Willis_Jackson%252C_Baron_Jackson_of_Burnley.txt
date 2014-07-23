@@ -1,0 +1,101 @@
+{{Other people|Willis Jackson}}
+{{Infobox scientist
+| name              = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date|df=y|1904|10|29}} 
+| birth_place       = 
+| death_date        =  {{Death date and age|df=y|1970|2|17|1904|10|29}} 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- 
+                      {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Manchester Institute of Science and Technology|UMIST]]<br>[[Imperial College London]]
+| alma_mater        = [[University of Manchester]]<br>[[University of Oxford]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Fellow of the Royal Society]] (1953)<ref name="frs">{{cite doi|10.1098/rsbm.1971.0014}}</ref>
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|www.example.com}} -->
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Willis Jackson, Baron Jackson of Burnley''' [[Royal Society|FRS]] (29 October 1904 &ndash; 17 February 1970)<ref name = "frs"/>{{rp|379}} was a [[United Kingdom|British]] technologist and electrical engineer.<ref name="gay">{{cite book | last = Gay | first = Hannah | title = The History of Imperial College London, 1907–2007: Higher Education and Research in Science, Technology and Medicine | publisher = Imperial College Press | location = London | year = 2007 | ISBN = 1-86094-709-3 }}</ref><ref name="hansard">{{hansard-contribs | mr-willis-jackson | Willis Jackson, Baron Jackson of Burnley }}</ref><ref name="npg">{{npg name | id = 81657 | name = Willis Jackson, Baron Jackson of Burnley }}</ref>
+
+==Background and education==
+Born in [[Burnley]], he was the only son of Herbert Jackson and his wife Annie Hiley.<ref name="frs"/>{{rp|379}} Jackson was educated at Rosegrove Primary School and the [[Burnley Grammar School]] until 1922 and read electrical engineering at the [[University of Manchester]] until 1925.<ref name = "AIM25">{{cite web | url= http://www.aim25.ac.uk/cgi-bin/search2?coll_id=2212&inst_id=3 | title= JACKSON, Willis, Baron Jackson of Burnley (1904–1970) | publisher = AIM25 | accessdate= 22 October 2006 }}</ref> He obtained a [[Bachelor of Science]] first class, having previously won three different scholarships.<ref name = "frs"/>{{rp|380}} Jackson studied then under Robert Beattie, graduating with a [[Master of Science]] in 1926.
+
+Jackson was awarded a number of honorary degrees. [[Doctor of Science]] degrees were awarded by the [[Swiss Federal Institute of Technology Zurich]], by the [[University of Bristol]]<ref name = "Who's Who (1963), p. 1574"/> and by [[City University London]].<ref>http://www.city.ac.uk/about/facts-and-achievements/honorary-graduates/honorary-graduates-a-z</ref> He was made an honorary [[Doctor of Engineering]] by the [[University of Sheffield]] and received a [[Doctor of Laws]] from the [[University of Aberdeen]]<ref name = "Who's Who (1963), p. 1574"/> as well as from the [[University of Leeds]] in 1967.<ref>{{cite web | url = http://tldynamic.leeds.ac.uk/leedsyorkshire/honorary/honorary_graduates_1960.asp | title = Honorary Graduates | publisher = University of Leeds | accessdate = 5 January 2010 }}</ref> He was granted an honorary fellowship by the [[City and Guilds of London Institute]]<ref name = "Who's Who (1963), p. 1574"/> and by the [[Institution of Electrical Engineers]] in 1968.<ref>{{cite web | url = http://www.theiet.org/about/libarc/archives/institution-history/hon-fellows.cfm | title = Honorary Fellows | publisher = Institution of Engineering and Technology | accessdate = 5 January 2010 }}</ref> In the same year the [[University of Dundee]] conferred upon him another honorary degree<ref>{{cite web | url = http://www.somis.dundee.ac.uk/calendar/senate/honorary.htm | title = Honorary Degrees | publisher = University of Dundee | accessdate = 5 January 2010 }}</ref> and he was elected a fellow by the [[Royal College of Art]].<ref>{{cite web | url = http://www.rca.ac.uk/Default.aspx?ContentID=161283&CategoryID=36283 | title = Senior Fellows | publisher = Royal College of Art | accessdate = 5 January 2010 }}</ref> In 1961 he presented the [[Bernard Price Memorial Lecture]] in South Africa.
+
+==Vocational career==
+After his education, Jackson became lecturer in electrical engineering first at the [[Bradford Technical College]] (now the University of Bradford) until 1929.<ref name = "AIM25"/> In the following year he worked as apprentice for the electrical company [[Metropolitan-Vickers]].<ref name = "frs"/>{{rp|380}} Jackson lectured at the [[University of Manchester Institute of Science and Technology|UMIST]] from 1930 and subsequently at [[The Queen's College, Oxford]] from 1933.<ref name = "frs"/>{{rp|381}}
+
+He graduated as [[Doctor of Philosophy]] at the [[University of Oxford]] and as Doctor of Science at Manchester in 1936.<ref name="frs"/>{{rp|381}} Afterwards he became again employed at Vickers working as research engineer for the next two years and then obtained a professorship in [[electrotechnics]] at his former university.<ref name = "frs"/>{{rp|382}} In 1946, he moved to [[Imperial College London]] as professor for electrical engineering.<ref name="frs"/>{{rp|384}} Jackson was elected a fellow of the [[Royal Society]] in 1953<ref name="frs"/><ref>{{cite web | url = http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=14&dsqSearch=%28Surname%3D%27jackson%27%29 | title = Library and Archive catalogue | publisher = Royal Society | accessdate = 4 January 2010 }}</ref> and joined again Vickers as director of its research and education department, a post he held until 1961.<ref name = "AIM25"/>
+
+Jackson was knighted in 1958.<ref>{{LondonGazette | issue = 41450 | startpage = 4514 | date = 18 July 1958 | accessdate = 4 January 2010 }}</ref> He served as president of the [[Institution of Electrical Engineers]] in the following two years until 1960 and after another year became president of the Association of Supervising Electrical Engineers.<ref name = "Who's Who (1963), p. 1574"/> For four years Jackson chaired the governing body of the [[Royal Technical Institute, Salford]] (now the University of Salford) until 1962.<ref name = "Who's Who (1963), p. 1574"/> He returned to the Imperial College in 1961, heading its Department of Electrical Engineering until his death in 1970;<ref name="gay"/>{{rp|355}} for the last three years he was the College's pro-rector.<ref name="gay"/>{{rp|749}} In 1962 he entered the [[South Eastern Electricity Board]].<ref name = "Who's Who (1963), p. 1574"/> He published a number of books and journal articles on his research.<ref>''High Frequency Transmission Lines, etc''; (1945)</ref><ref>''Advanced Courses in Electrical Engineering''; (1950)</ref><ref>''The Insulation of Electrical Equipment''; (1954)</ref><ref>''Partnership Between Science and Electrical Engineering''; (1962)</ref><ref>''Scientific, Technological and Technical Manpower''; (1963)</ref><ref>''A Review of the Scope and Problems of Scientific and Technological Manpower Policy''; (1965)</ref><ref>''Macdonald Trends and Developments in Engineering Series General''; ed. (1965)</ref><ref>''Technology and the Developing Countries''; (1966)</ref><ref>''Manpower for Engineering and Technology''; (1970)</ref>
+
+==Political career==
+In 1944 Jackson was appointed to the Radio Research Board of the [[Department of Scientific and Industrial Research]] in which he sat for four years; he served another term from 1950.<ref name = "Who's Who (1963), p. 1574"/> He was a member of the Central Advisory Council to the [[Ministry of Education (United Kingdom)|Ministry of Education]] from 1945 and of the Scientific Advisory Council to the [[Ministry of Supply]] from 1947.<ref name = "Who's Who (1963), p. 1574">Who's Who (1963), p. 1574</ref> A year later Jackson was admitted to [[BBC]]'s Engineering Advisory Committee and in 1951 to the Committee of Selection to the [[Commonwealth Fund Fellowships]].<ref name = "Who's Who (1963), p. 1574"/>
+
+He became a member of the Royal Commission on the Civil Service in 1953.<ref name = "Who's Who (1963), p. 1574"/> Two years later in 1955 Jackson joined the [[University Grants Committee (UK)|University Grants Committee]], whose membership he held for a decade.<ref name = "frs"/>{{rp|389}} In the same year he sat in the Ministry of Education's Council of Technological Awards.<ref name = "Who's Who (1963), p. 1574"/> Jackson was nominated a chairman of the Ministry's Committee on Supply and Training of Technical Teachers in 1956.<ref name = "Who's Who (1963), p. 1574"/> He chaired the FBI Research Committee of 1958 and became a member of the Committee on Management of Research, run by the [[Lord President of the Council]].<ref name = "Who's Who (1963), p. 1574"/>
+
+In September 1961, he was invited to the Advisory Council on Scientific Policy and to the Scientific Manpower Committee.<ref name = "Who's Who (1963), p. 1574"/> Jackson was chosen president of the British Association for Commercial and Industrial Education in 1962<ref name = "frs"/>{{rp|389}} and entered the Advisory Council for Technical Education for Overseas Countries.<ref name = "Who's Who (1963), p. 1574"/> He received a [[life peer]]age with the title '''Baron Jackson of Burnley''', of Burnley, in the County Palatine of [[Lancashire|Lancaster]] on 19 January 1967.<ref>{{LondonGazette | issue = 44230 | startpage = 719 | date = 20 January 1967 | accessdate = 4 January 2010 }}</ref>
+
+==Awards and honours==
+Jackson was elected a Fellow of the [[Royal Society]] in 1953, his nomination reads.{{centred pull quote|Jackson's work has been devoted, mainly, to correlating the electrical behaviour of dielectric materials with their chemical composition and physical structure through studies of the mechanisms of energy-loss and breakdown under alternating electric stress, and to developing new techniques of measurement for investigation of these properties at cm. And mm. wave-lengths. This work is directly related to his studies of the behaviour of transmission lines and wave-guides, and of their applications in radar and communication systems: here his investigations on polythene and barium titanate ceramics are of outstanding importance.<ref name="royal">{{cite web|url=http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F1953%2F15%27)|publisher=The Royal Society|accessdate=2013-11-28|title=Jackson, Willis, Baron Jackson of Burnley|location=London}}</ref>}}
+
+==Personal life==
+In 1938 he married Mary, daughter of Robert Oliphant Boswall, a lecturer in [[mechanical engineering]]; they had two daughters.<ref name = "frs"/>{{rp|=382}}
+
+One of Jackson's closest friends was the physicist [[John F. Allen (physicist)|John F. Allen]].<ref name = "frs"/>{{rp|379}} In his last years he supported the development of the [[Indian Institutes of Technology]].<ref name="frs"/>{{rp|392}}
+
+==References==
+{{reflist|2}}
+
+
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Jackson, Willis
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British Baron
+| DATE OF BIRTH     = 29 October 1904
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 17 February 1970
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Jackson, Willis}}
+[[Category:1904 births]]
+[[Category:1970 deaths]]
+[[Category:People from Burnley]]
+[[Category:Alumni of the University of Manchester]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:Academics of the University of Bradford]]
+[[Category:Academics of the University of Manchester]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Institution of Mechanical Engineers]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:British electrical engineers]]
+[[Category:Knights Bachelor]]
+[[Category:Life peers|Jackson of Burnley]]
+[[Category:Metropolitan-Vickers people]]

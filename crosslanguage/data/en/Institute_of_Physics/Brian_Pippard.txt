@@ -1,0 +1,90 @@
+{{For|the [[engineer]] named Alfred John Sutton Pippard|Alfred Pippard}}
+{{Use dmy dates|date=March 2012}}
+{{Use British English|date=March 2012}}
+{{Infobox scientist
+| name              = Brian Pippard
+| image             = Brian Pippard.jpg
+| image_size        = 
+| alt               = 
+| caption           = Brian Pippard
+| birth_date        = {{Birth date|df=yes|1920|09|07}}
+| birth_place       = [[Earl's Court]], [[London]]
+| death_date        = {{Death date and age|df=yes|2008|09|21|1920|09|07}}
+| death_place       = [[Cambridge]]
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Cambridge]]
+| alma_mater        = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = [[Brian David Josephson]]<br>[[John Shepherd (scientist)|John Shepherd]]
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Fellow of the Royal Society]]<br>[[Hughes Medal]] (1960)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}
+'''Sir Alfred Brian Pippard''', [[ScD]], [[Fellow of the Royal Society|FRS]] (7 September 1920 &ndash; 21 September 2008),<ref>{{cite doi|10.1098/rsbm.2009.0014}}</ref> was a [[United Kingdom|British]] physicist. He was [[Cavendish Professor of Physics]] from 1971 until 1984 and an Honorary Fellow of [[Clare Hall, Cambridge]], of which he was the first President. He was educated at [[Clifton College]].
+
+Pippard demonstrated the reality, as opposed to the mere abstract concept, of [[Fermi surface|Fermi surfaces]] in metals by establishing the shape of the Fermi surface of [[copper]] through measuring the reflection and absorption of microwave electromagnetic radiation<ref>{{cite doi|10.1098/rsta.1957.0023}}</ref> (see the [[anomalous skin effect]] <ref>N. W. Ashcroft, and N. D. Mermin, ''Solid State Physics'' (Thompson Learning, Inc., London, 1976), Chapter 14, ''Measuring the Fermi Surface'', p. 277, ''Anomalous Skin Effect''. ISBN 0-03-083993-9. See ''[[Classical skin depth]]''.</ref>). He also introduced the notion of [[coherence length]] in [[superconductors]] in his proposal for the non-local generalisation of the [[London equations|Londons' equations]]<ref>F. London, ''Superfluids'', Vol. I: ''Macroscopic Theory of Superconductivity'' (Dover Publications, New York, 1961), p. 152.</ref> concerning [[electrodynamics]] in [[superfluids]] and superconductors. The non-local kernel proposed by Pippard,<ref>{{cite doi|10.1098/rsta.1970.0075}}</ref><ref>{{cite doi|10.1098/rsta.1964.0008}}</ref><ref>{{cite doi|10.1098/rsta.1955.0011}}</ref> inferred on the basis of Chambers' non-local generalisation of [[Ohm's law]]) can be deduced within the framework of the [[BCS theory|BCS]] ([[John Bardeen|Bardeen]], [[Leon Cooper|Cooper]] and [[John Robert Schrieffer|Schrieffer]]) theory of  superconductivity<ref>J. Bardeen, L. N. Cooper, and J. R. Schrieffer, ''Theory of Superconductivity'', Phys. Rev., Vol. '''108''', No. 5, pp. 1175-1204 (1957). [http://prola.aps.org/abstract/PR/v108/i5/p1175_1 APS (Free Download)]</ref> (a comprehensive description of the details of the London-Pippard theory can be found in the book by Fetter and Walecka<ref>A. L. Fetter, and J. D. Walecka, ''Quantum Theory of Many-Particle Systems'' (Dover Publications, New York, 2003), Chapter 13, ''Superconductivity'', Section 49, ''London-Pippard Phenomenological Theory''. ISBN 0-486-42827-3.</ref>).
+
+Pippard was the author of ''Elements of Classical Thermodynamics for Advanced Students of Physics'',<ref>A. B. Pippard, ''Elements of Classical Thermodynamics for Advanced Students of Physics'' (Cambridge University Press, 1957). ISBN 0-521-09101-2.</ref>
+''Dynamics of Conduction Electrons'',<ref>A. B. Pippard, ''Dynamics of Conduction Electrons'', Documents on Modern Physics (Gordon & Beach, 1965).</ref> and ''The Physics of Vibration''.<ref>A. B. Pippard, ''The Physics of Vibration'' (Cambridge University Press, 2007). ISBN 0-521-03333-0.</ref> He is also a co-author of the three-volumes encyclopaedia ''Twentieth Century Physics''.<ref>Laurie M. Brown, [[Abraham Pais]], and Brian Pippard, ''Twentieth Century Physics'' (Institute of Physics Publishing, 1995): Vol. I, 808 p., ISBN 0-7503-0353-0, 
+Vol. II, 808 p., ISBN 0-7503-0354-9, Vol. III, 960 p., ISBN 0-7503-0355-7.</ref> As the Cavendish Professor of Physics at [[Cavendish Laboratory]], University of Cambridge, he complied ''Cavendish Problems in Classical Physics'',<ref>A. B. Pippard, ''Cavendish Problems in Classical Physics'' (Pamphlet) (Cambridge University Press, 1962). A. B. Pippard, ''Cavendish Problems in Classical Physics'' (Pamphlet), 64 p. (Cambridge University Press, 1971)</ref> based in large part on past examination questions for Cambridge physics students.
+
+Pippard was the doctoral supervisor of [[Brian David Josephson]] (awarded [[PhD]] in Physics in 1964) who in 1973 received the [[Nobel Prize in Physics]] (together with [[Leo Esaki]] and [[Ivar Giaever]]) for his discovery of what is known as the [[Josephson effect]].<ref>B. D. Josephson, ''Possible new effects in superconductive tunnelling'', Phys. Lett., Vol. '''1''', pp. 251-253 (1962).</ref>
+
+==References==
+{{reflist|2}}
+
+== Obituaries ==
+* Anthony Tucker, ''Sir Brian Pippard'', The Guardian, Wednesday, 25 September 2008, [http://www.guardian.co.uk/science/2008/sep/24/physics.peopleinscience].
+* John Waldram, ''Professor Sir Brian Pippard (1920 - 2008)'', News and Events, University Offices, University of Cambridge, 24 September 2008, [http://www.admin.cam.ac.uk/news/dp/2008092302].
+* ''Professor Sir Brian Pippard (1920-2008)'', Cambridge Network, 25 September 2008, [http://www.cambridgenetwork.co.uk/news/article/default.aspx?objid=51727] (Reproduced from ''University of Cambridge Office of Communications'').
+* John Waldram, ''Brian Pippard (1920-2008): Low-temperature physicist who excelled in subtle intuitive concepts'', Nature '''455''', 1191 (30 October 2008), [http://www.nature.com/nature/journal/v455/n7217/full/4551191a.html].
+* ''Professor Sir Brian Pippard'', Telegraph, 23 September 2008, [http://www.telegraph.co.uk/news/obituaries/3069588/Professor-Sir-Brian-Pippard.html].
+* ''Professor Sir Brian Pippard: Cambridge physicist'', The Times, 25 September 2008, [http://www.timesonline.co.uk/tol/comment/obituaries/article4820036.ece#cid=OTC%E2%80%91RSS&attr=1972202].
+* [[Richard Eden]], ''Professor Sir Brian Pippard: Physicist who proved the existence of the Fermi surface and was the first President of Clare Hall, Cambridge'', The Independent, Tuesday, 7 October 2008, [http://www.independent.co.uk/news/obituaries/professor-sir-brian-pippard-physicist-who-proved-the-existence-of-the-fermi-surface-and-was-the-first-president-of-clare-hall-cambridge-953709.html].
+* Hamish Johnston, ''Sir Brian Pippard: 1920-2008'', PhysicsWorld, 24 September 2008, [http://physicsworld.com/cws/article/news/35962].
+
+==External links==
+* [http://www.phy.cam.ac.uk/history/cavprof.php The Cavendish Professorship of Physics], Cavendish Laboratory, University of Cambridge, Department of Physics.
+*[http://www.cambridge2000.com/cambridge2000/html/0006/P6271538.html The Brian Pippard Building, Cambridge]
+* Professor [[George Zarnecki]], ''Lives remembered: Professor George Zarnecki and Professor Sir Brian Pippard'', The Times, 27 September 2008, [http://www.timesonline.co.uk/tol/comment/obituaries/article4833556.ece#cid].
+* Professor Ernst Sondheimer, ''Professor Sir Brian Pippard'', The Independent, Friday, 10 October 2008, [http://www.independent.co.uk/news/obituaries/professor-sir-brian-pippard-956567.html].
+* ''Professor Sir Brian Pippard, President of CUMS, 7 September 1920 – 21 September 2008'', [http://www.cums.org.uk/ Cambridge University Musical Society] (CUMS) News, 25 September 2008, [http://www.cums.org.uk/news/index.php?nid=12].
+* ''Brian Pippard dies aged 88'', [[Varsity (Cambridge)|Varsity]], 2008, [http://www.varsity.co.uk/news/979/1/].
+* ''Professor Pippard papers '''HF/LEEWW: 2000.611''' 2000'', The National Archives, [http://www.nationalarchives.gov.uk/A2A/records.aspx?cat=2784-hfleeww&cid=-1&Gsm=2008-06-18#-1].<br />'''Contents''': Typewritten manuscript by Professor Sir Brian Pippard entitled 'Reminiscences of Wartime Radar Research 1941-1945', together with three papers published in The Journal of The Institution of Electrical Engineers in 1946.
+* [http://www.alanmacfarlane.com/ancestors/pippard.htm Brian Pippard interviewed by Alan Macfarlane 31 March 2008 (film)]
+
+{{Authority control|VIAF=76377581}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Pippard, Brian Alfred
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 7 September 1920
+| PLACE OF BIRTH    = [[Earl's Court]], [[London]]
+| DATE OF DEATH     = 21 September 2008
+| PLACE OF DEATH    = [[Cambridge]]
+}}
+{{DEFAULTSORT:Pippard, Brian Alfred}}
+[[Category:1920 births]]
+[[Category:2008 deaths]]
+[[Category:Fellows of the Royal Society]]
+[[Category:British physicists]]
+[[Category:Knights Bachelor]]
+[[Category:Fellows of Clare Hall, Cambridge]]
+[[Category:Alumni of Clare Hall, Cambridge]]
+[[Category:People educated at Clifton College]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Presidents of Clare Hall, Cambridge]]
+[[Category:Academics of the University of Cambridge]]

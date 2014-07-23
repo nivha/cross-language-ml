@@ -1,0 +1,74 @@
+{{Infobox scientist
+|name              = Peter Coles
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = 
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = [[UK]] 
+|citizenship       = 
+|nationality       = [[United Kingdom|British]]
+|ethnicity         = 
+|fields            = [[Physicist]]
+|workplaces        = [[University of Nottingham]] <br /> [[Cardiff University]]
+|alma_mater        = [[University of Sussex]]
+|doctoral_advisor  = [[John D. Barrow]]
+|academic_advisors = 
+|doctoral_students = <!--[[Lung-Yih Chiang]]<br>[[Andrew Davies (physicist)|Andrew Davies]]<br>[[Patrick Dineen (physicist)|Patrick Dineen]]<br>[[Pan Jun (physicist)|Pan Jun]]<br>[[Emma J. King]]<br>[[Evaggelos Kolokotronis]]<br>[[Russell Pearson]]<br>[[Christopher Short]]<br>[[Catherine Spencer (physicist)|Catherine Spencer]]-->
+|notable_students  = 
+|known_for         = [[Cosmology]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|signature         = 
+|footnotes         =}}
+
+'''Peter Coles''' is a theoretical cosmologist and head of the School of Mathematical and Physical Sciences at the [[University of Sussex]], a post he took up in February 2013.<ref>http://www.sussex.ac.uk/newsandevents/?id=16086</ref>
+
+He was born in [[Newcastle upon Tyne]] and educated at the [[Royal Grammar School, Newcastle]]. He did his first degree at [[Magdalene College, Cambridge]], in Natural Sciences, specialising in Theoretical Physics, graduating in 1985. He then studied for his doctorate at the [[University of Sussex]] and completed his thesis in 1988.
+
+His primary research interest is in [[Cosmology]], specifically on theoretical models that try to account for the properties of the [[Observable Universe]], including the [[Cosmic Microwave Background Radiation]]. He is the author of a number of books on this and related subjects, including a textbook, "Cosmology: the origin and evolution of cosmic structure" (ISBN #0471489093, co-authored with Francesco Lucchin).
+
+Coles was a professor of Theoretical Astrophysics at [[Cardiff University]] from 2007 to 2013.<ref>http://www.astro.cf.ac.uk/contactsandpeople/?page=full&id=86</ref> He previously worked at the [[University of Nottingham]], [[Queen Mary, University of London]], and the [[University of Sussex]].
+ 
+He currently resides in [[Brighton]]. Among the places he has previously lived in are [[Pontcanna]] in [[Cardiff]], [[Beeston, Nottinghamshire|Beeston]] in [[Nottinghamshire]] and [[Bethnal Green]] in London.
+
+He is a Fellow of the [[Royal Astronomical Society]] and of the [[Institute of Physics]].
+
+Peter Coles' blog,<ref>http://telescoper.wordpress.com</ref> written under the anagrammatic pseudonym ''Telescoper'', is among the top five physics blogs listed by the ''Daily Telegraph''.<ref>http://blogs.telegraph.co.uk/technology/iandouglas/9288497/five_great_physics_blogs/</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://genealogy.math.ndsu.nodak.edu/id.php?id=124008 Coles' math genealogy]
+*[http://telescoper.wordpress.com/ Coles' blog]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Coles, Peter
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 4 June 1963
+| PLACE OF BIRTH    = Newcastle upon Tyne
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Coles, Peter}}
+[[Category:People educated at the Royal Grammar School, Newcastle]]
+[[Category:Alumni of Magdalene College, Cambridge]]
+[[Category:Alumni of the University of Sussex]]
+[[Category:Academics of the University of Nottingham]]
+[[Category:Academics of Queen Mary, University of London]]
+[[Category:Academics of the University of Sussex]]
+[[Category:Academics of Cardiff University]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:British physicists]]
+[[Category:Cosmologists]]
+[[Category:People from Beeston, Nottinghamshire]]
+[[Category:Fellows of the Royal Astronomical Society]]
+[[Category:Fellows of the Institute of Physics]]

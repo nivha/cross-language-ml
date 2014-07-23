@@ -1,0 +1,103 @@
+{{Infobox scientist
+|name              = Sir John Brian Pendry
+|image             = John pendry seated.jpg
+|caption           = Pendry in 2013
+|birth_date        = {{Birth date and age|1943|07|04|df=yes}}<ref name="whoswho">{{cite web |url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U30495 |title=‘PENDRY, Sir John (Brian)’, Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press |format= |work= |accessdate=}}</ref>
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = [[United Kingdom]]
+|citizenship       = 
+|nationality       = [[United Kingdom]]
+|ethnicity         = 
+|fields            = [[Physicist]]
+|workplaces        = [[Imperial College London]]<br>[[University of Cambridge]]<br>[[Bell Labs]]<br>[[Daresbury Laboratory]]<ref name="whoswho"/>
+|alma_mater        = [[Downing College, Cambridge]]<ref name="whoswho"/>
+| thesis_title = The application of pseudopotentials to low energy electron diffraction
+| thesis_url = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.468650
+| thesis_year = 1970
+|doctoral_advisor  = [[Volker Heine]]
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = [[Cloak of invisibility|Invisibility cloak]]<br>[[Metamaterial cloaking]]<br>[[Metamaterial]]s<br>[[superlens|"Superlens" theory]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Isaac Newton Medal]] (2013) <br>[[Royal Medal]] (2006)<br>[[Knight Bachelor]] (2004)<br>[[Fellow of the Royal Society]] (1984)<br>[[Dirac Prize]] (1996)<br />[[Kavli Prize]] (2014)
+|religion          = 
+|signature         = <!--(filename only)-->
+|footnotes         = 
+| website = {{URL|http://www3.imperial.ac.uk/people/j.pendry}}<br>{{URL|http://www.cmth.ph.ic.ac.uk/photonics/Newphotonics}}
+}}
+'''Sir John Brian Pendry''', [[Fellow of the Royal Society|FRS]] [[FInstP]] (born 4 July 1943<ref name="iop">{{cite doi|10.1088/0953-8984/20/30/300301}}</ref><ref name="cv">{{citation|url=http://www.cmth.ph.ic.ac.uk/photonics/Newphotonics/bio.pdf|title=J.B. Pendry – Curriculum Vitae |accessdate=2009-09-30}}</ref>) is an English [[theoretical physicist]] known for his research into refractive indices and creation of the first practical "[[Invisibility|Invisibility Cloak]]". He is now a chair in theoretical solid state physics at [[Imperial College London]] where he was head of the department of physics (1998–2001) and principal of the faculty of physical sciences (2001–2002). He is an honorary fellow of [[Downing College, Cambridge]], (where he was an undergraduate) and an [[IEEE]] fellow.<ref name="microsoft">{{AcademicSearch|411377}}</ref><ref name="googlescholar">http://scholar.google.co.uk/scholar?q=john+pendry List of Papers by JB Pendry</ref>
+
+==Education==
+Pendry was educated at [[Downing College, Cambridge]], graduating with a [[Master of Arts]] degree in [[Natural Sciences (Cambridge)|Natural Sciences]] and a [[PhD]] in 1969.<ref name="hendryphd">{{cite thesis |degree=PhD |first=John|last=Pendry |title=The application of pseudopotentials to low energy electron diffraction |publisher=University of Cambridge |date=1969 |url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.468650|authorlink=John Pendry}}</ref>
+
+==Career==
+John Pendry was born in Manchester, where his father was an oil representative, and took a degree in Natural Sciences at the [[University of Cambridge]] after which he was appointed as a research fellow at [[Downing College, Cambridge]], between 1969 and 1975. He spent time at [[Bell Labs]] in 1972-3 and was head of the theory group at the [[Science and Engineering Research Council|SERC]] [[Daresbury Laboratory]] from 1975 to 1981, when he was appointed to the chair in theoretical physics at [[Imperial College, London]], where he stayed for the rest of his career. Preferring administration to teaching, he was Dean of the [[Royal College of Science]] from 1993-6, head of the Physics Department from 1998-2001 and Principal of the Faculty of Physical Sciences 2001–2. He has authored over 300 research papers and encouraged many experimental inititatives.<ref name=iop /><ref>
+{{citation|url=https://workspace.imperial.ac.uk/alumni/Public/LeadingLight-37.pdf
+|title=Leading Light|first=Anjana|last=Ahuja|year=2012|accessdate=2012-07-12}}
+</ref>
+
+He was elected a [[Fellow of the Royal Society]] in 1984 and in 2004 he was knighted in the [[2004 Birthday Honours|Birthday Honours]].<ref>
+{{citation|url=http://www.imperial.ac.uk/college.asp?P=5308|title=Knighthood for Imperial theoretical physicist in Birthday Honours list|accessdate=2012-07-12}}
+</ref><ref>{{citation|url=http://www.debretts.com/people/biographies/browse/p/6933/John+Brian.aspx|publisher=Debretts|title=Prof Sir John Pendry, FRS|accessdate=12 July 2012}}
+</ref> In 2008, an issue of ''[[Journal of Physics: Condensed Matter]]'' was dedicated to him in honour of his 65th birthday.
+
+He is married to Pat, a mathematician he met at Cambridge who became a tax inspector. They have no children. His hobbies include playing the piano.<ref>{{harvnb|Ahuja|2012}}</ref>
+
+==Research==
+Pendry has authored or co-authored  a wide range of articles<ref>{{cite doi|10.1103/PhysRevLett.85.3966}}</ref><ref>{{cite doi|10.1126/science.1125907}}</ref><ref>{{cite doi|10.1126/science.1133628}}</ref><ref>{{cite doi|10.1103/PhysRevLett.76.4773}}</ref><ref>{{cite doi|10.1109/22.798002}}</ref><ref>{{cite doi|10.1103/PhysRevLett.86.1114}}</ref> and several books.<ref>Low Energy Electron Diffraction: The Theory and Its Application to Determination of Surface Structure (Techniques of physics) (Academic Press Inc.,U.S., 1974) ISBN 978-0-12-550550-5</ref><ref>Surface Crystallographic Information Service: A Handbook of Surface Structures – (Springer, 1987) ISBN 978-90-277-2503-5</ref>
+
+Pendry's research career started with his PhD, which was concerned with [[Low-energy electron diffraction]] (LEED),<ref name="hendryphd"/> a technique for examining the surface of materials which had been discovered in the twenties but which waited for Pendry's method of computing the results to become practical. His supervisor, [[Volker Heine]] observed that Pendry "is one of the few research students that I have had who did things independently that I could never have done myself". At Bell Labs, Pendry worked with [[Patrick A. Lee|Patrick Lee]] in photoelectron spectroscopy to develop the first quantitative theory of [[EXAFS]], for which he was awarded the [[Dirac Prize]] in 1996.<ref name=iop />
+
+Pendry noticed that the problem of photoemission was similar to his work on LEED and this was important as the [[synchrotron]] at Daresbury was just coming online. As head of the theory group there he published his theory of [[Angle-resolved photoemission spectroscopy|angle-resolved photoemission]] which remains the standard model in the field. These methods enabled the band structure of electrons in solids and at surfaces to be determined to unprecedented accuracy and in 1980 he proposed the technique of [[Inverse photoemission spectroscopy|inverse photoemission]] which is now widely used for probing unoccupied electron states.
+
+Whilst maintaining his position as the UK's leading theoretical surface physicist, at Imperial he began to study the behaviour of electrons in disordered media and derived a complete solution of the general scattering problem in one dimension and advanced techniques for studying higher dimensions, which are relevant to conductivity of bio-molecules. In 1994 he published his first papers on photonic band structures enabling the interaction of light with metallic systems to be discovered. This led to his invention of the idea of [[metamaterial]]s.
+
+===Perfect Lens===
+A short article in ''[[Physical Review Letters]]'' in 2000 which extended work done by Russian scientist [[Victor Veselago]] and suggested a simple method of creating a lens whose focus was theoretically perfect, has become his most cited paper. Initially, it had many critics who couldn't believe that such a short article could present such a radical idea. However his ideas were confirmed experimentally and the notion of the [[superlens]] has revolutionised nanoscale optics.<ref name=iop />
+
+===Invisibility Cloak===
+In 2006 he came up with the idea of bending light in such a way that it could form a container around an object which effectively makes the object invisible and produced a paper with [[David R. Smith]] of [[Duke University]] who demonstrated the idea at the frequency of [[microwave]]s. This idea, commonly known as the [[Invisibility cloak#Cloaks of invisibility in science|Invisibility cloak]], has stimulated much recent work in the field of metamaterials.<ref>
+{{citation|url=http://www.nbi.ku.dk/english/sciencexplorer/lectures/invisibility_cloak/video/|title="Invisibility Cloak" by professor Sir John Pendry|publisher=Niels Bohr Institute|format=video|accessdate=2012-07-12}}
+</ref> In 2009 he and Stefan Meier received a large grant from the [[Leverhulme Trust]] to develop the ideas of perfect lens and invisibility cloak in the optical range of light.<ref>
+{{citation|url=http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_12-11-2009-13-23-57|title=£4.9 million to develop metamaterials for 'invisibility cloaks' and 'perfect lenses'|publisher=Imperial College|accessdate=2012-07-12}}
+</ref>
+
+==Honors and awards==
+In 2014, he was a co-recipient of the [[Kavli Prize]] awarded by the [[Norwegian Academy of Science and Letters]] with Stefan Hell of the [[Max Planck Institute for Biophysical Chemistry]], and [[Thomas Ebbesen]] of the [[University of Strasbourg]]. <ref name=AAAS>{{cite web|title=Nine Scientists Share Three Kavli Prizes|url=http://news.sciencemag.org/people-events/2014/05/nine-scientists-share-three-kavli-prizes}}</ref>
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://spie.org/x57588.xml John Pendry video: The birth and promise of metamaterials (SPIE Newsroom, October 2011)]
+
+{{Authority control|VIAF=34540315}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Pendry, John
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 4 July 1943
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Pendry, John}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:People educated at Ashton-under-Lyne Grammar School]]
+[[Category:Alumni of Downing College, Cambridge]]
+[[Category:Knights Bachelor]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellow Members of the IEEE]]
+[[Category:English physicists]]
+[[Category:Academics of Imperial College London]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Metamaterials scientists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:UNESCO Niels Bohr Medal recipients]]

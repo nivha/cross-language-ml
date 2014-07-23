@@ -1,0 +1,16 @@
+El arte de programar Unix ( en inglés: "The Art of Unix Programming") es un libro escrito por Eric Steven Raymond en 2003 sobre informática y programación de sistemas UNIX. Está distribuido por Addison-Wesley, con ISBN 0-13-142901-9
+
+== Práctica ==
+
+El libro incluye varios casos de estudio reales.
+
+== Referencias ==
+
+== Enlaces externos ==
+* Descarga del libro en El Arte de Programar Unix
+
+Categoría:Libros de 2003
+Categoría:Libros de informática
+Categoría:Libros libres
+Categoría:Unix
+Categoría:Cultura hacker

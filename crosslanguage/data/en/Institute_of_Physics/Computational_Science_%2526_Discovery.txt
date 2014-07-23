@@ -1,0 +1,54 @@
+{{Infobox Journal
+| title        = Computational Science & Discovery
+| cover        = 
+| editor       = Nathan A Baker
+| discipline   = Multidisciplinary
+| language     = English
+| abbreviation = CSD
+| publisher    = IOP Publishing
+| country      = UK
+| frequency    = Electronic only
+| history      = 
+| openaccess   = 
+| impact       = 
+| impact-year  =
+| website      = http://iopscience.org/csd
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         =
+| CODEN        = CSD0A3
+| ISSN         = 1749-4680
+| eISSN        = 1749-4699
+}}
+
+'''''Computational Science & Discovery''''' (CSD) is an [[international]], [[multidisciplinary]], [[peer-review]]ed journal focused on scientific advances and discovery through [[computational science]] in [[physics]], [[chemistry]], [[biology]] and [[applied science]]. It includes specific details of the enabling technologies used—for example, in data management, networking and visualization—that make the scientific advances possible.
+
+The editor-in-chief is Nathan A Baker<ref>http://kdi.pnnl.gov/bios/baker.stm</ref> at [[Pacific Northwest National Laboratory]] WA, USA. He took over the role from Anthony Mezzacappa at [[Oak Ridge National Laboratory]], TN, USA in 2011.<ref>http://www.knowledgespeak.com/newscategoryview.asp?category=Computational%20Science&id=12938</ref>
+
+==Abstracting and indexing==
+This journal is indexed by the following services:
+* [[Scopus]]
+* [[Inspec]]
+* [[Chemical Abstracts Service]]
+* [[FLUIDEX]]
+* [[International Nuclear Information System]] / [[Atomindex]]
+* [[NASA Astrophysics Data System]]
+* [[MathSciNet]]
+* [[PASCAL Database]]
+
+== External links ==
+*[http://iopscience.org/csd Computational Science & Discovery website]
+*[http://ioppublishing.org/ IOP Publishing]
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Computational Science and Discovery}}
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]

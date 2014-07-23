@@ -1,0 +1,85 @@
+{{Infobox scientist
+| name              = Steve Cowley
+| birth_name       = Steven Charles Cowley
+| image             = Steven_Cowley_(8458476561).jpg
+| image_size        =
+| alt               =
+| caption           =
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       =
+| other_names       =
+| residence         =
+| citizenship       =
+| nationality       =
+| fields            = {{Plainlist|
+* [[Physics]]
+* [[Plasma (physics)|Plasmas]]
+* [[Nuclear fusion|Fusion]]
+* [[Astrophysics]]<ref name="googlescholar"/>}}
+| workplaces        = {{Plainlist|
+* [[Imperial College London]]
+* [[University of California, Los Angeles|University of California, Los Angeles (UCLA)]]
+* [[Culham Centre for Fusion Energy|Culham Centre for Fusion Energy (CCFE)]]
+* [[United Kingdom Atomic Energy Authority|UK Atomic Energy Authority (UKAEA)]]}}
+| patrons           =
+| alma_mater        = {{Plainlist|
+* [[Corpus Christi College, Oxford]] (BA)
+* [[Princeton University]] (MA, PhD)}}
+| thesis_title      = Some Aspects of Anomalous Transport in Tokamaks: Stochastic Magnetic Fields, Tearing Modes and Nonlinear Ballooning Instabilities (Convection)
+| thesis_url        = http://search.proquest.com/docview/303381032
+| thesis_year       = 1985
+| doctoral_advisor  = [[:de:Russell Kulsrud|Russell Kulsrud]]<ref name="mathgene"/>
+| academic_advisors =
+| doctoral_students =Nuno Loureiro<ref name="mathgene"/><ref>{{cite thesis |degree=PhD |first=Nuno Filipe Gomes|last=Loureiro |title=Studies of nonlinear tearing mode reconnection |publisher=Imperial College London |date=2005 |url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.418309}}</ref>
+| notable_students  =
+| known_for         = [[Fusion power]]
+| influences        =
+| influenced        =
+| awards            = {{Plainlist|
+* [[:de:Glazebrook Medal|Glazebrook Medal]] (2012)
+* [[Fellow of the Royal Society|FRS]] (2014)<ref name="royal"/>
+* [[Institute of Physics|FInstP]]}}
+| website           = {{Plainlist|
+* {{URL|www3.imperial.ac.uk/people/steve.cowley}}}}
+| footnotes         =
+| spouse            =
+| children          =
+}}'''Steven Charles Cowley''' [[Fellow of the Royal Society|FRS]] is [[Chief executive officer|Chief Executive Officer (CEO)]] of the [[United Kingdom Atomic Energy Authority|UK Atomic Energy Authority (UKAEA)]], [[Professor]] of [[Physics]] at [[Imperial College London]] and Head of the [[European Atomic Energy Community|EURATOM / CCFE Fusion Association]].<ref name="googlescholar">{{GoogleScholar|zJrztlwAAAAJ}}</ref><ref name="mathgene">{{MathGenealogy|id=158677}}</ref><ref name="microsoft">{{AcademicSearch|10804675}}</ref><ref name="scopus">{{Scopus|id=23014334300}}</ref><ref name=govuk>[https://www.gov.uk/government/people/steven-cowley Chief Executive Officer, Professor Steven Cowley], gov.uk</ref>
+
+==Education==
+Cowley was educated at the [[University of Oxford]] where won a scholarship to [[Corpus Christi College, Oxford|Corpus Christi College]] and graduated with a [[Bachelor of Arts]] degree in Physics in 1981. He went on to study at [[Princeton University]] as a [[Harkness Fellowship|Harkness Fellow]] and was awarded a [[Doctor of Philosophy|PhD]] in 1985 for research into [[Tokamak]]s under the supervision of [[:de:Russell Kulsrud|Russell Kulsrud]].<ref name="mathgene"/><ref name="phd">{{cite thesis |degree=PhD |first=Steven Charles|last=Cowley |title=Some Aspects of Anomalous Transport in Tokamaks: Stochastic Magnetic Fields, Tearing Modes and Nonlinear Ballooning Instabilities (Convection) |publisher=Princeton University |date=1985 |url=http://search.proquest.com/docview/303381032|authorlink=Steven Cowley}}</ref><ref>[http://www.ccfe.ac.uk/researcher_detail.aspx?id=27 Professor Steve Cowley], Culham Centre for Fusion Energy</ref>
+
+==Career==
+Following his PhD, Cowley completed [[postdoctoral research]] at the [[Culham Centre for Fusion Energy|Culham Centre for Fusion Energy (CCFE)]]. He returned to Princeton in 1987 and joined the faculty at [[University of California, Los Angeles|UCLA]] in 1993, becoming Full Professor in 2000. At Imperial, Cowley led the [[Plasma (physics)|plasma physics]] group from 2001 to 2003 where he is now a part-time Professor.<ref name=govuk/><ref>{{cite journal |last=Davies |first=Sean |date=2011-05-16 |title= Q and A - Steve Cowley - Culham Centre for Fusion Energy |url=http://eandt.theiet.org/magazine/2011/05/steve-cowley.cfm |journal=E&T: Engineering and Technology Magazine |publisher=The Institution of Engineering and Techology |volume=6 |issue=5 |pages=}}</ref>
+
+==Research==
+Cowley's research interests are in [[Plasma (physics)|plasmas]] and [[nuclear fusion]], in [[astrophysical plasma]]s and the laboratory, such as the [[Joint European Torus|Joint European Torus (JET)]] and the [[ITER|International Thermonuclear Experimental Reactor (ITER)]].<ref name="googlescholar"/><ref>{{cite doi|10.1088/0741-3335/55/12/125015|noedit}}</ref><ref>{{cite doi|10.1088/0067-0049/182/1/310|noedit}}</ref><ref>{{cite doi|10.1086/422547|noedit}}</ref><ref>{{cite doi|10.1088/0741-3335/56/1/015007|noedit}}</ref><ref>{{cite doi|10.1088/0741-3335/35/8/006|noedit}}</ref><ref>{{cite doi|10.1086/506172|noedit}}</ref><ref>{{cite doi|10.1103/PhysRevLett.100.065004|noedit}}</ref><ref>{{cite doi|10.1063/1.871232|noedit}}</ref><ref name=ted>{{YouTube|id=S6BLFdBfgfU|title=Steven Cowley: Fusion is energy's future, TED talk}}, 2009-12-22</ref><ref name=iop>{{YouTube|id=jNFsEWwql9E|title=Fusion energy with Professor Steven Cowley, Institute of Physics}}</ref> His research has been funded by [[Science and Technology Facilities Council|Science and Technology Facilities Council (STFC)]] and the [[Engineering and Physical Sciences Research Council|Engineering and Physical Sciences Research Council (EPSRC)]].<ref>[http://gtr.rcuk.ac.uk/person/A60CD70E-B37B-4C3D-AB13-69F9D6A623D6 Grants awarded to Steven Cowley, EURATOM/CCFE], via [[Research Councils UK]]</ref><ref>[http://gtr.rcuk.ac.uk/person/80A806DA-F335-4A67-A97E-962050EACFF7 Grants awarded to Steven Cowley, Imperial College London], via [[Research Councils UK]]</ref> Cowley co-chaired the [[National Academy of Sciences]] assessment of plasma science in the [[United States]].<ref>Plasma Science: Advancing Knowledge in the National Interest (National Academy Press 2007) ISBN 0309109396</ref>
+
+==Awards and honours==
+Cowley was elected a Fellow of the [[Royal Society]] in 2014. His nomination reads: {{centered pull quote|Professor Cowley is currently Chief Executive Officer at the UK Atomic Energy Authority and Professor at Imperial College. Over the last twenty years he has played a leading role in developing the [[Multi-scale approaches|multi-scale approach]] to computing the [[Plasma (physics)|plasma]] [[turbulence]] in [[List of fusion experiments|fusion experiments]]. Now such computations routinely reproduce experimental results. Multi-scale computational tools will be central to the successful development of fusion power. He discovered a key mechanism for the observed explosive eruptions from confined plasmas. Using analysis and computations Cowley and collaborators have shown that [[astrophysical plasma]]s are invariably turbulent. They have described the multi-scale spectra and structure of this turbulence and how it amplifies and shapes the [[magnetic field]] in the [[Plasma cosmology|large scale plasmas of the universe]].<ref name="royal">{{cite web |url=https://royalsociety.org/people/fellowship/2014/steven-cowley/ |title = Professor Steven Cowley FRS, Chief Executive Officer, UK Atomic Energy Authority |publisher=The Royal Society |archivedate=2014-07-07 |archiveurl=http://www.webcitation.org/6QtIitih4 |location=London}}</ref>}}
+
+Cowley is also a Fellow of the [[American Physical Society]] and the [[Institute of Physics]] (FInstP), and the recipient of the [[:de:Glazebrook Medal|Glazebrook Medal]] in 2012.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Cowley, Steven Charles
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British scientist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Cowley, Steven Charles}}
+[[Category:British scientist stubs]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Living people]]
+
+
+{{UK-scientist-stub}}

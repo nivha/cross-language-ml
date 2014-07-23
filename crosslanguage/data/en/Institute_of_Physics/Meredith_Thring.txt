@@ -1,0 +1,101 @@
+'''Meredith Wooldridge Thring''' (17 December 1915 – 15 September 2006) was a [[Great Britain|British]] [[inventor]], [[engineer]], [[futurologist]], [[professor]] and [[author]].
+
+==Education and career==
+Thring was born in [[Melbourne]], [[Australia]], but moved to [[England]] when he was four years old.  His school was [[Malvern College]]. He obtained a double first class degree in [[Mathematics]] and [[Physics]] at [[Trinity College, Cambridge]] in 1937. He then joined the [[British Coal Utilisation Research Association]], becoming Head of its Combustion Research Laboratory.  In 1940, he married Margaret Hooley (died 1986), and they had two sons and one daughter. 
+
+In 1946 Thring became Head of the newly formed Physics Research group of the [[British Iron and Steel Research Association]]. In 1950 he moved to the [[University of Sheffield]], becoming Professor and Head of the Department of Fuel Technology and [[Chemical Engineering]] in 1953. In 1964 he took up the position of Head of the Department of [[Mechanical Engineering]] at [[Queen Mary, University of London|Queen Mary College]] of the [[University of London]], where he remained until his retirement in 1981. He died in [[Exmouth]], [[Devon]].
+
+==Honours==
+Thring was awarded the Student Medal of the [[Energy Institute|Institute of Fuel]] in 1938, and the Hadfield Medal of the [[Institute of Materials, Minerals and Mining|Iron and Steel Institute]]. From 1962 to 1963 he was President of the [[Energy Institute|Institute of Fuel]]. In 1964 he was awarded a doctorate [[ScD]] degree from [[University of Cambridge]].  He was a Fellow of the [[Institute of Physics]], the [[Energy Institute|Institute of Fuel]], the [[Institution of Mechanical Engineers]], the [[Institution of Engineering and Technology|Institution of Electrical Engineers]] and the [[Institution of Chemical Engineers]].  He was one of the first Fellows of the [[Royal Academy of Engineering]].
+
+==Work==
+Thring was a visionary who changed from science to engineering "because he wanted to make the world a better place".<ref>[http://news.independent.co.uk/people/obituaries/article1772293.ece Rob Thring (his son) ''The Independent'', 30 September 2006]</ref> In his 1977 book ''How to Invent'', he wrote "One can envisage a society in which man lives in near-equilibrium with his environment, with the minimum use of raw materials by fuel economy, complete recycling of all metals, no throw-away goods, all consumer goods built to last many decades, and near zero pollution.".<ref>M. W. Thring & E. R. Laithwaite (1977) ''How to Invent'' ISBN 0-333-22026-9</ref>  In the same book he describes domestic and gardening tools, [[Intermediate Technology]] for less developed countries and robots to take the place of people in dangerous situations. However, these were not just imagining. At the [[University of Sheffield]] and [[Queen Mary, University of London|Queen Mary College]] he was actively involved in [[robotics]], and after his retirement founded a charity called [[Power Aid]] to help developing countries.<ref>[http://www.guardian.co.uk/obituaries/story/0,,1944163,00.html Frank Fitzgerald, The Guardian, 10 November 2006]</ref> In 1969 he predicted a future in which factories would be largely automatic, controlled by a central computer, and supposed that this would reduce the human working week to 10 or 20 hours.<ref>''The Times'' September 11, 1969 "Robots that will remove drudgery"</ref>
+
+He studied combustion and other forms of energy generation, and was one of the founders of the International Flame Research Foundation in 1955.  This knowledge of energy was shown in his 1974 book ''Energy and Humanity'' which called essentially for a more rational and sustainable approach, with control of pollution.  He was also known as a teacher, and for his belief that engineers had an ethical obligation to improve life for all, but notably the underprivileged and disabled.<ref>[http://www.combustion.org.uk/newsletter/newslettermar07/thring.html Roy Crookes ''Combustion Institute, British Section Newsletter'' March 2007]</ref>
+
+==Books==
+*''The domestic open fire: a survey of research prior to 1937'' M.W. Thring (London : Combustion Appliance Makers' Assn.) 1938.
+*''The influence of port design on open-hearth furnace flames'' J.H. Chesters & M.W. Thring (London : Iron and Steel Institute) 1946.
+*''Air Pollution. Based on papers given at a conference held at the University of Sheffield, September, 1956.'' Edited by M. W. Thring (London: Butterworths Scientific Publications) 1957
+*''Pilot plants, models, and scale-up methods in chemical engineering'' R. E. Johnstone & M. W. Thring (New York : McGraw-Hill) 1957.
+*''The science of flames and furnaces'' M.W. Thring (London, Chapman & Hall) 1952.
+*''Nuclear propulsion'' edited by M.W. Thring (London : Butterworths) 1960.
+*''Pulsating combustion : the collected works of F.H. Reynst'' edited by M.W. Thring (Oxford : Pergamon) 1961.
+*''The science of flames and furnaces, 2nd edition'' M.W. Thring (London, Chapman & Hall) 1962.
+*''The principles of applied science'' M. W. Thring (Oxford, Pergamon) 1964.
+*''Engineering: An outline for the intending student'' M. W. Thring, 1972 ISBN 0-7100-7403-4
+*''Man, machines and tomorrow'' M.W. Thring, 1973 ISBN 0-7100-7555-3
+*''Energy and Humanity'' M. W. Thring & R. J. Crookes,  1974 ISBN 0-901223-60-3
+*''Machines, masters or slaves of man?'' M.W. Thring, 1974, ISBN 0-901223-53-0
+*''Strategy for Energy'' M. W. Thring, 1975 ISBN 0-85070-550-9
+*''How to invent'' M.W. Thring, 1977. ISBN 0-333-22026-9
+*''The engineer's conscience'' M.W. Thring & E. R. Laithwaite, 1980 ISBN 0-85298-433-2
+*''Robots and telechirs : manipulators with memory, remote manipulators, machine limbs for the handicapped'' M.W. Thring, 1983 ISBN 0-85312-274-1
+*''Quotations from G.I.Gurdjieff's Teaching: A Personal Companion'' M. W. Thring, 1998 ISBN 1-898942-13-7
+
+==Patents==
+===British Patents===
+*GB Patent 535576 (1941) Gas producers
+*GB Patent 549142 (1942) Refractory material
+*GB Patent 553753 (1943) Electrostatic gas cleaner
+*GB Patent 572380 (1945) Crucible and the like furnaces
+*GB Patent 579324 (1946) Combustion of solid fuel
+*GB Patent 579823 (1946) Carbonization of coal and combustion of the carbonized residue
+*GB Patent 587821 (1947) Transportable heating unit
+*GB Patent 587823 (1947) Controlling the air supply in furnaces and like heating appliances
+*GB Patent 610950 (1948) Recording gas constituents
+*GB Patent 760430 (1956) Control of combustion processes
+*GB Patent 803528 (1958) Smoke-consuming domestic stoves
+*GB Patent 818718 (1959) Rotary regenerative heat exchangers
+*GB Patent 842024 (1960) Utilising the waste heat of furnace gases and in cleansing thereof
+*GB Patent 870446 (1961) The generation of electricity
+*GB Patent 877779 (1961) Devices to facilitate the lighting of domestic fires
+*GB Patent 895534 (1962) Electric-arc steel furnaces
+*GB Patent 896639 (1962) Open-hearth furnaces
+*GB Patent 985625 (1965) Continuous casting of metals
+*GB Patent 1023817 (1966) Sampling and analysis of steel
+*GB Patent 1127443 (1968) Fire detection and fighting apparatus
+*GB Patent 1111869 (1968) Continuous steel-making
+*GB Patent 1131233 (1968) Automatic equipment for detecting fires
+*GB Patent 2167542 (1986) Furnace for industrial waste
+
+===US Patents===
+*US Patent 2515545 (1950) Controlling the combustion rate and composition of the combustion gases in the burning of coal
+*US Patent 2663272 (1953) Controlling the air supply in furnaces and like heating appliances
+*US Patent 3171877 (1965) Apparatus for Continuous Steel Making
+*US Patent 3201622 (1965) Generation of Electricity
+*US Patent 3312230 (1967) Dish-Washing Machines
+*US Patent 3522859 (1970) Walking Machine
+*US Patent 3764667 (1973) Process for producing pigment-quality titanium dioxide
+
+==References==
+<references />
+*[http://www.guardian.co.uk/obituaries/story/0,,1944163,00.html ''The Guardian'' Obituary: Meredith Thring, November 10 2006]
+*[http://news.independent.co.uk/people/obituaries/article1772293.ece ''The Independent'' Obituary: Professor M. W. Thring, 30 September 2006]
+
+{{Authority control|VIAF=108589465}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Thring, Meredith
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British academic
+| DATE OF BIRTH     = 17 December 1915
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 15 September 2006
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Thring, Meredith}}
+[[Category:1915 births]]
+[[Category:2006 deaths]]
+[[Category:British inventors]]
+[[Category:People educated at Malvern College]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Academics from Melbourne]]
+[[Category:Futurologists]]
+[[Category:British chemical engineers]]
+[[Category:Engineering academics]]
+[[Category:Academics of the University of Sheffield]]
+[[Category:Academics of Queen Mary, University of London]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Institution of Engineering and Technology]]
+[[Category:Fellows of the Institution of Mechanical Engineers]]
+[[Category:Fellows of the Royal Academy of Engineering]]

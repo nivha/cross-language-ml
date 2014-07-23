@@ -1,0 +1,26 @@
+'''Peter Miles Anson Sherwood''' is Dean, College of Arts and Sciences at [[Oklahoma State University]], [[Oklahoma]], United States.<ref name="dean">{{cite web|url=http://cas.okstate.edu/index.php?option=com_content&view=article&id=5&Itemid=71|title=Peter M. A. Sherwood, Dean |publisher=Oklahoma State University|accessdate=18 May 2011}}</ref>   He is also a Regents Professor of Physics at Oklahoma State University<ref>{{cite web|url=http://regentsprofessors.okstate.edu/index.php?view=article&catid=35%3Acurrent-regents-professors&id=94%3Apeter-sherwood&option=com_content&Itemid=61|title=Peter Sherwood |publisher=Oklahoma State University|accessdate=18 May 2011}}</ref> and a University Distinguished Professor Emeritus of Chemistry at Kansas State University.<ref>{{cite web|url=http://www.k-state.edu/chem/people/emeriti.html|title=Emeriti Directory|publisher=Kansas State University|accessdate=18 May 2011}}</ref>
+
+He obtained his B.Sc., [[St. Andrews University]], Scotland, Chemistry; M.A., Ph.D., Sc.D. [[Cambridge University]].<ref name="dean" />
+
+==References==
+
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Sherwood, Peter M. A.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American academic
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+
+{{DEFAULTSORT:Sherwood, Peter M. A.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Oklahoma State University faculty]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Alumni of the University of Cambridge]]
+
+{{US-academic-stub}}

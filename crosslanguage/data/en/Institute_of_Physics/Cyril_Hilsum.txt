@@ -1,0 +1,78 @@
+{{Infobox scientist
+|name              = Cyril Hilsum
+|image             = 
+|image_size        = 180px
+|caption           = 
+|birth_date        = {{birth date and age|1925|5|17}}
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = United Kingdom
+|citizenship       = 
+|nationality       = United Kingdom
+|ethnicity         = 
+|fields            = 
+|workplaces        = 
+|alma_mater        = [[University College London]]
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = liquid-crystal science and technology
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Max Born Prize]] (1987) <br> [[Faraday Medal]] (1988) <br> [[Glazebrook Medal]] (1997) <br> [[Royal Medal]] (2007)
+|religion          = 
+|signature         = <!-- (filename only) -->
+|footnotes         = 
+}}
+'''Cyril Hilsum''' [[Order of the British Empire|CBE]] [[Royal Society|FRS]] [[FREng]] [[Institute of Physics|HonFInstP]] (born 17 May 1925<ref name="fp">{{cite web|url=http://www.davidaspencer.com/oldraineians/pr030famousraineians.html|title=Famous personalities from Raine's Foundation School|accessdate=2008-11-13 |archiveurl = http://web.archive.org/web/20080616012837/http://www.davidaspencer.com/oldraineians/pr030famousraineians.html <!-- Bot retrieved archive --> |archivedate = 2008-06-16}}</ref>) is a British physicist and academic.
+
+==Life==
+He entered [[Raine's Foundation School]] in 1936 as the middle of three brothers, leaving in 1943 after being accepted into [[University College London]], where he did his BSc. In 1945 he joined the Royal Naval Scientific Service, moving in 1947 to the [[Admiralty Research Laboratory]].<ref name="fp"/> In 1950 he transferred again to the Services Electronics Research Laboratory (SERL) where he remained until 1964 before again moving, this time to the [[Royal Radar Establishment]].<ref name="fp"/> He won the Welker Award in 1978,<ref>{{cite web|url=http://www.iscs2007.org/index.php?Awards|title=Awards - ISCS2007|accessdate=2008-11-13}}</ref> was elected a [[Fellow of the Royal Academy of Engineering]], a [[Fellow of the Royal Society]] in 1979 and an honorary member of the American [[National Academy of Engineering]].<ref name="fp"/> In 1983 he was appointed Director of Research at [[Hirst Research Centre|GEC Hirst Research Centre]]. He was awarded the [[Max Born Prize]] in 1987, the 1988 [[Faraday Medal]], and from then until 1990 served as President of the [[Institute of Physics]]. In the 1990 [[Queen's Birthday Honours]] he was appointed a [[Commander of the Order of the British Empire]] (CBE)<ref>{{LondonGazette|issue=52173|startpage=7|endpage=8|date=15 June 1990|accessdate=2008-11-17}}</ref> for "services to the Electrical and Electronics Industry".<ref>{{cite web|url=http://www.npg.org.uk/live/search/person.asp?LinkID=mp06516|title=Cyril Hilsum (1925-) Physicist|accessdate=2008-11-13}}</ref> He was the subject of a photograph by [[Nick Sinclair]] in 1993 that is currently held by the [[National Portrait Gallery (London)|National Portrait Gallery]].<ref>{{cite web|url=http://www.npg.org.uk/live/search/portrait.asp?LinkID=mp06516&rNo=0&role=sit|title=NPG P564(10) Cyril Hilsum|accessdate=2008-11-13}}</ref> In 1997 he was awarded the Glazebrook Medal and Prize from the Institute of Physics, and is notable as the only scientist to hold both this and the Faraday Medal together.<ref>{{cite web|url=http://malvernscienceservices.com/index.php?option=com_content&view=article&id=91:professor-cyril-hilsum-cbe&catid=48:our-team&Itemid=89|title=Professor Cyril Hilsum CBE|accessdate=2008-11-13}}</ref> He has served as a corporate research advisor for various entities, including Cambridge Display Technology, the [[European Commission]] and [[Unilever]]. In 2007 he was awarded the [[Royal Society]]'s [[Royal Medal]] 'for his many outstanding contributions and for continuing to use his prodigious talents on behalf of industry, government and academe to this day'.<ref>{{cite web|url=http://royalsociety.org/page.asp?id=1750|title=Royal Medal recent winners|accessdate=2008-11-13}}</ref>
+
+He currently serves as Chairman of the Scientific Board for Peratech and is a Visiting Professor of Physics at UCL, as well as sitting on the Defence Scientific Advisory Council.<ref>{{cite web|url=http://www.peratech.com/board.php|title=Peratech Board Members|accessdate=2008-11-13}}</ref> He also endorses the Karen Burt Memorial Award, named after his daughter, which is awarded yearly by the Women's Engineering Society 'to a woman engineer of high calibre who has newly attained full corporate membership and Chartered Engineer status through her relevant professional Institution and who has contributed to the promotion of the engineering profession'.<ref>{{cite web|url=http://www.wes.org.uk/?q=content/jane-wild-was-presented-karen-burt-memorial-award-wes-president-pam-wain|title=Jane Wild was presented with the Karen Burt Memorial Award by WES president Pam Wain|accessdate=2008-11-13}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> In 2006 he was made a Fellow of the ESSCIRC,<ref>{{cite web|url=http://www.esscirc.org/en/page/fellows.aspx|title=ESSCIRC - Fellows|accessdate=2008-11-13}}</ref> and in 2007 wrote an obituary for [[Gareth Roberts (physicist)|Gareth Roberts]] for [[The Guardian]]<ref>{{cite news|url=http://www.guardian.co.uk/science/2007/mar/17/obituaries.guardianobituaries|title=Obituary: Sir Gareth Roberts|accessdate=2008-11-13 | work=The Guardian | location=London | date=2007-03-17 | first=Cyril | last=Hilsum}}</ref> and the Royal Society.<ref>{{cite doi|10.1098/rsbm.2011.0016}}</ref>
+
+==Research==
+While working for the [[Ministry of Defence (United Kingdom)|Ministry of Defence]] Hilsum helped develop commercial applications for [[gallium arsenide]], and was responsible for creating the UK's first semiconductor laser. He was one of the developers of the 
+[[Ridley Watkins Hilsum theory|Ridley-Watkins-Hilsum theory]] that provided the theoretical basis of the [[Gunn diode]],<ref>{{cite web|url=http://www.mwrf.com/Articles/Print.cfm?ArticleID=19913|title=CYRIL HILSUM|accessdate=2008-11-13}}</ref> and his research helped form the basis of modern [[LCD]] technology,<ref>[http://www.lcd-displays-manufacturers.com/suserfiles/upload/lcd_history_blaze_display.pdf The history of liquid-crystal displays], Hirohisa Kawamoto, Proceedings of the IEEE, Vol. 90, No. 4, April 2002</ref> bringing in over £100m to the UK government. The [[British Liquid Crystal Society]] awards a Cyril Hilsum Medal each year "to British candidates for overall contributions to liquid-crystal science and technology. The award is made to mid-career scientists who have made notable contributions to the subject over a number of years."<ref>{{cite web|url=http://www.ucl.ac.uk/news/news-articles/0804/08043004|title=Cyril Hilsum Medal awarded|accessdate=2008-11-13}}</ref>
+
+==Personal life==
+He married Betty Hilsum, with whom he had two daughters, [[Lindsey Hilsum|Lindsey]], a correspondent for [[Channel 4]]<ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/uk/article841551.ece?token=null&offset=12|title=Broadcast media - Times Online|accessdate=2008-11-13 | location=London | work=The Times | date=2004-01-05}}</ref> and Karen, an engineer, who died and has a memorial award named after her.<ref>{{cite web|url=http://www.bcs.org/server.php?show=nav.5929|title=Karen Burt Award : BCS|accessdate=2008-11-13}}</ref>
+
+==Works==
+* Semiconducting III-V Compounds (Monographs on Semiconductors), C. Hilsum, 239 pages, Publ. Elsevier (1961), ISBN 0-08-009499-6
+* Liquid Crystals, C. Hilsum, Cambridge Univ Press (1985), ISBN 0-521-30465-2
+* Device Physics (Vol 4 of Handbook on Semiconductors), C. Hilsum and T.S. Moss (Editors), 1244 pages, Publ. JAI Press  (1993) ISBN 0-444-88813-6
+* Communications After AD2000, C. Hilsum, D.E.N. Davies, A.W. Rudge (Editors), Chapman & Hall, (1993), ISBN 0-412-49550-3
+
+==References==
+{{Reflist|2}}
+
+{{Authority control|VIAF=94564961}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Hilsum, Cyril
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1925-05-17
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hilsum, Cyril}}
+[[Category:1925 births]]
+[[Category:Living people]]
+[[Category:English physicists]]
+[[Category:Semiconductor physicists]]
+[[Category:Fellow Members of the IEEE]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Alumni of University College London]]
+[[Category:Royal Medal winners]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:People educated at Raine's Foundation School]]
+[[Category:General Electric Company plc]]

@@ -1,0 +1,76 @@
+{{Infobox scientist
+| name              = Eleanor Elizabeth Bryce Campbell
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = [[University of Edinburgh]]
+| alma_mater        = 
+| thesis_title      = Electronic to rovibrational excitation in fast atom-molecule collisions
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!-- {{URL|http://www.chem.ed.ac.uk/staff/academic/ecampbell.html}} -->
+| footnotes         = 
+| spouse            = 
+| children          = 
+}}
+'''Eleanor Campbell''' [[Fellow of the Royal Society#Fellows|FRS]] [[Fellow of the Royal Society of Chemistry|FRSC]] [[Fellow of the Institute of Physics|FInstP]] is a Professor of Physical Chemistry at [[Edinburgh University]]. Campbell was awarded the [[Fellow of the Royal Society#Fellows|FRS]] for her contribution to the understanding of relaxation channels and reorganisational dynamics of highly excited molecules and surfaces through experimental research<ref>{{cite web|title=Royal Society - Eleanor Campbell webpage|url=http://royalsociety.org/people/eleanor-campbell/}}</ref> in 2010.
+
+==Early education==
+Campbell was born and schooled on the [[Island of Bute|Island of Bute, Scotland]], Scotland. She was a former pupil of [[Rothesay Academy]].<ref>{{cite news|title=Academy graduate joins Royal Society - The Buteman|url=http://www.buteman.co.uk/news/local-headlines/academy-graduate-joins-royal-society-1-369496}}</ref>  She completed her first (1982) and doctorate degree in Edinburgh University (1985) before receiving a [[habilitation]] in experimental physics from [[Freiburg University|Freiburg University, Germany]].<ref>{{cite web|title=Biograpjhy of Eleanor Campbell on Edinburgh University Website|url=http://www.ecampbell.chem.ed.ac.uk/eleanor.html}}</ref>
+
+==Academic career and accolades==
+After her time as assistant professor at Freiburg University, she moved on to become the departmental head at the [http://www.mbi-berlin.de/ Max-Born-Institut]. In 1998 Eleanor was made Chair of Atomic and Molecular Physics at [[Gothenburg University|Gothenburg University, Sweden]] before returning to Edinburgh University in to take up a post as Chair of Physical Chemistry in 2007 and then Chemistry 2013.
+
+== Current work ==
+Campbell's group at Edinburgh describe themselves as working in the field of carbon nanomaterials. They use [[Ultrafast laser spectroscopy|femtosecond laser pulses]] to probe the ionisation dynamics of complex molecules using fullerene as a model system. Another way the group probe the properties of single molecules are through the help of plasmonic nanoantennas.<ref>{{cite web|title=NANOSPEC University of Edinburgh|url=http://www.ecampbell.chem.ed.ac.uk/nanospec/}}</ref> [[Electromagnetic radiation]] is redirected by the utilising the unique [[Plasmonics|surface plasmon]] properties of gold nanoparticles at the interfaces with [[carbon nanotube]]s in order to characterize their optical and electronic properties, similar to [[Surface-enhanced Raman spectroscopy|SERS]].
+
+== References ==
+{{reflist}}
+
+{{Persondata
+| NAME              = Campbell, Eleanor
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Physicist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Campbell, Eleanor}}
+[[Category:British women scientists]]
+[[Category:Scottish chemists]]
+[[Category:Female Fellows of the Royal Society]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:People from the Isle of Bute]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:University of Freiburg faculty]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Fellows of the Royal Society of Chemistry]]
+[[Category:Fellows of the Institute of Physics]]

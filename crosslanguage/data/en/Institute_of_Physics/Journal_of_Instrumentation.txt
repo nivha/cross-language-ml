@@ -1,0 +1,57 @@
+{{Infobox journal
+| title = Journal of Instrumentation 
+| cover = 
+| editor = Amos Breskin
+| discipline = [[Instrumentation]]
+| formernames = 
+| abbreviation = J. Instrum.
+| publisher = [[International School for Advanced Studies]], [[Institute of Physics]]
+| country =
+| frequency = Monthly
+| history = 2006-present
+| license = 
+| impact = 1.656
+| impact-year = 2012
+| website = http://iopscience.iop.org/1748-0221/ 
+| link1 = 
+| link1-name = 
+| link2 = 
+| link2-name = 
+| JSTOR = 
+| OCLC = 150410732
+| LCCN = 
+| CODEN = JIONAS 
+| ISSN = 1748-0221
+| eISSN = }}
+The '''''Journal of Instrumentation''''' is an online [[Peer review|peer-reviewed]] [[scientific journal]].<ref name=JINST-author>{{Cite web| title =JINST Author benefits| publisher =IOP Publishing Limited | year =2010| url = http://iopscience.iop.org/1748-0221/page/Author%20benefits| accessdate =2010-05-10 }}</ref> It is published by [[IOP Publishing]] on behalf of the [[International School for Advanced Studies]].<ref name=overview>{{cite web |url=http://old.library.georgetown.edu/newjour/j/msg04336.html |title=Journal of Instrumentation (JINST) |work=New Jour: Electronic Journals and Newsletters |accessdate=2010-01-06 |date=2007-01-24}}</ref>
+
+The journal covers concept and [[instrumentation]] in topic areas related to, and including [[Accelerator physics|detector and accelerator science]], including related [[theory]], [[numerical simulation|simulations]], [[computer modelling|modelling]], and [[particle accelerator|experimental methods]].<ref name=overview/>
+
+== Abstracting and indexing ==
+The journal is abstracted and indexed in:<ref name=index>
+{{Cite web| title =Abstracted in| publisher = IOP Publishing| year =2010
+ | url =http://iopscience.iop.org/1748-0221/page/Abstracted%20in| format =List of Abstracting services which list this journal| accessdate =2010-06-25}}</ref>
+* [[Scopus]]
+* [[Inspec]]
+* [[Chemical Abstracts Service]]
+* [[INIS Atomindex]]
+* [[NASA Astrophysics Data System]]
+* [[Science Citation Index]]
+* [[Materials Science Citation Index]]
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.656.<ref name=WoS>{{cite book |year=2013 |chapter=Journal of Instrumentation |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}}</ref>
+
+== Notable articles ==
+The journal publishes the complete scientific documentation of the [[CERN]] [[Large Hadron Collider]] machine and [[particle detector|detectors]]. These papers are published as [[Open access (publishing)|open access]].<ref name=JOI-intro/> It also publishes the [[technical report]]s concerning the [[Planck Low Frequency Instrument]] on-board the [[European Space Agency]]'s [[Planck satellite]], which was launched in May 2009. These papers are also published as open access.<ref name=JOI-intro>{{Cite web |title =''Journal of Instrumentation'' (Home page) |publisher =Institute of Physics and IOP Publishing Limited |url =http://iopscience.org/jinst |accessdate =2010-05-10 }}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{Official website|http://iopscience.iop.org/1748-0221/}}
+
+
+[[Category:English-language journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Monthly journals]]
+[[Category:Physics journals]]
+[[Category:Publications established in 2006]]

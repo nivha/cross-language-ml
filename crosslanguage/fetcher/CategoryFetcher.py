@@ -7,26 +7,29 @@ from wikitools import category
 class CategoryFetcher(object):
     """
         :params
-        @param site - a wiki site
         @param language - relevant language of given wiki
 
         Code example:
 
-            site = wiki.Wiki("http://es.wikipedia.org/w/api.php")
-            cf = CategoryFetcher(site, 'es')
+            cf = CategoryFetcher('es')
             articles = cf.get_category_recursively('Categoría:Libros_de_ciencias_de_la_computación')
             for article in articles:
                 print article
 
     """
 
-    def __init__(self, site, language='en'):
-        self.site = site
+    def __init__(self, language='en'):
         self.language = language
+
+        # Determine wiki site
+        sites_by_language = {
+            'en':   "https://en.wikipedia.org/w/api.php",
+            'es':   "http://es.wikipedia.org/w/api.php"
+        }
+        self.site = wiki.Wiki(sites_by_language[self.language])
 
     def get_category(self, category):
         return [article for article in category.getAllMembersGen()]
-
 
     def is_category(self, category):
         cat_lang = {
@@ -64,15 +67,13 @@ class CategoryFetcher(object):
 
 
 ######## English
-# site = wiki.Wiki()
-# cf = CategoryFetcher(site, 'en')
-# articles = cf.get_category_recursively("Category:Institute_of_Physics")
-# for article in articles:
-#    print article
+cf = CategoryFetcher('en')
+articles = cf.get_category_recursively("Category:Institute_of_Physics")
+for article in articles:
+   print article
 
 ######## Spanish
-# site = wiki.Wiki("http://es.wikipedia.org/w/api.php")
-# cf = CategoryFetcher(site, 'es')
+# cf = CategoryFetcher('es')
 # articles = cf.get_category_recursively('Categoría:Libros_de_ciencias_de_la_computación')
 # for article in articles:
 #    print article

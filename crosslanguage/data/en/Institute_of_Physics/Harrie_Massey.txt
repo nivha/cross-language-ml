@@ -1,0 +1,115 @@
+{{Infobox scientist
+| name = Harrie Massey
+| image = 
+| image_size = 
+|[[File:harrymassey.jpg]]
+| caption = Harrie Stewart Wilson Massey (1908-1983)
+| birth_date = {{birth date|1908|5|16|df=y}}
+| birth_place = [[St Kilda, Victoria|St. Kilda]], [[Melbourne]], [[Australia]]
+| death_date = {{death date and age|1983|11|27|1908|5|16|df=y}}
+| death_place = [[Cambridge]], [[UK]]
+| residence = UK 
+| nationality = Australian 
+| field = [[Physicist]]
+| work_institution = [[Queen's University of Belfast]]<br />[[University of Cambridge|Cambridge University]]<br />[[University College London]]
+| alma_mater = [[University of Melbourne]]<br />Cambridge University
+| doctoral_advisor = [[Ralph Fowler]] 
+| doctoral_students = [[David Bates (physicist)|David Robert Bates]]<br />[[Ian Sloan]]<br />[[M J Seaton|Michael Seaton]]
+<!--[[Kathirgamar Kathirgamanathan]]<br>[[Alan Martin]]-->
+| known_for  = 
+| religion = 
+| footnotes = 
+}}
+'''Sir Harrie Stewart Wilson Massey''' [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1984.0016}}</ref> (16 May 1908 – 27 November 1983) was an influential [[Australia]]n [[mathematical physicist]]. He worked primarily in the fields of [[atomic physics|atomic]] and [[atmospheric physics]].
+
+== Life and career ==
+Harrie Massey was born in St. Kilda, [[Melbourne]], Australia, but grew up in the rural community of [[Hoddles Creek]]. Massey enrolled in the local state school in 1913. At the age of 16 he won a Senior Government Scholarship to the [[University of Melbourne]]. There he studied physics and chemistry and graduated with a first class honours BSc in 1927. He stayed on to study Pure and Applied Mathematics and was awarded another first class degree, a BA, in 1929. At that time, the university did not offer a PhD program but, clearly gifted, he took on an MSc with both experimental and theoretical components. The former dealt with soft [[X-ray]] deflection from metal surfaces and the latter with [[wave|wave mechanics]]. His external examiner was [[Ralph Fowler]] from the [[University of Cambridge]] who was [[Paul Dirac]]'s PhD supervisor.
+
+In 1929, with the benefit of another scholarship, Massey went to [[Trinity College, Cambridge]] to perform research at the [[Cavendish Laboratory]] led by [[Ernest Rutherford]]. Fowler was appointed as Massey's supervisor although it was clear that he did not need any supervision ''per se''. Massey obtained his PhD on the ''The Collision of Material Particles'' in 1932. He co-authored a book on atomic collision processes with [[Nevill Mott]] shortly afterwards. In 1933 he became an Independent Lecturer in Mathematical Physics at the [[Queen's University of Belfast]]. During his tenure he wrote his second book, ''Negative Ions'', and began working on upper atmospheric physics.<ref name="obit">{{cite news|title=Obituary: Professor Sir Harrie Massey|work=[[The Times]]|location=London|date=2 December 1983|page=18}}</ref> Massey was appointed Goldsmid Professor of Applied Mathematics at [[University College London]] five years later. This was to create a strong academic link between QUB and UCL which persists to this day.
+
+During the [[World War II|Second World War]] he worked for the [[Admiralty Mining Establishment]] where he helped to develop protection for shipping against magnetic mines.<ref name=obit/> In 1941 he was appointed Deputy Chief Scientist at the Mine Design Department in [[Havant]], and was promoted to Chief Scientist in 1943.<ref name=obit/> He had a great influence on the future careers of nearly every scientist that worked there including [[David Bates (physicist)|David Bates]], who was invited to join the staff at UCL, and [[Robert Boyd (physicist)|Robert Boyd]], who was offered a research assistant post. [[Francis Crick]] was introduced to [[Maurice Wilkins]] by Massey. Massey left the Admiralty in 1943 to join the [[Department of Scientific and Industrial Research]] mission at Berkeley, California, in connection with the [[Manhattan Project]].<ref name=obit/>
+
+Following the retirement of [[Edward Andrade]] Massey was appointed [[Quain Professor]] of Physics and head of the UCL Physics department in 1950.<ref name=obit/> He remained its head after the department was merged with Astronomy in 1973 and retired in 1975.
+
+Massey was the first chairman of the [[British National Committee for Space Research]], the first Chairman of the [http://www.esf.org/essc European Space Sciences Committee], the first Chairman of the [[Council for Scientific Policy]] and
+helped found the [[European Space Agency#History of ESA's foundation|European Space Research Organization]] as well as the [[Mullard Space Science Laboratory]] at UCL.
+
+== Honours & awards ==
+
+* [[Royal Society]] [[Hughes medal]] 1955
+* [[Royal Medal]] 1958
+* [[British honours system#Knighthood|Knighted]] 1960
+
+Massey has a number of awards named after him;
+
+* Royal Society/[[COSPAR]] Massey Award. [http://www.cosparhq.org/Awards/awards.htm]
+* [[Harrie Massey Medal and Prize]] jointly awarded by the [[Australian Institute of Physics]] and [[Institute of Physics]] (UK). [http://www.aip.org.au/content/massey]
+
+== See also ==
+* [[Atomic physics]]
+* [[British Atomic Scientists Association]]
+* [[Mullard Space Science Laboratory]]
+
+==References==
+{{reflist}}
+
+== Books ==
+*{{cite book
+ | last=Mott 
+ | first=NF 
+ | authorlink=Nevill Mott
+ |author2=Massey, HSW
+  | title=Theory of Atomic Collisions
+ | publisher=Clarendon Press, Oxford
+ | year=1949 }} (1st edition, 1933)
+*{{cite book
+ | title=Ancillary Mathematics
+ | last=Massey
+ | first=HSW
+ |author2=Kestelman, H
+  | publisher=Sir Isaac Pitman and Sons Ltd
+ | edition=2nd ed.
+ | year=1964 }}
+*{{cite book
+ | last=Massey
+ | first=HSW
+ | title=Applied Atomic Physics Processes
+ | publisher=Academic Press
+ | year=1982
+ | isbn=0-12-419951-8 }}
+*{{cite book
+ | last=Massey
+ | first=HSW
+ | title= History of British space science
+ |author2=Robins, MO
+  | publisher=Cambridge University Press
+ | year=1986
+ | isbn=0-521-30783-X }}
+
+==External links==
+* [http://www.phys.ucl.ac.uk/department/history/BFox1.html From Lardner to Massey, by JW Fox]
+
+{{Authority control|VIAF=61607002}}
+
+{{Persondata 
+| NAME              = Massey, Harrie
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Australian physicist
+| DATE OF BIRTH     = 16 May 1908
+| PLACE OF BIRTH    = [[St Kilda, Victoria|St. Kilda]], [[Melbourne]], [[Australia]]
+| DATE OF DEATH     = 27 November 1983
+| PLACE OF DEATH    = [[Cambridge]], [[UK]]
+}}
+{{DEFAULTSORT:Massey, Harrie}}
+[[Category:1908 births]]
+[[Category:1983 deaths]]
+[[Category:Australian physicists]]
+[[Category:Australian people of Scottish descent]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Academics of Queen's University Belfast]]
+[[Category:Academics of University College London]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Royal Medal winners]]
+[[Category:University of Melbourne alumni]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:Presidents of the Physical Society]]

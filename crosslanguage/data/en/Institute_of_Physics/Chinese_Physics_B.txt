@@ -1,0 +1,49 @@
+{{Infobox journal
+| title = Chinese Physics B
+| cover = 
+| editor = Ouyang Zhong-Can
+| discipline = [[Physics]]
+| formernames = Chinese Physics, Acta Physica Sinica (Overseas Edition)
+| abbreviation = Chin. Phys. B 
+| publisher = [[IOP Publishing]] on behalf of the [[Chinese Physical Society]]
+| country = 
+| frequency = Monthly
+| history = 1992-present
+| openaccess = [[Hybrid open access|Hybrid]]
+| license = 
+| impact = 1.148
+| impact-year = 2012
+| website =  http://iopscience.iop.org/cpb
+| link1 =
+| link1-name =
+| link2 = http://cpb.iphy.ac.cn
+| link2-name = Journal page at society's website
+| JSTOR = 
+| OCLC = 605190086
+| LCCN = 2008222300
+| CODEN = 
+| ISSN = 1674-1056
+| eISSN = 
+}}
+'''''Chinese Physics B''''' is a monthly [[Peer review|peer-reviewed]] [[scientific journal]] published in English by [[IOP Publishing]]. It is sponsored by the [[Chinese Physical Society]] and the Institute of Physics, [[Chinese Academy of Sciences]].
+
+==Scope==
+''Chinese Physics B'' is devoted to rapid publication of original research papers, rapid communications, and [[review article|reviews]] on the latest developments and achievements in all branches of [[physics]] worldwide except [[nuclear physics]], as well as the physics of [[elementary particle]]s and fields. Specific areas of interest include [[condensed matter physics]], [[quantum information]], [[Atomic physics|atomic]] and [[molecular physics]], [[optical physics]], and [[plasma physics]].
+
+== History ==
+The journal was established in 1992 as ''Acta Physica Sinica (Overseas Edition)'', publishing papers different from those of "Acta Physica Sinica" (in Chinese) in both language and content. The journal title was changed to ''Chinese Physics'' in 2000, and changed to ''Chinese Physics B'' in 2008.
+
+== Abstracting and indexing ==
+This journal is abstracted and indexed in [[Science Citation Index]], [[Materials Science Citation Index]], [[Scopus]], [[Inspec]], [[Compendex]], [[Astrophysics Data System|NASA Astrophysics Data System]] [[Stanford Physics Information Retrieval System]], and [[VINITI Database RAS]]/[[Referativny Zhurnal]]. According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.148.<ref name=WoS>{{cite book |year=2013 |chapter=Chinese Physics B |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]]}} {{subscription required}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://iopscience.iop.org/cpb}}
+
+[[Category:Physics journals]]
+[[Category:English-language journals]]
+[[Category:Monthly journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 1992]]

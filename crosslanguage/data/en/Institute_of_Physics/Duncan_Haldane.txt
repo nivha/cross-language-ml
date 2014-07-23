@@ -1,0 +1,45 @@
+{{Infobox scientist
+| name              = F. Duncan Haldane
+| birth_date        = {{birth date|1951|09|14|mf=y}}<ref name="acp">{{cite web|title=Array of contemporary American physicists|url=http://www.aip.org/history/acap/biographies/bio.jsp?haldanef|publisher=American Physical Society|accessdate=23 April 2012}}</ref>
+| birth_place       = [[London]], [[United Kingdom]]
+| fields            = [[Condensed matter theory]]
+| workplaces        = [[Princeton University]]<br>[[Bell Laboratories]]
+| alma_mater        =[[Cambridge University]]
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Haldane pseudopotentials in the [[Fractional quantum Hall effect]]
+| awards            = [[Oliver E. Buckley Condensed Matter Prize]] {{small|(1993)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+}}
+'''F. Duncan M. Haldane'''  (Duncan Haldane) is the Eugene Higgins Professor of Physics at the [[physics]] department of [[Princeton University]]. 
+He is known for a wide variety of fundamental contributions to condensed matter physics including the theory of [[Luttinger liquid]]s, the theory of one-dimensional [[Spin model|Spin chains]],  the theory of [[Fractional Quantum Hall Effect]], Exclusion Statistics, Entanglement Spectra and much more. His awards include [[Fellow of the Royal Society]] of London; Fellow of the [[American Academy of Arts and Sciences]] (Boston); Fellow of the [[American Physical Society]]; Fellow of the [[Institute of Physics]] (UK); Fellow of the [[American Association for the Advancement of Science]]; winner of the Oliver E. [[Buckley Prize]] of the American Physical Society (1993); [[Alfred P. Sloan Foundation]] Research Fellow (1984–88); Lorentz Chair (2008), and Dirac Medal (2012).<ref>{{cite web |url=http://wwwphy.princeton.edu/~haldane/index.html |title=F. Duncan M. Haldane |publisher=[[Princeton University]] |accessdate=2 July 2011 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Haldane, Duncan
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American physicist
+| DATE OF BIRTH     = 14 September 1951
+| PLACE OF BIRTH    = [[London]], [[United Kingdom]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Haldane, Duncan}}
+[[Category:Living people]]
+[[Category:Princeton University faculty]]
+[[Category:American physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:1951 births]]
+
+
+{{US-physicist-stub}}

@@ -1,0 +1,114 @@
+The International Young Physicists’ Tournament, IYPT, is one of the World's foremost, largest and influential annual physics competitions centered around 17 non-examination research problems, team work, and discussion-based sessions called Physics Fights where the performances of the teams are judged by expert physicists.
+
+The IYPT is a week-long event in which currently around 150 international pre-university contestants participate. During 1988-2013, around 40 nations with ca. 2500 students have taken part at such final events of the IYPT. The event is preceded by a variety of national competitions, conferences, and preparatory meetings, in which dozens of thousands of people are involved at various stages worldwide.
+
+The participants present and discuss their research projects at the events that share common features with thesis defense or scientific conferences. The teams switch roles and take floor as Reporters, Opponents and Reviewers, thus learning about peer review early in their career. The IYPT is well established as a global hub of physics promotion that enjoys increasing influence and outreach.
+
+It was later recognized that the IYPT-based projects often result in professional, peer reviewed publications before the authors complete a university degree, and the topics of the projects make a lasting impact on partner or rival activities in physics promotion and physics education research. Since the 1990s the IYPT is increasingly but informally acknowledged by the media as the Physics World Cup.
+
+The concept of the event was conceived in 1979 by Evgeny Yunosov who initiated the first IYPT in 1988 and was awarded the Lenin Komsomol Prize in 1989. In 2013, the international organization of the IYPT was awarded the ICPE Medal, sponsored by the IUPAP's Commission on Physics Education, and the organizers of the IYPT have been awarded with a number of international prizes, including the Klaus-von-Klitzing-Preis in 2005, and the Roman-Ulrich-Sexl-Preis in 2010.
+
+==The Problems==
+The International Organizing Committee (IOC) decides about 17 problems to be used for the IYPT. These problems come from different disciplines of physics and are sometimes also interdisciplinary.
+The problems of the IYPT are not tasks which can be solved within a short time with known methods, like in an exam. They are deliberately formulated in a more open way. They can be viewed from different angles and there are many ways to handle them. The task of the participants (together with their teamleader) during the preparation phase is to get as much knowledge about the problems as possible. There are no restrictions on how to do so. This kind of problems is intended to put the students in the same situation as a regular researcher is in. The solution to the problems and even the way how to get the solution is completely unknown.
+Therefore the problems for the IYPT are published more than half a year before the tournament. That gives all participants enough time to do experiments, research literature and the internet, maybe talk to some experts, etc. Teamwork and organizing ability certainly play an important role.
+
+==The Preparation Phase==
+One of the most important aspects, if not the most important aspect of the tournament is the preparation phase.
+The preparation aims at two main goals: On the one hand it is important to gather as much background knowledge on the problems as possible. That is necessary to confidently defend a solution in a discussion against an opposing team or to try to find weaknesses in the presentation of another team. On the other hand it one main goal is to prepare a well-structured Report of all the knowledge acquired.
+
+==The Tournament==
+The tournament itself consists of several rounds which are called "Physics Fights", or just Fights. The first rounds are called the "Selective Fights". They can be compared to the group phase of soccer competitions. All teams participate in the Selective Fights. Since 2001 the IYPT consists of five Selective Fights. The three teams with the highest total sum of points after the Selective Fights reach the Final Fight, which eventually determines the winning team.
+
+==The Selective Fights==
+At the beginning of the tournament the teams draw lots to form groups of three teams each. If the total number of teams is not divisible by three then one or two groups with four teams are formed.
+Each of these groups then executes the first Selective Fight (in parallel). After that the teams change groups according to a scheme determined by the drawing of lots. This is necessary because otherwise there would be always the same teams competing in the same group. This procedure is repeated until all Selective Fights have been held.
+
+==The Structure of a Fight==
+A Fight consists of three or four so-called "Stages", depending on whether three or four teams compete in the Fight. This is due to the fact that during one Stage each team has a specific role to play. These roles are exchanged after each Stage so that after three (or four, respectively) Stages each team has played each role exactly once.
+The roles are:
+
+* Reporter
+* Opponent
+* Reviewer
+* only in groups with four teams: Observer
+
+The specific meaning of these roles will be explained together with the course of a Stage.
+
+==The Course of a Stage==
+A so-called "Stage" is a part of a Physics Fight, comparable e.g. to one single run of a skiing race. A Stage lasts about 45–55 minutes and is executed without a break. Between the Stages of one Fight it is a custom to have 5–15 minutes break, depending on how much time is available.
+
+At the beginning of a Stage teams and jurors are introduced and the chairman of the jury reads out which team will play which role in this Stage.
+After this informal part the actual Stage begins. Its course is precisely regulated by the tournament regulations. Each of the phases which will be described here has a maximum duration. These maximum durations may not be exceeded. Usually there is a special monitor available which displays a graphical representation of how much time is left in the current phase.
+The explanations given in the next few paragraphs shall only illustrate the structure and course of the events in a Stage. For a more detailed overview of the Stage regulations please confer the official tournament regulations which can be found on the official IYPT website (www.iypt.org).
+
+After the mentioned introduction the actual Stage begins with the Opponent-Team challenging the Reporter-Team on one of the 17 problems. The Reporter-Team can either accept the challenge or reject it. If the challenge is rejected the Opponent-Team must challenge the Reporter on another problem. This procedure is repeated until the Reporter-Team accepts a challenge. If a team rejects a challenge too often during the whole tournament this team will lose some points.
+ 
+If a problem has been selected the Reporter-Team has five minutes for preparation which are usually used to prepare notes, have a final look on the presentation or sometimes to prepare a live experiment for demonstration.
+After the preparation time the Reporter has a maximum of twelve minutes to present the Report. There are no formal requirements in which way exactly this has to be done.
+
+After the presentation of the Report the Opponent-Team can ask a few clarifying questions. Then the Opponent also gets a few minutes preparation time before taking the stage to present an estimation on the presentation done by the Reporter, stressing its pros and cons.
+This speech by the Opponent is followed by a discussion between Reporter and Opponent in which the Reporter tries to defend the solution and the Opponent tries to criticize it. 
+ 
+Afterwards the third team, the Reviewer-Team can ask questions to both other teams and then (after a short preparation) present an overview of the performance of the Reporter and the Opponent.
+
+In the end the Reporter may present some final concluding remarks.
+
+And finally the jurors may ask some short questions to all three teams. After that the performances of the teams in the current Stage are graded. The grading concludes the Stage.
+
+Fights with four teams have an additional role: The Observer. The Observer-Team does not take part actively in the course of the Stage. Therefore the Observer team is not graded. The only meaning of the Observer role is to allow groups of four teams to be executed, if the total number of teams is not divisible by three.
+
+After a short break the Fight is continued with the next Stage. The teams exchange their roles until each team has been the Reporter, the Opponent and the Reviewer (and in groups of four teams also the Observer) exactly once.
+
+There are some additional details worth mentioning:
+
+* All communication between the teams and the jury is done in English.
+* The team members may not communicate with outsiders (e.g. the teamleader) in the course of a Fight.
+* Apart from that all kinds of aids (literature, laptops, dictionaries, notes,...) are allowed.
+* Only one team member is active as Reporter, Opponent or Reviewer during one Stage. That means that in general only this person represents the team during the Stage and talks for the team. Other team members are only allowed to make brief remarks or to assist with the presentation technically.
+* During one Fight no team member may be the active representative of the team more than twice. In other words: It is forbidden that the same person acts as Reporter, Opponent and Reviewer in the same Fight.
+
+==The Finals==
+The three teams with the highest scores after five Selective Fights participate in the Final. The Final is executed like a normal Physics Fight with two differences:
+* Each team chooses the problem to present on their own. There is no challenge.
+* Each team member may take the floor only once during the Final.
+
+The best team in the Final is the winning team. The other two teams in the Final share place 2. 3rd Prize is awarded to all teams which have reached a certain minimum number of points, determined by the Organizing Committee.
+
+==Teams==
+Each invited country is represented by one team. Until 2007 the host country may be represented with two teams. The teams consist of five secondary school students. The participation of university students is not allowed. Each team is headed by a Captain who is the official representative of the team during the Fight. Moreover each team is accompanied by two Team-Leaders (teachers).
+
+Many countries have their own national qualification tournaments to determine their national team. E.g. in Austria the Austrian Young Physicists' Tournament is held.
+
+==The Jury==
+The Jury is nominated and organized by the host country. Team-Leaders may be included in the Jury, however not in Fights in which their teams participate. The Jury grades the teams with integer marks, which are weighted by the role of the teams (Reporter, Opponent, Reviewer).
+
+==Timeline table==
+
+(*) the number of Nations can be disputed as some countries were midway towards a recognized independence
+
+==Teams participating in the IYPT==
+The following table that shows what National teams have taken part in IYPTs in different years. "H" means that the country hosted the respective tournament. "0", "1", "2", "3" correspond to the number of teams that represented the respective country. The data that needs verification is marked with interrogatory signs (?).
+
+==See also==
+* IYPT 2011
+
+==Footnotes==
+
+==External links==
+*Official Website of the IYPT
+*IYPT Archive
+*National YPT Organisation in Austria, which sponsors the Austrian Young Physicists' Tournament
+*National YPT Organisation in New Zealand, which sponsors the New Zealand Young Physicists' Tournament
+*National YPT Organisation in Singapore, which sponsors the Singapore Young Physicists' Tournament
+*National YPT Organisation in the United Kingdom, which sponsors the United Kingdom Young Physicists' Tournament
+*National YPT Organisation in Iran, which sponsors the Persian Young Physicists' Tournament
+*National YPT Organisation in the United States, which sponsors the United States Invitational Young Physicists Tournament
+*National YPT Organisation in the Republic of Korea (in Korean), which sponsors the Korean Young Physicists' Tournament
+*National YPT Organisation in Brazil (in Portuguese), which sponsors the IYPT Brasil
+*National YPT Organisation in Slovakia (in Slovak), which sponsors the Slovak Republic Young Physicists' Tournament
+*National YPT Organisation in Switzerland (in German), which sponsors the Swiss Young Physicists' Tournament
+*National YPT Organisation in Taiwan (in Chinese), which sponsors the Taiwan Young Student Physicists' Tournament
+*National YPT Organisation in Georgia (in Georgian), which sponsors the Georgian Young Pysicists' Tournament
+*National YPT Organisation in Czech Republic (in Czech), which sponsors the IYPT CZ
+*Junior Youth Physicists' Tournament

@@ -1,0 +1,86 @@
+{{Infobox scientist
+|name              = George Francis FitzGerald
+|image             =George Francis FitzGerald.jpg
+|image_size        =150px
+|caption           = George Francis FitzGerald
+|birth_date        = 3 August 1851
+|birth_place       = [[Dublin]], Ireland
+|death_date        = 22 February 1901
+|death_place       = [[Dublin]], Ireland
+|nationality       = Irish
+|field             = [[physics]]
+|work_institutions = [[Trinity College, Dublin]]
+|alma_mater        = [[Trinity College, Dublin]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Royal Medal]] {{small|(1899)}}
+|footnotes         = 
+|signature         =
+}}
+
+'''George Francis FitzGerald''' (3 August 1851 &ndash; 22 February 1901) was an [[Irish people|Irish]] professor of "natural and experimental philosophy" (i.e., physics) at [[Trinity College, Dublin|Trinity College]] in [[Dublin]], Ireland, during the last quarter of the 19th century.  He is known for his work in electromagnetic theory and for the [[Lorentz–FitzGerald contraction]], which became an integral part of Einstein's [[Special Theory of Relativity]].  The [[FitzGerald (crater)|FitzGerald crater]] on the [[far side of the Moon]] is named for him.
+
+==Life and work in physics==
+FitzGerald was born at No. 19, Lower Mount Street in [[Dublin]] on 3 August 1851 to the Reverend [[William Fitzgerald (bishop)|William FitzGerald]] and his wife Anne Frances Stoney (sister of [[George Johnstone Stoney]] and [[Bindon Blood Stoney]]).<ref>{{cite book |title=The Biographical Encyclopedia of Astronomers |last=Hockey |first=Thomas |year=2009 |publisher=Springer Publishing |isbn=978-0-387-31022-0 |accessdate=August 22, 2012 |url=http://www.springerreference.com/docs/html/chapterdbid/58462.html}}</ref>   Professor of Moral Philosophy in Trinity and vicar of St Anne's, Dawson Street, at the time of his son's birth, William FitzGerald was consecrated [[Bishop of Cork, Cloyne and Ross]] in 1857 and [[Translation (ecclesiastical)|translated]] to [[Bishop of Killaloe and Clonfert|Killaloe and Clonfert]] in 1862. George returned to Dublin and entered Trinity as a student at the age of 16. He became a Fellow of Trinity in 1877 and spent the rest of his career at this college.
+
+Along with [[Oliver Lodge]], [[Oliver Heaviside]] and [[Heinrich Hertz]], FitzGerald was a leading figure among the group of "Maxwellians" who revised, extended, clarified, and confirmed [[James Clerk Maxwell]]'s mathematical theories of the [[electromagnetic field]] during the late 1870s and the  1880s.
+
+In 1883, following from [[Maxwell's equations]], FitzGerald was the first to suggest a device for producing rapidly oscillating electric currents to generate [[electromagnetic wave]]s, a phenomenon which was first shown to exist experimentally by the German physicist Heinrich Hertz in 1888.<ref>Professor Reville, William (2001). [http://understandingscience.ucc.ie/pages/sci_georgefrancisfitzgerald.htm George Francis FitzGerald - Eminent Irish Physicist]  </ref>
+
+In 1883, he was elected [[Fellow of the Royal Society]].
+In 1899, was awarded a [[Royal Medal]] for his investigations in theoretical physics. 
+In 1900, he was made an honorary fellow of the [[Royal Society of Edinburgh]].<ref name="dnb" />
+
+FitzGerald suffered from many digestive problems for much of his shortened life. He became very ill with stomach problems. He died at his home in Dublin shortly after an operation on a perforated ulcer on 21 February 1901.
+
+[[File:George Francis Fitzgerald Plaque Dublin.jpg|thumb|Plaque at 7 Ely Place, Dublin, where FitzGerald lived]]
+==Length contraction==
+{{Wikisource|The Ether and the Earth's Atmosphere}}
+FitzGerald is better known for his conjecture in his short paper "The Ether and the Earth's Atmosphere" (1889) that if all moving objects were foreshortened in the direction of their motion, it would account for the curious null-results of the [[Michelson–Morley experiment]]. FitzGerald based this idea in part on the way [[electromagnetic force]]s were known to be affected by motion. In particular, FitzGerald used some equations that had been derived a short time before by his friend the [[electrical engineer]] [[Oliver Heaviside]]. The Dutch physicist [[Hendrik Lorentz]] hit on a very similar idea in 1892 and developed it more fully into [[Lorentz transformation]]s, in connection with his theory of electrons.
+
+The [[Lorentz–FitzGerald contraction]] (or FitzGerald–Lorentz contraction) hypothesis became an essential part of the [[Special Theory of Relativity]], as [[Albert Einstein]] published it in 1905. He demonstrated the kinematic nature of this effect, by deriving it from the [[principle of relativity]] and the constancy of the speed of light.
+
+==Family==
+FitzGerald married, on 21 December 1885, Harriette Mary, daughter of the Reverend [[John Hewitt Jellett]], [[Provost of Trinity College, Dublin|Provost of Trinity College Dublin]]. He had eight children by her, three sons and five daughters.<ref name="dnb">{{cite DNB12|wstitle=FitzGerald, George Francis |first=Charles Herbert|last=Lees}}</ref>
+
+FitzGerald was the nephew of [[George Johnstone Stoney]], the Irish physicist who coined the term "electron". After the particles were discovered by [[J. J. Thomson]] and [[Walter Kaufmann (physicist)|Walter Kaufmann]] in 1896, FitzGerald was the one to propose calling them electrons. FitzGerald was also the nephew of [[Bindon Blood Stoney]], an eminent Irish engineer.
+His cousin was [[Edith Anne Stoney]] a pioneer female medical physicist.
+
+==Flying Experiments==
+FitzGerald, in common with others at the end of the nineteenth century, became obsessed with the desire to fly. His attempts in College Park, Dublin, in 1895 involved large numbers of students pulling tow-ropes attached to the [[Otto Lilienthal|Lilienthal]] glider, and attracted the attention of the people of Dublin, beyond the Nassau Street railings. FitzGerald took off his coat on these occasions, but retained his top hat, which was normal headgear for a Fellow at that time.
+The experiments were not crowned with success, and were eventually abandoned. The flying machine hung for many years in the Museum Building until an idle engineering student applied  a match to the cord from which it was hanging from. The flame travelled along the cord and consumed the glider before the helpless onlookers. 
+==References==
+{{reflist}}
+
+==External links==
+* {{MacTutor Biography|id=FitzGerald}}
+* [http://www.rds.ie/index.jsp?p=173&n=195&a=0 FitzGerald letters at the Royal Dublin Society, with digitized images of over 2000 letters to and from FitzGerald]
+* [http://www.myirishheritage.net/fitzgerald-kilcarragh-family.html FitzGerald of Kilcarragh] - Genealogical Pedigree of George Francis FitzGerald
+
+{{commons|George Francis FitzGerald}}
+
+{{Authority control|VIAF=5733024}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = FitzGerald, George Francis
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Irish physicist
+| DATE OF BIRTH     = 3 August 1851
+| PLACE OF BIRTH    = [[Dublin]]
+| DATE OF DEATH     = 22 February 1901
+| PLACE OF DEATH    = [[Dublin]]
+}}
+{{DEFAULTSORT:FitzGerald, George Francis}}
+[[Category:1851 births]]
+[[Category:1901 deaths]]
+[[Category:Relativists]]
+[[Category:Irish physicists]]
+[[Category:People associated with Trinity College, Dublin]]
+[[Category:Royal Medal winners]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]

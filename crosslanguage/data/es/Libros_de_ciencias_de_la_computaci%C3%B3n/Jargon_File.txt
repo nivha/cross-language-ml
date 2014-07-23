@@ -1,0 +1,54 @@
+El Jargon File (del inglés archivo de jerga) es un glosario de argot de hacker.
+
+El archivo original era una colección de argot de hacker de culturas técnicas incluyendo el laboratorio de inteligencia artificial (IA) del MIT, el laboratorio de IA de Stanford (SAIL) y otras de las comunidades de inteligencia artificial/programación en Lisp/PDP-10 de la antigua ARPANET incluyendo a Bolt, Beranek y Newman (BBN), la Universidad de Carnegie-Mellon (CMU) y el Instituto Politécnico de Worcester (WPI).
+
+== De 1975 a 1983 ==
+
+El Jargon File (a partir de aquí llamado 'jargon-1' o 'el archivo') fue iniciado por Raphael Finkell en la Universidad de Stanford en 1975. Desde ese tiempo hasta la desconexión de la computadora del SAIL en 1991, el archivo se llamaba "AIWORD.RFUP" o "AIWORD.RFDOC". Algunos términos en él datan de mucho antes (frob y algunas connotaciones de moby, por ejemplo, provienen del Tech Model Railroad Club del MIT y se cree que datan cuando menos de principios de los 1960) Ninguna de las revisiones del jargon-1 tenían numeración y pueden considerarse en conjunto la "versión 1".
+
+En 1976, Mark Crispin habiendo visto un anuncio acerca del archivo en la computadora del SAIL, descargó una copia vía FTP del archivo al MIT. Notó que estaba muy limitado a palabras de IA y lo guardó en su directorio como AI:MRC;SAIL JARGON.
+
+El archivo pronto fue renombrado como JARGON > (el signo '>' activaba el control de versiones en el ITS) al mismo tiempo que una lluvia de cambios fueron hechos por Mark Crispin y Guy L. Steele Jr. Desafortunadamente, en medio de todo esto, nadie pensó en cambiar el término "jerga" (jargon) a "argot" (slang) hasta que el compendio ya se había vuelto muy conocido como el Jargon File. Tal vez el término 'jerga' dio al compendio falta de seriedad.
+
+Raphael Finkel dejó la participación activa poco después y Don Woods se convirtió en el contacto del SAIL para el archivo (el cual se mantuvo duplicado en el SAIL y en el MIT, con sincronizaciones periódicas).
+
+El archivo se expandió por arreglos y adiciones hasta alrededor de 1983; Richard Stallman fue uno de los más destacados entre los que contribuyeron, agregando muchos nuevos términos del MIT y relativos al ITS.
+
+En la primavera de 1981 un hacker de nombre Charles Spurgeon publicó una gran parte del archivo en CoEvolution Quarterly de Stewart Brand (ejemplar 29, páginas 26-35) con ilustraciones de Phil Wadler y Guy Steele (incluyendo un par de caricaturas de Crunchly). Esta parece haber sido la primera publicación en papel.
+
+Una versión posterior del jargon-1 aumentada con comentarios para el mercado masivo, fue editada por Guy Steele en un libro publicado en 1983 como The Hacker Dictionary (Harper & Row CN 1082, ISBN 0-06-091082-8). Los otros editores del jargon-1 (Raphael Finkel, Don Woods y Mark Crispin) contribuyeron en esta revisión, así como Richard Stallman y Geoff Goodfellow. Este libro (que ya no se imprime) de aquí en adelante será referido como 'Steele-1983'.
+
+== De 1983 a 1990 ==
+Poco después de la publicación de Steele-1983, el archivo detuvo realmente su crecimiento y cambio. Originalmente esto se debió al deseo de congelar el archivo temporalmente para facilitar la producción del Steele-1983, pero algunas condiciones externas causaron que el congelamiento 'temporal' se volviera permanente.
+
+La cultura del laboratorio de IA había sido duramente golpeada a fines de los 1970 por recortes de fondos y la consecuente decisión administrativa de utilizar hardware soportado por el fabricante y su software propietario asociado en vez del hecho en casa siempre que fuera posible. En el MIT, la mayoría del trabajo de IA se había cambiado a máquinas dedicadas de LISP. Al mismo tiempo, la comercialización de la tecnología de IA alejó de las nuevas empresas a algunos de los mejores y más brillantes del laboratorio de IA por toda la ruta 128 en Massachusetts y hasta el oeste en Silicon Valley. Las nuevas empresas construyeron máquinas LISP para el MIT; la computadora central del MIT-AI se convirtió en un sistema TWENEX en vez de un host para el amado ITS de los hackers de IA.
+
+El laboratorio de IA de Stanford había efectivamente dejado de existir en 1980, sin embargo la computadora del SAIL continuó como recurso del Departamento de Informática hasta 1991. Stanford se convirtió en el sitio TWENEX más importante, en cierto momento operó más de una docena de sistemas TOPS-20; pero a mediados de los 1980 la mayoría del trabajo de software interesante estaba haciéndose sobre el incipiente estándar BSD Unix.
+
+En mayo de 1983, las culturas centradas en el PDP-10 que habían nutrido al archivo fueron aniquiladas con la cancelación del proyecto Júpiter en DEC. Los compiladores del archivo, ya dispersos, cambiaron a otras cosas. El Steele-1983 fue parcialmente un monumento de lo que sus autores pensaron era una tradición en extinción; ninguno de los involucrados se dio cuenta en ese momento cuan grande sería su influencia.
+
+Como se menciona en algunas ediciones:
+
+== De 1990 en adelante ==
+En 1990 se inició una nueva revisión, la cual contenía casi todo el texto de una última versión del jargon-1 (algunos términos obsoletos relativos al PDP-10 se eliminaron después de una cuidadosa consulta con los editores del Steele-1983). Comprendió alrededor de un 80% del texto del Steele-1983, omitiendo algún material marginal y unos pocos términos introducidos en el Steele-1983 que ahora solo son de interés histórico.
+
+La nueva versión abarcó una red más amplia que el viejo Jargon File; su objetivo era cubrir no solo la cultura hacker del PDP-10 y de la IA sino todas las culturas técnicas de computación en donde se manifiesta la verdadera naturaleza hacker. Más de la mitad de los términos derivan ahora de la Usenet y representan la jerga actual en las comunidades de la programación en el lenguaje C y Unix, pero se ha hecho un esfuerzo especial en reunir la jerga de otras culturas incluyendo la de los programadores de la PC de IBM, aficionados de las Amiga, entusiastas de las Mac e incluso del mundo de las mainframes de IBM.
+
+Eric S. Raymond mantiene el nuevo archivo con la asistencia de Guy Steele y tiene el crédito de editor de la versión impresa, The New Hacker's Dictionary. Algunos de los cambios realizados bajo su supervisión han sido controvertidos; algunos críticos acusaron a Raymond de haber cambiado injustamente el enfoque del archivo a la cultura hacker de Unix en vez de las antiguas culturas hacker en las cuales el archivo se originó. Raymond ha contestado a esto diciendo que la naturaleza del hacking ha cambiado y que el Jargon File debería describir la cultura hacker, y no intentar glorificarla. Más recientemente, Raymond ha sido acusado de añadir términos al Jargon File que parecen haber sido usados originalmente por él, y de alterar el archivo para reflejar sus opiniones políticas.
+
+Esta actitud de Raymond ha provocado la aparición de la versión 5.0.0, que deshace los cambios acumulados desde la versión 4.2.0 hasta la 4.4.8 de Raymond.
+
+== Referencias ==
+
+== Enlaces externos ==
+* El Jargon File original (sin actualización) (en inglés).
+* El Jargon File actual y su historial de revisiones (en inglés).
+* Base de datos de la jerga (en inglés).
+* Archivo de 60 revisiones del documento (en inglés).
+
+Categoría:Diccionarios
+Categoría:Cultura de Internet
+Categoría:Libros de informática
+Categoría:Cultura hacker
+Categoría:Jergas
+Categoría:Humor informático

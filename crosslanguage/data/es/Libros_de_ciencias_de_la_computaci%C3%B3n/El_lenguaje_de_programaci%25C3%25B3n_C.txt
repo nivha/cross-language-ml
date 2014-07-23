@@ -1,0 +1,27 @@
+El lenguaje de programación C (título original en inglés: The C Programming Language) es un libro de programación escrito por Brian Kernighan y Dennis Ritchie, este último diseñó e implementó el lenguaje (al igual que codiseñó el sistema operativo Unix cuyo desarrollo estuvo fuertemente ligado con el desarrollo del lenguaje). El libro fue parte importante del desarrollo y popularización del lenguaje C y sigue siendo ampliamente leído y utilizado hoy en día. Debido a que el diseñador original del lenguaje fue co-autor del libro, y debido a que la primera edición del libro sirvió como el estándar de facto del lenguaje, el libro es considerado por muchos como la referencia autorizada de C, y a veces se le refiere como 'La biblia de C'.
+
+==Historia==
+La primera edición del libro, publicada en 1978, fue el primer libro disponible ampliamente sobre el lenguaje de programación C. C fue creado por Dennis Ritchie. Brian Kernighan escribió el primer tutorial de C. Los autores se unieron para escribir el libro en conjunción con las primeras etapas de desarrollo en los laboratorios Bell. La versión de C escrita en este libro es a veces referida como K&R C (por los apellidos de los autores), con el propósito de distinguir esta primera versión con la posterior que describe un C estandarizado, ANSI C.
+
+En 1988 la segunda edición del libro fue publicada, actualizada para cubrir los cambios hechos al lenguaje producto del nuevo estándar ANSI C, particularmente con la inclusión de material de referencia en las  bibliotecas estándar. La segunda edición (la más reciente hasta el 2010) del libro ha sido traducida a 20 idiomas.
+
+ANSI C, estandarizado por primera vez en 1988, ha sido sometido a varias revisiones, la más reciente de ellas es la ISO/IEC 9899:1999 (también conocida como "C99"), adoptada como un estándar ANSI en Marzo del 2000. Aun así, no ha sido presentada una nueva edición del libro para cubrir los recientes cambios.
+
+==Influencia==
+The C Programming Language ha sido citado como un modelo para escritura técnica, debido a la clara presentación y su trato conciso. En sólo 228 páginas (272 páginas en la segunda edición), el libro cubre C exhaustivamente. Los ejemplos del libro generalmente consisten de programas completos del tipo que uno encontraría en el uso diario del lenguaje, con un énfasis en programación de sistemas. Los detalles técnicos de C son balanceados por las observaciones de los autores acerca de buenas prácticas de programación, las cuales son inmediatamente ilustradas con ejemplos reales y concretos. Como los autores señalan en el prefacio de la segunda edición:
+
+Hemos tratado de mantener la brevedad de la primera edición. C no es un lenguaje grande, y no es apto para un libro grande. Hemos mejorado la exposición de características críticas, tales como punteros, que son muy importantes en la programación con C. Hemos refinado los ejemplos originales, y hemos agregado nuevos ejemplos en varios capítulos. Por ejemplo, el manejo de declaraciones complicadas es aumentado por programas que convierten declaraciones en palabras y viceversa. Como antes, todos los ejemplos han sido probados directamente del texto, los cuales están en una forma en la que la máquina puede leerlos.
+
+Quizás el ejemplo más famoso del libro es el programa "Hola mundo", el cual sólo imprime en pantalla el texto "hello, world", como un claro ejemplo de un programa funcional pequeño hecho con C. Numerosos textos han seguido esa convención para presentar un lenguaje de programación desde entonces.
+
+Antes de la llegada de ANSI C, la primera edición sirvió como estándar de facto para los creadores de compiladores de C. Con la estandarización de ANSI C, los autores orientaron  la segunda edición a los programadores en lugar de dedicarla expresamente a los creadores de compiladores; en palabras de los autores:
+
+Apéndice A, el manual de referencia, no es el estándar, sino nuestra intención de transmitir lo esencial del estándar en un pequeño espacio. Esto es así para la fácil comprensión de los programadores, pero no como una definición para los creadores de compiladores&mdash;cuyo papel pertenece propiamente al estándar en sí mismo. Apéndice B es un resumen de las facilidades de la biblioteca estándar. Esto también es para referencia de los programadores, no los implementadores. Apéndice C es un resumen conciso de los cambios de la versión original.
+
+La influencia de The C Programming Language en los programadores, una generación de los cuales trabajaron por primera vez con C en universidades y la industria, ha guiado a muchos a aceptar el estilo de programación de los autores y sus convenciones como prácticas recomendadas, incluso como la norma. Por ejemplo, el estilo de codificación y formato de los programas presentados en ambas ediciones del libro es algunas veces referido como "el estilo K&R" o "el estilo identado" y, significativamente, se ha vuelto el estilo de codificación usado por convención en el código fuente de los kernels Unix y Linux.
+
+==Referencias==
+
+Categoría:Lenguaje de programación C
+Categoría:Libros de 1978
+Categoría:Libros de informática

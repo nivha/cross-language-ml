@@ -1,0 +1,111 @@
+{{Infobox scientist  
+|name = George Carey Foster
+|image = G-Carey-Foster-strathclyde.jpg
+|image_size =
+|caption = George Carey Foster
+|birth_date = {{birth date|1835|10|}} 
+|birth_place = [[Sabden]] [[England]]
+|residence =  
+|nationality =  [[United Kingdom|English]]
+|death_date = {{death date and age|1919|2|9|1835|10|0}}
+|death_place = 
+|field = Chemistry, physics
+|work_institution = [[University College, London]]
+|alma_mater = [[University College, London]]
+|doctoral_advisor =  
+|doctoral_students = [[Oliver Lodge]], [[William Edward Ayrton]] [[Arthur Prince Chattock]], [[John Ambrose Fleming]], [[Viramu Jones]]
+|known_for  =  
+|prizes = 
+|religion = 
+|footnotes = 
+}}
+'''George Carey Foster''' (October 1835 – 9 February 1919) was a chemist and physicist, born at [[Sabden]] in [[Lancashire]]. He was Professor of Physics at [[University College London]].
+
+==Early life==
+He was the only son of George Foster, calico printer and justice of the peace in Lancashire and the West Riding of Yorkshire. After education at private schools Foster became a student of chemistry at [[University College, London]]. He graduated with honours and a prize in 1855 and then served at the college as an assistant in Professor Williamson's chemistry laboratory.
+
+==Career==
+In 1857 Foster joined the [[British Association for the Advancement of Science]], presented his research on the nomenclature of organic chemistry at their meeting, and maintained a close involvement thereafter. From 1858 he undertook research in organic chemistry under [[Friedrich August Kekulé von Stradonitz|Kekulé]] at [[Ghent University|Ghent]], later moving to Paris and Heidelberg. Having further pursued the study of heat, light, and electricity, introduced to him by Williamson, in 1862 he was appointed professor of natural philosophy at Anderson's University in Glasgow. During three years there Foster became familiar with the student assisted research undertaken at the natural philosophy laboratory run by William Thomson at [[Glasgow University]]. He met Mary Ann Frances Muir of Greenock, whom he married in 1868; his happy marriage produced four sons and four daughters, all of whom survived him, the partnership ending with his wife's death in 1917.
+
+[[University College, London]], appointed Foster as professor of experimental physics (physics from 1867) in August 1865; there he became a much respected if not especially effective lecturer. Although to some extent modelled on Thomson's archetype in Glasgow, Foster's first achievement was to establish a students' physical laboratory in 1866, the first in Britain to offer systematic instruction in experimental physics to undergraduates. In the same year Foster was invited to join the BAAS committee on electrical standards, and often chaired its meetings. Working with other leading figures in physics and telegraphy such as Thomson, Wheatstone, Fleeming Jenkin, and C. W. Siemens, he acquired much expertise in precision techniques of electrical measurement, especially of resistance and determining current flow, and induction, in relation to the problems of telegraphy.
+
+Foster was elected a [[Fellow of the Royal Society]] in 1869, serving two terms as its vice-president in 1891–3 and 1901–3. He was president of section A of the BAAS in 1877 and was general treasurer of the association from 1888 until 1904. 
+
+In the course of his many investigations to measure and compare standards of electrical resistance Foster adapted the Wheatstone bridge to measure small differences (rather than ratios) of resistance. This important device, known and widely used for many years as the Carey Foster bridge, was presented at one of the earliest meetings of the Society of Telegraph Engineers in 1871. Foster had been one of the founder members of this society (the Institution of Electrical Engineers from 1888) and served as its president in 1880–81. Foster's reputation as an expert in the practical aspects of physics was further enhanced by the publication in 1875 of his preface to Introduction to Experimental Physics, a translation by B. Loewy of A. F. Weinhold's German original, ''Vorschule der Experimentalphysik'' (Leipzig, 1874).
+
+[[File:Carey Foster bridge.svg|thumb|300px|right|The [[Carey Foster bridge]].]]
+In the thirty-two years that Foster ran his laboratory at University College his students, including [[William Edward Ayrton]], [[Oliver Lodge]], and [[John Ambrose Fleming]], practised accurate measurement. As dean of the faculty of sciences in 1874 Foster achieved BSc status for experimental physics in 1876, and, with Fleming and Beare, the construction of purpose designed new laboratories in 1893, the physics wing of which was renamed as the Carey Foster Laboratory after he retired from the retitled Quain chair in 1898.
+
+From the beginning of his professorship at University College, Foster had championed the higher education and equal rights of women, and his efforts were acknowledged as an inspiration and exemplar.  He worked with [[Karl Pearson]] and [[Raphael Weldon]] in the  Association for Promoting a Professorial University for London'.
+<ref>[http://ethos.bl.uk/OrderDetails.do?did=2&uin=uk.bl.ethos.467281. Bernard Norton (1978) “Karl Pearson and the Galtonian Tradition : Studies in the Rise of Quantitative Social Biology”. Ph.D., London. ]</ref>
+[[Thomas Hardy]] was also involved.{{citation needed|date=April 2013}}
+Foster was a leading light in the movement to reconstruct University College into a University of London which taught and examined, and throughout the 1880s and 1890s he campaigned to unify its teaching and examining functions, a sensitive debate, his tact being indicated by his appointment as the first principal of University College in 1900 upon his retirement from teaching. In his four-year tenure he oversaw considerable reorganization and development of the college, substantially increasing the provision of accommodation, and cultivating growth in its intellectual and social activities.
+
+==Publications==
+Along with Alfred Porter of the same institution, he wrote ''An Elementary Treatise on Electricity and Magnetism'', founded on [[Joubert]]'s ''Traité Élémentaire D' Électricitié'', a standard text in the years around the beginning of the 20th century.
+
+Foster was for many years editor of the ''[[Philosophical Magazine]]'', working at this task until shortly before his death. His many achievements were recognized by the granting of honorary doctorates—an [[LL.D.]] from the [[University of Glasgow]] during its jubilee in 1901,<ref>{{Cite newspaper The Times |articlename=Glasgow University jubilee |day_of_week=Friday |date=14 June 1901 |page_number=10 |issue=36481}}</ref> and a DSc from Manchester. A quiet, unassuming man, somewhat nervous in manner, he was disinclined to draw attention to his wide-ranging accomplishments, hence, perhaps, his neglect by historians of physics.
+
+==Later life==
+Foster lived a contented private life with his family in a number of houses in London while employed at University College. After retiring in 1904 Foster and his family moved to [[Rickmansworth]] in the Hertfordshire countryside, where he became a justice of the peace and took an active interest in Liberal Party politics. Foster developed congestion of the lungs in January 1919 and died of heart failure at his home, Ladywalk, Long Lane, [[Rickmansworth]]. He was buried next to his wife in the cemetery at Rickmansworth.
+
+==Legacy==
+The [[Carey Foster bridge]] is named after him: it is used to measure very low [[electrical resistance|resistances]], although it can be used to find, for example, small differences between large resistances. The bridge is in two parts: a slide wire, connected by thick copper cables to a holder for standard resistances.
+
+==References==
+<references />
+
+*{{cite journal
+ | title = Obituary Notices of Fellows Deceased: Editing Carey Foster
+ | pages = i–xviii
+ | author = 
+ | journal = Proceedings of the Royal Society of London
+ | volume = 96
+ | issue = 680
+ | year = 1920
+| jstor=93812
+ | doi=10.1098/rspa.1920.0007|bibcode = 1920RSPSA..96D...1. }}
+*{{cite journal
+ | title = Obituary notices: .... George Carey Foster, 1835–1919; ....
+ | pages = 412–427
+ | author = A. H. Fison
+ | doi = 10.1039/CT9191500408
+ | journal = J. Chem. Soc., Trans.
+ | volume = 115
+ | issue = 
+ | year = 1919
+ | last2 = Moody
+ | first2 = Gerald T.
+ | last3 = Thorpe
+ | first3 = T. E.
+ | last4 = Ling
+ | first4 = Arthur R.
+ | last5 = Power
+ | first5 = F. B.
+ | last6 = Russell
+ | first6 = E. J.
+ | last7 = Austin
+ | first7 = P. C.}}
+
+==External links==
+*[http://physics.kenyon.edu/EarlyApparatus/Electrical_Measurements/Carey_Foster_Bridge/Carey_Foster_Bridge.html The Carey Foster Bridge], description and image at [[Kenyon College]]
+
+{{Persondata 
+| NAME              = Foster, Carey
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1835-10
+| PLACE OF BIRTH    = [[Sabden]] [[England]]
+| DATE OF DEATH     = 9 February 1919
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Foster, Carey}}
+[[Category:British chemists]]
+[[Category:British physicists]]
+[[Category:1835 births]]
+[[Category:1919 deaths]]
+[[Category:People from Lancashire]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]
+[[Category:Alumni of University College London]]
+[[Category:Academics of University College London]]

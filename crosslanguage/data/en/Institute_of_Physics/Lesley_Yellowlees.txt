@@ -1,0 +1,95 @@
+{{EngvarB|date=April 2013}}
+{{Use dmy dates|date=April 2013}}
+{{Infobox scientist
+| name              =  Lesley Yellowlees
+| birth_name        = Lesley Jane Yellowlees
+| native_name_lang  = 
+| image             =
+| image_size        = 
+| alt               = 
+| caption           = Lesley Yellowlees, first female president of the [[Royal Society of Chemistry|RSC]]
+| birth_date        = {{Birth year and age|1953}}
+| birth_place       = London, UK
+| other_names       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = {{Plainlist|
+* [[Inorganic chemistry]]
+* [[Electrochemistry]]}}
+| workplaces        = {{Plainlist|
+* [[Royal Society of Chemistry]]
+* [[University of Queensland]]
+* [[University of Glasgow]]
+*[[University of Edinburgh]]}}
+| alma_mater        = [[University of Edinburgh]]
+| thesis_title      = Spectro-electrochemical studies on luminescent complexes
+| thesis_url        = http://www.theses.com
+| thesis_year       = 1983
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Royal Society of Edinburgh|FRSE]] (2012)
+* [[Order of the British Empire|MBE]] (2005)
+* [[Order of the British Empire|CBE]] (2014)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|http://www.chem.ed.ac.uk/staff/academic-staff/professor-lesley-yellowlees}}
+| footnotes         = 
+| spouse            = Peter W. Yellowlees <ref name=RSCPLY/>
+| children          = Sarah, Mark <ref name=RSCPLY/>
+}}
+'''Lesley Jane Yellowlees''', [[Order of the British Empire|CBE]], [[Royal Society of Edinburgh|FRSE]] (born 1953) is a British [[inorganic chemist]] and the first female president of the [[Royal Society of Chemistry]] 2012–14.<ref name=RSCNews>RSC News, August 2012, pp 12–13 "Lesley Yellowlees"</ref><ref>{{cite doi| 10.1021/ic048799t|noedit}}</ref><ref>{{cite doi|10.1021/bi992150w|noedit}}</ref><ref>{{cite doi|10.1021/om970130p|noedit}}</ref><ref name="scopus">{{Scopus|id=6603681998}}</ref><ref>{{cite doi|10.1021/ic960712j|noedit}}</ref><ref>{{cite doi|10.1021/ja9916456|noedit}}</ref><ref name="chemcomm">{{cite doi|10.1039/C1CC15393E|noedit}}</ref><Ref name="youtube">{{YouTube|id=Szsw27cDiiw|title=Prof Lesley Yellowlees – International Women's Day lecture}}</ref>
+
+==Early life and education==
+{{external media | width = 210px | align = right | headerimage=  | audio1 = [http://www.chemheritage.org/discover/online-resources/stories-from-the-field/lesley-yellowlees.aspx Lesley Yellowlees, “Don't be afraid to aspire to big things”], [[Chemical Heritage Foundation]]}}
+Yellowlees was born in 1953 in [[London]], moving to [[Edinburgh]] at the age of 9 and attending [[St Margaret's School, Edinburgh|St Hilary's Girls' School]]. Her father (now deceased) worked for [[Rank Hovis McDougall]], and she has two sisters.<ref name=Herald>[http://www.heraldscotland.com/news/home-news/youve-got-to-have-support-because-work-isnt-always-going-to-go-well.17824739 ''The Herald'' 2 July 2012] Rebecca McQuilllan "You've got to have support because work is not always going to go well</ref> She completed her higher education at the [[University of Edinburgh]], gaining a BSc in [[Chemical Physics]] in 1975, and PhD in Inorganic [[Electrochemistry]] in 1983.<ref name="yellowphd">{{cite thesis |degree=PhD |first=Lesley|last=Yellowlees |title=Spectro-electrochemical studies on luminescent complexes |publisher=University of Edinburgh |date=1983 |url=http://www.theses.com|authorlink=Lesley Yellowlees}}{{subscription required}}</ref><ref name=Edit>[http://issuu.com/the-university-of-edinburgh/docs/edit-summer-2011 Edit] (University of Edinburgh alumni magazine) June 2011 p 24 "Master and Apprentice"</ref> She was the only woman graduate in her undergraduate class.<ref name=Herald/> 
+
+==Career==
+Her first job was as an administrator in the [[National Health Service]], but moving to [[Brisbane]], Australia, with her husband, she went into electrochemistry research,<ref name=MRC>[http://www.csc.mrc.ac.uk/d/SuffrageContent_web.pdf MRC Clinical Sciences Centre ''Suffrage Science 2013''] 9–13 Lesley Yellowlees and Molly Stevens review successes in science while raising families</ref> and subsequently worked in the [[University of Queensland]], and in [[University of Glasgow]],<ref name="chemcomm"/> returning to the University of Edinburgh to do a PhD on solar cell chemistry, becoming a demonstrator in 1986 and a lecturer in 1989<ref name=Edit/> and becoming Professor of Inorganic Electrochemistry in 2005. She was the first female head of chemistry in the university.<ref name=MRC/> She is also [[Vice-principal|Vice-Principal]] of the University (again the first female one<ref name=MRC/>) and Head of the College of Science and Engineering. She is married to Peter W. Yellowlees, a [[Chartered Accountant]],<ref name=Peter>[http://www.merchiston.co.uk/system-pages/footer-menu/governance/governors.aspx Board of Governors, Merchiston School] P. W. Yellowlees</ref> and they have two children.<ref name=RSCNews/><ref name=RSCPLY>[http://www.rsc.org/AboutUs/Governance/RSCCouncil/CouncilMembersBiography/lesley-yellowlees.asp www.rsc.org] Professor Yellowlees</ref><ref name=Peter/>
+
+==Honours and awards==
+Yellowlees was made a [[Fellow]] of the Royal Society of Chemistry in 2005 and a Fellow of the [[Royal Society of Edinburgh]] in 2012.<ref name=RSCPLY/> She is also a Fellow of the [[Institute of Physics]].<ref name=Ed>[http://www.ed.ac.uk/schools-departments/science-engineering/about/college-office/profiles/lesley-yellowlees www.ed.ac.uk] University of Edinburgh "Professor Lesley Yellowlees MBE FRSC FRSE FInstP"</ref>
+
+To mark the [[International Year of Chemistry]], [[IUPAC]] selected 25 women including Yellowlees for the Distinguished Women Chemistry/Chemical Engineering Award.<ref name=IUPAC>[http://www.chemistryviews.org/details/ezine/1310949/Distinguished_Women_ChemistryChemical_Engineering_Award.html www.chemistryviews.org] Distinguished Women Chemistry/Chemical Engineering Award</ref>
+
+She took over the presidency of the Royal Society of Chemistry on 4 July 2012 for a two-year term.<ref name=RSCNews/>
+
+The [[National Portrait Gallery, London|National Portrait Gallery]] has two portraits of her.<ref name=NPG>{{NPG name | id=61245 |name=Lesley Yellowlees }}</ref><ref name=Jordanova>L. J. Jordanova (2000) Defining Features: Scientific and Medical Portraits, 1660–2000 (Reaktion Books) ISBN 1861890591</ref>  There is also a painting of her by [[Peter Edwards (artist)|Peter Edwards]] in [[Burlington House]], the headquarters of the Royal Society of Chemistry.<ref name=mag>[http://mag.digitalpc.co.uk/olive/ode/rscnews/LandingPage/LandingPage.aspx?href=UlNDTm9kZS8yMDEyLzA4LzAx&pageno=MTI.&entity=QXIwMTIwMA..&view=ZW50aXR5 mag.digitalpc.co.uk] Lesley Yellowlees</ref>
+
+Yellowlees was appointed [[Order of the British Empire|MBE]] in 2005 for services to science and [[Order of the British Empire|CBE]]  in the [[2014 New Year Honours]] for services to chemistry.<ref>{{LondonGazette|issue=60728|supp=yes|startpage=9|endpage=|date=31 December 2013}}</ref><ref>{{Cite web |url=http://www.telegraph.co.uk/news/uknews/honours-list/10542766/New-Year-Honours-2014-list-in-full.html
+ |title=New Year Honours 2014 |work=The Telegraph newspaper}}</ref>
+
+Yellowlees was named the [[University of Edinburgh]] Alumnus of the Year 2013 in honour of her research, leadership and her work as an advocate for women in [[STEM fields|STEM subjects]].<ref>{{cite web|title=Pioneering scientist named Alumnus of the Year|url=http://www.ed.ac.uk/alumni/services/news/news/alumnus-award|work=www.ed.ac.uk|publisher=The University of Edinburgh|accessdate=29 January 2014}}</ref> 
+
+==References==
+{{Reflist}}
+
+{{Persondata
+| NAME              = Yellowlees, Lesley
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British chemist
+| DATE OF BIRTH     = 1953
+| PLACE OF BIRTH    = Newcastle-upon-Tyne
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Yellowlees, Lesley}}
+[[Category:1953 births]]
+[[Category:British chemists]]
+[[Category:Women chemists]]
+[[Category:People from Newcastle upon Tyne]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Fellows of the Royal Society of Chemistry]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Living people]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:People from London]]
+[[Category:People from Edinburgh]]

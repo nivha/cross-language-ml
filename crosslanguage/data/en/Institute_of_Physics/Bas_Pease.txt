@@ -1,0 +1,62 @@
+{{Infobox scientist
+| name              = Rendel Sebastian Pease
+| image             = <!--(filename only)-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth date|1922|11|02}} 
+| birth_place       = 
+| death_date        = {{Death date and age|2004|10|17|1922|11|02}} 
+| death_place       = 
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = 
+| workplaces        = 
+| alma_mater        = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Fellow of the Royal Society]] (1977)
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+| spouse            = 
+}}'''Rendel Sebastian "Bas" Pease''' [[Fellow of the Royal Society|FRS]] (1922 – 17 October 2004)<ref>{{cite doi|10.1098/rsbm.2006.0020}}</ref><ref>{{cite doi|10.1063/1.1996490}}</ref><ref>{{cite news |url=http://www.timesonline.co.uk/tol/comment/obituaries/article498984.ece |title=Bas Pease &#124; Times Online Obituary |format= |work= The Times|accessdate=2011-07-21 |location=London |date=2004-10-26| archiveurl= http://web.archive.org/web/20110628234335/http://www.timesonline.co.uk/tol/comment/obituaries/article498984.ece| archivedate= 28 June 2011 <!--DASHBot-->| deadurl= no}}</ref> was a [[United Kingdom|British]] [[physicist]].
+
+Pease's father was the geneticist [[Michael Pease]], son of [[Edward Reynolds Pease]]. His mother was Helen Bowen Wedgwood, daughter of [[Josiah Wedgwood IV]].  He was the great-great-great-great-grandson of the potter [[Josiah Wedgwood]].
+
+During WWII he joined [[RAF Bomber Command]]'s [[Operational Research]] section, where he was the expert in charge of the use of a precision navigation system called [[G-H (navigation)|G-H]]. Field-based, he advised on operational techniques to use the equipment most effectively. Notably, he helped [[No. 218 Squadron RAF]] in [[Operation Glimmer]], a diversionary "attack" on [[Normandy Landings|D-Day]] that distracted and pinned-down German defences while the real attack occurring 200 miles to the west. His G-H-equipped bombers flew low, in tight circles, dropping [[Chaff (countermeasure)|window]] over radar transponder-equipped small ships, in order to deceive the German radars that they were the main invasion fleet.<ref>[http://www.technologyreview.com/computing/17847/page3/ A Failure of Intelligence] Bomber Command OR by Freeman Dyson</ref>
+
+After the war he was director of the [[Joint European Torus|Culham Laboratory for Plasma Physics and Nuclear Fusion]] (1968–1981) and head of the British chapter of [[Pugwash Conferences on Science and World Affairs|Pugwash]] (1988–2002).<ref>{{cite web |url=http://www.pugwash.org/uk/documents/SEBASTIAN%20PEASEObit17.10.04.pdf |title=SEBASTIAN PEASE OBITUARY
+A pioneer and advocate of nuclear power, he passionately opposed nuclear weapons. |format= |work= |accessdate=2011-07-21| archiveurl= http://web.archive.org/web/20110613034047/http://www.pugwash.org/uk/documents/SEBASTIAN%20PEASEObit17.10.04.pdf| archivedate= 13 June 2011 <!--DASHBot-->| deadurl= no}}</ref> 
+
+== References ==
+{{Reflist}}
+
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Pease, Bas
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 2 November 1922
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 17 October 2004
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Pease, Bas}}
+[[Category:British physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:1922 births]]
+[[Category:2004 deaths]]
+[[Category:People educated at Bedales School]]
+[[Category:Presidents of the Institute of Physics]]
+
+
+{{UK-physicist-stub}}

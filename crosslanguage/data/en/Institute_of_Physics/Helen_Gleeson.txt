@@ -1,0 +1,81 @@
+{{Infobox scientist
+| name        = Helen Gleeson
+| birth_name = Helen F. Gleeson
+| native_name_lang = 
+| image       =   <!--(filename only, i.e. without "File:" prefix)-->
+| imagesize   = 
+| alt         = 
+| caption     = 
+| birth_date  =   <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place = 
+| death_date  =   <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = {{Plainlist|
+* [[Physics]]
+* [[Liquid crystal]]}}
+| workplaces  = [[University of Manchester]]
+| patrons     =
+| alma_mater  = [[University of Manchester]] (BSc, PhD)
+| thesis_title =  Optical and electro-optical properties of chiral mesophases
+| thesis_url  =    http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.383374
+| thesis_year =   1986
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      =  {{Plainlist|
+* [[Holweck Prize]] (2012)
+* [[Order of the British Empire|OBE]] (2009)
+* [[Institute of Physics|FInstP]]}}
+| spouse      =   <!--(or | spouses = )-->
+| partner     =   <!--(or | partners = )-->
+| children    = 
+| signature   =   <!--(filename only)-->
+| signature_alt = 
+| website     =   {{URL|http://www.manchester.ac.uk/research/helen.gleeson}}
+| footnotes   = 
+}}'''Helen F. Gleeson''' [[OBE]] is a British physicist and [[Professor]] at the [[University of Manchester]].<ref>{{Scopus|id=7007142564}}</ref><ref>{{YouTube|id=gC8Su16lrkY|title=Prof. HELEN GLEESON - BBC BREAKFAST - 03 October 2012 - Physics for GIRLS}}</ref><ref>{{cite web|url=http://www.wes.org.uk/content/helen-gleeson|title=Helen Gleeson &#124; Women's Engineering Society|publisher=wes.org.uk|accessdate=2014-06-12}}</ref><ref>{{cite web|url=http://www.ogdentrust.com/about-us/news/post/1123-fabulous-physics|title=News|publisher=ogdentrust.com|accessdate=2014-06-12}}</ref><ref>{{cite web|url=http://www.grc.org/programs.aspx?year=2009&program=liqucryst|title=Gordon Research Conferences - 2009 Program - Liquid Crystals|publisher=grc.org|accessdate=2014-06-12}}</ref>
+
+==Education==
+Gleeson graduated from the [[University of Manchester]] in 1983 with a [[Bachelor of Science]] degree in [[Mathematics]] and [[Physics]].<ref name="wes">{{cite web|url=http://www.wes.org.uk/content/helen-gleeson|title=Helen Gleeson &#124; Women's Engineering Society|publisher=wes.org.uk|accessdate=2014-06-12}}</ref> She went to to study for a [[Doctor of Philosophy|PhD]] which she was awarded in 1986 for investigations of the optical and electro-optical properties of chiral [[mesophase]]s.<ref name="phd">{{cite thesis |degree=PhD |first=Helen|last=Gleeson |title=Optical and electro-optical properties of chiral mesophases |publisher=University of Manchester |date=1986 |url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.383374|authorlink=Helen Gleeson}}</ref>
+
+==Research==
+Gleeson's research investigates [[Self-assembly|self-assembling and self-ordering]] materials, especially [[Chirality (physics)|chiral]] [[liquid crystal]]s.<ref>{{cite doi|10.1021/nl080649i|noedit}}</ref><ref>{{cite doi| 10.1039/B808283A|noedit}}</ref><ref>{{cite doi| 10.1038/nature04242|noedit}}</ref> and teaches at the [[University of Manchester]].<ref name="manchester">{{cite web|url=http://www.manchester.ac.uk/research/Helen.gleeson/|title=Prof&nbsp;Helen Gleeson research profile - personal details &#124; The University of Manchester|publisher=manchester.ac.uk|accessdate=2014-06-12}}</ref><ref>{{cite book|author1=Dietrich Demus|author2=John W. Goodby|author3=George W. Gray|coauthors=Hans W. Spiess, Volkmar Vill|title=Handbook of Liquid Crystals, Low Molecular Weight Liquid Crystals II|url=http://books.google.com/books?id=Iihm_AKskggC&pg=PR10|date=22 September 2011|publisher=John Wiley & Sons|isbn=978-3-527-62063-0|pages=10–}}</ref><ref>{{cite doi|10.1103/PhysRevE.65.041705|noedit}}</ref>
+
+==Awards and honours==
+Gleeson was awarded [[Most Excellent Order of the British Empire|Order of the British Empire (OBE)]] in the [[2009 Birthday Honours]].
+
+==References==
+{{reflist}}
+
+
+{{Authority control}}
+
+{{Persondata
+| NAME              = Gleeson, Helen
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Gleeson, Helen}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Academics of the University of Manchester]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Alumni of the Victoria University of Manchester]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:British physicists]]
+[[Category:Women physicists]]

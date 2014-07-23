@@ -1,0 +1,39 @@
+Professor '''Ronald Edgar Burge''' (born 3 October 1932) is a former Professor of Physics at [[King's College London]].
+
+==Early life==
+He attended Canton High School, a boys' [[grammar school]], in Cardiff and [[King's College London]] (BSc, Physics; PhD).<ref>[http://www.kcl.ac.uk/depsta/iss/archives/collect/10bu38-1.html King's College]</ref>
+
+==Career==
+He joined King's College London in 1954 at the age of 21. His work looked at the structure of fibrous proteins. He was Head of the Department of Physics at King's College London from October 1984 to 1992.
+
+==Personal life==
+He married in 1953 and they have two sons.
+
+==References==
+{{reflist}}
+
+{{S-start}}
+{{S-aca}}
+{{S-bef|before= Michael Hart}}
+{{S-ttl|title=[[Wheatstone Professor of Physics]]|years=1989 &ndash; 2000}}
+{{S-aft|after= }}
+{{S-end}}
+
+{{Persondata
+| NAME              = Burge, Ronald
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Welsh physicist
+| DATE OF BIRTH     = 3 October 1932
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Burge, Ronald}}
+[[Category:1932 births]]
+[[Category:Alumni of King's College London]]
+[[Category:Academics of King's College London]]
+[[Category:Fellows of King's College London]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:People from Cardiff]]
+[[Category:Welsh physicists]]
+[[Category:Living people]]

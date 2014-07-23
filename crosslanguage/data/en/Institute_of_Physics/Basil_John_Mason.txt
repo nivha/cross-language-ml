@@ -1,0 +1,47 @@
+{{BLP sources|date=June 2011}}
+
+'''Sir (Basil)<!--Please keep the brackets around 'Basil'; he's officially also known only as 'John Mason'.--> John Mason''', [[Order of the Bath|CB]], [[Royal College of Physicians|FRCP]], FRCPEd, FRFPS, [[Fellow of the Royal Society|FRS]] (born 18 August 1923) is an expert on [[cloud physics]]<ref name="Gay2007">{{cite book|last=Gay|first=Hannah|title=The history of Imperial College London, 1907-2007: higher education and research in science, technology and medicine|url=http://books.google.com/books?id=x4u4ikoj1M8C&pg=PA376|accessdate=10 June 2011|year=2007|publisher=World Scientific|isbn=978-1-86094-709-4|pages=376–}}</ref> and former Director of the UK [[Meteorological Office]]. 
+
+His work includes the [[Mason Equation]], giving the growth or evaporation of small water droplets. He worked at [[Imperial College London]] from 1948 to 1965, where he was appointed as a lecturer in [[meteorology]] in 1948, and was made professor of cloud physics in 1961. 
+
+In the 1960s, he helped to modernise the [[World Meteorological Organization]].<!--Vague and stubby.--> 
+
+In 1965, he was awarded the [[Chree Medal]]<ref name="Appleton Medal Recipients (Formerly known as the Chree Medal)">{{cite web|title=Appleton Medal Recipients (Formerly known as the Chree Medal)|url=http://www.iop.org/about/awards/subject/appleton/medallists/page_38521.html}}</ref>  by the [[Institute of Physics]] and elected a [[Fellow of the Royal Society]]. He was Director of the UK [[Meteorological Office]] from 1965 to 1983, and was President of the [[Royal Meteorological Society]] from 1968 to 1970,<ref name="RMetS Presidents">{{cite web|title=The Royal Meteorological Society Presidents|url=http://www.rmets.org/about-us/history-society/society-presidents}}</ref> and is an honorary member of that society. In 1972 he received the [[Rumford Medal]] from the [[Royal Society]].<ref name="Rumford Medal">{{cite web|title=Winners of the Royal Society "Rumford Medal"|url=http://royalsociety.org/awards/rumford-medal/}}</ref> 
+
+In 1973, he was made a companion of the [[Order of the Bath]]. In 1974 he was invited to deliver the  [http://www.iesis.org/macmillan.html MacMillan Memorial Lecture] to the [[Institution of Engineers and Shipbuilders in Scotland]]. He chose the subject 'Recent Developments in Weather Forecasting'. From 1974 he has been a Fellow at Imperial College. He was Treasurer for the Royal Society from 1976 to 1986.<ref name="Royal Society Treasurer">{{cite web|title=Officers of the Royal Society|url=http://royalsociety.org/about-us/governance/officers/}}</ref> In 1979, he was knighted for his services to meteorology. He gave the Royal Society's 1990 [[Rutherford Memorial Lecture]] in Canada.<ref name="Rutherford Memorial Lecture">{{cite web|title=Rutherford Memorial Lectures of the Royal Society|url=http://royalsociety.org/awards/rutherford-memorial-lecture/}}</ref> In 1991 he received the [[Royal Medal]] of the [[Royal Society]].<ref name="Royal Medal">{{cite web|title=Winners of the Royal Society "Royal Medal"|url=http://royalsociety.org/awards/royal-medal/}}</ref> He was Chancellor of the [[University of Manchester Institute of Science and Technology]] until 1996, when he was succeeded by Sir Roland Smith. In 1998 he received an honorary [[Doctor of Science]] degree from the [[University of Reading]]. 
+
+The [[National Portrait Gallery (United Kingdom)|National Portrait Gallery]] contains a portrait of Mason.<ref name="National Portrait Gallery">{{cite web|title=The National Portrait Gallery, entry for Sir (Basil) John Mason|url=http://www.npg.org.uk/collections/search/portrait/mw120615/Sir-Basil-John-Mason}}</ref> In 2004, Mason opened the Mason Centre for Environmental Flows at the [[University of Manchester]]. In 2006, an endowment from Mason enabled the Royal Meteorological Society to establish the Mason Gold Medal.<ref name="Mason Gold Medal">{{cite web|title=The Royal Meteorological Society "Mason Gold Medal" recipients|url=http://www.rmets.org/our-activities/awards/mason-gold-medal}}</ref> Mason is also Chairman of the British Physics Olympiad Committee.
+
+==Bibliography==
+
+* ''The Physics of Clouds'' (1957)
+* ''Clouds, Rain and Rainmaking'' (1962)
+* ''The Surface Waters Acidification Programme'' (editor, 1990)
+* ''Acid Rain: Its Causes and its Effects on Inland Waters'' (1992)
+* ''Highlights in Environmental Research - Professorial Inaugural Lectures at Imperial College'' (editor, 2000).
+* B.J. Mason (1957) ''The Physics of Clouds'' Oxford University Press
+
+==References==
+{{Reflist}}
+
+{{Authority control|VIAF=100889}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Mason, Basil John
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     = 18 August 1923
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Mason, Basil John}}
+[[Category:1923 births]]
+[[Category:Academics of Imperial College London]]
+[[Category:British meteorologists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Living people]]
+[[Category:Presidents of the British Science Association]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Presidents of the Royal Meteorological Society]]
+[[Category:Royal Medal winners]]

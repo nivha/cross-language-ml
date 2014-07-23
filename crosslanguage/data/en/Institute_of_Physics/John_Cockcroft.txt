@@ -1,0 +1,112 @@
+{{For|the British politician|John Cockcroft (politician)}}
+{{Use dmy dates|date=April 2012}}
+{{Infobox scientist
+|name              = Sir John Cockcroft
+|image             = Sir John Douglas Cockcroft.jpg
+|image_size       = 220px
+|birth_date        = {{Birth date|1897|05|27|df=y}}
+|birth_place       = [[Todmorden]], England 
+|death_date        = {{death date and age|1967|09|18|1897|05|27|df=y}}
+|death_place       = [[Cambridge]], England 
+|nationality       = United Kingdom 
+|field             = [[Physics]]
+|work_institutions = [[Atomic Energy Research Establishment]]
+|alma_mater        = [[Victoria University of Manchester]]<br>[[UMIST|Manchester College of Technology]]<br>[[St. John's College, Cambridge]]
+|doctoral_advisor  = 
+|academic_advisors = [[Ernest Rutherford]] 
+|notable_students = [[Ishfaq Ahmad]]
+|known_for         = [[atom|Splitting the atom]]
+|influences        = [[Horace Lamb]]
+|influenced        = 
+|prizes            = {{nowrap|[[Hughes Medal]] {{small|(1938)}}<br>[[Nobel Prize in Physics]] {{small|(1951)}}<br>[[Royal Medal]] {{small|(1954)}}<br>[[Faraday Medal]]  {{small|(1955)}}<br>[[Atoms for Peace Award]] {{small|(1961)}}}}
+|religion          = [[Christian]]
+|footnotes         = 
+|signature         =
+}}
+Sir '''John Douglas Cockcroft''' [[Order of Merit|OM]] [[Order of the Bath|KCB]] [[Order of the British Empire|CBE]] [[Fellow of the Royal Society|FRS]] (27 May 1897 – 18 September 1967)<ref>{{cite doi|10.1259/0007-1285-40-479-872}}</ref><ref>{{cite doi|10.1098/rsbm.1968.0007}}</ref> was a British [[physics|physicist]]. He shared the [[Nobel Prize]] in Physics for splitting the [[atomic nucleus]] with [[Ernest Walton]], and was instrumental in the development of [[nuclear power]]. He was the first Master of [[Churchill College]] and is buried at the [[Ascension Parish Burial Ground, Cambridge|Parish of the Ascension Burial Ground]] in Cambridge, together with his wife Elizabeth and son John, known as Timothy, who had died at the age of two in 1929.
+
+==Early years==
+Cockcroft was born in [[Todmorden]], England, the eldest son of a mill owner.  He was educated at [[Todmorden High School|Todmorden Secondary School]] (1909&ndash;1914) (where his physics teacher, Luke Sutcliffe, would later tutor another future Nobel Prize-winner, [[Geoffrey Wilkinson]]) and studied [[mathematics]] at the [[Victoria University of Manchester]] (1914&ndash;1915).  He was a [[signaller]] in the [[Royal Artillery]] from 1915 to 1918.  After the war ended, he studied electrotechnical engineering at [[UMIST]] from 1919 until 1920.  He undertook an apprenticeship with Metropolitan Vickers Electrical Company whilst in receipt of an [[1851 Exhibition Scholarship]] from the [[Royal Commission for the Exhibition of 1851]].<ref>1851 Royal Commission Archives</ref> He then went to [[St. John's College, Cambridge]], from where he received a mathematics degree in 1924, and began research work under [[Ernest Rutherford]].  In 1929 he was elected a Fellow of St. John's College; in 1939, he became Jacksonian Professor of Philosophy.
+
+==Nuclear research==
+In 1928, he began to work on the acceleration of [[proton]]s with [[Ernest Walton]].  In 1932, they bombarded [[lithium]] with high energy [[neutron]]s, [[electron]]s and [[proton]]s and succeeded in transmuting it into [[helium]] and other [[chemical element]]s.  This was one of the earliest experiments to change the [[atomic nucleus]] of one element to a different nucleus by artificial means.  This feat was popularly &ndash; if somewhat inaccurately &ndash; known as ''splitting the atom''.
+
+At the outbreak of the Second World War, he took up the post of Assistant Director of Scientific Research in the [[Ministry of Supply]], working on [[radar]].  In 1944, he took charge of the Canadian Atomic Energy project and became Director of the [[Montreal Laboratory]] and [[Chalk River Laboratories]], replacing [[Hans von Halban]], who was considered a security risk.  In 1946, he returned to Britain to set up the [[Atomic Energy Research Establishment]] (AERE) at Harwell, charged with developing Britain's atomic power programme.  He became the first director of AERE.  Even when leaving the post, he continued to be involved with Harwell.  He was made a Commander of the Order of the British Empire in 1944, [[British honours system|knighted]] in 1948, and created Knight Commander of the Order of the Bath in 1953.
+
+In post-war years, AERE under his direction took part in frontier fusion research, including the [[ZETA (fusion reactor)|ZETA]] program.
+
+==Cockcroft's folly==
+As director of the AERE, he famously insisted that the [[coolant]] discharge chimney stacks of the [[Windscale]] [[plutonium]] production reactors be fitted, at great expense, with high performance filters.  Since this was decided after the stacks had been designed, they produced iconic lumps in the shape of the structures.  The reactors were designed to remain clean and uncorroded during use, thus it was not considered that there would be any particulate present for the filters to catch.  These filters were therefore known as ''Cockcroft's Folly'' until the core of one of the two reactors famously caught fire in the [[Windscale fire]] of 1957, and the filters prevented the disaster from becoming a catastrophe.
+
+==Personal life==
+Cockcroft married Eunice Elizabeth Crabtree (born 26 October 1898, died 4 October 1989) in 1925 and had six children: John Haslam, known as Timothy, born 29 January 1927, died 11 October 1929; Joan Dorothea, known as Thea, born 5 October 1932; Jocelyn, born 1 September 1934; Elisabeth Fielden, born 23 February 1936; Catherine Helena, born 17 October 1939; and Christopher Hugh John, born 14 January 1942.  He died at [[Churchill College, Cambridge]], 18 September 1967; he is buried at the [[Ascension Parish Burial Ground, Cambridge|Parish of the Ascension Burial Ground]] in Cambridge, in the same grave as his wife and son John, known as Timothy.<ref>A Guide to Churchill College, Cambridge: text by Dr. Mark Goldie, pages 62 and 63 (2009)</ref> [[John R. Cockcroft]] is his great nephew, notable in the field of cardiology and arterial stiffness.
+
+==Recognition==
+In 1951, Cockcroft, along with Walton, was awarded the [[Nobel Prize in Physics]] for his work in the use of accelerated particles to study the atomic nucleus.  In 1959, he became the first Master of [[Churchill College, Cambridge]].  He was president of the [[Institute of Physics]], the [[Physics Society]], and the [[British Association for the Advancement of Science]].  Cockcroft served as chancellor of the [[Australian National University]] from 1961 to 1965.  He received the American [[Atoms for Peace Award]] in 1961. He delivered the [[Rutherford Memorial Lecture]] in 1944.
+
+Today, five buildings in the United Kingdom are named after him: the Cockcroft building at the [[New Museums Site]] of the [[University of Cambridge]], comprising a lecture theatre and several hardware laboratories; the [[Cockcroft Institute]] at Daresbury Laboratory in Cheshire; the Cockroft Hall lecture theatre at the Harwell Science and Innovation Centre; the Cockcroft building of the [[University of Brighton]]; and the Cockcroft building of the [[University of Salford]].  The oldest building at the [[Research School of Physical Sciences and Engineering]], Australian National University, the Cockcroft building, is named after him.
+
+In the 1950s, the AERE commissioned a number of homes to be built in the nearby town of [[Didcot]] for the many Harwell workers who lived there.  The "focal" road of this development in the south of the town (the one with the shops, school and public house) is named Cockcroft Road.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Cathcart, Brian, ''[[The Fly in the Cathedral]]'', Penguin, 2005. ISBN 0-14-027906-7
+* [http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0014%2FCKFT The Papers of Sir John Cockcroft] are held at the [http://www.chu.cam.ac.uk/archives/collections/ Churchill Archives Centre] in Cambridge, and are accessible to the public.  They include Cockcroft's lab books, correspondence, photographs (with dozens depicting the construction of Chalk River, CKFT 26/4), theses and political papers.
+
+==External links==
+* {{Find a Grave|5935484}}
+*[http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0014%2FCKFT Biography] from [[Churchill Archives Centre]]
+*[http://www.nobel.se/physics/laureates/1951/cockcroft-bio.html Biography from the Nobel Museum]
+*[http://www.nobel-winners.com/Physics/john_douglas_cockcroft.html Another Nobel biography]
+*[http://www.empireclubfoundation.com/details.asp?SpeechID=1578&FT=yes Speech to the Empire Club of Canada]
+*[http://alsos.wlu.edu/qsearch.aspx?browse=people/Cockcroft,+John Annotated bibliography for John Cockcroft from the Alsos Digital Library for Nuclear Issues]
+*{{NRA|P6021}}
+
+{{s-start}}
+{{s-aca}}
+{{succession box|title=Master of <br>[[Churchill College, Cambridge]]|before=None: new position|after=[[William Hawthorne]]|years=1959&ndash;1968}}
+{{s-end}}
+{{Nobel Prize in Physics Laureates 1951-1975}}
+{{Australian National University chancellors}}
+
+{{Authority control|VIAF=7383731}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Cockcroft, John
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 27 May 1897
+| PLACE OF BIRTH    = [[Todmorden]], England
+| DATE OF DEATH     = 18 September 1967
+| PLACE OF DEATH    = [[Cambridge]], England
+}}
+{{DEFAULTSORT:Cockcroft, John}}
+[[Category:1897 births]]
+[[Category:1967 deaths]]
+[[Category:People from Todmorden]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Fellows of St John's College, Cambridge]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Masters of Churchill College, Cambridge]]
+[[Category:Alumni of the Victoria University of Manchester]]
+[[Category:Alumni of the University of Manchester Institute of Science and Technology]]
+[[Category:British Army personnel of World War I]]
+[[Category:Royal Artillery soldiers]]
+[[Category:Experimental physicists]]
+[[Category:English nuclear physicists]]
+[[Category:Nobel laureates in Physics]]
+[[Category:Knights Commander of the Order of the Bath]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Members of the Order of Merit]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Royal Medal winners]]
+[[Category:Knights Bachelor]]
+[[Category:Atoms for Peace Award recipients]]
+[[Category:Chief Scientific Advisers to the Ministry of Defence]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Presidents of the Physical Society]]
+[[Category:Presidents of the British Science Association]]
+[[Category:English Nobel laureates]]
+[[Category:Niels Bohr Medal recipients]]

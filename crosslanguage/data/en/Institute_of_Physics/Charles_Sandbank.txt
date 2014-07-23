@@ -1,0 +1,46 @@
+Professor '''Charles Peter Sandbank''' FBKSTS FInstP FREng FRSA FRTS (14 August 1931 – 15 December 2008) was a British electronics engineer.
+
+==Early life==
+He was born in Vienna. He attended Bromley Grammar School (now the [[Ravensbourne School (Bromley)|Ravensbourne School]]). He studied Physics at Woolwich university.<ref>[http://www.bbc.co.uk/rd/pubs/archive/pdffiles/engineering/bbc_engineering_110.pdf Engineering]</ref>
+
+==Career==
+From 1955-60 he worked in electronics at the Brimar Valve Company, a pioneering electronics company.<ref>[http://www.brimar-ltd.com/history.html Brimar]</ref>
+
+In 1960 he moved to STC, working in electronics.<ref>[http://www.itu.int/ITU-T/newslog/Obituary+CPSandbank+FREng+BSc+DIC+DUniv+DEng.aspx Career]</ref> 
+
+===BBC===
+From 1978-84 he was Head of [[BBC Research & Development|BBC Research]] in Surrey. From 1985-91 he was Deputy Director of Engineering at the BBC.
+
+At the BBC he worked on the [[BBC Micro]] project and digital television.
+
+He was a member of the [[British Kinematograph, Sound and Television Society]] and the [[Society of Motion Picture and Television Engineers]].
+
+==Personal life==
+He married in 1955 and had two twin daughters and a son. He lived in Reigate with his wife Audrey in Surrey, and in Beccles in Suffolk. He enjoyed boating and sailing, spending many summers on the Norfolk broads with his family and friends. He had eight grandchildren.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.bbceng.info/Research/rd_memory_lane.htm BBC Engineering]
+* [http://www.goforich.co.uk/stl/charlie_sandbank.htm ''The Times'' March 2009]
+
+{{Persondata
+| NAME              = Sandbank, Charles
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British engineer
+| DATE OF BIRTH     = 14 August 1931
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 15 December 2008
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Sandbank, Charles}}
+[[Category:BBC people]]
+[[Category:British electronics engineers]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:People educated at Bromley Grammar School]]
+[[Category:People from Reigate]]
+[[Category:Television pioneers]]
+[[Category:1931 births]]
+[[Category:2008 deaths]]

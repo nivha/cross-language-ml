@@ -1,0 +1,45 @@
+{{no footnotes|date=March 2013}}
+'''Denis R Hall''' [[FRSE]] [[FIEEE]] [[FIEE]] [[FInstP]] is a professor of [[photonics]] at [[Heriot-Watt University]], Edinburgh. In 2004 he was awarded the [[AILU#The AILU Award|Association of Laser Users award]] for his contributions to the development of industrial [[laser]]s and their applications.
+
+==Education==
+Hall graduated in Physics at the [[University of Manchester]] in 1965, an attained his MPhil in 1967 at London University for research in cell biology. He received a PhD in Electrical Engineering in 1971 from [[Case Western Reserve University]] in Cleveland, USA. He received an MBA degree at the [[Edinburgh Business School]] in 1996.
+
+==Academic work==
+In 1971, Hall was awarded a [[United States National Academy of Sciences|National Academy of Sciences]] Fellowship at NASA [[Goddard Space Flight Center]] where he worked on for space-based [[optical communication]] systems. He then moved to Avco Everett Research Laboratory in Boston, where he worked on electron beam laser technology and high pulse energy modelocked lasers, [[laser radar]] and atmospheric optical propagation. 
+
+Hall moved to the Royal Signals and Radar Establishment in 1976 working on lasers and infrared systems, before transferring to [[Hull University]] in 1979. At Hull he led the UK national project to design and construct the [[Satellite laser ranging|Satellite Laser Ranging Facility]] at [[Royal Greenwich Observatory]], Herstmonceux. At the same time Hall developed techniques for laser excitation using transverse radiofrequency discharges to produce a range of compact sealed {{CO2}} lasers for medical, industrial and laser radar applications.
+
+Since 1987, Hall has been Professor of Photonics at Heriot-Watt University, Edinburgh, where his research interests have continued in laser device physics and applications. He has been concerned with the design of ultracompact high power [[waveguide]] lasers, exploiting concurrent research in RF discharge physics and planar optical waveguides to develop new laser concepts based on 2-D laser power scaling and novel laser resonators. Planar waveguide {{CO2}} lasers are now successful products manufactured by major international companies for applications in industry and medicine. More recently, the planar waveguide ‘thin laser' concept has been extended to other gas lasers and to solid state lasers pumped by diode bars. This work, part of a general industrial orientation involving partnership in many industry/university collaborative research projects, has resulted in a series of new commercial laser devices and industrial laser-based systems. He has been involved in the creation of three successful start-up companies producing lasers and laser systems.
+
+==Awards==
+Hall is the recipient of the 2004 [[AILU]] award for his contribution to the development of industrial lasers and their applications, especially work on the technology of the RF-excited diffusion-cooled {{CO2}} laser.
+
+He is a Fellow of the Royal Society of Edinburgh, the [[IEEE]], the UK [[Institute of Physics]], the IEE, and the [[Optical Society of America]]. He was Chairman of the UK Institute of Physics Quantum Electronics Group from 1990-93, and was also Chairman of the European Physical Society Quantum Electronics and Optics Division (1998-2000). Currently, he is Deputy Principal (Pro-Vice Chancellor) with special responsibility for Research at Heriot-Watt University, operating on a part-time basis in parallel with research activity as Professor of Photonics in the School of Engineering and Physical Sciences. He is also Deputy Director of the Edinburgh Research Partnership between Edinburgh University and Heriot-Watt University
+
+== Sources ==
+*http://www.phy.hw.ac.uk/contacts/Denis%20Hall.htm
+*http://www.ailu.org.uk/association/awards_and_prizes/ailu_awards/award/2004_denis_hall.html
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Hall
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hall}}
+[[Category:British physicists]]
+[[Category:Laser researchers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Academics of Heriot-Watt University]]
+[[Category:Alumni of the University of Manchester]]
+[[Category:Case Western Reserve University alumni]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Hull]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellow Members of the IEEE]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Optical Society]]

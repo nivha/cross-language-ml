@@ -1,0 +1,61 @@
+{{Infobox scientist
+| name              = Christopher Monroe
+| image             = Chris_Monroe_in_Lab.jpg
+| caption           =
+| birth_date        = {{birth date and age|1965|10|19|mf=yes}}
+| birth_place       = [[Southfield, Michigan|Southfield]], [[Michigan]], [[United States|USA]]
+| residence         = [[Maryland]], [[United States|USA]]
+| nationality       =
+| field             = [[Physics]] <br> [[Quantum Information Science]] <br> [[Atomic Physics]]
+| work_institutions = [[University of Michigan]]<br> [[University of Maryland]]<br> [[National Institute of Standards and Technology]]
+| alma_mater        = [[Massachusetts Institute of Technology|MIT]]<br> [[University of Colorado]]
+| doctoral_advisor  =
+| doctoral_students =
+| known_for         = [[Quantum Information]] <br> [[Ion Trap]]ping
+| influences        =
+| influenced        =
+| prizes            = [http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Monroe&first_nm=Christopher&year=2001 I.I. Rabi Prize] <br> [http://qcmc2012.org/awards/ International Quantum Communication Award] <br> [[Presidential Early Career Award for Scientists and Engineers]]
+| footnotes         =
+}}
+'''Christopher Roy Monroe''' (born October 19, 1965) is an American [[physicist]], an experimentalist in the areas of atomic, molecular, and optical physics and [[quantum information science]]. He directs one of the [http://www.iontrap.umd.edu/ leading research efforts] in [[ion trap]]s and [[quantum optics]]. Monroe is currently Bice Zorn Professor of Physics at the [[University of Maryland]] and Fellow of the [http://jqi.umd.edu/ Joint Quantum Institute].
+
+== Career ==
+After receiving his undergraduate degree from [[Massachusetts Institute of Technology|MIT]] in 1987, Monroe joined [[Carl Wieman]]'s research group at the [[University of Colorado]] in the early days of laser cooling and trapping of atoms.  With Wieman and postdoctoral researcher [[Eric Cornell]], Monroe contributed to the path for cooling a gas of atoms to the [[Bose–Einstein condensate|Bose-Einstein condensation phase transition]].<ref>C. Monroe, W. Swann, H. Robinson, and C. Wieman, "Very cold trapped atoms in a vapor cell," [http://prl.aps.org/abstract/PRL/v65/i13/p1571_1 Phys. Rev. Lett. 65 1571 (1990)]</ref>  He obtained his PhD under Wieman in 1992 (Wieman and Cornell succeeded in the quest in 1995, and were awarded the [[Nobel Prize]] for this work in 2001).
+
+From 1992-2000, Monroe worked in the Ion Storage Group of [[David Wineland]] at the [[National Institute of Standards and Technology]] in Boulder, CO, where he was awarded a [[United States National Research Council|National Research Council]] postdoctoral fellowship from 1992-1994, and held a staff position in the same group from 1994-2000.  With Wineland, Monroe led the research team that demonstrated the first quantum logic gate in 1995 and for the first time entangled multiple [[qubits]],<ref>C. Monroe, D. Meekhof, B. King, W. Itano, and D. Wineland, "Demonstration of a Universal Quantum Logic Gate," [http://prl.aps.org/abstract/PRL/v75/i25/p4714_1 Phys. Rev. Lett. 75, 4714 (1995)]</ref><ref>Q. Turchette, C. Wood, C. Myatt, B. King, D. Leibfried, W. Itano, C. Monroe, and D. Wineland, “Deterministic Entanglement of Two Trapped Ions,” [http://link.aps.org/doi/10.1103/PhysRevLett.81.3631 Phys. Rev. Lett. 81, 3631 (1998)]</ref><ref>C. Sackett, D. Kielpinski, Q. Turchette, V. Meyer, M. Rowe, C. Langer, C. Myatt, B. King, W. Itano, D. Wineland, and C. Monroe, “Experimental Entanglement of Four Particles,” [http://www.nature.com/nature/journal/v404/n6775/abs/404256a0.html Nature 404, 256 (2000)]</ref> and exploited the use of trapped atomic ions for applications in quantum control and the new field of [[quantum information science]] (Wineland received the Nobel Prize in 2012 based on this work).
+
+In 2000, Monroe initiated a research group at the [[University of Michigan, Ann Arbor]], where he showed how qubit memories could be linked to single photons for quantum networking.<ref>B. B. Blinov, D. L. Moehring, L.- M. Duan & C. Monroe, "Observation of entanglement between a single trapped atom and a single photon," [http://www.nature.com/nature/journal/v428/n6979/full/nature02377.html Nature 428, 153–157 (2004)]</ref>  There he also demonstrated the first ion trap integrated on a [[semiconductor chip]].<ref>D. Stick, W. K. Hensinger, S. Olmschenk, M. J. Madsen, K. Schwab, and C. Monroe, "Ion Trap in a Semiconductor Chip," [http://www.nature.com/nphys/journal/v2/n1/full/nphys171.html Nature Physics 2, 36 (2006)]</ref> With Wineland, Monroe proposed a scalable quantum computer architecture based on shuttling atomic ions through complex ion trap chips.<ref>D. Kielpinski, C. Monroe, and D. J. Wineland, "Architecture for a large-scale ion-trap quantum computer," [http://www.nature.com/nature/journal/v417/n6890/abs/nature00784.html Nature 417, 709 (2002)]</ref> In 2006, Monroe became Director of the FOCUS Center at the University of Michigan, a NSF Physics Frontier Center in the area of ultrafast optical science.
+
+In 2007, Monroe became the Bice Zorn Professor of Physics at the University of Maryland and a Fellow of the Joint Quantum Institute between the University of Maryland and NIST.  There, Monroe's group produced quantum entanglement between two widely separated atoms,<ref>D. L. Moehring, P. Maunz, S. Olmschenk, K. C. Younge, D. N. Matsukevich, L.-M. Duan, and C. Monroe, "Entanglement of single-atom quantum bits at a distance," [http://www.nature.com/nature/journal/v449/n7158/abs/nature06118.html Nature 449, 68 (2007)]</ref> and were the first to teleport quantum information between matter separated over distance.<ref>S. Olmschenk, D. N. Matsukevich, P. Maunz, D. Hayes, L.-M. Duan, and C. Monroe, "Quantum Teleportation between Distant Matter Qubits," [http://www.sciencemag.org/content/323/5913/486.abstract Science 323, 486 (2009)]</ref> They exploited this resource for a number of quantum communication protocols<ref>S. Pironio, A. Acin, S. Massar, A. Boyer de la Giroday, D. N. Matsukevich, P. Maunz, S. Olmschenk, D. Hayes, L. Luo, T. A. Manning, C. Monroe, “Random Numbers Certified by Bell's Theorem,” [http://www.nature.com/nature/journal/v464/n7291/full/nature09008.html Nature 464, 1021 (2010)]</ref> and for a new hybrid memory/photon quantum computer architecture.<ref>C. Monroe, R. Raussendorf, A. Ruthven, K. R. Brown, P. Maunz, L.-M. Duan, J. Kim, "Large Scale Modular Quantum Computer Architecture with Atomic Memory and Photonic Interconnects," [http://arxiv.org/abs/1208.0391v2 ArXiv 1208.1661 (2012)]</ref>
+In recent years, his group pioneered the use of individual atoms as a [[quantum simulator]], or a special purpose quantum computer that can probe complex many-body quantum phenomena such as frustration and magnetic ordering.<ref>R. Islam, C. Senko, W. C. Campbell, S. Korenblit, J. Smith, A. Lee, E. E. Edwards, C.-C. J. Wang, J. K. Freericks, and C. Monroe, "Emergence and Frustration of Magnetic Order with Variable-Range Interactions in a Trapped Ion Quantum Simulator," [http://www.sciencemag.org/content/340/6132/583.abstract Science 340, 583 (2013)]</ref> His laboratory controls and manipulates the largest collection of individual interacting qubits.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.iontrap.umd.edu/ University of Maryland Ion Trap Group]
+* [http://jqi.umd.edu/ Joint Quantum Institute]
+* [http://www.umdphysics.umd.edu/ University of Maryland Department of Physics]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Monroe, Christopher Roy
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American physicist
+| DATE OF BIRTH     = October 19, 1965
+| PLACE OF BIRTH    = Southfield, Michigan
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Monroe, Christopher}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Quantum physicists]]
+[[Category:Optical physicists]]
+[[Category:American physicists]]
+[[Category:University of Maryland, College Park staff]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:University of Colorado alumni]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:University of Michigan faculty]]

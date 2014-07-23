@@ -1,0 +1,30 @@
+'''John Bryan Taylor''' (born 1928 in [[Birmingham]]) is a British [[physicist]] known for his important contributions to [[plasma (physics)|plasma physics]] and their application in the field of [[fusion energy]]. Notable among these is the development of the "[[Taylor state]]", describing a minimum-energy configuration that conserves [[magnetic helicity]]. Another important development was his work on the [[ballooning transformation]], which describes the motion of plasma in [[toroid]]al (donut) configurations, which are widely used in the fusion field. Taylor has also made important contributions to the theory of [[Dynamo Theory|the Earth's Dynamo]], including the famous Taylor constraint<ref>Taylor, J. B. 1963. “The magnetohydrodynamics of a rotating fluid and the Earth's dynamo problem,”. Proc. R. Soc. London, A274: 274–283.</ref>
+
+Taylor served in the [[Royal Air Force]] from 1950–1952, and then took his PhD at [[Birmingham University]] in 1955. Upon graduation, he joined the [[Atomic Weapons Establishment]] at [[Aldermaston]], and in 1962 moved to the [[Culham Laboratory]], where he became Chief Physicist. He held several other positions during this period, including the Commonwealth Fund Fellow at the University of California, Berkeley in 1959 to 1960, the [[Institute for Advanced Study]] in 1969, 1973 and 1980–81, and finally took the position of Fondren Professor of Plasma Theory at the [[University of Texas at Austin]] in 1989. Taylor is still actively involved in fusion science, working with Culham laboratory and [[Oxford University]]. He was elected a [[Fellow of the Royal Society]] in 1970.<ref>{{cite web| url = http://royalsociety.org/uploadedFiles/Royal_Society_Content/about-us/fellowship/Fellows1660-2007.pdf | title = List of Fellows of the Royal Society 1660 – 2007|publisher = Royal Society| accessdate = 2012-03-02}}</ref>
+
+Taylor is best known for his work on the [[ZETA]] reactor at Culham. In the late 1950s, ZETA had apparently generated fusion reactions, and this apparently great advance was released to the press with great fanfare. This was later found to be spurious, and ZETA was used to develop advanced diagnostics methods to avoid a repeat of this problem in the future. While studying these improved results, in 1974 Taylor became interested in what he called the "quiescence" period; after the device was "fired" and the experimental run had ostensibly come to an end, the plasma often entered an extended period of stability. From these results Taylor developed what is today referred to as the "[[Taylor state]]", which describes the minimum energy state of a plasma configuration with a given [[magnetic helicity]].
+
+Taylor initiated the study of chaos in magnetic surfaces, developing several contributions to [[chaos theory]] and introducing the "[[standard map]]" (or Chirikov–Taylor map). He studied 2D-plasmas, demonstrating the inherent [[Bohm diffusion]] which had been noticed in magnetic bottles since the 1950s. He then played a major part in developing the "[[ballooning transformation]]" for toroidal plasmas, along with Jack Connor and Jim Hastie, which won the 2004 [[Hannes Alfvén Prize]].<ref>Jo Lister, [http://iopscience.iop.org/0741-3335/46/12B/E02 "Award of the 2004 Hannes Alfvén Prize of the European Physical Society to J W Connor, R J Hastie and J B Taylor"], ''Plasma Physics and Controlled Fusion'', Volume 46 Number 12B (December 2004)</ref>
+
+==References==
+{{reflist}}
+* [http://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Taylor&first_nm=John&year=1999 "1999 James Clerk Maxwell Prize for Plasma Physics Recipient: John Bryan Taylor, Culham Laboratory"], American Physical Society
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Taylor, J. Bryan
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British nuclear physicist
+| DATE OF BIRTH     = 1928
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Taylor, J. Bryan}}
+[[Category:Living people]]
+[[Category:British nuclear physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:1928 births]]
+[[Category:Alumni of the University of Birmingham]]
+[[Category:University of California, Berkeley people]]
+[[Category:University of Texas at Austin faculty]]

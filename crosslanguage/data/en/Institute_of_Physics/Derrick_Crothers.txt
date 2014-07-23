@@ -1,0 +1,36 @@
+'''Derrick Crothers''' (born 24 June 1942) is a [[Northern Ireland|Northern Irish]] [[mathematician]], [[physicist]] and former [[politician]].
+
+Crothers grew up in [[Cookstown]] and studied at [[Rainey Endowed School]], where he won the top mathematics and Science State Exhibition prize in 1959.  He then read mathematics at [[Balliol College]], Oxford, before obtaining a doctorate from the [[Queen's University of Belfast]] in 1966.<ref name="inelastic">Derrick Crothers and J. V. Mullan, "Inelastic heavy particle collisions", ''Science Progress'' (1995), p.35</ref>  In the following years, he lectured at Queen's, undertook research at [[University College London]], worked as a tutor for the [[Open University]], and was elected as a Fellow of the [[Institute of Physics]].<ref name="strute">Karl Strute, ''Who's Who in Technology'' (1984), p.157</ref>
+
+At the [[Northern Ireland Assembly election, 1973]], Crothers was elected for the [[Alliance Party of Northern Ireland]] in [[South Antrim (Assembly constituency)|South Antrim]],<ref name="strute" /> receiving 5,975 first preference votes.  He did not stand for the [[Northern Ireland Constitutional Convention]] or subsequent assemblies, but did contest the Lower Falls area of [[Belfast City Council]] at the [[Northern Ireland local elections, 1989|1989 local elections]].  He took only 135 votes and was not elected.<ref>[http://www.ark.ac.uk/elections/85-89lgbelfast.htm Local Government Elections 1985 - 1989: Belfast], Northern Ireland Elections</ref>
+
+In 1985, Crothers was promoted to a Personal Chair in Theoretical Physics at Queen's.<ref name="inelastic" />  He was elected Member of the [[Royal Irish Academy]] in 1991 and Fellow of the [[American Physical Society]] in 1994, before retiring in 2007.<ref>[http://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Staff/StaffInfo/?staffid=6 Prof Derrick Crothers], [[Queen's University Belfast]]</ref>
+
+==References==
+<references />
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Crothers, Derrick
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British mathematician, ohysicist and politician
+| DATE OF BIRTH     = 24 June 1942
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Crothers, Derrick}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Academics of Queen's University Belfast]]
+[[Category:Alliance Party of Northern Ireland politicians]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Alumni of Queen's University Belfast]]
+[[Category:Academics of University College London]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Mathematicians from Northern Ireland]]
+[[Category:Members of the Royal Irish Academy]]
+[[Category:Physicists from Northern Ireland]]
+[[Category:Northern Ireland MPAs 1973–74]]
+[[Category:People from Magherafelt]]
+[[Category:People educated at Rainey Endowed School]]

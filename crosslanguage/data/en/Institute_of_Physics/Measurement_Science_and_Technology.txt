@@ -1,0 +1,87 @@
+{{Infobox Journal
+| title        = Measurement Science and Technology
+| cover        = [[File:Measurement Science and Technology.gif]]
+| editor       = David Birch
+| discipline   = Interdisciplinary
+| language     = [[English language|English]]
+| abbreviation = Meas. Sci. Technol., MST
+| publisher    = [[IOP Publishing]]
+| country      = [[United Kingdom]]
+| frequency    = 12/year
+| history      = ''Measurement Science and Technology'' (1990–present)<br>''Journal of Physics E: Scientific Instruments'' (1968–1989)<br>''Journal of Scientific Instruments'' (1923–1967)
+| openaccess   = 
+| impact       = 1.435
+| impact-year  = 2012
+| website      = http://iopscience.org/mst
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         =
+| CODEN        =
+| ISSN         = 0957-0233
+| eISSN        = 1361-6501
+}}
+
+'''''Measurement Science and Technology''''' is a journal published by [[IOP Publishing]].  It publishes articles in the areas of measurement, instrumentation and sensor technology in physics, chemistry, biology, engineering, environmental sciences and the life sciences.
+
+The scope includes advances in measurement science, new measurement techniques and associated instrumentation pertaining to sensors, sensor systems, optical sciences (including imaging), fluids, spectroscopy across the acoustic and electromagnetic spectrum, materials, life sciences, medicine, environmental applications, and novel instrumentation.   
+
+The journal publishes different article types including  review articles, regular papers, technical notes and rapid communications. The journal also publishes a number of special topical features and issues each year. 
+The journal is published monthly. The editor-in-chief is David Birch ([[University of Strathclyde]] in [[Glasgow]]). The journal had an [[Impact Factor]] of 1.435 for 2012 according to [[Journal Citation Reports]].
+
+==History of the journal==
+
+The Institute of Physics was founded in 1920<ref>{{cite web|title=Institute History|url=http://www.iop.org/about/history/page_38385.html|accessdate=13 December 2012}}</ref>  and in 1923 the Institute launched the ''[[Journal of Scientific Instruments]]'', 'dealing with methods of measurement and the theory, construction and use of instruments as an aid to research in all branches of science and engineering'. The first issue was introduced by [[J. J. Thomson|J J Thompson]], then President of the Institute who stated that no publication existed at that time in the English language specially devoted to scientific instruments.<ref>{{cite web|title=Early days of the Journal of Scientific Instruments|url=http://iopscience.iop.org/0022-3735/1/5/201|accessdate=13 December 2012}}</ref> The idea for the journal was promoted by Sir [[Richard Glazebrook]], the first President, then Director of the [[National Physical Laboratory, UK|National Physical Laboratory]] (NPL). The journal was initially edited at the NPL under the supervision of a scientific advisory committee appointed by the Institute. The need for interdisciplinarity was recognised even then, with the desire to co-opt biologists, engineers, chemists and instrument makers, 'as well as physicists', on to the scientific advisory committee.<ref>{{cite web|title=The scheme for a journal of scientific instruments|url=http://iopscience.iop.org/0950-7671/1/0/301|accessdate=13 December 2012}}</ref> The Institute of Physics merged with the [[Physical Society of London|Physical Society]] in 1960. By this time the [[Proceedings of the Physical Society]] had grown in size and the quality of the applied journals, ''[[British Journal of Applied Physics]]'' and ''Journal of Scientific Instruments'', had been improved. In 1968 these journals were to form part of the [[Journal of Physics]] series of journals, A to E, the fifth journal in the series being ''[[Journal of Physics E: Scientific Instruments]]''. In 1986 Institute of Physics Publishing (IOP Publishing) was set up to be the sole vehicle through which the Institute's publishing was carried out. In 1990 it was decided to rename the journal ''Measurement Science and Technology'' to reflect the shift away from many scientists making their own instruments and to recognize the new technology which would be of interest to researchers making measurements of physical, chemical and biological measurands. The Institute's full electronic journals service was launched in January 1996, and in 2003 the journal archive containing all articles published since 1874 was digitized and is available online. All abstracts and tables of contents are freely available.
+
+==Time line==
+* 1874 The Physical Society of London founded
+* 1920 Institute of Physics founded
+* 1923 Journal of Scientific Instruments launched
+* 1960 Merger of Institute of Physics with the Physical Society
+* 1968 Journal of Physics series created.
+* 1986 Institute of Physics Publishing set up to handle publishing activities
+* 1990 Journal of Physics E: Scientific Instruments reborn as Measurement Science and Technology
+* 1994 IOP Publishing Electronic Journals service started with Classical and Quantum Gravity
+* 1996 Full Electronic Journals service launched
+* 2003 Journal Archive containing all articles published in the journal (since 1923) is digitized and available online
+
+== Indexing ==
+''MST'' is indexed in:
+
+{{columns-list|2|
+*ISI ([[Science Citation Index]], [[ISI Alerting Services]], [[Current Contents]] /Physical, Chemical and Earth Sciences, [[Current Contents]] /Engineering, Computing and Technology)
+*[[Scopus]]
+*[[Inspec]]
+*[[Aerospace & High Technology Database]]
+*[[ANTE]]: [[Abstracts in New Technologies and Engineering]]
+*[[Applied Science and Technology Abstracts]]
+*[[Chemical Abstracts Service]]
+*[[Compendex]]
+*[[Environmental Sciences & Pollution Management]]
+*[[FLUIDEX]]
+*[[GeoRef]]
+*[[Mass Spectroscopy Bulletin]]
+*[[NASA Astrophysics Data System]]
+*[[PubMed]]
+*[[VINITI]]
+*[[Referativnyi Zhurnal]]
+}}
+
+==External links==
+*[http://iopscience.org/mst ''Measurement Science and Technology'' website]
+*[http://iopscience.iop.org/0022-3735 ''Journal of Physics E: Scientific Instruments'' website]
+*[http://iopscience.iop.org/0950-7671 ''Journal of Scientific Instruments'' website]
+*[http://www.iop.org/ Institute of Physics]
+*[http://ioppublishing.org/ IOP Publishing]
+
+==References==
+{{reflist}}
+
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 1923]]

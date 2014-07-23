@@ -1,0 +1,51 @@
+{{Other people2|Anthony Kelly (disambiguation)}}
+{{BLP sources|date=February 2010}}
+'''Anthony J. Elliott-Kelly''' (Tony Kelly) is a Professor of Education (and Head of Department) at the [[University of Southampton]], England, specialising in education / schooling theory as it relates to school improvement, school effectiveness and school leadership, and system-wide policy.<ref>{{cite web|url=http://www.southampton.ac.uk/education/about/staff/ajck.page |title=Professor Anthony Kelly &#124; University of Southampton |publisher=Southampton.ac.uk |date= |accessdate=2013-10-04}}</ref>
+
+Kelly previously worked at the [[University of Cambridge]] with [[Mel West]],<ref>{{cite web|url=http://www.humanities.manchester.ac.uk/aboutus/staff/ |title=Who's who (The University of Manchester) |publisher=Humanities.manchester.ac.uk |date=2011-09-01 |accessdate=2013-10-04}}</ref> and before that was a headteacher in [[Ireland]]. His background is in [[Applied Mathematics]] and [[Theoretical Physics]], which he studied at Cambridge under [[George Batchelor]]. He is a Fellow of the [[Institute of Physics]] and of the [[Institute of Mathematics and Applications]],<ref>[http://www.ima.org.uk/ Institute of Mathematics & Its Applications]</ref> and in 2013 was elected as an Academician of the Academy of Social Sciences. He was a leading figure in the movement to integrate and rationalise education in the Irish border region where he developed new governance structures.
+
+Kelly was well known in [[Ireland]] because of his work in merging schools with different traditions, and is known in UK university circles for his traditional view of the role of universities. As a student at Cambridge he famously cast doubt on the sincerity of a student discussion (on Irish politics) in a student society,<ref>[[Cambridge Apostles#Former members]]</ref> causing some offence.
+
+Kelly was founding editor of the [[academic journal|journal]] ''Education, Knowledge and Economy'',<ref name="TandfonlineCurrent">{{cite web|url=http://www.tandfonline.com/toc/reke20/current|title=Taylor & Francis Online :: Education, Knowledge and Economy - Volume 5, Issue 3|publisher=tandfonline.com|accessdate=26 January 2014}}</ref> serves on the editorial board of other international academic journals, and is an invited lecturer at several leading universities outside the UK. He serves on several national UK steering groups and approval panels, and has appeared before the House of Commons Select Committee on Education. He also retains an interest and involvement in Anglo-Irish affairs. He is the author of approximately one hundred research reports, books and papers in leading academic journals.
+
+==Works==
+*''Benchmarking for School Improvement: A Practical Guide for Comparing & Improving Effectiveness''. London, Routledge Falmer, 2001.
+*''Decision-making through Game Theory''. Cambridge, [[Cambridge University Press]], 2003.
+*''The Intellectual Capital of Schools: Measuring and managing knowledge, responsibility and reward: Lessons from the commercial sector''. Dordrecht, New York & London, Kluwer Academic Press, 2004.
+*''School Choice and Student Well-being: opportunity and capability in education''. London, Palgrave Macmillan, 2007.
+*''Using Effectiveness Data for School Improvement: developing and utilising metrics''. London, Routledge, 2011. [with Downey, Christopher]
+
+==Personal information==
+*Education (degrees from): National University Ireland; scholarship to [[Trinity College, Cambridge]]; Edinburgh; Hull; [[Queens' College, Cambridge]].
+*International [[Bridge (disambiguation)#Card_games|bridge]] player (Northern Ireland), [[golf]], [[watercraft rowing|rowing]], [[Association football|football]], [[cricket]], [[downhill skiing]].
+*Clubs: [[Hawks' Club]], [[Oxford and Cambridge Club]]
+
+==References==
+<references />
+
+{{Authority control|VIAF=33256030}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Kelly, Anthony
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1957
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Kelly, Anthony}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:British educationists]]
+[[Category:British physicists]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Alumni of the University of Hull]]
+[[Category:Alumni of University College Galway]]
+[[Category:Fellows of the Institute of Mathematics and its Applications]]
+[[Category:Academicians of the Social Sciences]]

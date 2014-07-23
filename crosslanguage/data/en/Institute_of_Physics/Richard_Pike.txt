@@ -1,0 +1,65 @@
+{{Infobox person
+| name        = Richard Pike
+| honorific_suffix = <small>CEng CSci FRSC FInstP FIMechE FIChemE FIET FEI</small>
+| image       = 
+| alt         = Richard Pike
+| caption     = 
+| birth_date  = {{Birth date|df=y|1950|04|02}}
+| birth_place = 
+| death_date  = {{Death date and age|df=y|2011|07|23|1950|04|02}}
+| death_place = 
+| nationality = British
+| residence   = [[Surrey]], [[England]], [[United Kingdom]]
+| other_names = 
+| known_for   = 
+| title       = 
+| employer    = 
+| module = {{Listen| embed=yes |filename = Richard Pike BBC Radio4 Material World 20 May 2010 b00sdcfc.flac |title = Richard Pike's voice |type = speech |description = from the BBC programme [[Material World]], 20 May 2010<ref name="b00sdcfc">{{Cite episode |title= 20/05/2010 |series= [[Material World]] |serieslink= Material World |url= http://www.bbc.co.uk/programmes/b00sdcfc |accessdate= 2014-01-18 |station= BBC Radio 4 |date= 20 May 2010 |season= |seriesno= |number= |transcript= |transcripturl= }}</ref> }}
+}}
+'''Richard Andrew Pike''' (2 April 1950 – 23 July 2011) was the Chief Executive of the [[Royal Society of Chemistry]] (RSC) from 2006 to 2011.
+
+==Education==
+He attended Gosport County Grammar School (which became the comprehensive, [[Bay House School]], in 1972). From [[Downing College, Cambridge]] he gained a 1st Class BA in Engineering in 1971, and later in 1977 gained a [[Doctor of Philosophy|PhD]]. His PhD research work investigated experimental and theoretical aspects of vapour bubble dynamics in boiling, focusing on the thermal and fluid characteristics of water and organic liquids in various gravitational fields, including Earth and zero gravity.<ref>RSC Press Release, [http://www.rsc.org/AboutUs/News/PressReleases/2006/NewCEO.asp "Richard Pike appointed CEO of the Royal Society of Chemistry"], 23 January 2006, retrieved 1 August 2010.</ref>
+
+==Career==
+From being sponsored as an undergraduate, he had an almost 25-year career in [[BP]], during which time he held a number of technical and commercial positions. These included Technical Manager of the [[Sullom Voe Terminal]] in [[Shetland, Scotland]] (then Europe's largest oil and gas processing facility), and General Manager, Chemicals, BP Far East. During this latter posting he was also appointed President, BP Chemicals, Japan, and Director, Samsung-BP Chemicals, South Korea. 
+
+After leaving Japan, Pike was for five years Director General of the [[Institution of Mechanical Engineers]], and Executive Vice Chairman, [[Professional Engineering Publishing]]. He later moved to become Senior Associate at [[Gaffney, Cline & Associates]], advising on corporate strategy within the oil and gas industry, and leading international technical, commercial and organisational assignments throughout the energy supply chain, from reservoir management to processing facilities, petrochemicals and power. He was also non-executive Director of Chemistry Innovation Ltd., the corporate vehicle for the [[Chemistry Innovation Knowledge Transfer Network]] (CIKTN). In February 2006 he was appointed as the Chief Executive of the RSC, which he resigned from in February 2011.<ref>RSC Press Release, [http://www.rsc.org/AboutUs/News/PressReleases/2011/RPresigns.asp "Dr Richard Pike resigns as Chief Executive of the RSC, 15 February 2011"], Retrieved 2011-03-06.</ref>
+
+Pike was a Chartered Scientist and Chartered Engineer, and was elected Fellow of six learned bodies: Royal Society of Chemistry, [[Institute of Physics]], [[Energy Institute]], Institution of Mechanical Engineers, [[Institution of Chemical Engineers]] and [[Institution of Electrical Engineers]] (now Engineering and Technology). Pike was also a former recipient of the 'Award to Excellence' from the [[Institution of Plant Engineers]], and a [[Freeman of the City of London]]. He authored numerous papers in the fields of science, education and training, engineering, and energy and climate change.
+
+In February 2010, he criticised so-called ''[[Mickey Mouse degrees|Mickey Mouse]]'' university degrees.<ref>[http://www.guardian.co.uk/education/2010/feb/10/stop-funding-mickey-mouse-degrees  "Stop funding Mickey Mouse degrees, says top scientist"], Guardian newspaper, 10 February 2010.</ref>
+
+He died on 23 July 2011.<ref>RSC Press Release, [http://www.rsc.org/AboutUs/News/PressReleases/2011/RichardPikedies.asp "Former Royal Society of Chemistry Chief Executive Dr Richard Pike dies"], 26 July 2011, Retrieved 26 July 2011.</ref>
+
+==Other interests==
+
+A keen linguist and sportsman, he was President of the Cambridge University Anglo-Japanese Society, and in 1980 was the first person to swim between the most northerly islands of the British Isles, in [[Shetland]], raising funds for medical research.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.rsc.org/AboutUs/Governance/secgen.asp Royal Society of Chemistry]
+* [http://prospect.rsc.org/blogs/rsc/tag/richard-pike/ RSC Blog]
+* [http://www.telegraph.co.uk/news/obituaries/8680088/Richard-Pike.html Obituary in ''The Telegraph'']
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Pike, Richard
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British chemist
+| DATE OF BIRTH     = 2 April 1950
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 23 July 2011
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Pike, Richard}}
+[[Category:1950 births]]
+[[Category:2011 deaths]]
+[[Category:British chemical engineers]]
+[[Category:People from Gosport]]
+[[Category:Alumni of Downing College, Cambridge]]
+[[Category:Fellows of the Royal Society of Chemistry]]
+[[Category:Fellows of the Institution of Mechanical Engineers]]
+[[Category:Fellows of the Institution of Engineering and Technology]]
+[[Category:Fellows of the Institute of Physics]]

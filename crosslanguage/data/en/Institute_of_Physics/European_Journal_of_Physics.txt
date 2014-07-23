@@ -1,0 +1,56 @@
+{{Infobox Journal
+| title        = European Journal of Physics
+| cover        = [[File:European Journal of Physics.gif]]
+| editor       = Jan Mostowski
+| discipline   = Physics
+| language     = English
+| abbreviation = Eur. J. Phys., EJP
+| publisher    = IOP Publishing
+| country      = UK
+| frequency    = 6
+| history      = 1980-present    
+| openaccess   = 
+| impact       = 0.644
+| impact-year  = 2012
+| website      = http://iopscience.org/ejp
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 
+| LCCN         =
+| CODEN        =
+| ISSN         = 0143-0807
+| eISSN        = 1361-6404
+}}
+
+The '''''European Journal of Physics''''' is an international [[peer-review]]ed, [[scientific journal]] dedicated to maintaining and improving the standard of [[physics education]] in [[higher education]]. The journal, published since 1980, is now published by the IOP Publishing on behalf of the [[European Physical Society]].
+
+It does not include original [[research]] in [[physics]], but rather: 
+*Surveys of  research at a level accessible to students
+*Original insights into the derivation of results
+*Descriptions of new laboratory exercises 
+*Scholarly or reflective articles at appropriate levels
+*Descriptions of successful original student projects
+*Discussions of the [[history of physics|history]] and  [[philosophy of physics]].
+*Reports of new developments in methods for teaching physics and in the physics curriculum.
+
+The Editor in Chief is Jan Mostowski, [[Polish Academy of Sciences]], Warsaw, Poland, who took over the role from Alastair I. M. Rae, formerly lecturer at the School of Physics and Astronomy,  [[University of Birmingham]], UK in 2010.
+
+The journal had an [[Impact factor]] of  0.644 for 2012, according to [[Journal Citation Reports]].
+It is indexed In [[Chemical Abstracts]], [[Compendex|Engineering Index/Ei Compendex]], [[Web of Science]], [[Inspec]], [[Zentralblatt für Mathematik]], and other services. 
+
+==External links==
+*[http://iopscience.org/ejp  European Journal of Physics website]
+*[http://ioppublishing.org/ IOP Publishing]
+
+{{DEFAULTSORT:European Journal Of Physics}}
+[[Category:Physics journals]]
+[[Category:Education journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Physics education]]
+[[Category:Publications established in 1980]]
+[[Category:English-language journals]]

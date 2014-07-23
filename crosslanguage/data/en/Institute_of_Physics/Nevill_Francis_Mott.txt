@@ -1,0 +1,110 @@
+{{Infobox scientist
+| name         = Nevill Francis Mott 
+| image        = Sir Nevill Francis Mott.jpg
+| image_size   = 220px
+| birth_date   = {{birth date|1905|9|30|df=yes}}    
+| birth_place  = [[Leeds]], [[England]]
+| death_date   = {{death date and age|1996|8|8|1905|9|30|df=yes}}
+| death_place  = [[Milton Keynes]], [[Buckinghamshire]], [[England]]
+| nationality  = [[United Kingdom]]
+| field        = [[Physics]]
+| workplaces   = [[University of Manchester]]<br>[[Gonville and Caius College, Cambridge]]<br>[[University of Bristol]]
+| alma_mater   = [[St John's College, Cambridge]]
+| doctoral_advisor =[[R.H. Fowler]]
+| prizes       = {{no wrap|[[Hughes Medal]] {{small|(1941)}}<br>[[Royal Medal]] {{small|(1953)}}<br>[[Copley Medal]] {{small|(1972)}}<br>[[Faraday Medal]]  {{small|(1973)}}<br>[[Nobel Prize in Physics]] {{small|(1977)}}}}
+}}
+'''Sir Nevill Francis Mott''', [[Order of the Companions of Honour|CH]], [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1998.0021}}</ref> (30 September 1905 – 8 August 1996) was an English [[physics|physicist]] who won the [[Nobel Prize for Physics]] in 1977 for his work on the electronic structure of magnetic and [[Amorphous solid|disordered]] systems, especially [[amorphous semiconductors]]. The award was shared with [[Philip Warren Anderson|Philip W. Anderson]] and [[John Hasbrouck van Vleck|J. H. Van Vleck]].  The three had conducted loosely related research.  Mott and Anderson clarified the reasons why magnetic or amorphous materials can some times be metallic and some times insulating.   In 1973 he was awarded the [[A. A. Griffith Medal and Prize]].
+
+==Biography==
+
+===Early years===
+Mott was born in [[Leeds]] to Lilian Mary Reynolds and Charles Francis Mott and grew up first in the village of [[Giggleswick]], in the [[West Riding of Yorkshire]], where his father was Senior Science Master at [[Giggleswick School]].  His mother also taught Maths at the School.  The family moved (due to his father's jobs) first to Staffordshire, then to Chester and finally Liverpool, where his father had been appointed Director of Education. Mott was at first educated at home by his mother, who was a Cambridge Mathematics Tripos graduate. His parents met in the Cavendish Laboratory, when both were engaged in physics research. At age ten, he began formal education at [[Clifton College]] in [[Bristol]], then at [[St John's College, Cambridge|St. John's College]], [[University of Cambridge|Cambridge]], where he read the [[Cambridge Mathematical Tripos|Mathematics Tripos]].
+
+===Career===
+{{cleanup section|date=October 2013|reason=This section is much too technical and confusing.}}
+Mott was appointed to a lecturership at the [[University of Manchester]] in 1929. He returned to Cambridge in 1930 as a Fellow and lecturer of [[Gonville and Caius College, Cambridge|Gonville and Caius College]], and in 1933 moved to the [[University of Bristol]] as Melville Wills Professor in Theoretical Physics.
+
+In 1948 he became [[Henry Overton Wills]] Professor of Physics and Director of the [[Henry Herbert Wills]] Physical Laboratory at Bristol. In 1954 he was appointed [[Cavendish Professor of Physics]] at Cambridge, a post he held until 1971.  Additionally he served as Master of Gonville and Caius College, 1959-1966.
+
+His early works were on the theoretical analysis of collisions in gases, notably the [[Hydrogen line|collision with spin flip of an electron against a hydrogen atom]], which would stimulate subsequent works by [[André Blandin]] and [[Jun Kondo]] about similar effects between [[Conduction band|conduction electrons]], as well as magnetic properties in metals. This sort of activity led Mott to writing two books. The first one, which was edited together with [[Ian Sneddon]], gives a simple and clear description of quantum mechanics, with an emphasis on the [[Schrödinger equation]] in [[Position and momentum space|real space]]. The second describes atomic and electronic collisions in gases, using the rotational symmetry of [[Energy level|electronic states]] in the [[Hartree–Fock method]].
+
+But already in the middle of the 1930s, Mott's interests had broadened to include solid states, leading to two more books that would have a great impact on the development of the field in the years prior and after [[World War II]]. In 1936, ''Theory of Metals and Alloys'' (written together with H. Jones) describes a simplified framework which led to rapid progresses.{{elucidate|date=October 2013}}
+
+The concept of [[Nearly free electron model|nearly free valence electrons]] in metallic alloys explained the special stability of the [[Hume-Rothery rules|Hume-Rothery phases]] if the [[Fermi surface|Fermi sphere]] of the ''sp'' [[Valence electron]], treated as free, would be scattered by the [[Brillouin zone]] boundaries of the atomic structure. The description of the impurities in metals by the [[Thomas–Fermi model|Thomas Fermi approximation]] would explain why such impurities would not interact at long range. Finally the delocalisation of the [[d electron count|valence ''d'' electrons]] in [[Transition metal|transitional metals]] and alloys would explain the possibility for the [[magnetic moment]]s of atoms to be expressed as fractions of [[Bohr magneton]]s, leading to [[Ferromagnetism|ferro]] or [[Antiferromagnetism|antiferromagnetic]] coupling at short range. This last contribution, produced at the first international conference on magnetism, held in [[Strasbourg]] in May 1939, reinforced similar points of view defended at the time in France by the future Nobel laureate [[Louis Néel]]. In 1949, Mott suggested to [[Jacques Friedel]] to use the approach developed together with Marvey for a more accurate description of the [[electric-field screening]] of the impurity in a metal, leading to the characteristic long range charge oscillations. Friedel also used the concept developed in that book of virtual bound level to describe a situation when the atomic potential considered is not quite strong enough to create a (real) bound level of symmetry e ≠ o.{{elucidate|date=October 2013}} The consequences of these remarks on the more exact approaches of cohesion in rp as well as d metals were mostly developed by his students in Orsay.{{elucidate|date=October 2013}}
+
+The second book, with [[Ronald Wilfred Gurney]], ''On the Physical Chemistry of Solids'' was more diverse. It treated notably of the oxidation of metals at low temperatures, where it described the growth of the oxide layer as due to the electric field developed between the metal and absorbed oxygen ions, which could force the way of metallic or oxygen ions through a disordered oxide layer. The book also analyzed the photographic reactions in ionic silver compound in terms of precipitation of silver ions into metallic clusters.
+
+This second field had a direct and long lasting consequence on the research activity of John (Jack) Mitchell. Mott's accomplishments include explaining theoretically the effect of light on a [[film stock|photographic emulsion]] (see [[latent image]]). His work on oxidation, besides fostering new research in the field (notably by J. Bénard and [[Nicolás Cabrera]]), was the root of the concept of the [[band gap]] produced in semiconductors by gradients in the distribution of [[Doping (semiconductor)|donor and acceptor impurities]].
+
+When Mott returned to Bristol after the war, (during that period, he worked on the role of plastic deformation on the progression of fracture cracks), his having met and hired of [[Frederick Charles Frank]] led both of them to develop, with the help of others such as [[Frank Nabarro]] and [[Alan Cottrell]], to attack with the field of [[dislocation]]s, in which Bristol shone with a new vigor, especially at the end of the 1940s. If Mott only produced early and somewhat minor contributions to that field, notably on alloy hardening with Nabarro and on the topology of a dislocation network lowering the apparent elastic constants of a crystal, there is no doubt that Mott's enthusiasm played its role in the three major steps forward in the field by F. C. Frank on crystal growth and plasticity and later, in Cambridge, by P. Hirsch on the thin film electron microscopy.
+
+At the same time, however, Mott started playing around [[electronic correlation]]s and their possible role in [[DLVO theory|Verwey's compounds]] such as nickel oxides which could switch from metals to insulators under various physical conditions (transition of substances from metallic to nonmetallic states ([[Mott transition]]). The term [[Mott insulator]] is also named for him, as well as the [[Mott polynomials]], which he introduced.
+
+In 1977, Nevill Mott was awarded the [[Nobel Prize in Physics]], together with [[Philip Warren Anderson]] and [[John Hasbrouck Van Vleck]] "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems." The news of having won the Nobel Prize received Mott while having lunch at restaurant ''Die Sonne'' in [[Marburg]], Germany, during a visit to fellow solid state scientist at [[Marburg University]].<ref>{{cite book|author=[[E. A. Davis]]|title=Nevill Mott: Reminiscences And Appreciations|year=2002|publisher=[[Taylor & Francis]]|isbn=0-203-48439-8|page=269}}</ref>
+
+Mott was elected a [[Fellow of the Royal Society]] in 1936.<ref name="frs"/> Mott served as president of the [[Institute of Physics|Physical Society]] in 1957. In the early 1960s he was chairman of the British [[Pugwash Conferences on Science and World Affairs|Pugwash]] group. He was knighted in 1962.<ref>{{cite journal|title=New Year Honours List|journal=Nature|date=January 6, 1962|url=http://www.nature.com/nature/journal/v193/n4810/pdf/193017a0.pdf|accessdate=1 May 2012|publisher=Nature Publishing Group}}</ref>  He continued to work until he was about ninety. He was made a [[Companion of Honour]] in 1995.
+
+===Publications===
+N. F. Mott revived the old [[Philosophical Magazine]] and transformed it into a lively publication essentially centered on the then-new field of solid state physics, attracting writers, readers and general interest on a wide scale. After receiving a paper on point defects in crystals by [[Frederick Seitz]] that was obviously too long for Phil. Mag, Mott decided to create a new publication, [[Advances in Physics]] for such review papers. Both publications are still active in 2013.
+
+===Personal life===
+Mott was married to Ruth Eleanor Horder, and had two daughters, Elizabeth and Alice. He died in [[Milton Keynes]] in [[Buckinghamshire]].
+
+==Bibliography==
+* N. F. Mott, ''Metal-Insulator Transitions'', second edition (Taylor & Francis, London, 1990). ISBN 0-85066-783-6, ISBN 978-0-85066-783-7
+* N. F. Mott, ''A Life in Science'' (Taylor & Francis, London, 1986). ISBN 0-85066-333-4, ISBN 978-0-85066-333-4
+* N. F. Mott, H. Jones, ''The Theory of Properties of Metals and Alloys, (Dover Publications Inc., New York, 1958)
+* [[Brian Pippard]], ''Nevill Francis Mott'', [[Physics Today]], March 1997, pp.&nbsp;95 and 96: [http://scitation.aip.org/getpdf/servlet/GetPDFServlet?filetype=pdf&id=PHTOAD000050000003000095000003&idtype=cvips&prog=search (pdf)].
+
+==See also==
+*[[Space charge#Mott–Gurney law|Mott–Gurney law]]
+*[[Schottky-Mott rule]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.bbc.co.uk/archive/scientists/10606.shtml BBC video] of Mott interviewed by [[Lewis Wolpert]] in 1985 (accessed Oct 8, 2010)
+* [http://nobelprize.org/nobel_prizes/physics/laureates/1977/mott-lecture.pdf Nobel lecture] (PDF)
+* [http://www.nobel-winners.com/Physics/nevill_francis_mott.html Sir Nevill Francis Mott]
+* [http://www.phy.bris.ac.uk/history/11.%20Mott's%20Memories.pdf Mott's memories] University of Bristol (accessed Jan 2006)
+* [http://www.bath.ac.uk/ncuacs/rslp-nfm.htm National Cataloguing Unit for the Archives of Contemporary Scientists] Bath University
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[James Chadwick|Sir James Chadwick]]}}
+{{s-ttl|title=Master of [[Gonville and Caius College, Cambridge|Gonville and Caius College]]|years=1959-1966}}
+{{s-aft|after=[[Joseph Needham]]}}
+{{end}}
+{{Nobel Prize in Physics Laureates 1976-2000}}
+{{Gonville and Caius Masters}}
+{{Authority control |VIAF=49307037 |LCCN=n/81/19567 }}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Mott, Nevill Francis
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = English physicist, Nobel prize winner
+| DATE OF BIRTH     = 30 September 1905
+| PLACE OF BIRTH    = [[Leeds]], [[England]]
+| DATE OF DEATH     = 8 August 1996
+| PLACE OF DEATH    = [[Milton Keynes]], [[Buckinghamshire]], [[England]]
+}}
+{{DEFAULTSORT:Mott, Nevill Francis}}
+[[Category:1905 births]]
+[[Category:1996 deaths]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Academics of the University of Bristol]]
+[[Category:English physicists]]
+[[Category:British Nobel laureates]]
+[[Category:Fellows of Gonville and Caius College, Cambridge]]
+[[Category:Masters of Gonville and Caius College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Members of the Order of the Companions of Honour]]
+[[Category:Nobel laureates in Physics]]
+[[Category:People educated at Clifton College]]
+[[Category:People from Leeds]]
+[[Category:Royal Medal winners]]
+[[Category:Recipients of the Copley Medal]]
+[[Category:Knights Bachelor]]
+[[Category:Presidents of the Physical Society]]
+[[Category:English Nobel laureates]]

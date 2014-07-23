@@ -1,0 +1,58 @@
+{{Infobox journal
+| title = Biomedical Materials
+| cover =
+| editor = Myron Spector, I-S Lee
+| discipline = [[Regenerative medicine]]
+| abbreviation = Biomed. Mater.
+| publisher = [[IOP Publishing]]
+| country = United Kingdom
+| frequency = Bimonthly
+| history = 2006-present
+| openaccess = [[Hybrid open access journal|Hybrid]]
+| impact = 2.174
+| impact-year = 2012
+| website = http://iopscience.iop.org/1748-605X/
+| link1 =
+| link1-name =
+| link2 =
+| link2-name =
+| JSTOR =
+| OCLC = 82364825
+| LCCN = 2007261035
+| CODEN = BMBUCS
+| ISSN = 1748-6041
+| eISSN = 1748-605X
+}}
+'''''Biomedical Materials''''' is a [[Peer review|peer-reviewed]] [[medical journal]] that covers research on [[tissue engineering]] and [[regenerative medicine]]. The [[Editor-in-chief|editors-in-chief]] are Myron Spector ([[Harvard Medical School]] and [[VA Boston Healthcare System]]) and I.-S. Lee ([[Yonsei University]]).
+
+== Abstracting and indexing ==
+The journal is abstracted and indexed in:
+{{columns-list|2|
+* [[Aerospace & High Technology Database]]
+* [[Chemical Abstracts Service]]
+* [[Compendex]]
+* [[Elsevier BIOBASE|Current Awareness in Biological Sciences]]
+* [[EMBASE|Embase]]
+* [[EMBiology]]
+* [[International Nuclear Information System]]
+* [[Inspec]]
+* [[Materials Science Citation Index]]
+* [[Astrophysics Data System|NASA Astrophysics Data System]]
+* [[PubMed]]/[[MEDLINE]]
+* [[Science Citation Index]]
+* [[Scopus]]
+* [[VINITI Database RAS|VINITI Abstracts Journal]]
+}}
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 2.174.<ref name=WoS>{{cite book |year=2013 |chapter=Biomedical Materials |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |accessdate=2011-07-20 |work=Web of Science }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official|http://iopscience.iop.org/1748-605X/}}
+
+[[Category:IOP Publishing academic journals]]
+[[Category:Bimonthly journals]]
+[[Category:Publications established in 2006]]
+[[Category:English-language journals]]
+[[Category:Materials science journals]]

@@ -1,0 +1,54 @@
+{{Infobox scientist
+|birth_name        = Hans Albert Bachor
+|image             = Hans Albert Bachor image.jpg
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date|1952|12| |mf=y}}
+|birth_place       = [[Wolfenbüttel]], [[Germany]].
+|residence         = Australia
+|fields            = [[Physics]] (Experimental [[quantum optics]])  
+|workplaces        = [[Universität Hannover]]<br/>[[Australian National University]]
+|doctoral_advisor  = Prof. Dr. Manfred Kock
+|awards            = 
+}}
+
+Professor Hans-Albert Bachor, [[Order of Australia|Member of the Order of Australia]] (AM), is a German-born Australian research scientist and academic leader.
+
+He was chairperson of the National Youth Science Forum<ref>http://www.nysf.edu.au/</ref> in [[Australia]], and is an Emeritus Professor in the Department of Quantum Science,<ref>http://physics.anu.edu.au/quantum/</ref> Research School of Physics and Engineering<ref>http://physics.anu.edu.au/</ref> at the [[Australian National University]], Canberra, Australia.
+
+He is active in the professional management of science, a former member of the expert panels of the [[Australian Research Council]] (1997-2001, 2010-2012) and the [[European Research Council]] (2009-2013), through leading roles in the Australian Optical Society,<ref>http://optics.org.au/</ref> as chair and organiser of several international science conferences, and as a member of the advisory boards of international research Centres.
+
+Professor Bachor holds many academic awards and distinctions, including the [[Humboldt Prize|Humboldt Research Prize]] (1999), Fellow of the Institute of Physics (UK), the [[Australian Institute of Physics]] (AIP) and the [[Optical Society of America]] (OSA). He is recipient of the AIP [[Walter Boas Medal]] (2000), the AIP award for contributions to Physics (2009), the IOP/AIP [[Harrie Massey Medal]] (2010) and the AOS Beattie Steel medal (2010).  He was awarded Membership in the Order of Australia (AM) on [[Australia day]] 2012, recognising his achievements as research scientist and educator.
+
+Professor Bachor was born in Wolfenbüttel, Germany in 1952.  He studied Physics in Hannover, Germany, where he received his diploma and doctorate, supervised by Prof. Dr. Manfred Kock. He took up a position at the Australian National University in 1981.
+
+Professor Bachor established experimental [[quantum optics]] in Australia and created a widely known group for optics and [[laser physics]], exploring the possibilities of harnessing the quantum nature of light. He has pioneered techniques for sensitive measurements beyond the [[quantum noise]] limit, for the improvement of optical sensors, [[interferometry|interferometers]], [[optical communication]] and data storage.
+
+In addition to the large volume of high impact scientific research, Professor Bachor has mentored and graduated a number of Australia's leading scientists.  His former graduate students include [[Ping Koy Lam|Professor Ping Koy Lam]] (CQC2T), [[Tim_C._Ralph|Professor Timothy Ralph]] (UQ), and [[Andrew G. White|Professor Andrew White]] (UQ).  In addition, Professor Bachor has mentored a number of the next generation of leading scientists including (but not limited to) Prof. Boris Hage (Universität Rostock), Prof. Roman Schnabel (Hannover), Associate Prof. Warwick Bowen (UQ), Associate Prof. Charles Harb (UniNSW), Dr. Vincent Daria (ANU), Dr. Jiri Janousek (ANU), Dr. Ben Buchler (ANU), and Dr. Nicholas Robins (ANU).  Professor Bachor was Head of the Department of Physics at the Australian National University in the late 90's, and took a leading role in teaching and inspiring undergraduate students.
+
+He has worked, and is frequently invited to teach, in the USA, Germany, France and Denmark.
+
+He has also written the widely used and cited textbook " A guide to experiments in quantum Optics", with [[Tim_C._Ralph|Prof. Timothy Ralph]].
+
+Professor Bachor has a strong affinity with the Australian bush, and lives with his wife Connie Bachor in Wamboin, NSW.  They are active in their local community, being charter members of the local [[Rotary Club]] and they are active in youth, peace and international aid programs.
+
+==External links==
+{{Reflist}}
+
+{{Persondata
+| NAME              = Bachor, Hans A.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Scholar
+| DATE OF BIRTH     = 1952
+| PLACE OF BIRTH    = [[Wolfenbüttel]], [[Germany]].
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bachor, Hans A.}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Australian Institute of Physics]]
+[[Category:Fellows of the Optical Society]]
+[[Category:Members of the Order of Australia]]
+[[Category:Humboldt Research Award recipient]]

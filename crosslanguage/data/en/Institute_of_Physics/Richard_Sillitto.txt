@@ -1,0 +1,34 @@
+'''Richard M. Sillitto''' (1923 &ndash; April 19, 2005) was an [[optics|optical]] [[physics|physicist]] who wrote a useful text on [[quantum mechanics]]. He was a Fellow of the [[Royal Society of Edinburgh]] and Fellow of the Institute of Physics as well as a past president of the Scottish branch of the [[Institute of Physics]]. Sillitto was Reader and Reader Emeritus in the Physics department of the [[University of Edinburgh]].
+
+==Bibliography==
+*Nonrelativistic Quantum Mechanics, Richard Sillitto, (1967), Publ. Edinburgh UP, ISBN 0-85224-128-3 
+*Geometrical and Physical Optics, R M Sillitto, Longman Higher Education, ISBN 0-582-08880-1 
+
+==External links==
+*[http://www.sillittopages.co.uk/ Personal pages]
+*[http://www.sillittopages.co.uk/rmsacoustics.pdf McClure organ, Caprington horn]
+*[http://www.sillittopages.co.uk/schie/schie90.html Maskelyne on Schiehallion]
+*[http://www.sillittopages.co.uk/1946to1986.html Forty years of optics]
+*[http://www.sillittopages.co.uk/rmsjcmdurability.pdf The durability of Maxwell's equations]
+
+The proposed book "Geometrical and Physical Optics, R M Sillitto, Longman Higher Education, ISBN 0-582-08880-1" was never completed.
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Sillitto, Richard
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1923
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 2005
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Sillitto, Richard}}
+[[Category:1923 births]]
+[[Category:2005 deaths]]
+[[Category:Scottish physicists]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Fellows of the Institute of Physics]]
+
+
+{{UK-physicist-stub}}

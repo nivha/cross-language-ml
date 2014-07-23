@@ -1,0 +1,40 @@
+[[Image:Denys Wilkinson Building, University of Oxford - Banbury Road.jpg|200px|thumb|right|The [[Denys Wilkinson Building]] from the [[Banbury Road]] in [[Oxford]], [[England]].]]
+
+'''Sir Denys Haigh Wilkinson''' [[Fellow of the Royal Society|FRS]] (born 5 September 1922 in [[Leeds]], [[Yorkshire]]) is a [[UK|British]] [[nuclear physicist]].  He was educated at [[Loughborough Grammar School]] and [[Jesus College, Cambridge|Jesus College]], [[Cambridge University|Cambridge]]. He holds the higher degree of ScD, an HonFilDr degree and an HonLLD degree.  Wilkinson is the inventor of the Wilkinson [[Analog-to-Digital Converter]] (ADC), a fundamental electronic device with wide application.
+
+He was elected a [[Fellow of the Royal Society]] in 1956 and he won the [[Hughes Medal]] in 1965 and the [[Royal Medal]] in 1980. Sir Denys has been an Honorary Fellow of Jesus College,  Cambridge, since 1961. From 1976 to 1987 he was Vice-Chancellor of the [[University of Sussex]] (appointing him Emeritus Professor of Physics in 1987). He was [[Knight Bachelor|knighted]] in 1974.<ref>{{LondonGazette|issue=46430|startpage=12745|date=13 December 1974|accessdate=5 May 2009}}</ref>
+
+In 2001 the [[Nuclear Physics Laboratory]] at the [[University of Oxford]], which he helped to create, was renamed as the [[Denys Wilkinson Building]] in his honour.<ref>[http://www.physics.ox.ac.uk/pp/dwb/dwb.htm Oxford Physics – Denys Wilkinson Building]</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0014%2FWILN The Papers of Sir Denys Wilkinson]
+
+{{Authority control|VIAF=36008119}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Wilkinson, Denys Haigh
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British nuclear physicist
+| DATE OF BIRTH     = 5 September 1922
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wilkinson, Denys Haigh}}
+[[Category:1922 births]]
+[[Category:Living people]]
+[[Category:Alumni of Jesus College, Cambridge]]
+[[Category:British nuclear physicists]]
+[[Category:Fellows of Christ Church, Oxford]]
+[[Category:Fellows of Jesus College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Bachelor]]
+[[Category:People associated with the University of Sussex]]
+[[Category:People from Leeds]]
+[[Category:Royal Medal winners]]
+[[Category:Presidents of the Institute of Physics]]
+
+
+{{UK-physicist-stub}}

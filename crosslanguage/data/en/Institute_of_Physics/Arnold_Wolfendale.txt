@@ -1,0 +1,84 @@
+{{Use dmy dates|date=May 2012}}
+{{Use British English|date=May 2012}}
+{{Infobox scientist
+|name              = Sir Arnold Wolfendale
+| birth_name = Arnold Whittaker Wolfendale
+|image             = SirArnoldWolfendale.jpg
+|image_size       = 
+|caption           = 
+|birth_date        = {{Birth date and age|1927|06|25|df=y}}<ref name="whoswho"/>
+|birth_place       = [[Rugby, Warwickshire]]<ref name="gro"/>
+|death_date        = 
+|death_place       = 
+|residence         = Durham
+|citizenship       = 
+|nationality       = British
+|ethnicity         = Caucasian
+|field             = Physics
+|work_institutions = [[University of Manchester]]<br>[[Durham University]]<br>[[University of Ceylon]]<br>[[University of Hong Kong]]
+|alma_mater        = [[University of Manchester]]
+|doctoral_advisor  = 
+|doctoral_students = [[George Efstathiou]]<br>Tom Shanks<ref name="astrogeoprofile"/>
+| thesis_title = The nuclear interactions of mu-mesons
+| thesis_url = http://www.theses.com
+| thesis_year = 1953
+|known_for         = [[Astronomer Royal]]<br>[[Cosmic ray]]s<ref name="youtube"/>
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Fellow of the Royal Society]] (1977)<ref name="royal"/><br>[[Knight Bachelor]] (1995)<br>[[Institute of Physics|FInstP]]<br>[[Royal Astronomical Society|FRAS]]<ref name="whoswho"/>
+|footnotes         = 
+|signature         =
+| spouse = Audrey Darby
+}}
+'''Sir Arnold Whittaker Wolfendale''' [[Royal Society|FRS]]<ref name="royal"/> (born 25 June 1927) <ref name="whoswho">{{cite web |url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U40459/ |title=WOLFENDALE, Sir Arnold (Whittaker) |format= |work=Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press |accessdate=}}{{subscription required}}</ref><ref name="gro">GRO Register of Births: SEP 1927 6d 1198a RUGBY – Arnold W. Wolfendale, mmn = Hoyle</ref> is a [[United Kingdom|British]] [[astronomer]] who served as [[Astronomer Royal]] from 1991 to 1995. He is [[Emeritus]] Professor in the Department of Physics at [[Durham University]]<ref name="durhamuni">{{cite web |url=https://www.dur.ac.uk/physics/staff/profiles/?id=1822 |title=Prof Sir AW Wolfendale - Durham University |publisher=Durham University |archivedate=2013-12-19|archiveurl=http://www.webcitation.org/6Lyn0duaI}}</ref> and served as president of the [[European Physical Society]] (1999 - 2001).<ref name="youtube">{{YouTube|id=8fYnMSsJ1Ik|title=100 Years of Comic Rays: A Royal Society Lecture by Sir Arnold Wolfendale}}</ref><ref>{{cite doi|10.1088/1748-9326/3/2/024001}}</ref><ref>{{cite doi|10.1088/0954-3899/31/3/005}}</ref><ref name="cosmic">{{cite doi|10.1038/314511a0}}</ref><ref name="googlescholar">[http://scholar.google.co.uk/scholar?q=arnold+wolfendale Arnold Wolfendale publications in Google Scholar]</ref><ref name="arxiv">[http://arxiv.org/find/physics/1/au:+Wolfendale_A/0/1/0/all/0/1 Arnold Wolfendale publications in arxiv.org]</ref><ref name="scopus">{{Scopus|id=7005063377}}</ref><ref name="astrogeoprofile">{{cite doi|10.1111/j.1468-4004.2008.49411.x}}</ref><ref>{{cite doi|10.1111/j.1365-2966.2004.07449.x}}</ref><ref>{{cite doi|10.1016/j.astropartphys.2006.01.003}}</ref><ref>{{cite doi|10.1098/rsta.1986.0099}}</ref><ref name="debretts">[http://www.debretts.com/people/biographies/browse/w/4565/Arnold+Whittaker.aspx Prof Sir Arnold Wolfendale, Debretts Biography]</ref>
+
+==Education and background==
+His family moved to [[Flixton, Greater Manchester|Flixton]], [[Lancashire]] when he was 18 months. He attended [[Stretford Grammar School]] in Manchester. Wolfendale was graduated with a [[Bachelor of Science]] in physics from the [[University of Manchester]] in 1948, followed by a [[PhD]] in 1953<ref name="wolfendalephd">{{cite thesis |degree=PhD |first=Arnold|last=Wolfendale |title=The nuclear interactions of mu-mesons  |publisher=University of Manchester |date=1953 |url=http://www.theses.com|authorlink=Arnold Wolfendale}}{{subscription required}}</ref> and a [[Doctor of Science]] in 1970.
+
+==Career==
+During his career he held academic posts at the universities of [[University of Manchester]] (1951–6), [[Durham University]] (1956–92), the [[University of Ceylon]] and the [[University of Hong Kong]], and was head of department at Durham where he remains an [[emeritus]] professor. He was Professor of Physics at Durham from 1965–92.
+
+==Awards and honours==
+Wolfendale was elected a fellow of the [[Royal Astronomical Society]] in 1973, and a Fellow of the [[Royal Society]] in 1977.<ref name="royal"/> He served as Astronomer Royal from 1991 to 1995. In 1992, Wolfendale retired from teaching, and he was knighted in 1995. In 1996 he became Professor of Experimental Physics with the [[Royal Institution of Great Britain]]. A lecture theatre in Durham University's new Calman Learning Centre has been named in his honour. He is an honorary DSc of Bucharest University and foreign member of the Bulgarian Academy of Sciences. His nomination for the Royal Society reads{{centered pull quote|Distinguished for his many contributions to the study of the cosmic radiation through a wide-ranging series of experimental investigations and critical analyses of cosmic ray data. Well known for his development of two novel techniques: the neon flash tube, a visual detector of great stability used widely in spectrographs and cosmic ray neutrino and quark studies, and the 'solid iron' spectrograph. Internationally recognised as the leading authority on muon spectra and charge ratios at ground level and at various depths underground in the energy range 5 x 10 [to the power of] 8-10 [to the power of 13] eV, measurements which are among the most basic data of cosmic rays. Measured the spectra of cosmic ray protons, neutrons and pions and from these data and the muon spectrum determined the primary spectrum and K/pi ratio. Results on the interactions of muons were of importance in a number of other investigations, e.g. in the Davis experiment on solar neutrinos. Introduction of the neon flash tube technique to the Indian and South African experiments on cosmic ray neutrinos was decisive and led to the clear identification of neutrino interactions and the determination of the cross section as a function of energy. Has established recently fine astrophysical groups in Durham which have already made useful contributions to the theory of the propagation of cosmic rays in the galaxy, to the explanation of the ultra-high energy end of the primary spectrum and to the origin of the gamma-ray background radiation. His optical group under Scarrott has recently obtained a beautiful map of the galaxy M82 in Rayleigh scattered light, and from it an accurate position for the luminous nucleus.<ref name="royal">{{cite web|url=http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=show.tcl&dsqSearch=(RefNo==%27EC%2F1977%2F39%27)|title = Library and Archive Catalogue Wolfendale|publisher=The Royal Society|archivedate=2013-12-19|archiveurl=http://www.webcitation.org/6LymiXlpW|location=London}}</ref>}}
+
+==Personal life==
+He married Audrey Darby in 1951. They had twin sons. His wife died in 2007. He is also patron of the Durham Dramatic Society, an amateur theatre troupe which is a member of the Little Theatre Guild of Great Britain. They have also met Ian McKellan.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://pictures.royalsociety.org/image-rs-9041 Portrait of Sir Arnold Wolfendale at pictures.royalsociety.org]
+* {{YouTube|8fYnMSsJ1Ik|100 Years of Comic Rays: A Royal Society Lecture by Sir Arnold Wolfendale part 1}}
+* {{YouTube|qy5-6c4lG1o|100 Years of Comic Rays: A Royal Society Lecture by Sir Arnold Wolfendale part 2}}
+* {{YouTube|yJ6pftBhjEs|100 Years of Comic Rays: A Royal Society Lecture by Sir Arnold Wolfendale part 3}}
+* {{YouTube|0rdQWTDy8mM|100 Years of Comic Rays: A Royal Society Lecture by Sir Arnold Wolfendale part 4}}
+
+{{Astronomers Royal}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Wolfendale, Arnold
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =25 June 1927
+| PLACE OF BIRTH    =[[Rugby, Warwickshire]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wolfendale, Arnold}}
+[[Category:1927 births]]
+[[Category:Living people]]
+[[Category:Academics of Durham University]]
+[[Category:Alumni of the University of Manchester]]
+[[Category:Astronomers Royal]]
+[[Category:British astronomers]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Bachelor]]
+[[Category:People from Rugby, Warwickshire]]
+[[Category:People from Flixton]]
+[[Category:English atheists]]
+[[Category:20th-century astronomers]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:People educated at Stretford Grammar School]]

@@ -1,0 +1,51 @@
+'''Sir Brian Edward Frederick Fender''' (15 September 1934-)<ref>{{cite news|title=Obituaries: Birthdays|date=2009-09-15|work=Guardian Obituary Pages|publisher=The Guardian|pages=37|accessdate=25 January 2010}}</ref><ref name = "WWW">[http://www.ukwhoswho.com/view/article/oupww/whoswho/U15604 ''FENDER, Sir Brian (Edward Frederick)'', Who's Who 2012, A & C Black, 2012; online edn, Oxford University Press, Dec 2011; online edn, Nov 2011, accessed 27 Oct 2012]</ref> is an English academic executive.
+
+==Career==
+He was Chief Executive of the [[Higher Education Funding Council for England]] from 1995-2001.<ref name="Indy">{{cite news|title=Education: Howard's Way; Stylish and Open; The University Funding Council's new boss wants public debate. Will this be good for higher education?|last=Hodges|first=Lucy|date=2001-10-18|publisher=The Independent|pages=Education, 9|accessdate=25 January 2010}}</ref> Prior to that he was [[Vice-Chancellor]] of [[Keele University]] (1985–95),<ref name="Indy"/> Associate Director and Director of the [[Institut Laue-Langevin]] in [[Grenoble]], France and Chairman of the Science Board of the UK's [[Science and Engineering Research Council]].<ref>{{cite news|title=Appointments|date=1990-09-25|publisher=The Times|accessdate=25 January 2010}}</ref> He is a graduate and Fellow of [[Imperial College]].<ref name="IKT-bio">{{cite web |url=http://www.ikt.org.uk/boardmember/SirBrianFenderCMGMInstKT-24.aspx |title=IKT - Institute of Knowledge Transfer - Executive Committee - Sir Brian Fender CMG MInstKT |publisher=www.ikt.org.uk |accessdate=2010-01-25 }}</ref>
+
+Sir Brian is currently a member of the University Grants Committee, Hong Kong, President of the [[National Foundation for Educational Research]], Chairman of the National Council for Drama Training and a Director of Higher Aims Ltd, a private consultancy involved in higher education and research management. Sir Brian is a Fellow of the [[Institute of Physics]], the [[Royal Society of Chemistry]] and a Companion of the [[Chartered Management Institute]]. He has honorary degrees or fellowships from eleven universities and colleges.<ref name="IKT-bio"/>
+
+Sir Brian is the current Chairman and President of the [[Institute of Knowledge Transfer]].<ref name="IKT-bio"/>
+
+==Early life==
+Fender was born in [[Barrow-in-Furness]], and lived in the [[River Eden, Cumbria|Eden]] Valley until 1949.<ref>{{cite web | title =Review of higher education in Cumbria | work =News | publisher =Higher Education Funding Council for England | date =15 May 2003 | url =http://www.hefce.ac.uk/news/hefce/2003/cumbria.htm | accessdate =9 February 2012 }}</ref> He attended [[Carlisle Grammar School]] and [[Sale Grammar School|Sale County Grammar School]].<ref name=TLS>{{cite web | last =Swain | first =Harriet |author2=Williams, Lynne | title =Brian Fender | work =Times Higher Education | publisher =TSL Education | date =5 March 1999 | url =http://www.timeshighereducation.co.uk/story.asp?storyCode=145335&sectioncode=26 | accessdate =9 February 2012 }}</ref>
+
+==Personal life==
+Fender has been married twice, and has a son and three daughters.<ref name=TLS/>
+
+==References==
+{{reflist}}
+
+<br>
+{{s-start}}
+{{s-aca}}
+{{succession box
+|title=[[Keele University|Vice-Chancellor, Keele University]]
+|years = 1985-95
+|before=[[Sir David Harrison]]
+|after= [[Janet Finch|Professor Dame Janet Finch]]
+}}
+{{S-end}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Fender, Brian
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = English academic executive
+| DATE OF BIRTH     = 15 September 1934
+| PLACE OF BIRTH    = Barrow-in-Furness
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Fender, Brian}}
+[[Category:English academics]]
+[[Category:Vice-Chancellors of Keele University]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Alumni of Imperial College London]]
+[[Category:People educated at Carlisle Grammar School]]
+[[Category:People educated at Sale Grammar School]]
+[[Category:People from Barrow-in-Furness]]
+[[Category:Living people]]
+[[Category:1934 births]]
+
+{{England-academic-bio-stub}}
+{{academic-administrator-stub}}

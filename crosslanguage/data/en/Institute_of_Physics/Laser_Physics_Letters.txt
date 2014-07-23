@@ -1,0 +1,35 @@
+{{Infobox journal
+| title = Laser Physics Letters
+| editor = Pavel P. Pashinin
+| publisher = [[IOP Publishing]]
+| history = 2004-present
+| frequency = Monthly
+| impact = 7.714
+| impact-year = 2012
+| website = http://www.lasphys.com/lasphyslett.htm
+| link1 = http://iopscience.iop.org/1612-202X/
+| link1-name = Online access
+| link2 = http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-202X/issues
+| link2-name = Online archive
+| ISSN = 1612-2011
+| eISSN = 1612-202X
+}}
+
+'''''Laser Physics Letters''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] established in 2004, that publishes short communications in all area of [[optics]] and applied [[quantum mechanics]], with emphasis on [[laser science]]. The [[editor-in-chief]] is Pavel P. Pashinin ([[A.M. Prokhorov General Physics Institute]]). It was published by [[Wiley-VCH]] until July 2012, when it switched to [[IOP Publishing]].
+
+==See also==
+* ''[[Laser Physics (journal)|Laser Physics]]''
+
+==External links==
+* {{Official website|http://www.lasphys.com/lasphyslett/}}
+* [http://iopscience.iop.org/1612-202X/ Official website (IOP Publishing)]
+
+[[Category:Optics journals]]
+[[Category:Publications established in 2004]]
+[[Category:John Wiley & Sons academic journals]]
+[[Category:English-language journals]]
+[[Category:Monthly journals]]
+[[Category:IOP Publishing academic journals]]
+
+
+{{physics-journal-stub}}

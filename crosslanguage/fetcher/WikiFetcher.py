@@ -1,16 +1,14 @@
 # coding=utf-8
 
 import os
-from wikitools import wiki
-from fetcher.CategoryFetcher import CategoryFetcher
-
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
+
 from django.conf import settings
-
+from fetcher.CategoryFetcher import CategoryFetcher
 import urllib
-
-from wikipedia import Wikipedia as W_Orig
 from wiki2plain import Wiki2Plain
+#from wikipedia import Wikipedia as W_Orig
+#from wiki2plain import Wiki2Plain
 #from WikiUtils import GetWikipediaCategoryRecurse
 
 
@@ -25,24 +23,17 @@ class WikiFetcher(object):
         Save each article to a file in the project's storage hierarchy
     """
 
-    def __init__(self, category, language):
+    def __init__(self, language, category):
         self.category = category
         self.language = language
+
         self.category_base_dir = os.path.join(settings.DATA_DIR, self.language, urllib.quote_plus(self.category))
-
-        sites_by_language = {
-            'en':   ''
-        }
-
-        site = wiki.Wiki("http://es.wikipedia.org/w/api.php")
-
-
-        self.articles = []
+        #self.articles = []
 
     def fetch_raw_articles(self):
-        cf = CategoryFetcher(site, 'es')
-        articles = cf.get_category_recursively('Categoría:Libros_de_ciencias_de_la_computación')
-        self.articles = [article.urltitle for article in articles]
+        cf = CategoryFetcher(self.language)
+        return cf.get_category_recursively(self.category)
+        #self.articles = [article.urltitle for article in articles]
 
     def fetch_to_files(self):
         """
@@ -50,35 +41,30 @@ class WikiFetcher(object):
         """
         if not os.path.exists(self.category_base_dir): os.makedirs(self.category_base_dir)
 
-        # self.fetch_raw_articles()
-        # for article in self.articles:
-        #     path = os.path.join(self.category_base_dir, "{:s}.txt".format(article.title_raw))
-        #     print path
-        #     article.fetch()
-        #     article.savetofile(path)
-
-        from wikitools import wiki
-        from wikitools import category
-        site = wiki.Wiki()
-
-
-        #site.login("username", "password")
-        # Create object for "Category:Foo"
-        cat = category.Category(site, self.category)
-        # iterate through all the pages in ns 0
-        for article in cat.getAllMembersGen():
-            path = os.path.join(self.category_base_dir, "{:s}.txt".format(article.urltitle))
+        articles = self.fetch_raw_articles()
+        for article in articles:
+            path = os.path.join(self.category_base_dir, "{:s}.txt".format(urllib.quote_plus(article.urltitle)))
             print path
-            text = article.getWikiText()
+            raw_text = article.getWikiText()
+            # clean text - leave only wiki text
+            clean_text = Wiki2Plain(raw_text).text
             with open(path, 'w') as f:
-                f.write(text)
+                f.write(clean_text)
 
 
 if __name__=="__main__":
-    #c = CategoryFetcher("Maxwell_Medal_and_Prize_recipients", 'en')
-    c = CategoryFetcher("Institute_of_Physics", 'en')
-    #c = CategoryFetcher("Libros_de_física", 'es')
-    c.fetch_to_files()
+
+    # #c = CategoryFetcher("Maxwell_Medal_and_Prize_recipients", 'en')
+    # c = CategoryFetcher("Institute_of_Physics", 'en')
+    # #c = CategoryFetcher("Libros_de_física", 'es')
+    # c.fetch_to_files()
+
+    # wf = WikiFetcher('en', "Institute_of_Physics")
+    # wf = WikiFetcher('en', "International_Young_Physicists'_Tournament")
+    wf = WikiFetcher('es', "Libros_de_ciencias_de_la_computación")
+
+    wf.fetch_to_files()
+
 
 
 

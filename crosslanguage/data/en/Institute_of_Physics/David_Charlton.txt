@@ -1,0 +1,79 @@
+{{For|the racing driver|Dave Charlton}}
+{{Infobox scientist
+| name              = David Charlton
+| birth_name       = David G. Charlton
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        =
+| alt               =
+| caption           =
+| birth_date        = <!-- {{Birth date|YYYY|MM|DD}} -->
+| birth_place       =
+| other_names       =
+| residence         =
+| citizenship       =
+| nationality       =
+| fields            = {{Plainlist|
+* [[Particle physics]]
+* [[Electroweak interaction|Electroweak Physics]]
+* [[ATLAS experiment]]
+* [[Trigger (particle physics)|Trigger systems for Physics]]}}
+| workplaces        = {{Plainlist|
+* [[CERN]]
+* [[University of Birmingham]]}}
+| patrons           =
+| alma_mater        = {{Plainlist|
+* [[University of Oxford]] (BA)
+* [[University of Birmingham]] (PhD)}}
+| thesis_title      =
+| thesis_url        =
+| thesis_year       =
+| doctoral_advisor  =
+| academic_advisors =
+| doctoral_students =
+| notable_students  =
+| known_for         =
+| influences        =
+| influenced        =
+| awards            = {{Plainlist|
+* [[Institute of Physics|FInstP]] (2009)
+* [[Fellow of the Royal Society|FRS]] (2014)<ref name="royal"/>}}
+| website           = {{URL|http://www.birmingham.ac.uk/staff/profiles/physics/charlton-david.aspx}}
+| footnotes         =
+| spouse            =
+| children          =
+}}'''David G. Charlton''' [[Fellow of the Royal Society|FRS]] is [[Professor]] of [[Particle Physics]] in the School of [[Physics]] and [[Astronomy]] at the [[University of Birmingham]], UK.<ref name="microsoft">{{AcademicSearch|5078914}}</ref><ref name="scopus">{{Scopus|id=7103267315}}</ref>
+
+==Education==
+Charlton was educated at the University of Oxford, graduating with a [[Bachelor of Arts]] degree in Physics in 1985. He went on to study for a [[Doctor of Philosophy|PhD]] in Particle Physics, which he was awarded in 1989<ref>[http://www.birmingham.ac.uk/staff/profiles/physics/charlton-david.aspx David Charlton FRS, Professor of Particle Physics], University of Birmingham</ref> for work on the [[UA1 experiment]], searching for the [[top quark]].
+
+==Research==
+Charlton's research investigates the [[Higgs mechanism]] and electroweak symmetry breaking.<ref>{{YouTube|id=ySPiFxLdpAc|title=The Search for the Higgs Boson at the University of Birmingham with David Charlton and Paul Newman}}</ref><ref>{{cite doi|10.1007/BF02907439|noedit}}</ref><ref>{{cite doi|10.1016/0370-2693(89)90705-3|noedit}}</ref><ref>{{cite doi|10.1007/BF01496577|noedit}}</ref><ref>{{cite doi|10.1007/BF01560437|noedit}}</ref><ref>{{cite doi|10.1016/0550-3213(90)90493-W|noedit}}</ref> His research has been funded by the [[Science and Technology Facilities Council|Science and Technology Facilities Council (STFC)]].<ref>[http://gtr.rcuk.ac.uk/person/51D50242-08E9-4FCC-8B65-224DEA840B49 Research grants awarded to David Charlton] Research Councils UK</ref>
+
+==Career==
+Charlton has been the spokesperson of the ATLAS Collaboration since March 2013. During the construction of the ATLAS experiment, he worked on hybrid [[Readout integrated circuit|readout circuits]] for the silicon strip sensors of the Semiconductor Tracker (SCT) detector and on the first-level [[calorimeter]] trigger system.
+
+From 1989 to 2001, Charlton worked on the OPAL experiment of the [[Large Electron–Positron Collider]] at CERN, on data analysis, components of the [[Trigger (particle physics)|trigger and data acquisition systems]], and the identification of [[muon]]s.
+
+==Awards and honours==
+Charlton was elected a Fellow of the [[Royal Society]] in 2014. His nomination reads: {{centered pull quote|David Charlton is a leader in the experimental elucidation of [[Electroweak interaction|electroweak]] [[symmetry breaking|symmetry-breaking]], culminating in the observation and first characterisation of a [[Higgs boson]], at the [[Large Hadron Collider|LHC]]. His work with the OPAL experiment at the [[Large Electron–Positron Collider|electron-positron collider LEP]] provided the first measurement there of the yield of [[W and Z bosons|Z decays]], then extracted the fraction decaying to [[bottom quark]]s. Later he led the measurements which directly demonstrated the gauge structure of the electroweak sector of the [[Standard Model]]. At the LHC, he led physics preparations in the year before first collisions, acted as [[ATLAS experiment|ATLAS]] Deputy Spokesperson throughout the first three year running period, and is now the collaboration [[spokesperson]].<ref name="royal">{{cite web |url=https://royalsociety.org/people/fellowship/2014/david-charlton/ |title = Professor David Charlton FRS |publisher=The Royal Society |archivedate=2014-07-01 |archiveurl=http://www.webcitation.org/6Qk2j9KOc |location=London}}</ref>}}
+
+==References==
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Charlton, David
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British scientist
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Charlton, David}}
+[[Category:British scientist stubs]]
+[[Category:Living people]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Institute of Physics]]
+
+
+{{UK-scientist-stub}}

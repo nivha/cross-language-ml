@@ -1,0 +1,19 @@
+The '''Proceedings of the Physical Society''' is a journal on the subject of [[physics]], originally associated with the [[Physical Society of London]], [[England]].
+
+{{ISSN|0370-1328}} (Print)
+
+== Journal history ==
+
+* 1874&ndash;1925: ''Proceedings of the Physical Society of London'' 
+* 1926&ndash;1948: ''Proceedings of the Physical Society'' 
+* 1949&ndash;1957: ''Proceedings of the Physical Society, Section A'' 
+* 1949&ndash;1957: ''Proceedings of the Physical Society, Section B''
+* 1958&ndash;1967: ''Proceedings of the Physical Society'' 
+
+==External links==
+* [http://www.iop.org/EJ/journal/PR Electronic access] from the [[Institute of Physics]] (IoP)
+
+[[Category:Physics journals]]
+[[Category:IOP Publishing academic journals]]
+
+{{physics-journal-stub}}

@@ -1,0 +1,80 @@
+{{For|those of a similar name|Carol Jordan (disambiguation)}}
+{{multiple issues|
+{{BLP sources|date=November 2012}}
+{{No footnotes|date=October 2009}}
+}}
+
+'''Professor Dame Carole Jordan''', [[Order of the British Empire|DBE]], [[Royal Society|FRS]], [[Institute of Physics|FInstP]], (born 19 July 1941) was the first ever female president of the [[Royal Astronomical Society]].  She was also only the third female recipient of its [[Gold Medal of the Royal Astronomical Society|Gold Medal]] (in 2005, following [[Caroline Herschel]] in 1828 and [[Vera Rubin]] in 1996). She was one of the first female professors in Astronomy in Britain.
+
+==Education==
+Carole Jordan was educated at Harrow County Grammar School for Girls and at [[University College London]] (BSc 1962; PhD 1965; Fellow 1991). Her first paper, written while she was still an undergraduate, was on the distortion of lunar craters.
+
+Her PhD studies under [[C. W. Allen]] included crucial identification of iron and other lines in the solar [[spectrum]], early ionisation-balance calculations, development of density-diagnostic methods using the iron lines, calculation of relative element abundances and modelling from emission-measure distributions. She published a paper on problems in [[solar corona|coronal]] research in 1965. {{citation needed|date=October 2009}}
+
+==Career==
+{{citation needed|date=October 2009}}
+* Research associate, Joint Institute for Laboratory Astrophysics, [[University of Colorado at Boulder|University of Colorado, Boulder]], 1966
+* Assistant Lecturer, Department of Astronomy, UCL, attached to the Spectroscopy Division of  [[UKAEA]] [[Culham Laboratory]], 1966–69
+:During this time, she completed her ionisation-balance calculations and the identification of some [[forbidden line]]s and satellite lines. In 1969, she started to devise methods to obtain the structure of the [[Solar transition region]].
+* Astrophysics Research Unit, Culham Laboratory:
+** Post-doctoral research assistant, 1969–71
+** Senior Scientific Officer, 1971–73
+** Principal Scientific Officer, 1973–76
+* [[Isaac Wolfson|Wolfson]] Tutorial Fellow in Natural Science, [[Somerville College, Oxford]], 1976 -
+* [[University of Oxford]]: reader in physics, 1994–96, professor of physics 1996-, head of the [[Rudolf Peierls]] Centre for Theoretical Physics, 2003–2008
+
+She has published papers on astrophysical plasma spectroscopy and structure and energy balance in cool star coronae.
+
+==Affiliations==
+* Royal Astronomical Society: Fellow, 1966; secretary, 1981–90; vice-president, 1990–91 and 1996–97; president, 1994–96.
+* Member of the [[International Astronomical Union]], 1967
+* Editor of [[The Observatory (astronomy)|The Observatory]], 1968–73
+* Fellow of the [[Institute of Physics]], 1973
+* Fellow of the [[Royal Society]], 1990
+* Doctor of the [[University of Surrey]], 1991
+* Member of the [[Science and Engineering Research Council]], 1985-90 (Chairman, Solar System Committee, 1983–86; Member, Astronomy, Space and Radio Board, 1979–86; Member, Astronomy and Planetary Science Board, 1986–90)
+* Member of the [[Particle Physics and Astronomy Research Council]], 1994–97
+
+==Damehood==
+Carole Jordan was created a [[Order of the British Empire|Dame Commander of the British Empire]] (DBE) on 17 June 2006.
+
+==Scientific work==
+Carole Jordan developed new insights by developing new techniques to use the ionisation balance of elements, the mechanisms of level population in ions, and combining this with observational results from the Sun and stars. As a result of her work on the Skylab ultraviolet spectra the understanding of He-like ions was further developed. This had implications for the development of applications, like X-ray lasers.  The electron density diagnostics, and temperature density diagnostics, when combined with the emission measure analysis developed by her yielded new insights in the chromospheres of cool stars, T Tauri Stars, and the Sun, to name a few.  Following the launch of the ''[[International Ultraviolet Explorer]]'' satellite in 1978, she turned her attention to stellar [[corona]]l and [[chromosphere|chromospheric]] activity.  Her knowledge of solar activity enabled her to help develop this new branch of astrophysics. Since about 1980, she has been a key member of nearly every team, in the UK, Europe and the US, concerned with the development and use of instruments for the studies of [[ultra-violet]] and [[x-ray]] [[spectrum|spectra]] of the sun and of the stars.
+{{citation needed|date=October 2009}}
+
+==Personal==
+She was married to her Culham Laboratory/ARU colleague [[Richard Peckover]] from 1971 until 1983.
+
+==Sources==
+* ''Astronomy and Geophysics'', August 2005, p.&nbsp;439 (Gold medal citation)
+* ''The Observatory'', October 2005, pp.&nbsp;294–95 (Account of presentation of Gold medal)
+
+==External links==
+* [http://www-thphys.physics.ox.ac.uk/users/CaroleJordan/ Personal page]
+* [http://www.debretts.com/people/biographies/search/results/25882/Carole+JORDAN.aspx Debrett's People website]
+* [http://media.atomstars.org/presentations/doschek.pdf]
+{{Use dmy dates|date=October 2011}}
+
+{{Authority control|VIAF=14864049}}
+
+{{Persondata
+| NAME              = Jordan, Carole
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British astronomer
+| DATE OF BIRTH     = 19 July 1941
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Jordan, Carole}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Alumni of University College London]]
+[[Category:Dames Commander of the Order of the British Empire]]
+[[Category:English astronomers]]
+[[Category:Female Fellows of the Royal Society]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Academics of University College London]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:Fellows of Somerville College, Oxford]]
+[[Category:Academics of the University of Oxford]]

@@ -1,0 +1,131 @@
+{{Infobox scientist
+|name              = Sir Charles Algernon Parsons<br/>[[Order of Merit|OM]] [[Order of the Bath|KCB]] [[Fellow of the Royal Society|FRS]]
+|image             = Charles Algernon Parsons.jpg
+|image_size        = 250px
+|birth_date        = 13 June 1854
+|birth_place       = [[London]], [[England]], [[United Kingdom]]
+|death_date        = 11 February 1931
+|death_place       = [[Kingston Harbour]], [[Jamaica]],|citizenship       =
+|nationality       = [[United Kingdom|British]] 
+|fields            = [[Engineering]]
+|workplaces        = [[Heaton, Newcastle]]
+|alma_mater        = [[Trinity College, Dublin]]<br> [[St. John's College, Cambridge]]
+|doctoral_advisor  =
+|academic_advisors =
+|doctoral_students =
+|notable_students  =
+|known_for         = [[Steam turbine]]
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|awards            = [[Rumford Medal]] <small>(1902)</small><br>[[Albert Medal (Royal Society of Arts)|Albert Medal]] {{small|(1911)}}<br>[[Franklin Medal]] <small>(1920)</small><br> [[Faraday Medal]] <small>(1923)</small><br> [[Copley Medal]] <small>(1928)</small>
+|religion          =
+|signature         =
+|footnotes         =
+}}
+
+Sir '''Charles Algernon Parsons''' {{Post-nominals|post-noms=[[Order of Merit|OM]] [[Order of the Bath|KCB]] [[Fellow of the Royal Society|FRS]]}} (13 June 1854 &ndash; 11 February 1931) was a [[United Kingdom|British]] [[engineer]], best known for his invention of the [[steam turbine]].<ref>http://www.britannica.com/EBchecked/topic/444719/Sir-Charles-Algernon-Parsons</ref> He worked as an engineer on [[dynamo]] and [[turbine]] design, and [[power generation]], with great influence on the naval and [[electrical engineering]] fields. He also developed optical equipment, for [[searchlight]]s and [[telescope]]s.
+
+==Biography==
+Charles Parsons was born into a famous Irish family (with [[Anglo-Irish]] heritage) of Scientists and Engineers. The family seat is Birr Castle, County Offaly, Ireland. The town of Birr was previously called Parsonstown, after the family. Born in London, Parsons was the youngest son of the famous astronomer [[William Parsons, 3rd Earl of Rosse]].
+
+Parsons and his three brothers were educated at home in Ireland by private tutors,<ref>http://www.tcd.ie/Secretary/FellowsScholars/discourses/discourses/1968_Lord%20Rosse%20on%20W.%20Parsons.pdf</ref> all of whom were well versed in the sciences and acted also as practical assistants to their father in his astronomical work. One of them later became, as [[Sir Robert Ball]], [[Astronomer Royal for Ireland]]. Parsons then read mathematics at [[Trinity College, Dublin]] and [[St. John's College, Cambridge]], graduating from the latter in 1877 with a first-class honours degree.<ref>{{acad|id=PRSS873CA|name=Parsons, the Hon. Charles Algernon}}</ref> He joined the [[Newcastle Upon Tyne|Newcastle]]-based engineering firm of [[Armstrong Whitworth|W.G. Armstrong]] as an apprentice, an unusual step for the son of an earl; then moved to [[Kitson & Co.|Kitsons]] in Leeds where he worked on rocket-powered [[torpedo]]es; and then in 1884 moved to [[Clarke Chapman|Clarke, Chapman and Co.]], ship engine manufacturers near Newcastle, where he was head of their electrical equipment development. He developed a turbine engine there in 1884 and immediately utilized the new engine to drive an electrical generator, which he also designed. Parsons' [[steam turbine]] made cheap and plentiful electricity possible and revolutionised marine transport and naval warfare{{spaced ndash}}the world would never be the same again.<ref>http://www.universityscience.ie/pages/scientists/sci_charles_parsons.php</ref>
+
+[[Image:Parson's Compound Steam Turbine - 1887 - Project Gutenberg eText 17167.png|thumb|left|First compound steam turbine, built by Parsons in 1887]]
+
+The best steam turbine at the time, invented by [[Gustaf de Laval]], was an impulse design that subjected the mechanism to huge centrifugal forces and so had limited output due to the weakness of the materials available.  Parsons explained that his appreciation of the scaling issue led to his 1884 breakthrough on the compound steam turbine in his 1911 [[Rede Lecture]]:
+
+''"It seemed to me that moderate surface velocities and speeds of rotation were essential if the turbine motor was to receive general acceptance as a prime mover. I therefore decided to split up the fall in pressure of the steam into small fractional expansions over a large number of turbines in series, so that the velocity of the steam nowhere should be great...I was also anxious to avoid the well-known cutting action on metal of steam at high velocity."''<ref name=smil >{{Citation|page= 62| title=Creating the Twentieth Century: Technical Innovations of 1867-1914 and Their Lasting Impact|author= Vaclav Smil|isbn= 0-19-516874-7 |url=http://books.google.com/?id=w3Mh7qQRM-IC&pg=PA71&lpg=PA71&dq=Transformer+coltman+1988|accessdate=2009-01-03|year=2005|publisher=Oxford University Press|postscript= <!--none-->}}</ref>
+
+[[File:1900 Elberfeld 1MW Generator.jpg|thumb|left|Parsons' first 1MW turbogenerator built for [[Elberfeld, Germany]] in 1899.  It produced single phase electricity at 4kV.]]
+In 1889, he founded [[C. A. Parsons and Company|C.&nbsp;A.&nbsp;Parsons and Company]] in Newcastle to produce [[turbo generator]]s to his design.<ref name=birr/> In the same year he set up the [[Newcastle and District Electric Lighting Company]] (DisCO). In 1890, DisCo opened [[Forth Banks Power Station]], the first power station in the world to generate electricity using turbo generators.<ref name=early_days>{{cite book
+| last      = Parsons
+| first     = R.H.
+| title     = The Early Days of the Power Station Industry
+| year      = 1939
+| publisher = Cambridge University Press
+| location  = Cambridge
+| page      = 171
+| chapter   = X
+}}</ref> In 1894 he regained certain patent rights from [[Clarke Chapman]]. Although his first turbine was only 1.6% efficient and generated a mere 7.5 kilowatts, rapid incremental improvements in a few years led to his first megawatt turbine built in 1899 for a generating plant at [[Elberfeld, Germany]].<ref name=smil/>
+
+Parsons was also interested in marine applications and founded the [[Parsons Marine Steam Turbine Company]] in Newcastle.  Famously, in June 1897, his turbine-powered [[yacht]], ''[[Turbinia]]'', was exhibited moving at speed at [[Queen Victoria]]'s [[Diamond Jubilee]] [[Fleet Review]] off [[Portsmouth]], to demonstrate the great potential of the new technology. The ''Turbinia'' moved at 34 knots. The fastest Royal Navy ships using other technologies reached 27 knots. Part of the speed improvement was attributable to the slender hull of the ''Turbinia''.<ref>{{citation|url=http://www-g.eng.cam.ac.uk/125/noflash/1875-1900/parsons2.html|title=Charles Algernon Parsons|publisher= [[University of Cambridge]] Department of Engineering|accessdate=2009-01-03|postscript=<!--none-->}}</ref>
+
+[[Image:HMS Dreadnought 1906 H63596.jpg|thumb|left|{{HMS|Dreadnought|1906|2}}. In 1906, it was the first modern battleship and was fastest in the world due to Parsons' steam turbines.]]
+Within two years, the destroyers [[Viper class destroyer|HMS ''Viper'']] and {{HMS|Cobra|1899|2}} were launched with Parsons' turbines, soon followed by the first turbine powered passenger ship, [[Clyde steamer]] [[TS King Edward|TS ''King Edward'']] in 1901; the first turbine transatlantic liners [[RMS Victorian|RMS ''Victorian'']] and [[RMS Virginian|''Virginian'']] in 1905, and the first turbine powered battleship, {{HMS|Dreadnought|1906|6}} in 1906, all of which were driven by Parsons' turbine engines.<ref name=birr >{{citation |url=http://www.birrcastle.com/inventionsAndExperiments.asp|title= Chronology of Charles Parsons| publisher=Birr Castle Scientific and Heritage Foundation|accessdate=2009-01-03 |postscript=<!--none-->}} {{Dead link|date=November 2010|bot=H3llBot}}</ref>  Today, ''Turbinia'' is housed in a purpose-built gallery at the [[Discovery Museum]], Newcastle.<ref>http://www.twmuseums.org.uk/discovery/collections.html</ref>
+
+He was elected a [[Fellow of the Royal Society]] in June 1898 and received their [[Rumford Medal]] in 1902, their [[Copley Medal]] in 1928 and delivered their [[Bakerian Lecture]] in 1918.<ref>{{cite web|url=http://royalsociety.org/Lists-of-Royal-Society-Fellows-1660-2007/|title=Lists of Royal Society Fellows 1660-2007|publisher=The Royal Society|accessdate=15 July 2010|location=London}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> He was [[knight]]ed in 1911 and made a member of the [[Order of Merit]] in 1927.
+
+The Parsons turbine company survives in the [[Heaton, Newcastle|Heaton]] area of Newcastle and is now part of [[Siemens]], a [[Germany|German]] [[Conglomerate (company)|conglomerate]]. Sometimes referred to as Siemens Parsons, the company recently completed a major [[redevelopment]] programme, reducing the size of its site by around three quarters and installing the latest [[manufacturing]] technology. In 1925 Charles Parsons acquired the Grubb Telescope Company and renamed it [[Grubb Parsons]]. That company survived in the Newcastle area until 1985.
+
+Parsons was also known for inventing the [[Auxetophone]], an early [[compressed air gramophone]].<ref>{{cite book | last = Reiss | first = Eric | title = The compleat talking machine: a collector's guide to antique phonographs | publisher = Sonoran Pub | location = Chandler, Ariz | year = 2007 | isbn = 1886606226 | page = 217 }}</ref>
+
+Parsons' ancestral home at [[Birr Castle]] in Ireland houses a museum detailing the contribution the Parsons family have made to the fields of science and engineering, with part of the museum given over to marine engineering work of Charles Parsons.
+
+Parsons died on 11 February 1931 on board the steamship [[SS Duchess of Richmond (1928)|Duchess of Richmond]] while on a cruise with his wife, it followed a collapse from an attack of [[Peripheral neuropathy|neuritis]].<ref name="Times45746">{{Cite newspaper The Times
+|articlename=Sir Charles Parsons and Sir Arthurt Dorman |section=Obituaries |author= |day_of_week=Friday
+|date=13 February 1931 |page_number=14 |issue=45746 |column=B }}</ref> A memorial service was held at [[Westminster Abbey]] on 3 March 1931.
+
+==See also==
+{{commons}}
+*[[C. A. Parsons and Company]]
+*[[Parsons Marine Steam Turbine Company]]
+*[[Turbinia]]
+
+==References==
+{{reflist}}
+
+==Published Works Online and other works of interest==
+*[http://www.houseofdavid.ca/parsons.htm E-book: "The Steam Turbine and Other Inventions of Sir Charles Parsons"]
+*[http://www.farlang.com/diamonds/parsons-synthetic-diamond/page_001 Synthetic HPHT Diamond by Sir Charles Parsons]
+* [[s:The Steam Turbine|The Steam Turbine]] (Rede Lecture, 1911)
+* "From Galaxies to Turbines : Science, Technology and the Parsons Family", by W.G.S.Scaife, Taylor & Francis (1999)
+* Charles Parsons' grand-nephew, Michael Parsons in his 1968 Trinity Monday Discourse. http://www.tcd.ie/Secretary/FellowsScholars/discourses/discourses/1968_Lord%20Rosse%20on%20W.%20Parsons.pdf which is in here for the 1968 entry, http://www.tcd.ie/Secretary/FellowsScholars/discourses/
+
+== External links ==
+*[http://www.birrcastle.com/inventionsAndExperiments.asp Chronology of Charles Parsons' Life]{{Dead link|date=June 2011}}
+*[http://www-g.eng.cam.ac.uk/125/noflash/1875-1900/parsons.html Profile at Cambridge University]
+* {{Cite web
+  |url=http://www.btinternet.com/~philipr/Parsons.htm
+  |title=Parsons and Turbinia
+  |archiveurl=https://web.archive.org/web/20121010140643/http://www.btinternet.com/~philipr/Parsons.htm
+  |archivedate=10 October 2012
+}}
+* [http://www.newcomen.com/excerpts/turbinia/index.htm Sir Charles Parsons Symposium, excerpts from Transactions of the  Newcomen Society ]
+
+{{Copley Medallists 1901-1950}}
+{{Electricity generation in North East England}}
+
+{{Use dmy dates|date=June 2011}}
+
+{{Authority control|VIAF=48285664}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Parsons, Charles Algernon
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British inventor
+| DATE OF BIRTH     = 13 June 1854
+| PLACE OF BIRTH    = [[London]], [[England]], [[United Kingdom]]
+| DATE OF DEATH     = 11 February 1931
+| PLACE OF DEATH= [[Kingston Harbour]], [[Jamaica]]
+}}
+{{DEFAULTSORT:Parsons, Charles Algernon}}
+[[Category:People from Tyne and Wear]]
+[[Category:Turbines]]
+[[Category:British inventors]]
+[[Category:1854 births]]
+[[Category:1931 deaths]]
+[[Category:Irish engineers]]
+[[Category:British engineers]]
+[[Category:Alumni of Trinity College, Dublin]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Members of the Order of Merit]]
+[[Category:Recipients of the Copley Medal]]
+[[Category:Marine engine manufacturers]]
+[[Category:Younger sons of earls]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Corresponding Members of the USSR Academy of Sciences]]
+[[Category:Steam turbines]]
+[[Category:Knights Commander of the Order of the Bath]]
+[[Category:Presidents of the Institute of Physics]]

@@ -1,0 +1,16 @@
+Lecture Notes in Computer Science (LNCS) es una serie de libros de ciencias de la computación que han sido publicados por Springer Science+Business Media (formalmente Springer-Verlag) desde 1973.
+
+LNCS publica resultados de investigaciones en ciencias de la computación, especialmente en forma de actas (o proceedings), post-actas y monografías de investigación. Adicionalmente, tutoriales, resúmenes del estado del arte y "hot topics" (tópicos con alta demanda) están siendo cada vez más incluidos. Lecture Notes in Artificial Intelligence (LNAI) y Lecture Notes in Bioinformatics (LNBI) son dos sub-series de LNCS.
+
+El equipo editorial para LNCS se situó originalmente en Heidelberg, Alemania, pero gran parte del trabajo ha sido delegado a India. Desde 2008, han aparecido más de 5000 volúmenes de LNCS y una suscripción en línea para las series completas cuesta cerca de 23000 euros anuales. LNCS es considerada una de las más grandes series de actas de conferencias en ciencias de la computación, junto con las de la ACM, IEEE y USENIX.
+
+== Referencias ==
+
+== Enlaces externos ==
+* Sitio oficial de LNCS
+* Información de SpringerLink
+* Volúmenes de criptografía de LNCS
+*
+
+Categoría:Organizaciones fundadas en 1973
+Categoría:Libros de ciencias de la computación

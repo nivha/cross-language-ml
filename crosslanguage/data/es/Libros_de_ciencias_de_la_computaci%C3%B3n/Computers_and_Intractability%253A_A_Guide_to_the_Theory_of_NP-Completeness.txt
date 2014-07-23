@@ -1,0 +1,8 @@
+En ciencias de la computación, más específicamente en el área de complejidad computacional, Computers and Intractability: A Guide to the Theory of NP-Completeness es un influyente libro de texto escrito por Michael Garey y David S. Johnson.
+
+Fue el primer libro en tratar formalmente la NP-completitud y la intratabilidad. El libro contiene un apéndice que provee un exhaustivo compendio de problemas de NP-completitud, el cual ha sido actualizado en las reimpresiones del libro. Actualmente se encuentra desactualizado en algunos aspectos, como el desarrollo del reciente teorema PCP, tema que no cubre. No obstante, se sigue imprimiendo y es considerado un clásico: en un estudio de 2006, el motor de búsqueda CiteSeer listó este libro como el más citado en la literatura de ciencias de la computación.
+
+== Referencias ==
+
+Categoría:Libros de ciencias de la computación
+Categoría:Libros de 1979

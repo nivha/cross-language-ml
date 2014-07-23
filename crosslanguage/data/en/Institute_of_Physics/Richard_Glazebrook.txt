@@ -1,0 +1,101 @@
+{{Infobox scientist
+|name              = Sir Richard Tetley Glazebrook
+|image             =
+|image_size       =
+|caption           = 
+|birth_date        = 18 September 1854
+|birth_place       = [[West Derby, Liverpool]]
+|death_date        = 15 December 1935
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = English
+|ethnicity         = 
+|field             = [[Physics]]
+|work_institutions = 
+|alma_mater        = 
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|prizes            = [[Hughes Medal]] {{small|(1909)}}<br>[[Albert Medal (Royal Society of Arts)|Albert Medal]] {{small|(1918)}}<br>[[Royal Medal]] {{small|(1931)}}
+|religion          = 
+|footnotes         = 
+|signature         =
+}}
+
+'''Sir Richard Tetley Glazebrook''' [[Order of the Bath|KCB]] [[Royal Victorian Order|KCVO]] [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1936.0004}}</ref> (18 September 1854 – 15 December 1935) was an [[England|English]] [[physicist]].<ref>{{cite doi|10.1093/ref:odnb/33422}}</ref>
+
+==Education and early career==
+Glazebrook was born in [[West Derby]], [[Liverpool]], the son of a [[surgeon]]. He was educated at [[Dulwich College]] until 1870, [[Liverpool College]] from 1870 to 1872, and [[Trinity College, Cambridge]], from which he graduated in [[Mathematics]] in 1876 and of which he was elected a [[fellow]] in 1877.<ref>{{acad|id=GLSK872RT|name=Glazebrook, Richard Tetley}}</ref> He studied [[physics]] under [[James Clerk Maxwell]] and [[John Strutt, 3rd Baron Rayleigh|Lord Rayleigh]] at the new [[Cavendish Laboratory]] and in 1880 was appointed a demonstrator at the laboratory. The following year he was also appointed a college lecturer in mathematics and physics and a university lecturer in mathematics. His research focused on electrical standards and aviation.
+
+==Later career==
+He hoped to succeed Rayleigh as [[Cavendish Professor of Physics]] in 1884, but was surprisingly (given that he was also Rayleigh's choice) passed over in favour of [[J. J. Thomson|Sir J. J. Thomson]], which was a great disappointment to him. He was, however, appointed Assistant Director of the Cavendish in 1891 and [[Bursar]] of Trinity College in 1895. In 1898 he was appointed Principal of [[University College, Liverpool]].
+
+In June 1899, however, he left to become first Director of the [[National Physical Laboratory (United Kingdom)|National Physical Laboratory]] in [[Teddington]]. He held the post until his retirement (largely due to friction with the [[Department of Scientific and Industrial Research]]) in 1919, successfully establishing the NPL as a world leader in physics research.
+
+==Retirement==
+Following his retirement, he moved back to [[Cambridge]] and edited the ''[[Dictionary of Applied Physics]]''. From 1920 to 1923 he was [[Zaharoff Professor of Aviation]] and Director of the Department of Aeronautics at [[Imperial College, London]]. He remained on the General Board of the NPL and chaired the Executive Committee from 1925 to 1932.
+
+==Honours and awards==
+In 1882 he was elected a [[Fellow of the Royal Society]] (FRS)<ref name="frs"/> at the very young age of 28. He served as Vice-President of the Royal Society in 1919–1920 and 1924–1928 and as its Foreign Secretary from 1926 to 1929. He was awarded the [[Hughes Medal]] in 1909 and the [[Royal Medal]] in 1931. He was also awarded the [[Albert Medal (RSA)|Albert Medal]] of the [[Royal Society of Arts]] in 1918 and the Gold Medal of the [[Royal Aeronautical Society]] in 1933. He was President of the [[Physical Society]], later the [[Institute of Physics]], from 1903 to 1905 and president of the [[Institution of Electrical Engineers]] in 1906.
+
+Glazebrook was appointed [[Companion of the Order of the Bath]] (CB) in 1910, was [[Knight Bachelor|knighted]] in 1917, and appointed [[Knight Commander of the Order of the Bath]] (KCB) in the 1920 New Year War Honours<ref>{{LondonGazette |issue=31713 |date=30 December 1919 |startpage=1 |supp=yes}}</ref> and [[Knight Commander of the Royal Victorian Order]] (KCVO) in 1934.
+
+==Personal life==
+He married Frances Gertrude Atkinson of [[Leeds]] in 1883; they had a son and three daughters. He died at [[Limpsfield]], [[Surrey]].
+
+==Works==
+* [http://gallica.bnf.fr/notice?N=FRBNF32172207 A dictionary of applied physics (5 vols.)] edited by Richard Glazebrook I. Mechanics, engineering, heat; II. Electricity; III. Meteorology, metrology; IV. Light, sound, radiology, aeronautics, metallurgy. General Index (London : Macmillan, 1922-1923)
+* [https://archive.org/details/mechanicsdynamic030494mbp Mechanics Dynamics] (Cambridge University Press, 1911)
+* [https://archive.org/details/mechanicshydrost033294mbp Mechanics Hydrostatics] (Cambridge University Press, 1916)
+* [https://archive.org/details/physicaloptics00glaziala Physical optics] (London, New York: Longmans, Green, 1886)
+* [https://archive.org/details/lawspropertiesof00glazrich Laws and properties of matter] (London, K. Paul, Trench, Trübner & co., ltd., 1893)
+* [https://archive.org/details/heatelementaryte00glazrich Heat: an elementary text-book, theoretical and practical, for colleges and schools] (Cambridge University Press, 1894)
+* [https://archive.org/details/lightelementaryt00glazuoft Light, an elementary text-book, theoretical and practical]  (Cambridge University Press, 1912)
+* [https://archive.org/details/electricitymagne00glazrich Electricity and magnetism. An elementary text-book, theoretical and practical] (Cambridge University Press, 1903)
+* [https://archive.org/details/practicalphysics00glazuoft Practical physics] (London, Longmans, 1889)
+* [https://archive.org/details/jamesclerkmaxwel00glazrich James Clerk Maxwell and modern physics] (New York: Macmillan, 1896)
+* [https://archive.org/details/scienceandindust032523mbp 	Science And Industry	The Rede Lecture 1917] (Cambridge University Press)
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+* [http://www.nmsi.ac.uk/piclib/imagerecord.asp?id=10301751 Science and Society Picture Library<!-- bot-generated title -->] at www.nmsi.ac.uk
+* [http://sites.google.com/site/thefourteensheets/ Glazebrook's descendants] (genealogy).
+
+{{Authority control|VIAF=22293561}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Glazebrook, Richard
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 18 September 1854
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 15 December 1935
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Glazebrook, Richard}}
+[[Category:1854 births]]
+[[Category:1935 deaths]]
+[[Category:People educated at Dulwich College]]
+[[Category:People educated at Liverpool College]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Academics of the University of Liverpool]]
+[[Category:Academics of Imperial College London]]
+[[Category:English physicists]]
+[[Category:Knights Commander of the Order of the Bath]]
+[[Category:Knights Commander of the Royal Victorian Order]]
+[[Category:Knights Bachelor]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Royal Medal winners]]
+[[Category:Scientists from Liverpool]]
+[[Category:Members of HM Scientific Civil Service]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Presidents of the Physical Society]]

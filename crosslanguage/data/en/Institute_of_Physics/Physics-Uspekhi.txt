@@ -1,0 +1,59 @@
+{{Infobox journal
+| formernames = Uspekhi Fizicheskikh Nauk, Soviet Physics Uspekhi
+| cover = [[File:PhysUspCover.gif]]
+| editor = [[Leonid Keldysh]]
+| discipline = Physics
+| abbreviation = Phys. Usp.
+| publisher = [[IOP Publishing]]
+| country = Russia/United Kingdom
+| frequency = Monthly
+| history = 1918-present (in Russian); 1958-present (in English)
+| openaccess = 
+| impact = 1.865
+| impact-year = 2012
+| website = http://iopscience.iop.org/1063-7869/
+| link1 = 
+| link1-name = Online access
+| link2 =
+| link2-name =
+| JSTOR =
+| OCLC = 36334507
+| LCCN = 93646146
+| CODEN = PHUSEY
+| ISSN = 1063-7869
+| eISSN = 1468-4780
+}}
+'''''Physics-Uspekhi''''' (''Advances in Physical Sciences'') is a [[peer review|peer-reviewed]] [[scientific journal]]. It is an English translation of the [[Russia]]n journal of physics, '''''Uspekhi Fizicheskikh Nauk''''' ({{lang-ru|Успехи физических наук}}) which was established in 1918.<ref name=KAP176>{{cite book |title=Experiment, theory, practice: articles and addresses |author=[[Pyotr Kapitsa]] |year=1980 |publisher=[[Springer Science+Business Media]] |isbn=9027710627 |url=http://books.google.com/books?id=bWspwxJGpgAC&pg=PA176|page=176}}</ref> The journal publishes long review papers which are intended to generalize and summarize previously published results, making them easier to use and to understand. The journal covers all topics of modern physics. The English version has existed since 1958, first under the name '''''Soviet Physics Uspekhi''''' and after 1993 as ''Physics-Uspekhi''.
+
+The founder of the journal, [[Eduard Shpolsky]], was [[editor-in-chief]] from 1918 to his death in 1975.<ref name=KAP176/> [[Vitaly Ginzburg]], connected with the journal since before [[World War II]], was appointed editor-in-chief in 1998. In his 2006 [[List of Nobel laureates in Physics|Nobel]] autobiography, Ginzburg called it "a good and useful journal" and credited its "maintenance of the highest level" to long-term editorial manager M. S. Aksentyeva.<ref>{{cite book |author=[[Vitaly Ginzburg]] |title=On Superconductivity and Superfluidity: A Scientific Autobiography |publisher=Springer |year=2008 |ISBN=3540680047 | url=http://books.google.com/books?id=ufC9Ar8iuDcC&pg=PA172 |page=172}}</ref>
+
+==Abstracting and indexing==
+The journal is abstracted and indexed in:
+{{columns-list|colwidth=30em|
+* [[Science Citation Index]]
+* [[Current Contents]] 
+* [[Inspec]]
+* [[Physics Abstracts]] 
+* [[Chemical Abstracts]]
+* [[Scopus]] 
+* [[Chemical Abstracts Service]] 
+* [[Compendex]] 
+* [[INIS Atomindex]]
+* [[NASA Astrophysics Data System]]
+}}
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.865.<ref name=WoS>{{cite book |year=2013 |chapter=Physics-Uspekhi |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://ufn.ru/en/}} {{en icon}}
+* {{Official website|http://ufn.ru/}} {{ru icon}}
+
+
+[[Category:Physics journals]]
+[[Category:Publications established in 1918]]
+[[Category:English-language journals]]
+[[Category:Russian-language journals]]
+[[Category:Monthly journals]]
+[[Category:IOP Publishing academic journals]]

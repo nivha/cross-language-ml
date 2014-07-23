@@ -1,0 +1,40 @@
+'''Richard Anthony Harrison''' [[MBE]] [[Fellow of the Royal Astronomical Society|FRAS]] [[Fellow of the Institute of Physics|FInstP]] is the Head of Space Physics Division and Chief Scientist at the [[Rutherford Appleton Laboratory]] in the [[United Kingdom]].  He is best known for his magnetic twisting theory involving the [[Corona|Coronal heating problem]] of the [[Sun]]'s [[Stellar atmosphere|atmosphere]].
+
+He was born in [[Solihull]], [[West Midlands (County)]] and attended [[Birmingham University]].
+
+Richard Harrison received his B.Sc in 1979 and his Ph.D. in 1983 from the University of Birmingham, United Kingdom. He then became SER (Research Fellow at the Space Research Department, University of Birmingham, and from 1986 Scientific Officer up to grade 7 of the Astrophysics division of the Rutherford Appleton Laboratory. From 1985-1986 he was visiting Scientists at the HAO in Boulder, USA. His main interest has been solar physics research, and he was instigator of the first multi-observatory observation of coronal mass ejections, joint leader at the 81.5&nbsp;MHz radio array at Cambridge, principal scientists for the first mm observations of the Sun and principal investigator of the Coronal Diagnostic Spectrometer on SOHO. Moreover he has been associated with several other experiments on the Solar Maximum Mission (SMM) as well as on the solar and Heliospheric Observatory (SOHO). He has been author or co-author of more than 70 articles published in international journals and books.
+
+Richard Harrison served as Editor of the Society’s journal Annales Geophysicae and as General Editor for the COSPAR Information Bulletin as well as member of several committees related to the Royal Society and to ESA, COSPAR or EGS.
+
+Richard Harrison was awarded the NCAR Outstanding Publication Prize and the NASA Group Achievement Award, and he is Fellow of the Royal Astronomical Society, Member of the International Astronomical Union and Corresponding Member of the International Academy of Astronautics.
+
+He was awarded the MBE (Member of the Order of the British Empire) in the 2004 Queen's Birthday Honours List for his services to Solar Research.
+
+==In popular media==
+Harrison appeared in a [[Horizon (BBC TV series)]] TV program,  Secrets of the Star Disc, in 2004.<ref>http://www.imdb.com/name/nm1581214/</ref>
+
+Harrison was also acknowledged in the credits to [[Wonders of the Solar System]]: Empire of the Sun, 2010, a BBC TV series.<ref>http://www.imdb.com/name/nm1581214/</ref>
+
+== References ==
+<references />
+
+==External links==
+* [http://www.innovations-report.com/html/reports/physics_astronomy/report-33153.html Coronal heating problem]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Harrison, Richard Anthony
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    = [[Solihull]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Harrison, Richard}}
+[[Category:British space scientists]]
+[[Category:Living people]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Members of the Order of the British Empire]]
+[[Category:Alumni of the University of Birmingham]]
+[[Category:People from Solihull]]
+[[Category:Fellows of the Royal Astronomical Society]]

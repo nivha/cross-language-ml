@@ -1,0 +1,70 @@
+{{other people|Bruce Allen}}
+[[Image:Bruce Allen 2009.JPG|thumb|253px|right|Bruce Allen in 2009]]
+
+'''Bruce Allen'''  (born May 11, 1959) is an American physicist and director of the [[Max Planck Institute for Gravitational Physics]] in [[Hannover]] [[Germany]] and leader of the [[Einstein@Home]] project for the [[LIGO Scientific Collaboration]]. He is also a physics professor at the [[University of Wisconsin–Milwaukee]].  
+
+He has done research work on models of the very early universe (inflationary cosmology, cosmic strings).  Allen currently leads a research group working on the detection of [[gravitational waves]]. Allen's research work has been funded by the [[US National Science Foundation]] since 1987.
+
+== Education/Positions ==
+*1976      Graduated from Wayland High School, Wayland, Massachusetts, USA.  (Allen belonged to the class of 1977, but graduated a year early with the class of 1976.)
+*1980       B.S. in Physics, [[Massachusetts Institute of Technology]] (advisor: [[Rainer Weiss]])
+*1984      [[PhD]]. in [[Gravitation]] and [[Cosmology]], [[University of Cambridge]], England (advisor: [[Stephen Hawking]])
+*1983-1985 Postdoctoral Fellow, [[University of California Santa Barbara]] (Physics Department)
+*1985-1986 Postdoctoral Fellow, Tufts University (Physics Department)
+*1986-1987 Chercheur Associé, [[Observatoire de Paris]] - [[Meudon]], [[France]]
+*1987-1989 Research Assistant Professor, [[Tufts University]]
+*1989-1992 Assistant Professor of Physics, [[University of Wisconsin–Milwaukee]]
+*1992-1997 Associate Professor of Physics, [[University of Wisconsin–Milwaukee]]
+*1997-2007 Professor of Physics, [[University of Wisconsin–Milwaukee]]
+*2007-''present'' Adjunct Professor of Physics, [[University of Wisconsin–Milwaukee]]
+*2007-''present'' Director, Department of Observational Relativity and Cosmology, [[Albert Einstein Institute (Hannover)|Albert Einstein Institute]], Hannover, Germany
+*2008-''present'' Honorary Professor of Physics, [[University of Hanover]]
+
+== Visiting Appointments ==
+*1994     Six months, [[Isaac Newton]] Mathematical Institute, Cambridge, England
+*1995     Six months, Caltech Relativity Group
+*1997     One year, Caltech LIGO Project
+*1999     Six months, Caltech LIGO Project
+*2000-2005 Few months/year, [[Albert Einstein Institute (Potsdam)|Albert Einstein Institute]], Potsdam, Germany
+
+== Awards ==
+*1980 Phi Beta Kappa, MIT
+*1980-5    NSF Graduate Fellowship (declined)
+*1980-2    Churchill Scholarship (declined)
+*1980-2   [[Marshall Scholar]], University of Cambridge
+*1981     Knight Prize, University of Cambridge
+*1990     First Prize, [[Gravity Research Foundation]]
+*1997     University of Wisconsin – Milwaukee, Graduate School Research Award
+*2002-3   Friedrich Wilhelm Bessel Award, [[Alexander von Humboldt Foundation]]
+*2004     Elected Fellow, Institute of Physics (UK)
+*2005     Elected Fellow, [[American Physical Society]]
+
+==External links==
+*[http://www.lsc-group.phys.uwm.edu/~ballen/ Bruce Allen faculty page] at [[University of Wisconsin–Milwaukee]]
+*[http://www.aei.mpg.de/hannover-en/09-staff/00-details/allen/index.html Bruce Allen's page at the Albert Einstein Institute]
+*[http://scholar.google.com/citations?user=Go3Pt4gAAAAJ&hl=en Bruce Allen's publications on Google Scholar]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Allen, Bruce
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American physicist
+| DATE OF BIRTH     = May 11, 1959
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Allen, Bruce}}
+[[Category:1959 births]]
+[[Category:American astronomers]]
+[[Category:American physicists]]
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:University of California, Santa Barbara]]
+[[Category:Tufts University faculty]]
+[[Category:University of Wisconsin–Milwaukee faculty]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Marshall Scholars]]
+
+
+{{US-physicist-stub}}

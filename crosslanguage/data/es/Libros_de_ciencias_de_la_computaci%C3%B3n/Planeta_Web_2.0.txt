@@ -1,0 +1,34 @@
+Planeta Web 2.0 también denominado por su nombre completo Planeta Web 2.0. Inteligencia colectiva o medios fast food es un e-book publicado en el año 2007 bajo licencia Creative Commons, por los académicos Cristóbal Cobo Romaní y Hugo Pardo Kuklinski (con prólogo de Alejandro Piscitelli).
+
+== Introducción ==
+
+Este trabajo reflexiona si se vive una fase determinante y creativa de la inteligencia colectiva o si simplemente se trata de un escenario de medios fast food, de consumo rápido y de carácter amateur en rápida transición hacia una nueva etapa evolutiva de Internet.
+
+El libro está conformado por: un glosario, una introducción, un prólogo, siete capítulos y una bibliografía. Además, cada capítulo cuenta con un resumen de las 5 nociones básicas de éste y más una selección de 5 lecturas básicas.
+
+El capítulo uno introduce al lector en la Web 2.0 y sus principios y diseña unos ejes analíticos para el trabajo posterior. En tanto, el capítulo dos propone volver a los orígenes de la Web, allá por los años 1990 de la mano de Berners-Lee y su concepto de intercreatividad. El objeto es enfatizar cómo –en el origen de la World Wide Web– se encontraban ya los elementos esenciales de esta nueva ola comercial 2.0, lo que demuestra que nada es tan nuevo como parece. El capítulo gira también sobre otros conceptos complementarios al de intercreatividad como inteligencia colectiva (Pierre Lévy), multitudes inteligentes (Howard Rheingold), sabiduría de las multitudes (James Surowiecki), colaboratorio (Koichirō Matsuura y arquitectura de la participación (Tim O'Reilly).
+
+En el capítulo tres se presenta un detallado mapa de aplicaciones Web 2.0. El propósito es cartografiarla, presentar algunas líneas fundamentales de su arquitectura y destacar aquellas que resultan más creativas y eficientes para los múltiples usos relacionados con la gestión del conocimiento. Aunque la sobreoferta, la artificialidad y la falta de autenticidad de muchas aplicaciones que, más que aportar, confunden y le quitan transparencia al entorno. Este trabajo se hace con la conciencia de que todo esfuerzo de sistematizar, clasificar y depurar los recursos Web 2.0 es un hara-kiri académico, tratándose de un ecosistema vivo y en una interminable fase de transición.
+
+El capítulo cuatro recopila y refuerza algunos juicios críticos que circulan en el entorno académico. Alertando al lector sobre la dificultad de encontrar comparaciones objetivas entre tecnologías en un ambiente comercial, más ocupado en retener mercados cautivos y/o conquistar nuevos públicos, que en darle al consumidor una visión honesta del negocio. Como contraparte al triunfalismo de la Web 2.0 se encuentran: la carencia de un auténtico modelo de negocio asociado al éxito de consumo; las irresueltas violaciones al copyright; la escasa consolidación de formas alternativas de construcción del conocimiento comunitario; la alfabetización digital y sus zonas de exclusión; el ruido y la indigencia informativa como paradoja del exceso de información; el amateurismo como bandera de los bullshitters y predicadores que promueven la sobrevaloración del periodismo colaborativo; y las limitaciones del preferential attachment de la ciencia de las redes para crear un flujo más democrático en la construcción y visibilidad de los nodos.
+
+Posteriormente, en el capítulo cinco, se analiza un área de acción clave asociada a esta fase de escritura social: las aplicaciones educativas. Es fundamental comprender la potencialidad de la arquitectura de la participación en la educación formal, así como valorar a las computadoras conectadas en red como herramientas para acceder, administrar, integrar, evaluar y crear información. Todo esto con el objeto de estimular un modelo de aprendizaje basado en la construcción del conocimiento social, producido gracias a las redes que contribuyen a consolidar la inteligencia colectiva.
+
+Un último punto de análisis, expuesto en el capítulo seis, plantea la novedosa convergencia entre las aplicaciones Web 2.0 y la tercera generación de mobile devices. Este fenómeno se presenta a partir de las atractivas posibilidades que la sociedad en red móvil ofrece a nivel de ubicuidad y productividad, con redes inalámbricas cada vez más poderosas en su capacidad de procesamiento, un creciente ancho de banda de conexión a Internet vía móvil, aparatos híbridos, comunidades en línea cada vez más potentes y modelos de negocio emergentes. En esta sección se adaptan los 7 principios constitutivos de O’Reilly al Mobile Web 2.0 y se analizan tanto los aspectos de mercado relacionados al consumo, fabricantes y operadores; como los aspectos vinculados a los productos, a los contenidos y a sus interfaces gráficas.
+
+En el capítulo de cierre se rescata, a modo de speaker corner, las ideas de los actores a través de comments seleccionados de los usuarios, habitantes del Planeta Web 2.0. Además, se establece un puente entre la Web social y la ansiada Web semántica.
+
+== Enlaces externos ==
+
+* Web oficial del Libro
+* Blog oficial del Libro
+* Referencias en Technorati
+* Podcast sobre el Libro
+* Versión en línea en Google Book
+* Wiki oficial del Libro
+* Publicación en Organización de Estados Iberoamericanos
+* Publicación en Microsiervos
+* Observatorio para la CiberSociedad
+
+Categoría:Libros de informática
+Categoría:Internet

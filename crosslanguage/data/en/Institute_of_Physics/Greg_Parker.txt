@@ -1,0 +1,33 @@
+{{multiple issues|
+{{notability|date=January 2009}}
+{{COI|date=April 2011}}
+}}
+
+'''Greg Parker''' (born 1954) was a Professor of [[Photonics]] at the [[University of Southampton]], [[Hampshire]], [[England]] in September 2010 after 23 years of research and lecturing.  He is now CEO of his Consultancy company Parker Technology which is detailed on the Concept2Innovation web site [http://www.concept2innovation.com/].  His research interests at the University included the design and construction of UHV compatible semiconductor deposition systems, and the design and fabrication of Photonic Crystal circuits and devices. Now he is involved with all things photographic including deep-sky imaging, macrophotography, microphotography, pin-hole camera photography and high-speed flash photography [http://www.highspeedflash.com/] he is the designer and developer of revolutionary new ultra-high speed Xenon flash equipment.  His general photographic work is featured on the Scientific Artist web site [http://www.scientificartist.com/]
+
+He has published over 120 refereed journal and conference papers, a textbook on Solid-State Physics called Introductory Semiconductor Device Physics ISBN 0-7503-1021-9, a "How to" book on Deep-Sky astrophotography titled "Making Beautiful Deep-Sky Images" ISBN 978-0-387-71352-6, and a large format coffee-table book of deep-sky images taken from the New Forest Observatory [http://www.newforestobservatory.com/] called Star Vistas ISBN 978-0-387-88435-6.  He has 13 granted patents on optical devices and circuits and has created three successful companies.  His most recent spin-out from Southampton University was Mesophotonics Ltd. [http://www.mesophotonics.com].
+
+At present he is constructing the World's most powerful amateur deep-sky imaging system, the mini-WASP imaging array, named after the SuperWASP array [http://www.superwasp.org/] built for the Wide Angle Search for Planets.  His deep-sky imaging work and his progress on the construction of the mini-WASP array can be followed on his New Forest Observatory web site [http://www.newforestobservatory.com/]
+
+Greg is a Chartered Engineer, a Chartered Physicist, and a Fellow of the [[Institute of Physics]].
+He also is the first cousin of actor [[Richard Beckinsale]] the father of actress [[Kate Beckinsale]].
+
+{{Authority control|VIAF=34784514}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Parker, Greg
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1954
+| PLACE OF BIRTH    = Essex, U.K.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Parker, Greg}}
+[[Category:Academics of the University of Southampton]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:1954 births]]
+[[Category:Living people]]
+
+
+{{UK-physicist-stub}}

@@ -1,0 +1,54 @@
+{{Infobox journal
+| cover = 
+| editor = Pavel P. Pashinin
+| discipline = [[Laser physics]]
+| abbreviation = Laser Phys.
+| publisher = [[IOP Publishing]]
+| country = 
+| frequency = Monthly
+| history = 1990–present
+| openaccess = 
+| impact = 2.545
+| impact-year = 2012
+| website = http://www.lasphys.com/lasphys
+| link1 = http://www.lasphys.com/lasphys/#?lponline.php
+| link1-name = Online access
+| link2 = http://iopscience.iop.org/1555-6611
+| link2-name = Journal page at publisher's website
+| JSTOR =
+| OCLC = 22937678
+| LCCN = 
+| CODEN = LAPHEJ
+| ISSN = 1054-660X
+| eISSN = 1555-6611
+}}
+'''''Laser Physics''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering all fundamental and application aspects of [[laser science]]. It was established in 1990 (first printed in 1991) at the initiative of [[Alexander M. Prokhorov]], who served as [[editor-in-chief]] until his death in 2002. The journal was published by [[MAIK Nauka/Interperiodica]] from 1991 to 2005, then by [[Springer Science+Business Media]] from 2006 to 2012.<ref>http://www.lasphys.com/lasphys/#?lponline.php</ref> The current publisher is [[IOP Publishing]], which has published the journal since 2013.<ref name=JISC>[http://www.jisc-collections.ac.uk/UKSG/275/IOP-Publishing-and-Astro-Ltd/?n=121b8a3f-e721-4bc0-8354-7ad4d47f99de UKSG]. Retrieved 2013-09-20</ref> The current editor-in-chief is [[Pavel P. Pashinin]].
+
+==Indexing and abstracting==
+''Laser Physics'' is indexed and abstracted in the following databases:
+*[[Current Contents]]
+*[[SciSearch]]
+*[[Research Alert]]
+*[[INSPEC]]
+
+== See also ==
+*[[Laser]]
+*[[Laser science]]
+* ''[[Laser Physics Letters]]''
+
+== References ==
+{{reflist}}
+
+==Further reading==
+* [http://www.maik.ru/full/lasphys/91/1/lasphys1_91p0_1.pdf Opening editorial by Alexander M. Prokhorov]
+
+==External links==
+* {{Official website|http://www.lasphys.com/lasphys/}}
+
+
+[[Category:Optics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Laser science]]
+[[Category:Monthly journals]]
+[[Category:Publications established in 1990]]
+[[Category:English-language journals]]

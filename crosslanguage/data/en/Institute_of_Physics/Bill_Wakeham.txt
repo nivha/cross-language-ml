@@ -1,0 +1,54 @@
+__NOTOC__
+[[File:Wakeham2013.jpg|thumb|right|Sir William (Bill) Wakeham at the Institute of Physics 20 May 2013]]
+'''Sir William Arnot Wakeham''' (born 25 September 1944<ref name=Debretts>[http://www.debretts.com/people/biographies/browse/w/11868/William%20Arnot%20WAKEHAM.aspx Debrett's People of Today]</ref>)  is a [[United Kingdom|British]] [[chemical engineer]].  From 2001 to 2009 he was [[Vice-Chancellor]] of the [[University of Southampton]].
+
+==Education==
+Wakeham received his undergraduate and graduate degrees in physics at [[Exeter University]].<ref name ="RAEng">[http://www.raeng.org.uk/international/activities/pdf/UK_Japan_Symposium_Green_Manufacturing_Eco_innovation/speaker_biographies.pdf Royal Academy of Engineering biographies, Accessed 2014_01_25]</ref>
+
+==Career==
+He served as a Research Associate at [[Brown University]], in [[Providence County, Rhode Island|Providence, Rhode Island]]. In 1971 appointed lecturer in the Department of Chemical Engineering and Chemical Technology at [[Imperial College, London]]. He was successively Reader in 1979, Professor of Chemical Physics in 1985, and head of the Department of Chemical Engineering in 1988.
+
+His academic specialty is [[thermodynamics]], particularly the thermophysical properties of [[fluids]] and intermolecular forces.
+
+In 1996 he was appointed Pro-Rector (Research) and subsequently also Deputy Rector and  Pro-Rector (Resources) at Imperial College, holding these positions simultaneously,<ref name=DTI>[http://www.dti.gov.uk/files/file14518.pdf www.dti.gov.uk Council for the Central Laboratory of the Research Councils: Office of Science and Technology Review of the Quinquennial Review (QQR) Accessed 2014_01_26]</ref> and overseeing the college's medical school formation in 1997 from the merger of [[St Mary's Hospital Medical School]], [[Charing Cross and Westminster Medical School]] (formerly [[Charing Cross Hospital Medical School]] and [[Westminster Hospital Medical School]]), the [[Royal Postgraduate Medical School]] and the [[National Heart and Lung Institute]].
+
+In 2007 the then [[Secretary of State for Innovation, Universities and Skills]], Rt. Hon. [[John Denham]] MP invited him to chair a review of UK physics<ref name=RCUK>[http://www.rcuk.ac.uk/reviews/current/physics/Pages/home.aspx RCUK Review of Physics]</ref> which reported in October 2008.
+
+He is a Visiting Professor at Imperial College. He is a member of the [[Engineering and Physical Sciences Research Council]] (EPSRC) and chairs their Resource Audit Committee. He is
+a member of the [[South East England Development Agency]] (SEEDA) Board. He is a member of the [[European Union]] expert panel on philanthropy and universities. He is UK Chair of the British-Italian Partnership Programme.<ref>[http://www.britishcouncil.org/it/italy-science-partnership-programme-wakeham.htm British Council, Accessed 2014_)1_25]</ref>
+
+==Honours==
+He was [[Knight Bachelor|knighted]] in the 2009 Birthday Honours.<ref>{{London Gazette |issue=59090 |date=13 June 2009 |startpage=1 |supp=yes }}</ref>  He was President of the [[Institution of Chemical Engineers]] 2011&ndash;2.<ref name=IChemENews>[http://www.icheme.org/media_centre/news/2011/sir%20william%20elected%20new%20icheme%20president.aspx www.icheme.org] News 23 May 2011 "Sir William appointed new IChemE president"</ref> He is a [[Chartered Engineer (UK)|Chartered Engineer]], [[Chartered Physicist]] and Fellow of: the [[Royal Academy of Engineering]]; the [[Institution of Chemical Engineers]], the [[Institution of Electrical Engineers]], the [[Institute of Physics]] and Imperial College London<ref name=ImpColl>[http://www.imperial.ac.uk/college.asp?P=4662 2003 Fellows of Imperial College Announced]</ref><ref name ="RAEng"/> He ia a Touloukian Medal holder from the [[American Society of Mechanical Engineers]] (1997) and holds honorary degrees from [[Lisbon University]], [[Exeter University]],<ref name=Exeter>[http://emps.exeter.ac.uk/about/sab/ Exeter Honorary Degree]</ref> [[Loughborough University]]<ref name=Loughborough>[http://www.lboro.ac.uk/admin/ar/graduation/hongrads/2010/ww/index.htm Loughborough Honorary Graduates 2010]</ref>
+
+==Personal life==
+He married first in 1969, Christina Marjorie Stone and they had one son. They divoced in 1974. He married second Sylvia Frances Tolley in 1978 and they had two sons.<ref>[http://www.ukwhoswho.com/view/article/oupww/whoswho/U38487, Wakeham, Sir William (Arnot)’, Who's Who 2014, A & C Black, an imprint of Bloomsbury Publishing plc, 2014; online edn, Oxford University Press, Dec 2013; accessed 2014_01_26]</ref>
+
+==See also==
+* [[List of University of Southampton people]]
+* [http://www.southampton.ac.uk/mediacentre/news/2009/jun/09_85.shtml University of Southampton page announcing Prof Wakeham's knighthood and summarising his career]
+
+==References==
+{{reflist|3}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Wakeham, Bill
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British chemical engineer
+| DATE OF BIRTH     = 25 September 1944
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wakeham, Bill}}
+[[Category:British chemical engineers]]
+[[Category:British academics]]
+[[Category:Engineering academics]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Living people]]
+[[Category:1944 births]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Institution of Electrical Engineers]]
+[[Category:Knights Bachelor]]
+[[Category:Alumni of the University of Exeter]]
+[[Category:Academics of Imperial College London]]

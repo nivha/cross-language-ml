@@ -1,0 +1,74 @@
+{{dablink|For other journals with similar names, see [[Journal of Optics (disambiguation)]].}}
+{{Infobox journal
+| title = Journal of Optics
+| formernames = Revue Générale d’Optique et de Mechanique de Précision, Revue d'Optique, Nouvelle Revue d'Optique Appliquée
+| cover = 
+| editor = [[Nikolay I. Zheludev]]
+| discipline = [[Optics]], [[photonics]]
+| abbreviation = J. Opt.
+| publisher = [[IOP Publishing]]
+| country =
+| frequency = Monthly
+| history = 1912-present
+| openaccess = 
+| impact = 1.990
+| impact-year = 2012
+| website = http://iopscience.iop.org/2040-8986/
+| link1 = http://iopscience.iop.org/1464-4258
+| link1-name = Journal of Optics A
+| link2 = http://iopscience.iop.org/1464-4266
+| link2-name = Journal of Optics B
+| link3 = 
+| link3-name =
+| JSTOR =
+| OCLC = 506264207
+| LCCN = 2010238158
+| CODEN =
+| ISSN = 2040-8978
+| eISSN = 2040-8986
+}}
+The '''''Journal of Optics''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering all aspects of modern and classical [[optics]], experimental and theoretical studies, applications and [[instrumentation]]. It is the official journal of the [[European Optical Society]] and is published by [[IOP Publishing]]. The [[editor-in-chief]] is [[Nikolay I. Zheludev]] ([[University of Southampton]]). According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 1.990.<ref name=WoS>{{cite book |year=2013 |chapter=Journal of Optics |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}}</ref>
+
+==History==
+The journal was established in 1912 as the ''Revue Générale d’Optique et de Mécanique de Précision''. Publication was suspended during the [[First World War]] and only resumed in 1921, when the name was shortened to ''Revue d'Optique''. Due to the [[Second World War]], publication was again suspended in 1944, but resumed in 1947. After another suspension in 1968, the journal re-appeared in 1970 as the ''Nouvelle Revue d'Optique Appliquée''. In 1977 it was renamed ''Journal of Optics''.<ref>{{cite journal |last=Howard |first=J. N. |year=2005 |title=The History of a Journal: How the ''Revue d’Optique'' Became the ''Journal of Optics'' |url=http://www.osa-opn.org/Content/ViewFile.aspx?id=7032 |journal=[[Optics & Photonics News]] |volume=16 |issue=4 |page=12–13 |bibcode= |doi=}}</ref> in 1998 it merged with ''[[Pure and Applied Optics|Pure and Applied Optics: Journal of the European Optical Society Part A]]'' and was renamed ''Journal of Optics A: Pure and Applied Optics''. As part of the merger the other publication of the European Optical Society, ''[[Quantum and Semiclassical Optics|Quantum and Semiclassical Optics: Journal of the European Optical Society Part B]]'', was renamed ''Journal of Optics B: Quantum and Semiclassical Optics''.
+
+In 2006, ''Journal of Optics B'' was merged into ''[[Journal of Physics B: Atomic, Molecular and Optical Physics]]''. ''Journal of Optics A'' was renamed ''Journal of Optics'' in January 2010,<ref>
+{{cite journal
+ |last=Zheludev |first=N. I.
+ |year=2010
+ |title=Changes to the journal
+ |url=http://iopscience.iop.org/2040-8986/12/1/010201/pdf/2040-8986_12_1_010201.pdf
+ |journal=Journal of Optics
+ |volume=12 |issue=1 |page=010201
+ |bibcode = 2010JOpt...12a0201Z
+ |doi=10.1088/2040-8986/12/1/010201
+}} (editorial)</ref> as it is now the only journal continuing the ''Journal of Optics'' series.
+
+==Abstracting and indexing==
+The journal is abstracted and indexed in:
+{{columns-list|colwidth=30em|
+* [[CSA (database company)|Environmental Engineering Abstracts]]
+* [[CSA (database company)|Bioengineering Abstracts]]
+* [[Inspec]]
+* [[Chemical Abstracts Service|Chemical Abstracts]]
+* [[Mass Spectrometry Bulletin]]
+* [[Compendex|Engineering Index/Compendex]]
+* [[Science Citation Index]]
+* [[Current Contents]]/Physical, Chemical and Earth Sciences
+* Current Contents]/Engineering, Computing and Technology
+* [[PASCAL (database)|PASCAL Database]]
+* [[Aerospace Database]]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://iopscience.org/jopt ''Journal of Optics'' website]
+:* [http://iopscience.iop.org/1464-4258/ ''Journal of Optics A: Pure and Applied Optics'' website]
+:* [http://iopscience.iop.org/1464-4266/ ''Journal of Optics B: Quantum and Semiclassical Optics'' website]
+* [http://www.myeos.org/ European Optical Society]
+
+[[Category:Optics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Monthly journals]]

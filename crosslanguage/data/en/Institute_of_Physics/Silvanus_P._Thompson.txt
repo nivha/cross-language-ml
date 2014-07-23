@@ -1,0 +1,124 @@
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox scientist
+|name              = Silvanus Phillips Thompson
+|image             = Thompson_Silvanus_mature.jpg
+|image_size       = 150px
+|caption           = Silvanus Thompson (1851–1916)<ref>Photograph from Thompson's obituary in Proceedings of the Royal Society A, 1917–1918, vol. 94, pp xvi–xix.  See also ''Silvanus Thompson, His Life and Letters'', Unwin, London, 1920 by Thompson and Thompson.</ref>
+|birth_date        = 19 June 1851
+|birth_place       = [[York]], England
+|death_date        = 12 June 1916
+|death_place       =
+|residence         =
+|citizenship       =
+|nationality       = England
+|ethnicity<ref>Bright, C. "Submarine Telegraphs", C. Lockwood, London, 1898.pp 686–689</ref>      =
+|field             = [[Physics]], [[Electrical Engineering]]
+|work_institutions =
+|alma_mater        =
+|doctoral_advisor  =
+|doctoral_students =
+|known_for         = [[Calculus Made Easy]]
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|prizes            =
+|religion          =
+|footnotes         =
+|signature         =
+}}
+	
+'''Silvanus Phillips Thompson''' [[Fellow of the Royal Society|FRS]] (19 June 1851 – 12 June 1916) was a professor of physics at the [[City and Guilds of London Institute|City and Guilds Technical College]] in [[Finsbury]], England. He was elected to the [[Royal Society]] in 1891 and was known for his work as an [[electrical engineer]] and as an author. Thompson's most enduring publication is his 1910 text ''[[Calculus Made Easy]]'', which teaches the fundamentals of [[infinitesimal calculus]], and is still in print.<ref>The original version is now in the public domain.  A new edition has been updated and edited by [[Martin Gardner]].</ref> Thompson also wrote a popular physics text, ''Elementary Lessons in Electricity and Magnetism,''<ref>''Silvanus Phillips Thompson, radiology and the Röntgen Society'' by Adrian M K Thomas, British Society for the History of Radiology, Department of Radiology, Princess Royal University Hospital, Orpington, Kent BR6 8ND</ref> as well as biographies of [[Lord Kelvin]] and [[Michael Faraday]].
+
+==Biography==
+Silvanus Thompson was born in the year of the [[Great Exhibition]] of 1851 to a [[Quaker]] family in [[York]], England. His father served as a master at the Quaker [[Bootham School]]<ref>{{cite book|first=Bootham Old Scholars Association |title=Bootham School Register|place=York, England|publisher=BOSA|year=2011|ref=harv}}</ref> in York and he also studied there. In 1873 Silvanus Thompson was made the science master at the school.
+
+On 11 February 1876 he heard [[Sir William Crookes]] give an evening discourse at the [[Royal Institution]] on ''The Mechanical Action of Light'' when Crookes demonstrated his light mill or [[Crookes radiometer|radiometer]]. Thompson was intrigued and stimulated and developed a major interest in light and optics (his other main interest being [[electromagnetism]]).  In 1876 he was appointed as a lecturer in [[Physics]] at [[University College, Bristol]], and later was made Professor in 1878 at the age of 27.
+
+[[Image:Silvanus Thompson age 25.jpg|thumb|200px|left|Silvanus Thompson, at about the age of 25.<ref>Photograph from Thompson and Thompson (1920), ''Silvanus Thompson, His Life and Letters'', London: [[Stanley Unwin (publisher)|Unwin]].</ref>]]
+
+A major concern of Thompson was the area of technical education and he made a series of continental tours to France, Germany and Switzerland to compare the continental approach to that in the UK. In 1879 he gave a paper at the [[Royal Society of Arts]] on ''Apprenticeship, Scientific and Unscientific'' in which he detailed the deficiencies in technical education in England. In the discussion, the opinion was expressed that England was too conservative to make use of trade schools and that continental methods would not be applicable in the UK. Thompson recognised that technical education was the means by which scientific knowledge could be put into action and spent the rest of his life putting his vision into practical realisation.
+
+In 1878 the [[City and Guilds of London Institute]] for the Advancement of Technical Education was founded. [[Finsbury]] Technical College was a teaching institution created by the City and Guilds Institute and it was as its Principal and Professor of Physics that Thompson was to devote the next 30 years.
+
+Thompson's particular gift was in his ability to communicate difficult scientific concepts in a clear and interesting manner. He attended and lectured at the Royal Institution giving the [[Royal Institution Christmas Lectures|Christmas lectures]] in 1896 on ''Light, Visible and Invisible'' with an account of [[Wilhelm Röntgen|Röntgen Light]]. He was an impressive lecturer and the radiologist AE Barclay said that: “None who heard him could forget the vividness of the word-pictures he placed before them.”
+
+In 1891 Thompson developed the idea of a telegraph submarine cable that could increase the distance of the electrical pulse and therefore increase the speed of transmitting words across the telegraph cable. Until then there was an average speed of between 10 to 50 words per minute but his design was to counteract the discharging of electrical energy across the cable by introducing a return earth as part of the internal electrical structure of the cable (something like [[coaxial cable]] today). His idea, written about by Charles Bright in his book "Submarine Telegraphs", discusses the idea that the two wires could be designed as separate conductors but along their path they would be connected by an induction coil. This would allow for the introduction of capacitance and therefore allow for the distance of the electrical charge to increase so increasing the word count. This was a design that would help revolutionise submarine telegraphy and the future of telephone submarine systems.
+
+[[Image:Silvanus Thompson lecturing.jpg|thumb|250px|right|Silvanus Thompson lecturing at the [[Royal Institution]]<ref>Photograph from Thompson and Thompson (1920), ''Silvanus Thompson, His Life and Letters'', London: [[Stanley Unwin (publisher)|Unwin]]</ref>]]
+
+Thompson repeated Röntgen's experiments on the day after the discovery was announced in the UK and following this gave the first public demonstration of the new rays at the [[Clinical Society of London]] on 30 March 1896. [[William Hale White]] said: “The audience was thrilled, most seeing for the first time actual pieces of bones and metal. Silvanus Thompson was a prince among lecturers. I have never heard a better demonstration or attended a more memorable medical meeting.”
+
+He was the first President of the Röntgen Society (later to become the [[British Institute of Radiology]]<ref>[http://www.aim25.ac.uk/cgi-bin/search2?coll_id=7259&inst_id=81] and [http://www.bir.org.uk/ British Institute of Radiology]</ref>). He described the society as being between medicine, physics and photography. It was his genius that put its stamp on that society and has made it into the rich amalgam of medical, scientific and technical members that it is today. As he said in his presidential address to the Röntgen Society: “The pioneers have opened the way into the wilderness; they are now being followed by those who will occupy the new territory, complete its survey, and map out its features. Not until every corner is explored and charted will the work of our Society be ended.”
+
+In 1900 Thompson was involved in the controversial [[Whitehall]] attack on [[Guglielmo Marconi|Marconi]]'s patents, when the [[Post Office (United Kingdom)|Post Office]] commissioned both him and [[Professor Oliver Lodge]] to produce secret reports. The purpose was either to declare the [[Marconi Company]] patents invalid, or to produce similar, but technically different equipment: the latter involved Thompson. When the [[Admiralty]] received the two reports it was the pioneer of wireless telegraphy Captain (later, Admiral Sir) [[Henry Jackson (Royal Navy officer)|Henry Jackson]], then commanding HMS Vulcan, whose opinion led a senior naval officer to report, "it would be unworthy to try to evade the Marconi Company's patent."
+
+Thompson was committed to truth in all aspects and his 1915 [[Swarthmore Lecture]] delivered to the [[Society of Friends]] was ''The Quest for Truth'', indicating his belief in truth and integrity in all aspects of our lives. Thompson remained an active member of the [[Religious Society of Friends]], throughout his life<ref>''[[Oxford Dictionary of National Biography]]'' article by Arthur Smithells, 'Thompson, Silvanus Phillips (1851–1916)’, revised by Graeme J. N. Gooday, online edn, May 2006 [http://www.oxforddnb.com/view/article/36496], accessed 8 December 2006</ref>
+
+==Literary works==
+[[File:S.P.Thompson plaque.jpg|thumb|200px|Plaque for Thompson, on the front of the main building at [[Bootham School]], York.]]
+Thompson wrote many books of a technical nature particularly ''Elementary Lessons in Electricity & Magnetism'' (1890), ''Dynamo Electrical Machinery'' (1896) and the classic ''Calculus Made Easy'' which was first published in 1910, and is still in print.
+
+Thompson had many interests including painting, literature, the history of science, and working in his greenhouse.  He wrote biographies of [[Michael Faraday]] and [[Lord Kelvin]]. He also wrote about [[William Gilbert (astronomer)|William Gilbert]], the Elizabethan physician, and produced an edition of Gilbert's ''De Magnete'' at the Chiswick Press in 1900. In 1912, Thompson published the first English translation of ''Treatise on Light'' by [[Christiaan Huygens]].
+
+His scientific library of historical and working books is preserved at the [[Institution of Electrical Engineers]] and is a wonderful collection (he was President of the IEE). It includes many classic books on electricity, [[magnetism]] and [[optics]]. The collection consists of 900 rare books and 2500 nineteenth and early twentieth century titles, with approximately 200 autograph letters.
+
+==Lectures==
+In 1910 Thompson was invited to deliver the [[Royal Institution Christmas Lectures|Royal Institution Christmas Lecture]] on ''Sound: Musical and Non-Musical''.
+
+==Honours==
+* Thompson is one of the individuals represented on the [http://rpec.co.uk/engineerswalk/st_walk.html Engineers Walk] in Bristol, England.
+
+* Thompson was elected a [[Fellow of the Royal Society]] in 1891<ref>See the Royal Society's [http://www.royalsoc.ac.uk/page.asp?id=1727 web page] for the date or Thompson's election to membership.</ref> and was elected a member of the [[Royal Swedish Academy of Sciences]] in 1894.
+
+==Inventions==
+Thompson invented the [[permeameter]].<ref>http://www.1911encyclopedia.org/Permeameter</ref>
+
+In London, in 1910, Thompson was invoved in early attempts to stimulate the brain using a magnetic field. Many years after his death the technique would eventually become refined as [[Transcranial Magnetic Stimulation]].<ref>{{cite web |url=http://www.scholarpedia.org/article/Transcranial_magnetic_stimulation |title=Transcranial magnetic stimulation |author=Anthony T. Barker and Ian Freeston |publisher=scholarpedia.org |year=2007 |accessdate=28 June 2013}}</ref>
+
+==See also==
+*[[Marie Curie#New elements|Marie Curie]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+{{Wikisource author|Silvanus Phillips Thompson}}
+Sorted by date.
+
+* Bright, C. "Submarine Telegraphs", C. Lockwood, London, 1898.
+* Obituary in Proceedings of the Royal Society A, 1917–1918, vol. 94, pp xvi–xix
+* Obituary in [[Monthly Notices of the Royal Astronomical Society]], 1917, vol. 77, pp 305–307 – [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1917MNRAS..77..305. Online at ADS]
+* Thompson, Jane Smeal and Thompson, Helen G., [https://archive.org/details/silvanusphillips00thomrich ''Silvanus Phillips Thompson: His Life and Letters''] (London: T. Fisher Unwin, Ltd., 1920). Also available as the [http://books.google.com/books?id=Vb8EAAAAYAAJ (New York: E. P. Dutton and Company, 1920)] printing. [https://archive.org/search.php?query=silvanus%20thompson%20letters%20mediatype%3Atexts Additional different scannings of this book are available] at the [[Internet Archive]].
+* Lynch, A. C., "Silvanus Thompson: teacher, researcher, historian," IEE Proceedings, 1989, vol. 136, A(6), pp 306–312.
+* Gay, H. and Barrett, A., "Should the Cobbler Stick to his Last? Silvanus Phillips Thompson and the Making of a Scientific Career," British Journal for the History of Science, 2002, vol. 35, 151–86
+* {{Cite journal | last = Shipley | first = Brian C. | title = Gilbert, Translated: Silvanus P. Thompson, the Gilbert Club, and the Tercentenary Edition of De Magnete | journal = Canadian Journal of History |date=August 2003 | url = http://findarticles.com/p/articles/mi_qa3686/is_200308/ai_n9252195 | format =  – <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=author%3AShipley+intitle%3AGilbert%2C+Translated%3A+Silvanus+P.+Thompson%2C+the+Gilbert+Club%2C+and+the+Tercentenary+Edition+of+De+Magnete&as_publication=Canadian+Journal+of+History&as_ylo=2003&as_yhi=2003&btnG=Search Scholar search]</sup> }} {{dead link|date=April 2009}}
+* {{BBKL|t/thompson_s_p|band=32|autor=Claus Bernet|spalten=1420–1428}}
+
+==External links==
+* {{gutenberg author | id=Thompson,_Silvanus_Phillips | name=Silvanus Phillips Thompson}}
+
+{{Authority control|VIAF=46828206}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Thompson, S.P.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British academic physicist
+| DATE OF BIRTH     = 19 June 1851
+| PLACE OF BIRTH    = [[York]], England
+| DATE OF DEATH     = 12 June 1916
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Thompson, S.P.}}
+[[Category:1851 births]]
+[[Category:1916 deaths]]
+[[Category:People educated at Bootham School]]
+[[Category:People from York]]
+[[Category:English academics]]
+[[Category:English electrical engineers]]
+[[Category:English Quakers]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Presidents of the Physical Society]]
+[[Category:Academics of University College Bristol]]
+
+{{Link GA|pl}}

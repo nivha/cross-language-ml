@@ -1,0 +1,40 @@
+{{Infobox journal
+| title = Journal of Geophysics and Engineering
+| cover = 
+| editor = Yanghua Wang, Shouli Qu 
+| discipline = Geophysics and Engineering
+| abbreviation = J. Geophys. Eng.
+| publisher = [[IOP Publishing]]
+| country = United Kingdom
+| frequency = 6 issues per year
+| history = 2004&ndash;present 
+| openaccess = 
+| impact = 0.721
+| impact-year = 2012
+| website = http://iopscience.org/jge
+| link1 =
+| link1-name =
+| link2 =
+| link2-name =
+| JSTOR =
+| OCLC = 
+| LCCN =
+| CODEN = JGE0C3 
+| ISSN = 1742-2132
+| eISSN = 1742-2140
+}}
+The '''''Journal of Geophysics and Engineering''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering research and developments in [[geophysics]] and related areas of [[engineering]]. Although the journal has a predominantly [[applied science]] and [[engineering]] focus, it also publishes contributions in all Earth-physics disciplines from global geophysics to applied and engineering geophysics. The [[editor-in-chief|editors-in-chief]] are Yanghua Wang ([[Imperial College London]])<ref>[http://www3.imperial.ac.uk/people/yanghua.wang Professor Y Wang]. Imperial College London</ref> and Shouli Qu (Sinopec Geophysical Research Institute).
+
+== Abstracting and indexing ==
+The ''Journal of Geophysics and Engineering'' is abstracted and indexed in [[Science Citation Index Expanded]], [[Current Contents]]/Engineering, Computing and Technology, Current Contents/Physical, Chemical and Earth Sciences, [[Inspec]], [[Scopus]], [[Astrophysics Data System]], and [[GEOBASE]]. According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 0.721.<ref name=WoS>{{cite book |year=2011 |chapter=Journal of Geophysics and Engineering |title=2010 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |accessdate=2011-08-18 |work=Web of Science }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{Official website|http://iopscience.org/jge}}
+
+[[Category:Engineering journals]]
+[[Category:Geophysics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Physics journals]]

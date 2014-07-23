@@ -1,0 +1,83 @@
+{{For|other people of that name|Peter Williams (disambiguation)}}
+{{Infobox person
+| honorific_prefix          = 
+| name                      = Sir Peter Williams
+| honorific_suffix          = [[Order of the British Empire|CBE]], [[Fellow of the Royal Academy of Engineering|FREng]], [[Fellow of the Royal Society|FRS]]
+| image                     = 
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| birth_name                = Peter Michael Williams
+| birth_date                = {{Birth date and age|df=yes|1945|03|22}}
+| birth_place               = 
+| residence                 = 
+| nationality               = British
+| other_names               = 
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               = 
+| education                 = 
+| alma_mater                = [[University of Cambridge]]
+| occupation                = [[Physicist]]
+| years_active              = 
+| religion                  = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination              = <!-- Denomination should be supported with a citation from a reliable source -->
+| spouse                    = 
+| children                  = 
+| parents                   = 
+| relatives                 = 
+}}
+'''Peter Michael Williams''' (born 22 March 1945),<ref name=Birth>{{cite web|title=Birthday's today|url= http://www.telegraph.co.uk/archive/2012-3-22.html |publisher=The Telegraph|accessdate=20 April 2014|date=22 March 2012|quote=Sir Peter Williams, Chancellor, University of Leicester, 2005–10; Master of St Catherine's College, Oxford, 2000–2002, 67 }}</ref> [[Order of the British Empire|CBE]], [[Fellow of the Royal Academy of Engineering|FREng]], [[Fellow of the Royal Society|FRS]] is a [[United Kingdom|British]] [[physicist]].
+
+Williams completed his [[undergraduate degree|first degree]] and [[PhD]] with thesis titled ''Defect structure and luminescent properties of semiconductors'' at the [[University of Cambridge]], and began an academic career at [[Selwyn College, Cambridge|Selwyn College]]. He then moved to industry and worked first at VG Instruments and later [[Oxford Instruments]]. He was chairman of Oxford Instruments from 1991 until his retirement in 1999.
+
+Sir Peter is currently Chairman of the [[National Physical Laboratory, UK|National Physical Laboratory]] and Vice President and Treasurer of the [[Royal Society]]. He was previously Master of [[St Catherine's College, Oxford]] (2000&ndash;2002), President of the [[Institute of Physics]] (2000&ndash;2002), President of the [[British Association for the Advancement of Science]] (2002&ndash;2003) and Chairman of the UK's [[Engineering and Technology Board]] (2001&ndash;2006).<ref>{{cite web | url = http://www.etechb.co.uk/uploads/Catalyst%2025.pdf | title = Sir Gareth Roberts appointed as chairman | format = PDF | accessdate = 2007-02-08 }}</ref>  He has been a member of the [[InterAcademy Council|Interacademy Council]]'s Committee to Review the [[Intergovernmental Panel on Climate Change]] that reported in August 2010.   
+
+He received the CBE in 1992 and was [[knight bachelor|knighted]] in the [[Queen's Birthday Honours]] list of 1998. He was elected a [[fellow of the Royal Society]] in May 1999.
+
+In 2005 Williams became the fifth [[chancellor (education)|chancellor]] of the [[University of Leicester]]. He was also appointed patron for research at [[Marie Curie Cancer Care]]. He retired from this position in 2010.
+
+==References==
+<references/>
+*[http://www.innovation.gov.uk/rd_scoreboard/commentary_2004_1.asp Commentaries - Sir Peter Williams], Department of Trade & Industry, 2004
+*[http://www.the-ba.net/NR/rdonlyres/2801D78E-595D-47C7-A54C-FEF54A22AECC/0/3190Financials2003.pdf Patron Council Members] (PDF), The BA, 2003
+*[http://www.ox.ac.uk/blueprint/2002-03/1010/09.shtml New Heads of House], ''Oxford Blueprint'', 10 October 2002
+*[http://www.le.ac.uk/press/bulletin/bulletindec05-jan06.pdf New Chancellor Installed at Ceremony] (PDF), ''Bulletin'', University of Leicester, December 2005 / January 2006
+*[http://www.mariecurie.org.uk/aboutus/news/archive/newsarchive2005/sirpeterwilliamsisnewresearchpatron.htm Sir Peter Williams is new research patron], Marie Curie Cancer Care, 2005 news archive
+
+
+{{start box}}
+{{s-aca}}
+{{succession box
+| before=[[Raymond Plant, Baron Plant of Highfield|Raymond Plant]]
+| title=[[Master (college)|Master]] of [[St Catherine's College, Oxford]]
+| years=2000–2002 
+| after=[[Roger Ainsworth]]
+}}
+{{s-bef|before=[[Michael Atiyah|Sir Michael Atiyah]]}}
+{{s-ttl|title=[[Chancellor (education)|Chancellor]] of the<br />[[University of Leicester]]|years=2005–2010}}
+{{s-vac|Vacant|next=[[Bruce Grocott, Baron Grocott|The Lord Grocott]]}}
+{{end box}}
+
+{{Authority control|VIAF=39674333}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Williams, Peter
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 22 March 1945
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Williams, Peter}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Knights Bachelor]]
+[[Category:People associated with the University of Leicester]]
+[[Category:Masters of St Catherine's College, Oxford]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Institute of Physics]]
+[[Category:Presidents of the British Science Association]]
+
+
+{{UK-scientist-stub}}

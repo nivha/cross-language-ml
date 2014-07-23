@@ -1,0 +1,54 @@
+{{Distinguish|Journal of Cosmology}}
+{{Infobox journal
+| title         = Journal of Cosmology and Astroparticle Physics
+| cover         =
+| editor        = Viatcheslav Mukhanov 
+| discipline    = [[Cosmology]], [[Astroparticle physics]]
+| former_names  =
+| abbreviation  = J. Cosmol. Astropart. Phys.
+| publisher     = [[Institute of Physics|IOP Publishing]]/[[International School for Advanced Studies|SISSA]]
+| country       = United Kingdom/Italy
+| frequency     =
+| history       = 2003–present
+| openaccess    =
+| license       =
+| impact        = 6.036
+| impact-year   = 2012
+| website       = http://iopscience.iop.org/1475-7516
+| link1         =
+| link1-name    =
+| link2         =
+| link2-name    =
+| JSTOR         =
+| OCLC          = 51830717
+| LCCN          =
+| CODEN         = JCAPBP
+| ISSN          = 1475-7516
+| eISSN         =
+}}
+The '''''Journal of Cosmology and Astroparticle Physics''''' is an [[electronic journal|online-only]] [[peer review|peer-reviewed]] [[scientific journal]] focusing on all aspects of [[cosmology]] and [[astroparticle physics]]. This encompasses theory, observation, experiment, computation and simulation. It has been published jointly by [[Institute of Physics|IOP Publishing]] and the [[International School for Advanced Studies]] since 2003.
+
+== Abstracting and indexing ==
+''Journal of Cosmology and Astroparticle Physics'' is indexed and abstracted in the following databases:
+{{columns-list|colwidth=30em|
+*[[Astrophysics Data System]]
+*[[Chemical Abstracts Service]]
+*[[Current Contents]]/Engineering, Computing and Technology
+*[[Current Contents]]/Physical, Chemical and Earth Sciences
+*[[GEOBASE (database)|GEOBASE]]
+*[[Inspec]]
+*[[Mathematical Reviews|MathSciNet]]
+*[[Science Citation Index|Science Citation Index Expanded]]
+*[[Scopus]]
+*[[VINITI Database RAS|VINITI Abstracts Journal]] ([[Referativny Zhurnal|Referativnyi Zhurnal]])
+*[[Zentralblatt MATH]]
+}}
+
+== External links ==
+* {{Official|http://iopscience.iop.org/1475-7516}}
+
+[[Category:Astrophysics journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 2003]]
+[[Category:English-language journals]]
+[[Category:Monthly journals]]

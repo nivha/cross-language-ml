@@ -1,0 +1,68 @@
+{{Infobox journal
+| title = EPL
+| formernames = Europhysics Letters
+| cover = [[File:EPL-journal-cover-April-2013.jpg|180px]]
+| editor = Giorgio Benedek
+| discipline = [[Physics]]
+| abbreviation = Europhys. Lett.
+| publisher = [[EDP Sciences]]<br> [[IOP Publishing]]<br> [[Italian Physical Society]]
+| country = 
+| frequency = Biweekly
+| history = 
+| openaccess = [[Hybrid open access journal|Hybrid]]
+| license = 
+| impact = 2.260
+| impact-year = 2012
+| website = http://iopscience.iop.org/0295-5075
+| link1 = 
+| link1-name = 
+| link2 = 
+| link2-name = 
+| JSTOR = 
+| OCLC = 
+| LCCN = 
+| CODEN = EULEE8
+| ISSN = 0295-5075
+| eISSN = 1286–4854
+}}
+'''''EPL''''' is a [[peer review|peer-reviewed]] [[scientific journal]] published by [[EDP Sciences]], [[IOP Publishing]] and the [[Italian Physical Society]] on behalf of the [[European Physical Society]] and 17 other European physical societies. Prior to 1 January 2007 it was known as '''''Europhysics Letters'''''.
+
+== Scope ==
+EPL publishes original letters in all areas of physics, ranging from condensed matter topics and interdisciplinary research to astrophysics, geophysics, and plasma and fusion sciences, including those with application potential. The journal communicates new results and findings that merit rapid publication. EPL also publishes comments on letters previously published in the journal.
+
+EPL is focused on novel, scientifically significant, developing areas of science, including high-profile topics such as quantum simulators, topological insulators, metamaterials, soft matter, high-energy physics, and plasma physics and fusion sciences, as well as interdisciplinary areas such as bio-physics and medical-physics topics.<ref>http://ej.iop.org/pdf/pricing/catalogue2013.pdf</ref>
+
+== History ==
+EPL (or Europhysics Letters as it was formally known) was founded in 1986 by the European Physical Society (EPS), the Société Française de Physique (SFP) and its subsidiary EDP Sciences, the Società Italiana di Fisica (SIF) and the Institute of Physics (IOP). The new journal incorporated Lettere al Nuovo Cimento and Journal de Physique Lettres and was published by EPS, EDP Sciences and SIF until 2006.
+
+EPL is now published under the scientific policy and control of the EPS by EDP Sciences, IOP Publishing and SIF for a partnership of 17 European physical societies (the EPL Association).<ref>http://iopscience.iop.org/0295-5075/page/Partners</ref>
+
+== Abstracting, indexing, and impact factor ==
+According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 2.260.<ref name=WoS>{{cite book |year=2012 |chapter=EPL |title=2012 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}}</ref>
+
+It is indexed in the following bibliographic databases:
+{{Multicol}}
+*Aerospace & High Technology
+*[[Chemical Abstracts]]
+*[[Environmental Science and Pollution Management]]	
+*[[GEOREF]]	
+*[[INIS]]
+*[[Inspec]]
+*NASA Astrophysical Data System
+*[[Scopus]]
+*[[SPIRES]]	
+*Web of Science (SCI-E)
+
+== External links ==
+* {{official website|http://iopscience.iop.org/0295-5075}}
+
+== References ==
+{{Reflist}}
+
+[[Category:Physics journals]]
+[[Category:English-language journals]]
+[[Category:Biweekly journals]]
+[[Category:Publications established in 1986]]
+[[Category:EDP Sciences academic journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Italian Physical Society academic journals]]

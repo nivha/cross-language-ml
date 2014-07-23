@@ -1,0 +1,61 @@
+{{Chinese name|Gu}}
+'''Min Gu''' (顾敏) is an elected [[fellow of the Australian Academy of Science]], the [[Australian Academy of Technological Sciences and Engineering]], the [[Australian Institute of Physics]], the [[Optical Society]] as well as the [[International Society for Optical Engineering]] and the [[Institute of Physics]] (UK).<ref name=sutbio>{{cite web 
+|publisher=[[Swinburne University of Technology]] 
+|title=Prof. Min Gu
+|url=http://www.swinburne.edu.au/feis/cmp/staff/mgu.html
+|accessdate=2008-10-30 |archiveurl = http://web.archive.org/web/20080803013208/http://www2.swinburne.edu.au/feis/cmp/staff/mgu.html <!-- Bot retrieved archive --> |archivedate = 2008-08-03}}</ref>
+[[File:Min Gu.jpg|thumb|alt=Alt text|Caption]]
+
+He is a Laureate Fellow of the [[Australian Research Council]]. He was appointed as Pro Vice-Chancellor for International Research Collaboration at [[Swinburne University of Technology]] in 2009.<ref name="sutbio"/> At Swinburne University of Technology, he is both the Director of the Centre for Micro-Photonics and a distinguished professor. From 2003, he has also been a Node Director of the [[Australian Research Council]] 
+for Ultrahigh-bandwidth Devices for Optical Systems.<ref>{{cite web 
+|publisher=Centre for Ultrahigh-bandwidth Devices for Optical Systems
+|title=Professor Min Gu
+|url=http://www.cudos.org.au/cudos/people/profile.php?id=26
+|accessdate=2008-10-30}}</ref> From 2005 - 2010, he was a node leader of the Australian Cooperative Research Centre for Polymers. He was a Dean of Science and Deputy Dean of the Faculty at Swinburne. 
+
+Gu is a sole author of two standard reference books, ''Principles of Three-Dimensional Imaging in Confocal Microscopes'' (World Scientific)<ref>{{cite book
+|publisher=World Scientific
+|title=Principles of Three-Dimensional Imaging in Confocal Microscopes
+|url=http://www.worldscibooks.com/physics/3014.html
+|isbn= 981-02-2550-4
+|date=July 1996
+|accessdate=2008-10-30}}</ref> and ''Advanced Optical Imaging Theory'' (Springer-Verlag),<ref>{{cite book
+|publisher=Springer-Verlag
+|title=Advanced Optical Imaging Theory 
+|url=http://www.springer.com/physics/optics/book/978-3-540-66262-4
+|isbn= 978-3-540-66262-4
+|year=2000
+|accessdate=2008-10-30}}</ref> published in 1996 and 2000 respectively.He is also the first author of the book published by Cambridge University Press (Femtosecond Biophotonics: Core Techniques and Applications, 2010).<ref>{{cite book
+|publisher=Cambridge University Press
+|title=Femtosecond Biophotonics: Core Techniques and Applications
+|url=http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521882408
+|isbn= 978-0-521-88240-8
+|year=2010
+|accessdate=2010-03-27}}</ref>  He is one of the world leading authorities in the field of nanophotonics, nanofabrication, biophotonics and multi-dimensional optical data storage [[3D optical data storage]]. He is a member of the 16 Editorial Boards of top international journals. He was/is President (2002–2004) and Vice President (2004–2012) of the International Society of Optics within Life Sciences. He was Vice President of the International Commission for Optics (2005–2011).<ref name="sutbio"/>
+
+He was awarded the Chang Jiang Chair Professorship ([[Ministry of Education (China)|Ministry of Education, China]], 2007), the World Class University Professorship ([[Ministry of Education (South Korea)|Ministry of Education, South Korea]], 2009), the Thousand Talents Award (Ministry of Education, China, 2009), Einstein Professorship ([[Chinese Academy of Science]], 2010), Laureate Fellowship  ([[Australian Research Council]], 2010), and the  W. H. Steel Prize (Australian Optical Society, 2011).<ref name="sutbio"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control|VIAF=53278955}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Gu, Min
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION =
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Gu, Min}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Australian academics]]
+[[Category:Optical physicists]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Fellows of the Australian Academy of Technological Sciences and Engineering]]
+[[Category:Fellows of the SPIE]]
+[[Category:Fellows of the Optical Society]]
+[[Category:Fellows of the Australian Institute of Physics]]
+[[Category:Fellows of the Institute of Physics]]

@@ -1,0 +1,72 @@
+{{Use British English|date=November 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox engineer
+|image                =
+|image_size           =
+|alt                  =
+|caption              =
+|name                 = John Perry
+|nationality          = British
+|birth_date           = {{Birth date|df=yes|1850|02|14}}
+|birth_place          = [[Garvagh]], [[County Londonderry]], [[United Kingdom of Great Britain and Ireland|Ireland]]
+|death_date           = {{Death date and age|df=yes|1920|08|04|1850|02|14}}
+|death_place          =
+|education            =
+|spouse               =
+|parents              = [[Samuel Augustus Perry|Samuel Perry]]
+|children             =
+|discipline           = [[Mechanical engineering|Mechanical]]
+|institutions         =
+|practice_name        =
+|employer             =
+|significant_projects =
+|significant_design   =
+|significant_advance  =
+|significant_awards   =
+}}
+'''John Perry''' (1850–1920) was a pioneering engineer and mathematician from Ireland. He was born on 14 February 1850 at [[Garvagh]], [[County Londonderry]], the second son of Samuel Perry and a Scottish-born wife.
+
+Perry worked as [[William Thomson, 1st Baron Kelvin|Lord Kelvin]]'s assistant at the [[University of Glasgow]], and later became professor of [[mechanical engineering]] at [[Finsbury Technical College]]. He was a colleague of [[William Edward Ayrton]] and [[John Milne]] at the [[Imperial College of Engineering]] in Tokyo, 1875–79, and was also a [[Fellow of the Royal Society]]. In 1900 he was elected president of the [[Institution of Electrical Engineers]],<ref>{{cite web| title=Archives Past Presidents of the IEE–IET| publisher=[[Institution of Engineering and Technology]]| url=http://www.theiet.org/about/libarc/archives/institution-history/presidents-iee.cfm| accessdate=11 October 2010}}</ref> and from 1906–08 served as president of the [[Physical Society of London]].
+
+Perry was a great admirer of his employer, [[William Thomson, 1st Baron Kelvin|Lord Kelvin]]. In the printing of his 1890 lecture on spinning tops, Perry inscribed the following acknowledgement: "This report of an experimental lecture is inscribed to Sir William Thomson, by his affectionate pupil, the lecturer, who hereby takes a convenient method of acknowledging the real author of whatever is worth publication in the following pages."<ref>{{cite book |last= Perry |first= John |title= Spinning Tops: The "Operatives' Lecture" of the British Association meeting at Leeds, 6th September, 1890 |publisher=Society for Promoting Christian Knowledge |url=http://books.google.com/books/about/Spinning_tops.html?id=12gSAAAAIAAJ}}</ref> The book was later reprinted by Dover Publications in 1957 as ''Spinning Tops and Gyroscopic Motions.''
+
+Perry received an honorary doctorate ([[Legum Doctor|LL.D]]) from the [[University of Glasgow]] in June 1901.<ref>{{Cite newspaper The Times |articlename=Glasgow University jubilee |day_of_week=Friday |date=14 June 1901 |page_number=10 |issue=36481}}</ref>
+
+== Challenging Lord Kelvin ==
+In 1895, Perry published a paper challenging Kelvin's assumption of low [[thermal conductivity]] inside the Earth, and thus disputing Kelvin's estimate that the Earth was only 20–400&nbsp;million years old, but this had little impact. It was not until the discovery in 1903 that [[radioactive decay]] releases heat and the development a few years later of [[radiometric dating]] of rocks that it was accepted that the age of the earth was many times older, as Perry had argued. Perry's reasoning held that if the interior of the Earth was fluid, or partly fluid, it would transfer heat much more effectively than the conductivity which Kelvin assumed, and he stated that "much internal fluidity would practically mean infinite conductivity for our purpose."
+
+Kelvin rejected this idea as there was no evidence of tidal deformation of the Earth's crust, and in response Perry made a reference to Kelvin's favourite demonstration of the slow deformation of shoemaker's wax to illustrate the supposed qualities of the presumed [[luminiferous aether]] thought then to be necessary to transmit light through space. Perry wrote that "the real basis of your calculation is your assumption that the solid earth cannot alter its shape&nbsp;... even in 1000 million years, under the action of forces constantly tending to alter its shape, and yet we see the gradual closing up of passages in a mine, and we know that wrinkling and faults and other changes of shape are always going on in the earth under the action of long-continued forces. I know that solid rock is not like cobbler's wax, but 10<sup>9</sup> years is a long time, and the forces are great."
+
+The failure of the [[scientific community]] to accept a fluid interior to the Earth held back ideas in geology until the concept was revived by proponents of [[continental drift]], and even in the 1960s [[Geophysics|geophysical]] models were still being constructed on the basis that the Earth was solid.<ref name="England et al 2007">{{cite journal
+  | author = England, P.; Molnar, P.; Righter, F.
+  | title = John Perry's neglected critique of Kelvin's age for the Earth: A missed opportunity in geodynamics
+  | journal = GSA Today |date=January 2007
+  | volume = 17
+  | issue = 1
+  | pages = 4–9
+  | doi = 10.1130/GSAT01701A.1 }}</ref>
+
+== References ==
+{{reflist}}
+* {{ODNBweb|id=39459|title=Perry, John}}
+
+{{Authority control|VIAF=33415974}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Perry, John
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = BRitish engineer
+| DATE OF BIRTH     = 14 February 1850
+| PLACE OF BIRTH    = [[Garvagh]], [[County Londonderry]]
+| DATE OF DEATH     = 4 August 1920
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Perry, John}}
+[[Category:Irish engineers]]
+[[Category:Foreign advisors to the government in Meiji-period Japan]]
+[[Category:Foreign educators in Japan]]
+[[Category:British expatriates in Japan]]
+[[Category:1850 births]]
+[[Category:1920 deaths]]
+[[Category:People from County Londonderry]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]

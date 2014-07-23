@@ -1,0 +1,71 @@
+{{Infobox scientist
+|name              = Jack Ratcliffe
+|image             =   <!--(filename only)-->
+|image_size        = 300px
+|caption           = John Ashworth Ratcliffe (1902-1987)
+|birth_date        = {{birth date|1902|12|12|df=yes}}
+|birth_place       = [[Bacup]], [[Lancashire]], England
+|death_date        = {{death date and age|1987|10|25|1902|12|12|df=y}} 
+|death_place       = [[Cambridge]], England
+|residence         =
+|citizenship       = 
+|nationality       = [[UK|British]]
+|ethnicity         = 
+|fields            = [[Physicist]]
+|workplaces        = [[University of Cambridge]]
+|alma_mater        = [[University of Cambridge]]
+|doctoral_advisor  = 
+|academic_advisors = [[Edward Victor Appleton]]
+|doctoral_students = [[Basil Briggs]]<br>David Whitehead<br>[[Maurice Wilkes]]<br>[[Joseph L. Pawsey]]<br>[[Ronald N. Bracewell]]<br>[[Henry G. Booker]]<br>Kenneth G. Budden
+|notable_students  = [[Martin Ryle]]
+|known_for         = [[Ionosphere|Ionospheric physics]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Royal Medal]] {{small|(1966)}}<br>[[Faraday Medal]]  {{small|(1966)}}
+|religion          =
+|signature         =  <!--(filename only)-->
+|footnotes         = 
+}}
+'''John Ashworth Ratcliffe''', [[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1988.0022}}</ref> (12 December 1902 &ndash; 25 October 1987), "JAR or Jack", was an influential British [[radio]] [[physicist]]. (Several sources misspell his name as Radcliffe)
+
+He and his [[University of Cambridge]] group did much pioneering work on the [[ionosphere]], immediately prior to [[World War II]]. He was one of many leading radio scientists who worked at the [[Telecommunications Research Establishment]] during WW2. [[Martin Ryle]], [[Bernard Lovell]] and [[Antony Hewish]] were co-workers there, and Ryle and Hewish joined his radio-physics group at Cambridge after WW2. He was elected to the [[Royal Society]] in 1951.
+
+In 1953 Ratcliffe was invited to deliver the [[Royal Institution Christmas Lectures|Royal Institution Christmas Lecture]] on ''The Uses of Radio Waves''.
+
+He served as President of the [[Institution of Electrical Engineers]] from 1966 to 1967.
+
+From 1960 to 1966 he was Director of the Radio & Space Research Station at [[Slough]].
+
+Ratcliffe was awarded the [[Gold Medal of the Royal Astronomical Society]] in 1976.
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0014%2FRACL  short obituary and collected papers]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Ratcliffe, John A.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Physicist
+| DATE OF BIRTH     = 12 December 1902
+| PLACE OF BIRTH    = [[Bacup]], [[Lancashire]], [[England]]
+| DATE OF DEATH     = 25 October 1987
+| PLACE OF DEATH    = [[Cambridge]], [[England]]
+}}
+{{DEFAULTSORT:Ratcliffe, John A.}}
+[[Category:1902 births]]
+[[Category:1987 deaths]]
+[[Category:People from Bacup]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Academics of the University of Cambridge]]
+
+[[Category:British physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Royal Medal winners]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:Presidents of the Physical Society]]
+
+{{UK-physicist-stub}}

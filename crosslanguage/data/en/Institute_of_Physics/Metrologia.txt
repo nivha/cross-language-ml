@@ -1,0 +1,60 @@
+{{Infobox Journal
+| title        = Metrologia
+| cover        = 
+| editor       = Janet Miles
+| discipline   = 
+| language     = English
+| abbreviation = Metrologia
+| publisher    = IOP Publishing
+| country      = UK
+| frequency    = 6
+| history      = 1965-present    Metrologia
+| openaccess   = [[Hybrid open access journal|Hybrid]]
+| impact       = 1.902
+| impact-year  = 2012
+| website      = http://iopscience.org/met
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        =
+| OCLC         = 48198209 
+| LCCN         = 65009907
+| CODEN        = MTRGAU
+| ISSN         = 0026-1394
+| eISSN        = 1681-7575
+}}
+
+'''''Metrologia''''' is an international journal dealing with the scientific aspects of [[metrology]]. It has been running since 1965 and has been published by the [[BIPM |Bureau International des Poids et Mesures]] (BIPM) since 1991. Since 2003 the journal has been published by [[IOP Publishing]] on behalf of the BIPM. ''Metrologia'' covers the fundamentals of measurements, in particular those dealing with the 7 base units of the International System of Units (meter, kilogram, second, ampere, Kelvin, candela, mole) or proposals to replace them. 
+
+The editor is Janet Miles at the [[Bureau International des Poids et Mesures]], [[Sèvres]], [[France]].
+
+The journal has an [[Impact factor]] of 1.902 for 2012 according to [[Journal Citation Reports]].
+
+==Abstracting and indexing==
+This journal is indexed by the following databases:
+
+* [[Science Citation Index]]
+* [[Materials Science Citation Index]]
+* [[Journal Citation Reports]]/Science Edition
+* [[Scopus]] 
+* [[Inspec]] 
+* [[Chemical Abstracts Service]] 
+* [[Compendex]] 
+* [[GeoRef]] 
+* [[MathSciNet]] 
+* NASA [[Astrophysics Data System]] 
+* [[VINITI Abstracts Journal]] 
+
+==External links==
+* [http://iopscience.org/met ''Metrologia'' webpage]
+* [http://www.bipm.org/ Bureau International des Poids et Mesures]
+* [http://www.ioppublishing.org/ IOP Publishing]
+
+
+[[Category:Earth and atmospheric sciences journals]]
+[[Category:IOP Publishing academic journals]]
+[[Category:Publications established in 1962]]
+[[Category:English-language journals]]

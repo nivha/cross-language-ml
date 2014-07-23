@@ -1,0 +1,76 @@
+{{for|the American architect|George J. Efstathiou}}
+{{Infobox scientist
+| name              = George Efstathiou
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age|1955|9|2}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = [[Image:Flag of the United Kingdom.svg|20px|]] [[United Kingdom|UK]] 
+| citizenship       = 
+| nationality       = [[Image:Flag of the United Kingdom.svg|20px|]] [[United Kingdom|British]]  
+| fields            = [[Cosmology]]
+| workplaces        = [[University of California Berkeley]]<br>[[Institute of Astronomy, Cambridge]]<br>[[University of Oxford]]
+| alma_mater        = [[Keble College, Oxford]]<br>[[University of Durham]]
+| doctoral_advisor  = [[Arnold Wolfendale]]<ref>{{cite doi|10.1111/j.1468-4004.2008.49411.x}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = {{no wrap|[[Maxwell Medal and Prize]] (1990)<br>[[Dannie Heineman Prize for Astrophysics|Heineman Prize]] (2005)<br>[[Gruber Prize in Cosmology]] (2011)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+}}
+
+'''George Petros Efstathiou''' [[Fellow of the Royal Society|FRS]] (born 2 September 1955) is a British [[astrophysicist]] who is Professor of Astrophysics and Director of the [[The Kavli Foundation#Astrophysics|Kavli Institute for Cosmology]] at the [[University of Cambridge]]. He was previously [[Savilian Professor of Astronomy]] at the [[University of Oxford]].
+
+==Life==
+Efstathiou was educated at [[Tottenham Grammar School]] which he left at age 16 and to which he returned as a lab technician. He then  studied at [[Keble College, Oxford]] and the [[University of Durham]]. He was a research assistant in the Astronomy Department of [[University of California Berkeley]] from 1979 to 1980, then moved to the [[Institute of Astronomy, Cambridge|Institute of Astronomy]] at the [[University of Cambridge]], holding research [[Oxbridge Fellow|fellowships]] at [[King's College, Cambridge]] from 1980 to 1988. He was appointed  as [[Savilian Professor of Astronomy]] at the [[University of Oxford]] in 1988 (a post that he held in conjunction with a fellowship at [[New College, Oxford]])
+and served as Head of Astrophysics between 1988 and 1994. He returned to Cambridge in 1997 as Professor of Astrophysics (1909) and a Fellow of King's College.  Efstathiou served as Director of the Institute of
+Astronomy between 2004 and 2008.He became the first Director of the [[Kavli Institute for Cosmology]] in 2008.<ref name=Who>{{cite web|title=Efstathiou, Prof. George Petros|work=[[Who's Who|Who's Who 2010]]|publisher=[[Oxford University Press]]|date=November 2009|url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U14741|accessdate=3 March 2010}}</ref>
+
+==Awards and honours==
+He was awarded the [[Maxwell Medal and Prize]] of the [[Institute of Physics]] in 1990, and appointed a [[Fellow of the Royal Society]] in 1994, the same year in which he was awarded the Bodossaki Foundation Academic and Cultural Prize for Astrophysics. Other awards in the Robinson Prize in Cosmology ([[Newcastle University|University of Newcastle]], 1997) and the [[Dannie Heineman Prize for Astrophysics]] ([[American Institute of Physics]] and [[American Astronomical Society]], 2005).<ref name=Who/> He received the [[Gruber Prize in Cosmology]] for 2011 jointly with [[Marc Davis (astronomer)|Marc Davis]], [[Carlos Frenk]] and [[Simon White]].
+
+==Quotes==
+"There's less stuff that we don't understand by a tiny amount"<ref>http://www.thespec.com/news/world/article/906358--universe-is-80-million-years-older-than-thought</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.ast.cam.ac.uk/~gpe/ Efstathiou's webpage] at the University of Cambridge
+
+{{Authority control|VIAF=213311024}}
+
+{{Savilian Professors of Astronomy}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Efstathiou, George
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British astronomer
+| DATE OF BIRTH     = 2 September 1955
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Efstathiou, George}}
+[[Category:Living people]]
+[[Category:1955 births]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Alumni of Keble College, Oxford]]
+[[Category:Fellows of King's College, Cambridge]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Savilian Professors of Astronomy]]
+[[Category:British astronomers]]
+[[Category:Alumni of Durham University]]
+[[Category:Maxwell Medal and Prize recipients]]
+[[Category:Winners of the Dannie Heineman Prize for Astrophysics]]

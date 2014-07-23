@@ -1,0 +1,121 @@
+{{Redirect|William Abney|}}
+{{Use dmy dates|date=June 2014}}
+{{Infobox scientist
+|name              = Sir William de Wiveleslie Abney<br><small>[[Order of the Bath|KCB]], [[Royal Society|FRS]]</small>
+|image             = William de Wiveleslie Abney.jpg
+|image_size        = 220px
+|caption           = William de Wiveleslie Abney
+|birth_date        = 24 July 1843
+|birth_place       = [[Derby, England]], UK
+|death_date        = 3 December 1920 (aged 77)
+|death_place       = [[Folkestone]], [[England]], UK
+|residence         = 
+|citizenship       = 
+|nationality       =  [[England|English]]
+|field             =  Astronomy<br/>Chemistry<br/>Photography
+|known_for         = [[Photography]]
+|awards            = [[Rumford Medal]] {{small|(1882)}}
+}}
+
+'''Sir William de Wiveleslie Abney''', [[Order of the Bath|KCB]], [[Royal Society|FRS]] (24 July 1843 – 3 December 1920) was an [[England|English]] [[astronomer]], [[chemist]], and [[photographer]].
+
+==Life and career==
+Abney was born in [[Derby, England]], the son of Edward Abney (1811–1892) vicar of St Alkmund's Derby, and owner of the [[Firs Estate School Derby|Firs Estate]]. He attended [[Rossall School]], the [[Royal Military Academy, Woolwich]] and joined the [[Royal Engineers]] in 1861, with whom he served in [[India]] for several years. Thereafter, and to further his knowledge in photography, he became a chemical assistant at the [[Royal School of Military Engineering|Chatham School of Military Engineering]].
+
+Abney was a pioneer of several technical aspects of [[photography]]. His father had been an early photographic experimenter and friend of [[Richard Keene]], an early Derby photographer. Keene became a close friend of William and his brother Charles Edward Abney (1850–1914). Both Abney sons subsequently became founder members of the Derby Photographic Society in June 1884.<ref>Craven, Maxwell (1993). Keene's Derby. Breedon Books. pp. 13–14. ISBN 1-873626-60-6.</ref> His endeavors in the [[chemistry]] of photography produced useful photographic products and also developments in astronomy. He wrote many books on photography that were considered standard texts at the time, although he was doubtful that his improvements would have a great impact on the subject.
+
+Abney investigated the blackening of a negative to incidental light. In 1874, Abney developed a dry photographic [[emulsion]], which replaced "wet" emulsions. He used this emulsion in an [[Egypt]]ian expedition to photograph the transit of [[Venus]] across the [[sun]]. In 1880, he introduced [[hydroquinone]]. Abney also introduced new and useful types of photographic paper, including in 1882 a formula for gelatin [[silver chloride]] paper.
+
+Abney conducted early research into the field of [[spectroscopy]], developing a red-sensitive emulsion which was used for the [[infrared]] [[Electromagnetic spectrum|spectra]] of [[organic molecule]]s. He was also a pioneer in photographing the [[infrared]] [[Sun|solar]] [[Absorption spectrum|spectrum]] (1887), as well as researching [[sunlight]] in the medium of the atmosphere.
+
+He became assistant secretary to the Board of Education in 1899 and advisor to that body in 1903.<ref>[[Chambers Biographical Dictionary]], ISBN 0-550-18022-2, page 5</ref> In 1900 he was Director of the Science and Art Department. He sold his fathers estate, most of which went for housing in the [[St Luke's Parish Derby|St Luke's Parish]] of Derby, but retained 11 acres until 1913 when they were purchased by the [[Local government in the United Kingdom|Council]] to become the site of [[Rykneld Secondary Modern School Derby|Rykneld Secondary Modern School]] and Rykneld [[recreation ground]].[http://www.derby.gov.uk/LeisureCulture/ParksRecreation/Rykneldrec.htm]
+
+Abney invented the "[[Topographic Abney Level]]", a combined [[clinometer]] and [[spirit level]], used by [[Surveyor (surveying)|surveyor]]s to measure [[slope]]s and [[angle]]s.
+
+He died in [[Folkestone]], [[England]].
+
+==Publications==
+* ''Chemistry for Engineers'', 1870.
+* W. de W. Abney, ''[https://archive.org/details/instructioninph00abnegoog Instruction in Photography]'', London, published by S. Low, Marston & company, 1900.
+* ''A New Developer'', Photographic News, 1880, '''24''':345.
+* W. de W. Abney and [[E. R. Festing]], [http://www.jstor.org/stable/114812 Intensity of Radiation through Turbid Media], ''[[Proceedings of the Royal Society of London]]'', Volume 40, pages 378–380, 1886. Published by [[The Royal Society]].
+* W. de W. Abney and E. R. Festing, [http://www.jstor.org/stable/115174 Colour Photometry. Part III].''[[Proceedings of the Royal Society of London]]'', Volume 50, pages 369–372, 1891–1892. Published by The Royal Society.
+
+==Organizations and honors==
+* [[Royal Society]] (fellow)
+** 1876 and
+* Received first [[Progress Medal (RPS)|Progress Medal]] of the [[Photographic Society of Great Britain]] ever<ref name="RPS_2011_Progress_Medal_1878">Royal Photographic Society. ''Progress medal''. Web-page listing people, who have received this medal since 1878 ([http://www.rps.org/annual-awards/Progress-medal]): “Instituted in 1878, this medal is awarded in recognition of any invention, research, publication or other contribution which has resulted in an important advance in the scientific or technological development of photography or imaging in the widest sense. This award also carries with it an Honorary Fellowship of The Society. […] 1878 W de W Abney […]”</ref>
+** 1878
+* Photographic Society of Great Britain aka [[Royal Photographic Society]] (president)
+** 1892 to 1894
+** 1896
+** 1903 to 1905
+* [[Royal Astronomical Society]] (president)
+** 1893 to 1895.
+* [[Physical Society of London]] (president)
+** 1895 to 1897
+* [[Order of the Bath]]
+** Companion of the Order of the Bath (CB)
+** Knight Commander (civil division) of the Order of the Bath (KCB) 16 January 1900<ref>{{London Gazette |issue=27154 |date=16 January 1900 |startpage=5 }}</ref>
+* [[Girls' Day School Trust|Girls' Public Day School Trust]] (vice-President)
+** 1909 to 1920
+
+==Quotes==
+* "''[...] whatever little notions of art a person might have in his head would certainly be driven out of it, for the knowledge that he could take an almost unlimited number of pictures would lead him to expose a sheet on every possible occasion, and probably 99 percent of what he obtained would be thoroughly inartistic productions''".
+
+==See also==
+* [[Abney effect]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{Commons category}}
+* "Abney, William de Wiveleslie." Britannica Student Encyclopedia. 2004.  Encyclopædia Britannica.
+* {{cite encyclopedia
+  | last = Dieke
+  | first = Sally
+  | title = Abney, William de Wiveleslie
+  | encyclopedia = [[Dictionary of Scientific Biography]]
+  | volume = 1
+  | pages = 21–22
+  | publisher = Charles Scribner's Sons
+  | location = New York
+  | year = 1970
+  | isbn = 0-684-10114-9
+ }}
+
+* [[:de:Klaus Hentschel|Klaus Hentschel]]: Mapping the Spectrum. Techniques of Visual Representation in Research and Teaching, Oxford: OUP 2002.[http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198509530.001.0001/acprof-9780198509530 online preview; search for Abney]
+
+*{{cite journal|last=Elliot|first=Paul|date=2012?|title=The Firs, 320 Burton Road, Derby: A nineteenth-century house and estate|journal=Response: The University of Derby's Online Journal|url=http://www2.derby.ac.uk/response/current-issue/82-articles/178-the-firs-320-burton-road-derby-a-nineteenth-century-house-and-estate?start=1|accessdate=5 April 2014}} ''Article about the Abney family home, with information about the family''
+
+==External links==
+* {{Wikisource author-inline}}
+
+{{Authority control|VIAF=69670707}}
+
+{{Persondata
+| NAME              = Abney, William De Wivelesie
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = English chemist, astronomer
+| DATE OF BIRTH     = 24 July 1843
+| PLACE OF BIRTH    = [[Derby, England]]
+| DATE OF DEATH     = 3 December 1920
+| PLACE OF DEATH    = [[Folkestone]], [[England]]
+}}
+{{DEFAULTSORT:Abney, William de Wiveleslie}}
+[[Category:1843 births]]
+[[Category:1920 deaths]]
+[[Category:People from Derby]]
+[[Category:People educated at Rossall School]]
+[[Category:Graduates of the Royal Military Academy, Woolwich]]
+[[Category:Royal Artillery officers]]
+[[Category:Color scientists]]
+[[Category:Spectroscopists]]
+[[Category:Disease-related deaths in England]]
+[[Category:English astronomers]]
+[[Category:English chemists]]
+[[Category:19th-century English photographers]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Girls' Day School Trust]]
+[[Category:Presidents of the Physical Society]]

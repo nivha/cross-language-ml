@@ -1,0 +1,35 @@
+'''Roger Arthur Cowley''', [[Fellow of the Royal Society|FRS]], [[Royal Society of Edinburgh|FRSE]], [[Institute of Physics|FInstPhys]] (born 24 February 1939) is an [[England|English]] [[physicist]] who has specialised in the excitations of [[solids]]. He obtained a [[Bachelor of Arts|B.A.]] in [[physics]] from [[Trinity Hall, Cambridge|Trinity Hall]], [[University of Cambridge]] in 1960 and a Ph.D. in 1963. He was appointed professor of physics at the [[University of Edinburgh]] in 1970 and professor of [[experimental philosophy]] at [[University of Oxford]] in 1988.
+
+Cowley made his name in the field of [[neutron scattering]]. This work lead to the study of [[phase transition]]s.
+
+He was elected [[Fellow of the Royal Society]] in 1978. Awarded the [[Max Born Prize]] in 1973.
+
+==External links==
+*[http://xray.physics.ox.ac.uk/Cowley/CV_Roger.htm CV at Oxford]
+
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Cowley, Roger
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[England|English]] [[physicist]]
+|DATE OF BIRTH=1939-02-24
+|PLACE OF BIRTH=
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+
+{{DEFAULTSORT:Cowley, Roger A.}}
+{{England-scientist-stub}}
+
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:English physicists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Alumni of Trinity Hall, Cambridge]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Fellows of Wadham College, Oxford]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Academics of the University of Oxford]]

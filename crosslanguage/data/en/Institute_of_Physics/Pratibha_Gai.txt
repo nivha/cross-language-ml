@@ -1,0 +1,42 @@
+'''Pratibha L. Gai''' is Professor and Chair of [[Electron Microscopy]] and Director at The York JEOL Nanocentre (Departments of Chemistry and Physics, [[University of York]], United Kingdom)<ref>{{cite web|url=http://www.york.ac.uk/physics/people/gai/ |title=Pratibha Gai - Physics, The University of York |publisher=York.ac.uk |accessdate=2013-05-13}}</ref>
+
+== Scientific career ==
+
+In 2009, after years of development, Gai, who holds a chair in [[electron microscopy]] and is co-director of the York JEOL Nanocentre at the [[University of York]], succeeded in creating a [[microscope]] capable of perceiving chemical reactions at the atomic scale.<ref name="THE">{{cite news|last=Gibney|first=Elizabeth|title=Pratibha Gai’s award-winning focus|url=http://www.timeshighereducation.co.uk/news/pratibha-gais-award-winning-focus/2001487.article|newspaper=Times Higher Education|date=14 February 2013}}</ref> This is an advance on conventional microscopes at this scale, which can only view innate material in the “dead” conditions of a vacuum at room temperature.
+
+With the help of colleagues, she built and refined the machine over two decades, beginning with a lower-resolution prototype when she was a postdoctoral researcher at the [[University of Oxford]]. She then spent 18 years in the US at chemical firm DuPont and the [[University of Delaware]].<ref name="THE"/>
+
+Originally from India, Prof Gai has a PhD in Physics ([[Cambridge University]]), [[Cavendish Laboratory]])<ref>{{cite web|url=http://fwis2013.com/wp-content/uploads/pdfs/LAUREATES_EN_PROFILES.pdf |title=Professor Pratibha L. Gai |publisher=Loreal-UNESCO Awards 2013 Laureate |date= |accessdate=2013-05-13}}</ref>
+
+== Highlights and honours ==
+
+* Institute of Physics 2010 Gabor Medal and Prize for in-situ atomic resolution-environmental transmission electron microscopy (ETEM).
+* Fellow of Institute of Physics
+* Fellow of the [[Royal Society of Chemistry]]
+* 2013 [[L'Oréal-UNESCO Awards for Women in Science|L'Oréal-UNESCO For Women in Science Awards]] Laureate for Europe<ref>{{cite web|url=http://www.youtube.com/watch?v=_pAKye9AzWI |title=Pratibha L. Gai, 2013 L'Oréal-UNESCO Awards Laureate for Europe |publisher=YouTube |date= |accessdate=2013-05-13}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Persondata
+| NAME              = Gai, Pratibha
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = British chemist
+| DATE OF BIRTH     = 
+| PLACE OF BIRTH    = 
+| DATE OF DEATH     = 
+| PLACE OF DEATH    = 
+}}
+
+== External links ==
+
+*[http://www.newscientist.com/article/mg21729106.100-it-is-time-to-train-atoms-to-do-what-we-want.html#.Unvgd-ywpxA It is time to train atoms to do what we want.  Celeste Biever, New Scientist, 30 March 2013, Volume 217 Number 2910, Page 25]
+
+{{DEFAULTSORT:Gai, Pratibha}}
+[[Category:Living people]]
+[[Category:Academics of the University of York]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Fellows of the Institute of Physics]]
+[[Category:Fellows of the Royal Society of Chemistry]]
+[[Category:University of Delaware faculty]]
+[[Category:Women inventors]]

@@ -1,0 +1,82 @@
+{{Redirect6|Poynting|the vector|Poynting vector|the theorem|Poynting Theorem}}
+{{Infobox scientist
+|name              = John Poynting
+|image             = John Henry Poynting.jpg
+|image_size       = 240px
+|caption           = John Henry Poynting (1852-1914)
+|birth_date        = {{Birth date|1852|9|9|df=y}}
+|birth_place       = [[Monton]], [[Lancashire]], England
+|death_date        = {{death date and age|1914|3|30|1852|9|9|df=y}}
+|death_place       = {{nowrap|[[Birmingham]], England}}
+|residence         = England
+|citizenship       = 
+|nationality       = English
+|ethnicity         = 
+|field             = [[Physicist]]
+|work_institutions = [[Mason Science College]], [[University of Birmingham]]
+|alma_mater        = [[University of Cambridge]]<br>[[University of Manchester]]
+|doctoral_advisor  = <!--There was no doctorate in Cambridge until 1919-->
+|academic_advisors = [[James Clerk Maxwell]]
+|doctoral_students = <!--There was no doctorate in Cambridge until 1919-->
+|notable_students  = [[Francis William Aston]]
+|known_for         = [[Poynting vector]]<br>[[Poynting effect]]<br>[[Poynting's theorem]]<br>[[Poynting–Robertson effect]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = [[Edward Routh]]
+|influenced        = 
+|awards            = [[Adams Prize]] (1893)<br>[[Hopkins Prize]] (1893)<br>[[Royal Medal]] (1905)
+|religion          = [[Unitarianism|Unitarian]]<ref>[http://www.ioppublishing.co.uk/activity/groups/subject/hp/Blue_Plaques/page_7843.html Blue Plaques<!-- bot-generated title -->] at www.ioppublishing.co.uk</ref>
+|footnotes         = 
+|signature         =John Henry Poynting signature.svg
+}}
+
+'''John Henry Poynting''' (9 September 1852{{spaced ndash}}30 March 1914<ref>GRO Register of Births: DEC 1852 8c 391 BARTON - John Henry Poynting, mmn = unknown</ref><ref>GRO Register of Deaths: MAR 1914 6d 128 KING'S N. - John Henry Poynting, aged 61</ref>) was an English [[physicist]]. He was a [[professor]] of [[physics]] at [[Mason Science College]], from 1880 to 1900, and then the successor institution, the [[University of Birmingham]] until his death.
+
+[[Image:Mason Science College.png|thumb|left|[[Mason Science College|Mason Science College, now the University of Birmingham]]]]
+
+Poynting was the youngest son of Thomas Elford Poynting, a [[Unitarianism|Unitarian]] minister. In his boyhood he was educated at a school operated by his father. From 1867 to 1872 he attended [[Owen's College]], now the [[University of Manchester]], where his physics teachers included [[Osborne Reynolds]] and [[Balfour Stewart]]. From 1872 to 1876 he was a student at [[Cambridge University]], where he attained high honours in mathematics after taking grinds with [[Edward Routh]]. In the late 1870s he worked in the [[Cavendish Laboratory]] at Cambridge under [[James Clerk Maxwell]].<ref>[http://www.iop.org/activity/groups/subject/hp/Archive/Newsletters/page_22101.html John Henry Poynting's biography at Institute of Physics].</ref>
+
+He was the developer and [[eponym]] of the [[Poynting vector]], which describes the direction and magnitude of [[Electromagnetism|electromagnetic]] energy flow and is used in the [[Poynting theorem]], a statement about energy conservation for [[electric field|electric]] and [[magnetic field|magnetic]] fields. This work was first published in 1884. He performed a measurement of [[Isaac Newton|Newton's]] [[gravitational constant]] by innovative means during 1893. In 1903 he was the first to realise that the [[Sun]]'s radiation can draw in small particles towards it:<ref>{{cite book
+|title=Interrelations Between Physics and Dynamics for Minor Bodies in the Solar System |first1=Daniel |last1=Benest |first2=Claude |last2=Froeschlé |publisher=Atlantica Séguier Frontières |year=1992 |isbn=2-86332112-9 |page=437 |url=http://books.google.com/books?id=G8N-kzxSIPwC}}, [http://books.google.com/books?id=G8N-kzxSIPwC&pg=PA437 Extract of page 437]</ref> this was later named the [[Poynting–Robertson effect]].
+
+He discovered the torsion-extension coupling in [[Finite strain theory|finite strain elasticity]]. This is now known as the (positive) [[Poynting effect]] in torsion.
+
+Poynting and the Nobel prizewinner [[J. J. Thomson]] co-authored a multi-volume undergraduate physics textbook, which was in print for about 50 years and was in widespread use during the first third of the 20th century.<ref>For a lengthy though incomplete listing of the editions of Poynting and Thomson's ''Text-book of Physics'' see [http://www.worldcat.org/search?q=au%3Apoynting+au%3Athomson+ti%3Aphysics&fq=&dblist=638&se=yr&sd=asc&fc=yr:_50&qt=show_more_yr%3A Worldcat.org].</ref> Poynting wrote most of it.<ref>Reported in the biography of JJ Thomson by Davis & Falconer, previewable at [http://books.google.co.uk/books?id=pBsg0DaZZQAC&pg=PA7 Google Book Search Preview].</ref>
+
+Poynting lived at 11 St Augustine's Road, [[Edgbaston]] with his family and servants for some years.  He previously lived at 66 Beaufort Road, [[Edgbaston]] (demolished) and died of a diabetic coma{{Citation needed|date=June 2012}}, aged 61, at 10 Ampton Road, Edgbaston in 1914.
+
+== Works by J. H. Poynting ==
+* 1884 ''A Comparison of the Fluctuations in the Price of Wheat and in the Cotton and Silk Imports into Great Britain'', Journal of the Royal Statistical Society; 47, 1884, pp.&nbsp;34–64
+* 1911 ''[https://archive.org/details/textbookofphysic00poynuoft A Text-book of Physics: volume III: Heat]'' London, C. Griffin
+* 1913 ''[https://archive.org/details/earthitsshapesiz00poynrich The earth; its shape, size, weight and spin]'' Cambridge University Press
+* 1914 ''[https://archive.org/details/textbookofphysi00poynuoft A Text-book of Physics: Electricity and Magnetism. Pts. I and II: Static electricity and magnetism]'' London, C. Griffin
+* 1920 ''[https://archive.org/details/collectedscienti00poynuoft Collected Scientific Papers]'' Cambridge University Press
+
+[[Impact crater|Crater]]s on [[Mars]] and the [[Poynting (lunar crater)|Moon]] are named in his honour, as is the main Physics building at the [[University of Birmingham]] and the departmental society there, the [[Poynting Physical Society]].
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+
+{{Authority control|VIAF=17321194}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME=Poynting, John  Henry
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=Physicist
+|DATE OF BIRTH=1852-09-09
+|PLACE OF BIRTH=Parsonage, [[Monton]], [[Manchester]], England
+|DATE OF DEATH=1914-03-30
+|PLACE OF DEATH=[[Birmingham]], England
+}}
+{{DEFAULTSORT:Poynting, John Henry}}
+[[Category:1852 births]]
+[[Category:1914 deaths]]
+[[Category:English physicists]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Royal Medal winners]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]

@@ -1,0 +1,77 @@
+{{Infobox Person
+| name        = Daphne Jackson
+| image       = Daphne Jackson.jpg
+| image_size  =
+| caption     =
+| birth_name  =
+| birth_date  = {{birth date|1936|9|23|df=yes}}
+| birth_place = [[Peterborough]]
+| death_date  = {{death date and age|1991|2|8|1936|9|23|df=yes}}
+| death_place = [[Guildford]]
+| death_cause =
+| residence   =
+| other_names =
+| known_for   =
+| education   =
+| employer    =
+| occupation  =
+| title       =
+| salary      =
+| networth    =
+| height      =
+| weight      =
+| term        =
+| predecessor =
+| successor   =
+| party       =
+| boards      =
+| religion    =
+| spouse      =
+| partner     =
+| children    =
+| parents     =
+| relatives   =
+| signature   =
+| website     = [http://www.daphnejackson.org/ daphnejackson.org]
+| footnotes   =
+| nationality = [[United Kingdom|British]]
+}}
+'''Daphne Jackson''' (23 September 1936 – 8 February 1991) was a [[nuclear physicist]]. In 1971, she became the first female physics professor in the UK. A legacy after her death in 1991 enabled the foundation of the [[Daphne Jackson Trust]].{{cn|date=October 2012}}
+
+==Biography==
+Daphne Frances Jackson was born in [[Peterborough]]; her father was a machine tool operator and her mother had been a textile designer before she married.<ref name=trust/> Jackson went to the local grammar school, [[Peterborough County Grammar School for Girls]] from where she was able to apply to take physics at [[Imperial College, London|Imperial College]] in London. She was one of only two female students on the course alongside 88 males.<ref name=two>[http://books.google.co.uk/books?id=PeevUWiuEwkC&pg=PA480&lpg=PA480&#v=onepage&q&f=false First Female Physics Professor], New Scientist, 21 September 1972</ref>
+
+Jackson moved to what is now called the [[University of Surrey]] at the invitation of [[Lewis Elton]] to study nuclear physics when he became head of the physics department at Battersea College of Advanced Technology.<ref name=odnb>R. C. Johnson, E. A. Johnson, ‘Jackson, Daphne Frances (1936–1991)’, Oxford Dictionary of National Biography, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/49834, accessed 18 Oct 2012]</ref> She became a lecturer and she was awarded a doctorate in 1962.<ref name=trust/>
+
+In 1971, Jackson became Britain's first female professor of Physics when she was appointed by Surrey University<ref name=trust/> at the age of 34.<ref name=two/> She eventually rose to be the Dean of the university as well as sitting on a range of bodies; she held a senior position at the [[Meteorological Office]], and was president of the [[Women's Engineering Society]] and vice-president of the [[Institute of Physics]], after being its youngest ever fellow.<ref name=odnb/>
+
+Jackson campaigned for women's rights and she was disappointed to see that talented women were lost in lowly jobs because they could not re-enter their career after a break. In 1985 Jackson devised a plan to help these women by allowing them to work for two years where they could readjust to their discipline after a family, becoming a carer of just because they followed their husband's career rather than their own.<ref name=trust/> Jackson is reported as saying, “Imagine a society that would allow Marie Curie to stack shelves in a supermarket simply because she took a career break for family reasons.” <ref name="quote">{{cite web|url=http://www.publications.parliament.uk/pa/cm200708/cmselect/cmdius/187/187we51.htm|title=Memorandum to the Parliamentary Select Committee on Innovation, Universities and Skills, Memorandum 50|date=27 March 2008|accessdate=October 2012|quote=Professor Daphne Jackson ... summarised the issue of women returners most succinctly by saying "Imagine a society that would allow Marie Curie to stack shelves in a supermarket simply because she took a career break for family reasons".}}</ref>
+
+“Qualified women who are unemployed or under-employed following a career break for family commitments represent an appalling waste of talent and of investment in their initial education. Many such women are eager to return to their original careers or to a new field of activity for which their initial education is relevant, provided that retraining can be given and that they can, at least initially, work on a part-time basis.”
+
+Daphne Jackson
+
+Ironically Jackson was diagnosed with cancer - a disease she was helping to fight when she visited the Institute for Cancer Research of the [[Royal Marsden Hospital]]. She had published 55 articles on the use of nuclear physics in medicine. She was awarded an OBE in 1987.<ref name=odnb/>
+
+Jackson died in [[Guildford]] in 1991 of cancer and the following year the [[Daphne Jackson Trust]] was launched to advance Jackson's idea of helping qualified women return to work.<ref name=trust>[http://www.daphnejackson.org/about/biographyofDaphneJackson/ Biography of Daphne Jackson], Daphne Jackson Trust, accessed October 2012</ref> The trust helps about ten people a year. Initially these were women who had brought up a family, but people who have taken a career break for other reasons are considered for support, as are male applicants.<ref name=mir>[http://www.iop.org/careers/workinglife/articles/page_53602.html Careers, interrupted], Institute of Physics, accessed October 2012</ref>
+
+==References==
+{{reflist|2}}
+
+{{Persondata
+|NAME=Jackson, Daphne
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=First UK Physics professor
+|DATE OF BIRTH=23 September, 1938
+|PLACE OF BIRTH=[[Peterborough]]
+|DATE OF DEATH=8 February, 1991
+|PLACE OF DEATH=[[Guildford]]
+}}
+{{DEFAULTSORT:Jackson, Daphne}}
+[[Category:1938 births]]
+[[Category:1991 deaths]]
+[[Category:British nuclear physicists]]
+[[Category:Women physicists]]
+[[Category:People from Peterborough]]
+[[Category:Academics of the University of Surrey]]
+[[Category:Fellows of the Institute of Physics]]

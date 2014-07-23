@@ -1,0 +1,41 @@
+Sir '''Gordon Brims Black McIvor Sutherland''' <!-- knight bachelor?-->[[Fellow of the Royal Society|FRS]]<ref name="frs">{{cite doi|10.1098/rsbm.1982.0023}}</ref> (1907-1980) was a [[Scotland|Scottish]] physicist.  In 1964 he became Master of [[Emmanuel College, Cambridge]].
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.archiveshub.ac.uk/news/03041101.html
+* http://www.npl.co.uk/educate-explore/history-of-npl/npl-directors/sir-gordon-brims-black-mcivor-sutherland
+
+{{s-start}}
+{{s-aca}}
+{{succession box |
+  before=[[Edward Welbourne]] 
+|title= [[List of Masters of Emmanuel College|Master of]] [[Emmanuel College, Cambridge]]
+ |
+  years=1964-1977 |
+  after=[[Derek Brewer]]
+}}
+{{s-end}}
+
+{{Authority control|VIAF=65369799}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Sutherland, Gordon Brims Black McIvor
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     = 1907
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 1980
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Sutherland, Gordon Brims Black McIvor}}
+[[Category:1907 births]]
+[[Category:1980 deaths]]
+[[Category:Guggenheim Fellows]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Knights Bachelor]]
+[[Category:Masters of Emmanuel College, Cambridge]]
+[[Category:Presidents of the Institute of Physics]]
+
+
+{{UK-physicist-stub}}

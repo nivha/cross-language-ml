@@ -1,0 +1,40 @@
+'''William Grylls Adams [[List of Fellows of the Royal Society A,B,C|FRS]]''' (18 February 1836 [[Laneast]], [[Cornwall]] – 10 April 1915) was professor of Natural Philosophy at [[King's College, London]].
+
+William Grylls Adams was a younger brother of [[John Couch Adams]] (1819–1892). He graduated from [[St. John's College, Cambridge]], in 1855.<ref>{{acad|id=ADMS855WG|name=Adams, William Grylls}}</ref><ref>http://plms.oxfordjournals.org/cgi/pdf_extract/s2_14/1/xxxv</ref>
+
+In 1839, [[Alexandre Edmond Becquerel]] (1820–1891) had discovered that illumination of one of two metal plates in a dilute acid changed the electromotive force (EMF).<ref>http://www.nahste.ac.uk/isaar/GB_0237_NAHSTE_P0910.html</ref>
+In 1876, Adams and [[Richard Evans Day]] discovered that illuminating a junction between selenium and platinum has a [[photovoltaic effect]].<ref>http://www.eoearth.org/article/Adams,_William_Grylls</ref><ref>http://books.google.com/books?id=OlA-fN3Bd4QC&pg=PA155</ref> This first demonstrated that electricity could be produced from light without moving parts and lead to the modern solar cell.
+
+From 1878 to 1880 he was President of the Physical Society of London. In June 1872 he was elected a [[Fellow of the Royal Society]] and in 1875 delivered their [[Bakerian Lecture]].<ref>{{cite web | url= http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=7&dsqSearch=%28Surname%3D%27adams%27%29| title = Library and Archive Catalogue|publisher= Royal Society|accessdate= 14 December 2010}}</ref>
+He was president of the [[Institute of Electrical Engineers]] and of the mathematical and physical section of the [[British Association]].<ref>{{Cite NIE|wstitle=Adams, William Grylls|year=1905}}</ref>
+
+==Works==
+*''Solar Heat: A Substitute Fuel for Tropical Countries'', Bombay, 1878; Chadwyck-Healey Ltd., 2001
+*''The action of light on selenium'', 1875
+*''On the action of light on tellurium and selenium'', 1876
+*''Simultaneous magnetic disturbances''
+*''Alternate current machines''
+*''Testing of dynamo machines''
+
+==References==
+{{reflist}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =  Adams, William Crylls
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = British physicist
+| DATE OF BIRTH     =  18 February 1836
+| PLACE OF BIRTH    = Laneast, Cornwall
+| DATE OF DEATH     =  10 April 1915
+| PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Adams, William Crylls}}
+[[Category:1836 births]]
+[[Category:1915 deaths]]
+[[Category:British electrical engineers]]
+[[Category:Academics of King's College London]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Physical Society]]
+[[Category:People from Cornwall]]
+[[Category:Photovoltaics]]
