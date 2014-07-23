@@ -71,7 +71,6 @@ def translate_all_lang_categories(source_lang, targe_lang_list):
         print '> Done!'
 
 
-
 class DataTranslator(object):
     """
     Translates all data in the system
@@ -81,7 +80,7 @@ class DataTranslator(object):
 
 
 if __name__ == '__main__':
-    translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
+    translate_all_lang_categories(Language(Language.Spanish), [Language(Language.English)])
     # tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], 'Maxwell_Medal_and_Prize_recipients')
     # tr.do_translation()
 

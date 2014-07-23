@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import os
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
@@ -14,37 +16,40 @@ def load_category(lang_path, category_path):
 
     cat_lang = {
         'en':   unicode('Category', 'utf-8'),
-        'es':   unicode('Categoriia', 'utf-8'),  # TODO bad i
+        'es':   unicode('Categoría', 'utf-8'),
     }
 
     # Resolve the category URL
-    category_url = 'http://'+lang_path+'.wikipedia.org/wiki/'+cat_lang[lang_path]+':' + category_path
+    category_url = 'http://{:s}.wikipedia.org/wiki/{:s}:{:s}'.format(
+        lang_path, cat_lang[lang_path], category_path)
 
     # Get path in
     path = os.path.join(settings.DATA_DIR, lang_path, category_path)
-    print 'Loading category from path:' + path
+    print 'Loading category from path:', path
 
-    # Create category in database
+    # Create django category in database
     category = Category.objects.create(
         url=category_url,
         name=category_path,
-        language=lang_path
+        language=lang_path,
     )
 
     # Load all article in path directory.
     for filename in os.listdir(path):
         # Exclude all non .txt files
         if not filename.endswith('.txt'):
-            continue
+            raise Exception('{:s} is not a txt file - what is it doing here?'.format(filename))
 
         with open(os.path.join(path, filename)) as f:
             text = f.read()
-            article_url = 'http://'+lang_path+'.wikipedia.org/wiki/' + category_path
+            title = os.path.splitext(filename)[0],
+            article_url = 'http://{:s}.wikipedia.org/wiki/{:s}'.format(
+                lang_path, title)
 
             article = Article.objects.create(
                 category=category,
                 url=article_url,
-                title=os.path.splitext(filename)[0],
+                title=title,
                 original_language=lang_path,
                 is_stub=False  # TODO - check in some way whether this is a stub
             )
@@ -58,10 +63,10 @@ def load_category(lang_path, category_path):
     # Load translations:
     for lang_dir in os.listdir(path):
         # Exclude all non directories
-        if not os.path.isdir(os.path.join(path,lang_dir)):
+        if not os.path.isdir(os.path.join(path, lang_dir)):
             continue
 
-        print 'lang_dir: ' + lang_dir
+        print 'lang_dir:', lang_dir
 
         # Load all article in path directory.
         for filename in os.listdir(os.path.join(path, lang_dir)):
@@ -81,12 +86,6 @@ def load_category(lang_path, category_path):
                     language=lang_dir,
                     text=text,
                 )
-
-
-
-
-
-
 
 
 def load_language(lang_path):
