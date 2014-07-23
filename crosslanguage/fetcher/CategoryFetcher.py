@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'niv'
+__author__ = 'Niv & Ori'
 
 from wikitools import wiki
 from wikitools import category
@@ -67,10 +67,10 @@ class CategoryFetcher(object):
 
 
 ######## English
-cf = CategoryFetcher('en')
-articles = cf.get_category_recursively("Category:Institute_of_Physics")
-for article in articles:
-   print article
+# cf = CategoryFetcher('en')
+# articles = cf.get_category_recursively("Category:Institute_of_Physics")
+# for article in articles:
+#    print article
 
 ######## Spanish
 # cf = CategoryFetcher('es')
