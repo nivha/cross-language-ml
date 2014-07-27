@@ -1,0 +1,54 @@
+SpagoBI es una plataforma integrada para la Inteligencia de negocios (Business Intelligence) desarrollada enteramente de acuerdo con la filosofía del software libre y de código abierto (FOSS)
+
+Es una plataforma ya que cubre y satisface todos los requisitos de BI (Business Intelligence), tanto en términos de análisis y de gestión de datos, administración y seguridad. En el mundo analítico ofrece soluciones para la presentación de informes, análisis multidimensional (OLAP), minería de datos (Data Mining), tableros de mando (Dashboard) y consultas ad-hoc. Añade módulos originales para la gestión de procesos de colaboración a través de análisis dossiers y el análisis de geo-referencia.
+
+Cuenta con herramientas para la extracción de datos, transformación y carga (ETL y apoya al administrador en el mantenimiento de los documentos analíticos, la gestión para el control de versiones y la aprobación del flujos de trabajo (workflow).
+
+SpagoBI tiene un modelo de conducta que regula la visibilidad de los datos y el comportamiento de los documentos simples con relación a los roles de los usuarios finales.
+
+SpagoBI es una plataforma de integración (y no una plataforma de producto), ya que no se construye y se cierra en torno a un conjunto predefinido de herramientas. Tiene una estructura modular en la cual todos los módulos se relacionan con el núcleo del sistema, lo que garantiza la armonía de la plataforma junto con su capacidad evolutiva. Integra motores de análisis específicos para cada área (informes o reportes, OLAP, tablero de mando o dashboard, minería de datos, etc.) y permite el uso de varios motores de análisis al mismo tiempo (reportes o informes de varios motores al mismo tiempo, la minería de datos en varios motores al mismo tiempo, etc.), no solamente software libre. De hecho, SpagoBI también permite la integración de soluciones propietarias ( Business Objects o Microsoft Analysis Services, por ejemplo) para poder construir la mejor plataforma para un problema en particular.
+
+SpagoBI es enteramente de software libre (FOSS), solamente posee una versión la cual es gratuita (a diferencias de otras similares como Pentaho que tienen una versión comunitaria (gratuita) y otra empresarial (de pago)); lleva el BI Open Source al nivel empresarial, de hecho, el modelo de comportamiento regula la visibilidad en los datos de acuerdo a las responsabilidades empresariales y cuenta con una arquitectura escalable que continúa en la lógica del software libre.
+== Architectura ==
+
+=== SpagoBI Server ===
+SpagoBI Server es el módulo principal de la suite, que ofrece todo el núcleo y las funcionalidades de análisis. Se basa principalmente en dos modelos conceptuales (Modelo Analítico, Modelo de Negocio)  y ofrece una amplia gama de servicios administrativos y multiplataforma.
+
+El Modelo Analítico es el núcleo del SpagoBI Server y cubre toda la gama de necesidades de análisis, ofreciendo muchas soluciones para cada área de análisis:
+
+*  Reportes, para mostrar datos estructurados in a pixel-perfect way.
+*  Analisys OLAP, para navegar por los datos.
+* Gráficos, ofreciendo vistas simples e intuitivas de la información.
+*  Dashboards, tablero de mandos para monitorear los  KPIs.
+*  modelos KPI , para construir y probar un modelo propio de supervisión de los Indicadores claves del desempeño.
+*  reportes de Georreferenciación, para a publicación de datos a través de una representación geográfica.
+*  Cockpits, para realizar cuadros de mando complejos e interactivos.
+* Free Inquiry (QbE), para construir libremente su propia consulta y generar la plantilla de primer informe.
+*  Data mining processes, para descubrir la información oculta.
+* Office Documents, para la publicación de documentos bajo el control del modelo de negocio.
+* Dossiers analíticos, para recoger los documentos y las notas relacionadas introducidas por el usuario.
+* Accesibilidad de Reportes, en cumplimiento con las normas internacionales  WCAG 2.0 y las leyes Italianas.
+* Consola de supervisión en tiempo real, para monitorear las aplicaciones.
+* Filtros Inteligentes, para la selección guiada de los datos.
+* Procesos Externos, para la ejecución de los procesos externos capaces de interactuar con el sistema  OLTP.
+* procesos  ETL, para la recogida de datos de diferentes fuentes.
+
+== Enlaces externos ==
+* SpagoBI
+
+*SpagoBI Suite
+*Download SpagoBI
+*SpagoBI Demo
+*SpagoBI Support Services
+*SpagoBI SpagoBI Training Services
+*SpagoBI FAQ
+*GeoBI Initiative
+*Contacts
+
+== Véase también ==
+* Herramientas de inteligencia de negocios
+* Minería de datos
+* OLAP
+* Gestión del conocimiento
+* Analítica web
+* Inteligencia Empresarial

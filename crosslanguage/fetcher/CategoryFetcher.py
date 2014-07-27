@@ -1,8 +1,10 @@
 # coding=utf-8
+
 __author__ = 'Niv & Ori'
 
 from wikitools import wiki
 from wikitools import category
+from fetcher.utils import cat_lang
 
 class CategoryFetcher(object):
     """
@@ -32,10 +34,6 @@ class CategoryFetcher(object):
         return [article for article in category.getAllMembersGen()]
 
     def is_category(self, category):
-        cat_lang = {
-            'en':   unicode('Category', 'utf-8'),
-            'es':   unicode('Categoría', 'utf-8'),
-        }
         category_pattern = u'{:s}:'.format(cat_lang[self.language])
         return category[:len(category_pattern)] == category_pattern
 

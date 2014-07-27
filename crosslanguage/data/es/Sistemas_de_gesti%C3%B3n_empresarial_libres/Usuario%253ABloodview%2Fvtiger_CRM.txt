@@ -1,0 +1,68 @@
+vtiger CRM es una aplicación CRM de código abierto bifurcada con la intención de hacer una herramienta con una funcionalidad similar a SugarCRM y Salesforce.com, pero de código abierto. En su versión gratuita ofrece una herramienta de informes, un portal para clientes y un plugin para Outlook, opciones que se hallan en las versiones de pago de las otras aplicaciones.
+
+== Características ==
+
+Las principales características incluidas en vtiger CRM son:
+
+*Gestión automatizada de ventas (entradas de producto personalizables, gestión del inventario y proveedores, citaciones, facturaciones y sistema de seguimiento de incidentes.
+*Servicio de ayuda al cliente y funciones del servicio, incluyendo un portal de autoservicio para el cliente.
+*Automatización del mercado (estudio de clientes potenciales, apoyo de campañas y bases de conocimiento).
+*Gestión del inventario.
+*Análisis e informes.
+
+También incluye características de interacción con el usuario como:
+
+*Integración con sistemas de correo electrónico corporativo, mediante plugins o extensiones, para Microsoft Outlook y Mozilla Thunderbird.
+*Soporte para el sistema telefónico Asterisk PBX.
+*Calendario electrónico.
+*Función de Nube de etiquetas.
+*Suscripción a canales RSS.
+*Generación de documentos PDF mediante la libreria TCPDF.
+
+Otra ventaja destacable es el hecho de que al ser una aplicación web siempre estará activa y para su acceso sólo será requerido un navegador, o acceso mediante un terminal Android o iOS (iPhone).
+
+== Módulos ==
+
+Sus módulos principales se dividen en 4 áreas, las cuales permiten generar gráficos para tener una mejor visualización del negocio:
+
+* Comercial:  Permite gestionar y realizar un seguimiento de las ventas desde el primer contacto, pasando cuando es formalmente es un cliente hasta la post venta. Tiene control sobre pedidos, presupuestos, facturas, productos, tarifas y oportunidades.
+* Marketing: Puede administrar las campañas realizadas midiendo los contactos, las cuentas de las empresas, contactos previos. Posee comunicación vía correo electrónico. Su objetivo es controlar a los clientes e interesados asignando distintas responsabilidades.
+* Atención al Cliente: Se relaciona con el servicio de post venta, reportando incidencias y brindando soporte de manera sencilla. También permite crear un apartado de preguntas frecuentes (FAQ).
+* Inventario / Stock: Gestiona los proveedores, productos, precios, órdenes de compra, presupuestos, pedidos y facturas.
+
+== Historial de versiones ==
+
+vtiger CRM comenzó siendo un fork del proyecto SugarCRM lanzado el 31 de diciembre de 2004. En su presentación, realizada del 26 de agosto del mismo año, se nombra el proyecto SugarCRM, debido a que ambas comparten la misma premisa: Los programas de CRM eran innecesariamente costosos. Al tener SugarCRM licencia pública, crearon una versión basada en su código, que tomaron como núcleo principal y posteriormente modificaron.
+
+La versión 2.0 introduce tablas deslizantes, gestión de candidatos a clientes, importación de los mismos desde otras bases de datos, archivos adjuntos para presentaciones, precios y otros.
+
+En la versión 3.0 lanzada el 8 de noviembre de 2004 el mayor cambio es la integración con Microsoft Outlook con configuraciones del servidor proxy y su sincronización.
+
+La versión 4.0, que vio la luz el 29 de marzo de 2005 introdujo varios cambios, entre ellos plugins para Microsoft Office y Mozilla Thunderbird, plantillas para Microsoft Word, soporte para diferentes sistemas gestores de bases de datos, notificaciones por e-mail, un buscador y accesorios como un reloj mundial y una calculadora.
+
+El 14 de septiembre de 2006 se lanzó la versión 5.0.0, en la que se modificó la interfaz de usuario, construida en AJAX y se añadieron nuevas características tales como combinaciones de colores, niveles de seguridad, calendarios, reportes, papelera, administrador de pedidos, automatización de marketing y se profundizó más en los aspectos de personalización.
+
+Cerca de dos años después, el 12 de junio de 2008 se lanzó la versión 5.0.4, con mejoras de seguridad y más de 900 bugs corregidos.
+
+La versión 5.1.0 vio la luz el 20 de julio de 2009, ofreciendo nuevas características como una API para servicios web, flujo de trabajo, la librería Vtlib, soporte para servicios, un editor de diseños entre otras. Se corrigieron más de 700 bugs y se hicieron más de 150 mejoras, además de optimización de rendimiento. Esta versión requiere Apache versión 2.0.40 o superior, MySQL versión 5.x y PHP versión 5.0.x - 5.2.x.
+
+La siguiente versión en salir fue la versión 5.2.0 el día 30 de agosto de 2010 Trajo importantes cambios, como las notificaciones por SMS, y una API para aplicaciones para dispositivos móviles, lo que permite gestionar el CRM desde un terminal móvil con dicha aplicación. Más de 150 bugs fueron corregidos en esta versión.
+
+El 15 de noviembre de 2010 sale al mercado la versión 5.2.1. Esta versión es una mera actualización de mantenimiento que no incluye ninguna caracteristica nueva. Corrige 25 bugs y algunos fallos de seguridad.
+
+La versión 5.3.0 fue lanzada el 11 de noviembre de 2011 y trajo consigo características deseadas por los usuarios como zona horaria del usuario, administrador de correo, informes programados y un plugin de Outlook rediseñado. Fueron implementadas varias mejoras de usabilidad y se corrigieron más de 140 bugs.
+
+La versión 5.4.0, la última en salir al mercado fue lanzada el 19 de abril de 2012. Esta versión, como la anterior, implementó más características que los usuarios deseaban, como importar vCard, gráficos de informes, un menú simplificado, la opción de "seleccionar todo", entre otras. Se mejoró aún más la usabilidad y más de 100 bugs fueron corregidos.
+
+== Referencias ==
+
+de:Vtiger CRM
+en:Vtiger CRM
+fa:وی‌تایگر سی‌آرام
+fr:Vtiger CRM
+it:Vtiger CRM
+lv:Vtiger CRM
+nl:VTiger CRM
+pt:Vtiger CRM
+ru:VTiger CRM
+ta:வி டைகர்

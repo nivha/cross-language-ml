@@ -1,11 +1,21 @@
 #!/usr/bin/env python
 
+####
+# Copied by Public GitHub licence from this link:
+#   https://github.com/jinghe/hunter-gatherer/blob/master/wikipedia-process/wiki2plain.py
+#
+# Changes were made to fit crosslanguage project's goal
+###
+
 import re
+from fetcher.utils import cat_lang
+
 
 class Wiki2Plain:
-    def __init__(self, wiki):
+    def __init__(self, wiki, language):
         self.wiki = wiki
-        
+        self.language = language
+
         self.text = wiki
         self.text = self.unhtml(self.text)
         self.text = self.unwiki(self.text)
@@ -23,7 +33,7 @@ class Wiki2Plain:
         wiki = re.sub(r'\{\{[^\{\}]+\}\}', '', wiki)
         wiki = re.sub(r'(?m)\{\{[^\{\}]+\}\}', '', wiki)
         wiki = re.sub(r'(?m)\{\|[^\{\}]*?\|\}', '', wiki)
-        wiki = re.sub(r'(?i)\[\[Category:[^\[\]]*?\]\]', '', wiki)
+        wiki = re.sub(ur'(?i)\[\[{:s}:[^\[\]]*?\]\]'.format(cat_lang[self.language]), '', wiki)
         wiki = re.sub(r'(?i)\[\[Image:[^\[\]]*?\]\]', '', wiki)
         wiki = re.sub(r'(?i)\[\[File:[^\[\]]*?\]\]', '', wiki)
         wiki = re.sub(r'\[\[[^\[\]]*?\|([^\[\]]*?)\]\]', lambda m: m.group(1), wiki)

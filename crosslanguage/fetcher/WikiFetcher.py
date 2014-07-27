@@ -6,6 +6,7 @@ os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 from fetcher.CategoryFetcher import CategoryFetcher
 import urllib
+import codecs
 from wiki2plain import Wiki2Plain
 
 class FetcherError(Exception):
@@ -47,9 +48,13 @@ class WikiFetcher(object):
             path = os.path.join(self.category_base_dir, "{:s}.txt".format(article_title))
             print path
             raw_text = article.getWikiText()
+            raw_text = unicode(raw_text, 'utf-8')
+            
             # clean text - leave only wiki text
-            clean_text = Wiki2Plain(raw_text).text
-            with open(path, 'w') as f:
+            clean_text = Wiki2Plain(raw_text, self.language).text
+            clean_text = clean_text.encode('utf8')
+
+            with open(path, "w") as f:
                 f.write(clean_text)
 
 
@@ -57,7 +62,9 @@ if __name__=="__main__":
 
     # wf = WikiFetcher('en', "Institute_of_Physics")
     # wf = WikiFetcher('en', "International_Young_Physicists'_Tournament")
-    wf = WikiFetcher('es', "Libros_de_ciencias_de_la_computación")
+    # wf = WikiFetcher('es', "Libros_de_ciencias_de_la_computación")
+    wf = WikiFetcher('es', "Sistemas_de_gestión_empresarial_libres")
+    # wf = WikiFetcher('en', "Aetobatus")
 
     wf.fetch_to_files()
 

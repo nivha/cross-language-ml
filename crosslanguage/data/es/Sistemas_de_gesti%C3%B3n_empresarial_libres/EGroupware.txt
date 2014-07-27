@@ -1,0 +1,26 @@
+eGroupware es una solución de trabajo en grupo vía web, de código abierto. Está escrita en PHP utilizando bases de datos, tales como LDAP, PostgreSQL, o MySQL. Incluye un calendario, una libreta de direcciones, un gestor de contactos, un cliente de correo electrónico IMAP, un InfoLog, funciones de CRM, un gestor de proyectos, un gestor de recursos, un gestor de ficheros, una plantilla de tiempos, un wiki, una base de conocimiento y un motor de flujos de trabajo.
+
+El equipo principal detrás de eGroupware es de habla alemana y está localizado en Alemania.
+
+== Historia ==
+
+eGroupWare es la manifestación más actual de una cadena de proyectos. El proyecto original fue llamado webdistro. En 2000 comenzó el desarrollo del proyecto phpgroupware que fue basado en webdistro; y en 2003 la bifurcación de egroupware nació. eGroupware tiene un carácter mucho más orientado a la comunidad comparado con sus precursores. Hay una constitución del egroupware, adoptada en 2005, que garantiza la libertad y la seguridad a la comunidad y establece elecciones de los administradores del proyecto.
+
+==Características principales==
+
+*Calendario (programación de horario de grupos, de recursos y de contactos)
+*Gestor de contactos con base de datos en SQL o LDAP
+*Cliente de correo integrado tipo webmail usa el protocolo IMAP (FelaMiMail)
+*Infolog, una aplicación para tarea y notas
+*Gestor y proyecto integrado las otras aplicaciones
+*Gestor de recursos (inventario) y una herramienta para su reservación integrado en el Calendario del eGroupWare
+*Gestor de archivos
+*Sistema de autor de web con listas de control de acceso
+*Seguimiento de proyecto integrado con el gestor de proyectos
+*Seguimiento de errores
+*Wiki
+*Base de conocimiento
+
+== Enlaces externos ==
+*Sitio Oficial
+*Comunidad Hispana de eGroupWare

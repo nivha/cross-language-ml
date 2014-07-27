@@ -1,0 +1,121 @@
+Dolibarr ERP/CRM es un software de Planificación de recursos empresariales (PRE, ERP en inglés) y administración de la relación con los clientes (CRM en inglés) open source para la Pequeña y mediana empresa,  autónomos o asociaciones.
+
+== Características ==
+
+La aplicación está disponible bajo licencia GNU/GPL (GNU General Public License).
+Dolibarr es un proyecto realizado sobre la base de una política clara:
+Ser un software que respete la siguiente regla de las 3S:
+
+* Simple de desarrollar
+* Simple de instalar
+* Simple de usar
+
+Las características principales del sistema Dolibarr podría resumirse en los siguientes puntos:
+
+* Es un Sistema Multiusuario
+* Posee su propio sistema de permisos (con varios niveles para cada característica)
+* Una interfaz personalizable mediante temas
+* Permite modular el código
+* Funciona con versiones de MySQL 3.1 y superiores, y PHP 4.1 y superiores
+
+== Funcionalidades ==
+Dolibarr incluye las funcionalidades más importantes de un  PGI/GRC (En inglés ERP/CRM) exceptuando la gestión contable. Está basado en diferentes módulos más o menos dependientes unos de otros.
+Se caracteriza principalmente por su facilidad de instalación y su simplicidad de uso a pesar del gran número de funcionalidades que se activan a través de módulos.
+=== Módulos principales ===
+* Catálogo de clientes y/o clientes potenciales y/o proveedores
+* Anuario de clientes, clientes potenciales, proveedores
+* Anuario de contactos físicos
+* Gestión de cuentas bancarias/Cajas
+* Gestión de presupuestos
+* Gestión de pedidos
+* Gestión de contratos de servicio
+* Gestión de facturación
+* Gestión de stock
+* Control de pagos
+* Domiciliaciones bancarias
+* Gestión de envíos
+* E-Mailing
+* Funciones de exportación
+* Agenda
+
+=== Otros módulos ===
+* Generación de PDF (facturas, pedidos, presupuestos...)
+* Gestión de miembros de una asociación
+* Gestión de favoritos
+* Interface con Webcalendar/Phenix
+* Informes
+* Conectividad LDAP
+* Gestión de subvenciones
+* Gestión de notificaciones
+* Módulo Paybox
+* Módulo tracker Bit Torrent
+* ClickToDial (con Asterisk)
+
+=== Diversos ===
+* Multi-usuario, permisos por funcionalidades
+* Varios gestores de menú (diferentes para los usuarios internos en back-office y para los externos en front-office)
+* Muy simple de instalar y de usar
+* Varios temas
+* Código altamente personalizable
+* Funciona con MySQL 3.1 o superior
+* Funciona con PHP 5.0 o superior
+
+== Características que faltan ===
+* Software monodivisa
+* Sin contabilidad analítica
+* Sin módulo de gestión de recursos humanos
+* Sin módulos de gestión de proyectos (sin diagrama de Gantt)
+
+== Arquitectura ==
+Dolibarr está desarrollado en PHP para proporcionar una solución para su empresa, asociación o institución en cualquier parte del mundo.
+
+De momento solamente soporta la base de datos MySQL.
+Ha sido diseñado para funcionar con la más amplia gama de servidores o hosts posible. Así Dolibarr funciona con todas las configuraciones de PHP y no requiere ningún módulo PHP específico o complementario.
+
+Dollibarr puede ser instalado en los Sistemas Operativos Windows (mediante el instalador DoliWamp), Mac OS X (DoliMamp) y Linux Ubuntu/Debian (Dolibarr para Ubuntu).
+
+== Historia ==
+El desarrollo se inició por Rodolphe Quiédeville, partiendo de cero, realizando las modificaciones en CVS, albergado por Savannah, en Abril de 2002.
+Jean-Louis Bergamo, otro miembro de April, realizó el módulo de gestión de miembros
+
+* La versión 1.0 se realizó en septiembre de 2003.
+
+Rodolphe llevó principalmente el desarrollo del producto hasta lograr una victoria en los trofeos del software libre en 2003 en la categoría de "Gestión Empresarial".
+
+Fue una oportunidad para que otros desarrolladores descubrieran la nueva aplicación.
+Incluyendo Laurent Destailleur, quien hizo los primeros cambios en el proyecto en diciembre de 2003.
+
+Fue acompañado por Régis Houssin 1 año y medio más tarde, en junio de 2005.
+Hasta la fecha, estos 2 últimos  son los principales contribuyentes del proyecto.
+
+* La versión 2.0 salió en diciembre de 2005.
+* La versión 2.2 salió en diciembre de 2007.
+* La versión 2.5 salió en diciembre de 2008.
+* La versión 2.6 salió en abril de 2009.
+* La versión 2.7 salió en diciembre de 2009.
+* La versión 2.8 salió en marzo de 2010.
+* La versión 2.9 salió en agosto de 2010.
+* La versión 3.0 salió en marzo de 2011.
+* La versión 3.1 salió en octubre de 2011.
+* La versión 3.2 salió en julio de 2012.
+
+Régis Houssin y la empresa NLTechno (Laurent Destailleur) son actualmente los 2 principales patrocinadores Dolibarr, los 2 principales desarrolladores, los albergadores del sitio www.dolibarr.fr / www.dolibarr.org o la utilidad de seguimiento de estadísticas CVS
+
+Otros desarrolladores, particulares, empresas o independientes (por ejemplo, auguria) contribuyen, a través de sus tests, envío de parches al foro o lista de correo, a la evolución de Dolibarr.
+
+== Premios ==
+* 2003
+** 1º en la categoría "Gestión de Empresas" en el concurso Les Trophées du Libre.
+
+== Enlaces ==
+* El wiki Dolibarr (documentación)
+* La demo en línea de Dolibarr
+* Sitio oficial habla hispana
+* (en inglés) Sitio oficial anglófono
+* (en francés) Sitio oficial francófono		
+* (en inglés) DoliWamp, el Dolibarr para Windows
+* Página del proyecto ChoiceERP
+
+== Referencias ==
+
+== Véase también ==

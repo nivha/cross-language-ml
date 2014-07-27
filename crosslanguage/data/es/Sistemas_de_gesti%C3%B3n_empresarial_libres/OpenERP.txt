@@ -1,0 +1,81 @@
+Open ERP (conocido anteriormente como TinyERP, y ahora conocido como Odoo) es un sistema de ERP integrado de código abierto actualmente producido por OpenERP s.a. Actualmente han cambiado el nombre de OpenERP por el de Odoo.
+
+El fabricante define su producto como una alternativa de código abierto a SAP ERP y Microsoft Dynamics, así como el ERP de código abierto más sencillo y destacado del momento.
+
+== Soluciones de industria ==
+
+OpenERP viene provisto de módulos estándar tales como:
+
+* Gestión de compraventa.
+* CRM.
+* Gestión de proyectos.
+* Sistema de gestión de almacenes.
+* Manufactura.
+* Contabilidad analítica y financiera.
+* Puntos de venta.
+* Gestión de activos.
+* Gestión de recursos humanos.
+* Gestión de inventario.
+* Ayuda técnica.
+* Campañas de marketing.
+* Flujos de trabajo.
+
+== Licencia e impacto en el modelo de negocios ==
+
+La mayoría de los módulos de OpenERP son lanzados bajo la licencia AGPL (anteriormente la GPL) y algunas partes utilizan una derivada de la Mozilla Public License. Como consecuencia directa, OpenERP no requiere ninguna tasa para ser utilizado, a diferencia de los líderes del mercado. Eso también implica que, mientras que se respeten los términos de la licencia, la modificación directa del programa es posible.
+
+== Arquitectura ==
+
+==== Arquitectura cliente-servidor ====
+thumb|Estructura
+OpenERP tiene componentes cliente-servidor separados. El servidor se ejecuta independientemente del cliente y maneja la lógica de negocio y comunica con la aplicación de base de datos. El cliente presenta la información a los usuarios y les permite interactuar con el servidor. Hay disponibles múltiples aplicaciones cliente.
+
+==== Servidor y módulos ====
+La parte del servidor está escrita en Python. El cliente se comunica con él a través de interfaces XML-RPC.
+La funcionalidad del negocio se organiza en módulos. Los módulos no son más que meras carpetas con una estructura predefinida, con código en Python y archivos XML en su interior. Un módulo define la estructura de los datos, formularios, informes, menús, procedimientos, flujos de trabajo, etc. Los módulos se definen mediante una sintaxis independiente del cliente, de tal forma que añadir nuevos objetos, como menús y formularios los hace disponibles para cualquier cliente.
+
+==== Aplicaciones cliente ====
+Los clientes son livianos porque no contienen la lógica del negocio. Se da soporte a dos aplicaciones oficialmente:
+* Una aplicación web implementada como un servidor HTTP que permite a los usuarios conectarse mediante un navegador de internet.
+* Una aplicación de escritorio escrita en Python utilizando el kit de herramientas GTK+ (obsoleta a partir de la versión 7).
+No obstante, la comunidad ha desarrollado otros clientes alternativos.
+
+==== Base de datos ====
+OpenERP usa PostgreSQL que es un sistema gestor de bases de datos.
+
+==== Informes ====
+OpenERP también incluye un sistema de reportes con integración con OpenOffice.org, lo que permite personalizar los informes. También hay motores de reportes alternativos utilizando Webkit o Jaspersoft.
+
+==== Código fuente y contribuciones ====
+El código fuente de OpenERP se aloja en Launchpad, utilizando el sistema de control de versiones Bazaar. Las contribuciones y la documentación también se administran mediante Launchpad. Un sitio web dedicado a recopilar toda la documentación fue lanzado en 2009. A partir del cambio de denominación a Odoo(versión 8) se comenzó a utilizar a GitHub como forja.
+
+== Software como servicio ==
+A partir de la versión 6.0 de OpenERP s.a. distribuye una versión de OpenERP como servicio.
+
+== Aplicaciones OpenERP ==
+OpenERP s.a. mantiene un sitio web en el que hace referencia a los módulos oficiales así como aquellos contribuidos por la comunidad. El concepto es similar al App Store de Apple. Los módulos comunitarios pueden ser referenciados de forma gratuita siempre y cuando se respeten las normas de envío.
+
+== Entorno de desarrollo ==
+El desarrollo de módulos se realiza editando archivos Python y XML. No hay un editor oficial, aunque los tutoriales se decantan por Eclipse o PyCharm + PyDev. Parte de la lógica de la aplicación puede ser cambiada desde la interfaz del cliente.
+
+== Véase también ==
+* Lista de paquetes de software libre y de código abierto
+* Comparación entre Tryton y OpenERP
+* Herramientas de gestión empresarial
+* Planificación de recursos empresariales (ERP)
+* Software contable
+* Composición de un Sistema de trazabilidad
+
+== Referencias ==
+
+== Enlaces externos ==
+
+* OpenERP Sitio oficial de OpenERP (parcialmente en inglés)
+* Portal sobre OpenERP en castellano
+* Proyectos de OpenERP/OpenObject en LaunchPad
+* Proyecto de localización española de OpenERP en LaunchPad
+* Proyecto de localización Venezolana de OpenERP en LaunchPad
+* Proyecto de localización Mexicana de OpenERP en LaunchPad
+* Proyecto de localización Argentina y documentación de OpenERP
+* Distribuidores oficiales de OpenERP para España
+* Documentación OpenERP es castellano

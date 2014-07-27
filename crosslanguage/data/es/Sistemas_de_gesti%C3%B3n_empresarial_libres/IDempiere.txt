@@ -1,0 +1,35 @@
+iDempiere Business Suite  es un software ERP Sistema de planificación de recursos empresariales de código abierto, que incluye tambien funcionalidades de CRM  Administración de la Relación con los Clientes y SCM Administración de la cadena de suministro.
+
+==Funcionalidad==
+Adempiere cuenta con todas las funciones que un ERP moderno debe tener, permite ser configurado para cada caso especifico de negocio, lo que obviamente requiere un plan de implementación muy cuidadoso.
+
+iDempiere soporta:
+
+*Múltiples Organizaciones
+*Múltiples Grupos Empresariales
+*Múltiples Idiomas
+*Múltiples  Monedas
+*Múltiples Estructuras de Contabilidad
+
+==Arquitectura==
+iDempiere se derivó del proyecto ADempiere el cual a su vez se derivó de la versión libre de Compiere. Por tanto hereda entre otras características el soporte para base de datos Oracle y PostgreSQL, JAVA como lenguaje de programación, pero principalmente el  diccionario de aplicación del proyecto Compiere™. que extiende el concepto de "Diccionario de Datos" hacia la administración en iDempiere de entidades, reglas de validación, ventanas, formatos, lógica de despliegue, etc. Haciendo que muchas funciones puedan realizarse directamente en el diccionario, sin necesidad de modificar el código JAVA.
+
+== Tecnología==
+La primera gran diferencia de iDempiere con su versión precedente (ADempiere), esta en la actualización tecnológica de su plataforma, de esta manera esta basado en un framework OSGi permitiendo una estructura de plug-ins, con el servidor de aplicacion Apache Tomcat como remplazo de jboss mejorando el rendimiento y tamaño, Eclipse Buckminster y una migración de ZK3.6 a ZK6 sobre el cual se implementó una interface rediseñada.
+
+==Versiones==
+
+==Comunidad==
+iDempiere es apoyado por una comunidad mundial de personas comprometidas con el proyecto, entre usuarios finales, implementadores y Especialistas técnicos del proyecto, en este último grupo sobresalen en su mantenimiento:
+
+El código de iDempiere incluye por supuesto gran cantidad de aportes realizados en la versión de código abierto de Compiere principalmente de su creador Jorg Janke antiguo trabajador de Oracle Alemania y Usa. Asi mismo muchas lineas provienen de desarrolladores de Adempiere algunos de los cuales no se han involucrado en iDempiere.
+
+== Referencias ==
+
+== Enlaces externos ==
+* Sitio web oficial
+* iDempiere en bitbucket
+* iDempiere en SourceForge
+*  iDempiere Wiki
+* iDempiere Demo 
+* foro en español

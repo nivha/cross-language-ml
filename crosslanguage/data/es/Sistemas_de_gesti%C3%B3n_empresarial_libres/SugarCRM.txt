@@ -1,0 +1,83 @@
+SugarCRM es un sistema para la administración de la relación con los clientes (CRM) basado en LAMP (Linux-Apache-MySQL-PHP), desarrollado por la empresa SugarCRM, Inc. ubicada en Cupertino, California.
+
+Tiene cinco ediciones, una de ellas libre y otras cuatro ediciones con componentes no-libres y con un costo por usuario. SugarCRM es una aplicación CRM muy completa para negocios de distinto tamaño. Está diseñada para facilitar la gestión de ventas, oportunidades, contactos de negocios y más. A partir de la versión 4.5 permite utilizar SQL Server como base de datos; y la empresa ha firmado acuerdos con Microsoft para poder expandir su mercado sobre servidores con Windows.
+
+== Historia ==
+
+La empresa fue fundada en 2004, y el 18 de diciembre de 2006 anunció que habían alcanzado los 1000 clientes de pago, desde el lanzamiento del producto. El producto es actualmente utilizado por grandes empresas y multinacionales como Honeywell, Yahoo, Starbucks, el estado de Oregón, el centro de investigación Ames de la NASA, AXA Rosenberg del grupo AXA y BDO Seidman. Además, la versión de código semiabierto ya ha sido descargada más de 9,709,413 de veces hasta la fecha (13/09/2011).
+
+Algunas empresas y consultoras pequeñas han tomado la edición de código abierto del producto como base para desarrollar sus propios productos, ampliando los módulos que componen el producto y agregando nuevos módulos y funcionalidades. También existen empresas que se dedican a brindar el servicio de soporte y mantenimiento en línea de la edición de código semiabierto. La página sugarforge.org se encarga de centralizar todas los agregados y la Documentación.
+
+En noviembre de 2004, un fork de SugarCRM, vtiger CRM, se pretendia la intención de ser una solución completamente de código abierto. El equipo de software de núcleo de desarrollo se basa en Bangalore, India.
+
+En noviembre de 2005, la compañía SplendidCRM se formó, la cual producía software que inicialmente fue un clon de SugarCRM, pero con la intención de poder ejecutarse en Microsoft ASP.NET framework. Como SugarCRM, SplendidCRM produce dos versiones, de código abierto y comercial de su software.
+
+En 2007, SugarCRM lanzó SugarCon, una conferencia para usuarios y desarrolladores de Sugar, que se ha convertido desde entonces en una conferencia anual, celebrada en el Área de la Bahía de San Francisco.
+
+En 2008, SugarCRM contaba con más de 150 empleados.
+
+En junio de 2008, el co-fundador Taylor dejó la compañía, durante lo que la web tecnológica The Register llamó "un misterioso éxodo de personal de negocios de alto nivel y con experiencia" de SugarCRM. Clint Oram lo reemplazó como el CTO.
+
+En mayo de 2009, el co-fundador y CEO, Roberts, dejó la compañía. Fue sustituido como CEO por otro miembro de la junta de SugarCRM, Larry Augustin, que había fundado anteriormente y desempeñó el papel de CEO de VA Linux (ahora conocido como Geeknet).
+
+En junio de 2010, Sugar lanzó Sugar 6, una actualización con mayor énfasis en la facilidad de uso y la introducción de una revisión completa de la interfaz de usuario de Sugar Professional y Sugar Enterprise.
+
+A principios de 2011, Sugar fue seleccionado como un socio de la Alianza Global IBM para Servicios en la Nube.
+
+En febrero de 2011, SugarCRM anunció que su flujo de efectivo se volvió positivo por primera vez en su historia.  SugarCRM se ha mantenido con flujo positivo desde entonces.
+
+En la SugarCon 2011, SugarCRM también anunció su primera adquisición; iExtensions, el CRM líder del mercado para Lotus Notes.
+ 
+En junio de 2011, SugarCRM continuó ampliando el tema Sugar 6 añadiendo más capacidades globales (25 idiomas), mejorado el Mobile CRM (la aplicación nativa es soportada por más del 90% de todos los teléfonos inteligentes y tabletas del mundo) y extensiones Social CRM e integraciones con (LinkedIn, Twitter, Facebook, InsideView, LotusLive, WebEx, GoToMeeting and Google Docs).  Como parte de este lanzamiento, Sugar introdujo dos nuevas ediciones; Sugar Corporate y Sugar Ultimate. eWeek dijo que Sugar 6 de SugarCRM lo hace bien.
+
+SugarCRM anotó otro año excepcional en 2011, con un récord de ingresos del cuarto trimestre (hasta el 92 por ciento desde Q4 2010) y el crecimiento de los ingresos anuales del 67%.
+
+En SugarCon 2012, SugarCRM ha anunciado la liberación de Sugar 6.5. Esta nueva versión ofrece a los clientes una interfaz de usuario actualizada. Capacidades de búsqueda más potentes, un calendario actualizado y un rendimiento más rápido.La versión 6.5 también introduce soporte adicional para los diferentes software de IBM y plataformas de hardware. Sugar 6.5 fue GA en junio de 2012.
+
+En abril de 2012, SugarCRM completó un financiamiento de $33 millones para una mayor expansión en la empresa.
+
+Los clientes pueden probar Sugar Enterprise de forma gratuita durante 7 días. Sugar Community Edition está disponible como una descarga gratuita en sourceforgeo directamente desde SugarForge, que ha tenido más de 11 millones de descargas.
+
+== Productos ==
+=== Ediciones ===
+SugarCRM desarrolla software CRM en cinco ediciones:
+
+* Sugar Community Edition (anteriormente conocido como Sugar Open Source)
+* Sugar Professional
+* Sugar Corporate
+* Sugar Enterprise
+* Sugar Ultimate
+Cada producto se deriva de la misma  Base de Código, con la Sugar Community Edition que contiene aproximadamente el 85 por ciento de la funcionalidad contenida en Sugar Professional y Sugar Enterprise . Los productos originados en la LAMP pila de Linux,  Apache, MySQL y PHP, pero también se ejecutan en otras plataformas que pueden ofrecer PHP (por ejemplo,  Windows,  Solaris y Mac OS X). SugarCRM también se puede utilizar  MS IIS como un servidor web, y  MS SQL u  Oracle como bases de datos alternativos.
+
+SugarCRM hace que Sugar Community Edition esté disponible de forma gratuita, aunque se están eliminando gradualmente para empujar a los clientes basados a las ediciones de suscripción: Profesional, Empresarial, Enterprise, Ultimate.
+
+=== Opciones de implementación ===
+
+SugarCRM ofrece 4 opciones diferentes de implementación. Los clientes pueden implementar la Sugar como un Software_como_servicio (SaaS) en la Sugar Cloud, como una solución bajo-premisa detrás de su firewall, en una nube de SugarCRM socios o en la nube pública, incluyendo Amazon Elastic Compute Cloud, Windows Azure Services Platform, Rackspace Cloud, IBM SmartCloud Enterprise.
+
+== Sugar Community Edition ==
+La edición libre de SugarCRM se distribuye con el nombre de Sugar Community Edition antes conocida como Sugar Open Source. El 25 de julio de 2007 se anunció la adopción de la GNU GPL (versión 3) para Sugar Community Edition, La GPL tiene efecto a partir de Sugar Community Edition 5.0.
+
+Anteriormente, SugarCRM OpenSource estaba licenciado bajo la SugarCRM Public License versión 1.1.3, o Microsoft Shared Source Licence.
+
+== Formas de instalación ==
+
+Este producto puede instalarse de dos maneras distintas, On-Demand y On-Site:
+
+On Demand: Esta modalidad está especialmente recomendada para Pymes que no poseen un departamento de sistemas o que simplemente no desean tener las complicaciones de poner en marcha una solución de CRM de este tipo. En este caso, la aplicación se ejecuta en un hosting y la empresa accede a los servicios provistos por el software de manera remota utilizando un browser con acceso a internet.
+
+On Site: Esta modalidad a diferencia de la anterior está recomendada para empresas que sí poseen personal de sistemas dentro de su staff y desean tener un control absoluto respecto del software de CRM. En este caso la aplicación se instala en equipos provistos por la Pyme y normalmente se accede en la intranet aunque también es posible ofrecer la funcionalidad a internet para que por ejemplo los usuarios puedan acceder a las funciones del sistema desde cualquier parte del mundo.
+
+== Licencia ==
+SugarCRM con licencia inicial Sugar Open Source bajo la Licencia Pública SugarCRM (basado en el Mozilla Public License y el Reconocimiento de Garantía de licencia). Mientras que los usuarios pueden libremente distribuir Sugar Open Source y la licencia permite la inspección y modificación del código fuente y para la creación de obras derivadas, críticos, entre ellos Dan Farber, editor en jefe de CNET, expresó cierta preocupación por el uso de SugarCRM del término "open source comercial" para describir sus productos.
+
+== Véase también ==
+* Customer relationship management
+
+== Referencias ==
+
+== Enlaces externos ==
+
+* Página web oficial
+* Comunidad
+* Comunidad hispana

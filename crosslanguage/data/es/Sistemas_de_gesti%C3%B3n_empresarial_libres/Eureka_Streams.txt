@@ -1,0 +1,66 @@
+Eureka Streams es una plataforma de redes sociales empresariales libre, de código abierto desarrollada por Lockheed Martin. Las corrientes o arroyos de actividad (activity streams) y los widgets (el equivalente a los gadgets en software) son sus principales funciones. El contenido de dentro de Eureka Streams consiste en primer lugar de microblogs y fuentes web internas y externas. Los usuarios proporcionan típicamente enlaces a otros contenidos, tales como wikis, blogs, y documentos compartidos y alojados en un sistema de gestión de contenidos.
+
+== Arquitectura ==
+Eureka Streams usa una arquitectura de "nada compartido" (shared nothing architecture).  UsaMemcached, Apache Maven, PostgreSQL e Hibernate. Para OpenSocial, usa Shindig.
+Eureka hace uso de Java Message Service (JMS), Java Persistence API (JPA), Lucene y Google Web Toolkit (GWT). Y también de los protocolos Apache JServ Protocol (AJP), OAuth y Representational State Transfer (REST).
+
+== Historia ==
+El desarrollo del software Eureka Streams comenzó en Lockheed Martin en la primavera de 2009.  El proyecto de código abierto fue anunciado antes públicamente en la Conferencia Enterprise 2.0 en Boston, Massachusetts en julio de 2009. Sin embargo, el nombre "Eureka Streams" fue elegido más tarde ese verano y consecuentemente revelado públicamente con el anuncio del proyecto el 26 de julio de 2010.
+
+Cuando el proyecto fue anunciado por primera vez, la comunidad open source inicialmente reaccionó con sorpresa, en parte por el hecho de que la compañía creadora es una gran empresa industrial aeroespacial y de defensa. Además, el proyecto aparentemente resistía la tendencia de las grandes compañías a participar en proyectos de código abierto.
+
+== Características ==
+Eureka Streams consiste en tres componentes de usuario final: Activity Streams (corrientes de actividad), Profiles (perfiles), y Start Page (página de inicio).  También proporciona funciones relacionadas con la gestión.
+=== Corrientes de Actividad ===
+* Creación y seguimiento de corrientes (arroyos) individuales o grupales
+* Creación de corrientes públicas o privadas de grupo
+* Posteo de mensajes o enlaces
+* Comentarios sobre y uso compartido de actividades
+* Guardado de actividades como favoritas
+* Importación de actividad a una corriente individual o de grupo (p.e., desde cualquier fuente RSS)
+* Organizado de corrientes en listas personalizadas
+* Guardado de una palabra clave de búsqueda para actividades
+* Creación de aplicaciones (apps) desde una lista o una búsqueda guardada
+* Restricciones del posteo de mensajes o comentarios a una corriente
+* Recepción de notificaciones vía e-mail sobre nueva actividad, comentarios y seguidores
+* Receive real-time alerts for new activity when viewing a stream
+
+=== Perfiles ===
+* Captura de información de perfiles de un individuo incluyendo: biografía, historial laboral, educación e intereses
+* Captura de información de perfil para un grupo u organización, incluyendo vista por encima (overview) y palabras clave
+* Subida de avatares de una corriente personal, grupal u organizacional
+* Subida de banners (banderolas) de stream grupal o individual
+* Vista de conexiones de un stream individual o grupal
+* Visionado de listas de comprobación de ítems para completar un perfil
+* Búsqueda de corrientes individuales, grupales o de organizaciones, ordenadas por novedad, actividad o popularidad
+* Búsqueda de individuos, grupos y organizaciones según información del perfil
+
+=== Página de inicio ===
+* Adición de aplicaciones (apps) que muestren información de fuentes de la intranet o la Internet
+* Organización de apps en pestañas
+* Mover aplicaciones en o entre pestañas vía drag-and-drop
+* Aplicar un esquema a una pestaña
+* Navegación o búsqueda en galería de aplicaciones (apps) y temas (themes)
+* Visionado de fuentes RSS públicas en una aplicación lectora y adición de ítems compartidos en un stream personal
+
+=== Governanza ===
+* Gestión de accesos basada en grupos y atributos LDAP
+* Incrustación (Embed) de vídeos para usuarios finales
+* Manejo de gadgets, temas, y plugins de stream
+* Confirmación de configuración de términos de servicio
+* Mostrado de mensajes a usuarios sobre uso apropiado
+* Fijación de una duración de actividades tras la cual la actividad expira
+* Gestión de creación de nuevos grupos
+* Manejo de actividades marcadas como inapropiadas por los usuarios con banderas colocadas por ellos
+
+== Véase también ==
+
+* Software social
+
+== Referencias ==
+
+== Enlaces externos ==
+
+*  Sitio Web oficial
+*  http://github.com/lmco/eurekastreams
+*  http://groups.google.com/group/eureka-streams-dev

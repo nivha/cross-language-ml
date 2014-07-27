@@ -1,0 +1,33 @@
+openXpertya es una solución de gestión integral para la empresa en español de código abierto que engloba ERP y CRM, con integración de servicios en línea de B2B o B2C (en función del tipo de cliente final) e incluso B2E (servicios internos) y con soporte de exportación de datos (enlaces) al estandard EDI (intercambio electrónico de información entre empresa: facturas, albaranes, pedidos: EDIFACT, estandard mundial de la ONU) y con posibilidad de trabajar con cubos multidimensionales OLAP (análisis exhaustivo de resultados). Todo ello adaptado muy de cerca a la legislación hispana e hispanoamericana, tanto fiscal, como mercantil, civil, contable, etc.
+
+El propósito de openXpertya es cubrir ampliamente, y muy de cerca, todas aquellas necesidades de gestión que una empresa de tamaño medio o grande podría tener. Es la planificación global de todos los recursos de la empresa.
+
+Toda la información acerca de la aplicación openXpertya (estado, errores, mejoras, etc.) es abierta también, no existe política de ocultamiento corporativa ni censura. Si algo no funciona, no se tendrá inconveniente en averiguarlo rápidamente. Como consecuencia, openXpertya y los proyectos de Código abierto en general son muy rápidos para reaccionar, si surgieran problemas o fuera necesario cambios rápidos en el código a partir de ciertas necesidades.
+
+== Antecedentes de hecho ==
+openXpertya se basa en el proyecto anterior, también de software libre denominado Xpertya.
+
+== Licencia Pública de openXpertya ==
+Todo el código de openXpertya está licenciado bajo la Licencia Pública de openXpertya LPO. Esta licencia está publicada en español y es una traducción legal, con las adaptaciones necesarios obligadas por los cambios en la legislación de la licencia original CDDL de SUN, aprobada como licencia de código abierto por la OSI el 14 de enero del 2.005.
+
+La Licencia Pública de openXpertya acoge los mismos términos de la licencia CDDL de SUN, añadiendo la posibilidad de relicenciar el código nuevo bajo cualquier otro tipo de licencia que respete las condiciones de la presente y expresamente bajo la licencia LGPL en cualquier caso.
+
+La Licencia Pública de openXpertya se creó debido a una necesidad específica, al reutilizar y modificar código de varias aplicaciones anteriores con distintas licencias de software libre. La única Licencia Posible que permite la máxima libertad posible y a la vez respeta las condiciones de las licencias de software libre de cada una de las partes de código modificadas o reutilizadas es
+la CDDL. Que explícitamente indica que las partes del código extraídas del total del producto vuelven a estar gobernadas por la licencia original, mientras que el producto en si lo está por la propia LPO.
+Para permtir asimismo la máxima reutilización del código nuevo, se permite expresamente el relicenciamiento del mismo bajo licencia LGPL o bajo cualquier otro tipo de licencia de software libre.
+
+Esta licencia otorga a los usuarios y programadores la totalidad de las cuatro libertades del software libre, y posibilita la reutilización del código junto a cualquier otro, esté gobernado por la licencia que esté.
+
+== Arquitectura de openXpertya ==
+openXpertya, a través del entorno de diseño en tres capas (3LD o programación por capas) aporta una metodología de declaración de los conceptos de negocio, definición de la interacción con el sistema, procesos a realizar sobre los conceptos, y finalmente establecer restricciones a este modelo y validaciones. 
+      
+Así las tres capas, desarrolladas bajo J2EE, quedan definidas en el proyecto openXpertya de la siguiente manera:
+
+# En la capa de datos tenemos el motor de base de datos relacional, independiente de la aplicación y escalable en función de las necesidades de la empresa final. La versión actual de openXpertya trabaja sobre Oracle, por su potencia y por ser un estandard del mercado, pero adicionalmente en las siguientes release habrá disponibilidad para la utilización de otros motores de base de datos como (Daffodil One$DB, PostgreSQL, Firebird y Sybase ASE Express Edition sobre Linux).
+# En la capa del Servidor de Aplicaciones o de Negocio, tenemos el servidor de aplicaciones JBOSS y las clases java que interactúan directamente con la base de datos (vía JDBC).
+# En la capa de Presentación disponemos de varios clientes posibles. El principal y sus variantes de empaquetado (distribución directa, vía Java Web Start o applet Java), realizado directamente en Java; pero adicionalmente también disponemos de cliente ligero sobre navegador web (contra las páginas JSP servidas desde el servidor Apache Tomcat integrado en JBOSS) con diversas configuraciones posibles basadas en las necesidades de los procesos de negocio de la empresa usuaria y en función del tipo de rol del usuario que abre sesión en cada momento concreto.
+
+== Enlaces externos ==
+* Sitio web oficial de openXpertya
+* Wiki del proyecto openXpertya
+* Sitio web de soporte del producto

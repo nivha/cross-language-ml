@@ -1,0 +1,52 @@
+ADempiere es un proyecto guiado por la comunidad la cual desarrolla y soporta una solución de código abierto para negocios del mismo nombre, la cual ofrece la funcionalidad de Planificación de recursos empresariales, Administración de la Relación con los Clientes y Administración de la Cadena de Suministro (derivado de sus siglas en inglés: ERP, CRM, SCM respectivamente).
+
+El proyecto ADempiere fue creado en septiembre de 2006 después de las diferencias que se tuvieron entre Compiere Inc., los desarrolladores de Compiere, y la comunidad que se formó alrededor del proyecto. La comunidad consideró que Compiere Inc. puso especial énfasis en la naturaleza de código abierto del proyecto, en lugar de la naturaleza comunitaria del proyecto. Después de una intensa discusión se decidió bifurcar el código de Compiere y dar nacimiento al proyecto ADempiere.
+
+El nombre del proyecto proviene de una palabra Italiana, la cual significa “satisfacer” pero con un contexto adicional de “completar, alcanzar, practicar, realizar las tareas de, o liberar, también significa dar honor, respetar”, lo cual fue considerado sumamente apropiado con lo que el proyecto pretende lograr.
+
+== Estructura del proyecto ==
+Al ser un proyecto basado en la comunidad todos tienen el derecho de emitir su opinión y de hecho es algo que se promueve activamente.
+A efectos prácticos, el proyecto se rige por un consejo de contribuyentes.
+Un líder es nominado de este Consejo para que actúe como gerente general del proyecto. El papel del Consejo de Adempiere es:
+* Apoyar a las decisiones del líder.
+* Aceptar las contribuciones.
+* Definir el plan de trabajo.
+* Revisar y aprobar las especificaciones.
+* Votar por nuevas funcionalidades.
+* Aprobar cambios del núcleo.
+
+== Metas del proyecto ==
+La meta del proyecto ADempiere es la creación de una comunidad que desarrolle y soporte una solución de código abierto para negocios. La comunidad cree que el mejor método para lograr esta meta es instaurando un modelo "bazar", tomando como base el famoso artículo de Eric Raymond: La Catedral y el Bazar. Este compromiso hacia la comunidad es lo que distingue a ADempiere de otros proyectos que desarrollan soluciones similares de negocios. Estos ideales son expresados y enriquecidos en el Estatuto del Proyecto, el cual está siendo actualmente escrito por el consejo.
+
+== Funcionalidad de negocios de Adempiere ==
+ADempiere cubre las siguientes áreas de negocio:
+
+:* Administración Planeación de Recursos (ERP)
+:* Administración de la Cadena de Suministro (SCM)
+:* Administración de la Relación con los Clientes (CRM) 
+:* Análisis del Desempeño Financiero
+:* Solución Integrada de Punto de Venta (TPV - POS) 
+:* Tienda en línea Integrada
+:* Planificación de los requerimientos de material (o planificación de recursos de fabricación, en beta para la versión 3.5), aportados por el proyecto Libero.
+
+== Arquitectura ADempiere ==
+ADempiere heredó el diccionario de aplicación del proyecto Compiere™. Esta arquitectura facilita la extensión del concepto de Diccionario de Datos dentro de la aplicación, lo cual a su vez, hace posible la administración de entidades, reglas de validación, como así también que el formato de pantalla y la lógica de despliegue sean controlados dentro de la misma aplicación. Se utiliza una máquina de flujos de trabajo (Workflow Engine) basada en los estándares WFMC y OMG para proveer de la administración de procesos de negocios. Estas características permiten una rápida modificación de la aplicación a medida que las necesidades de un negocio van evolucionando.
+
+== Tecnología ADempiere ==
+ADempiere está desarrollado con tecnología J2EE; específicamente utiliza el servidor de aplicaciones JBOSS. Actualmente el soporte de bases de datos está restringido a Oracle y PostgreSQL, no obstante, la independencia de la base de datos es una meta prioritaria para el proyecto.
+
+== Referencias ==
+
+;Notas
+* Heise Online - Technology News Portal
+* LinuxPR note
+* InfoWorld article
+*Full Open Source compliance and Database independence, one step closer with Adempiere first release
+*Compiere User Community Splits; Code Forks
+
+== Enlaces externos ==
+* Sitio web oficial (en inglés)
+* ADempiere en SourceForge
+* ADempiere Wiki
+* ADempiere Test/Demo OnLine
+* ADempiere Virtual Appliance para VMware player es una instalación completa pre-instalada y pre-configurada corriendo bajo VMware Player que contiene todo el software necesario. Una manera rápida de probar ADempiere.
