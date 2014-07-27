@@ -20,7 +20,7 @@ def load_category(lang_path, category_path):
     }
 
     # Resolve the category URL
-    category_url = 'http://{:s}.wikipedia.org/wiki/{:s}:{:s}'.format(
+    category_url = u'http://{:s}.wikipedia.org/wiki/{:s}:{:s}'.format(
         lang_path, cat_lang[lang_path], category_path)
 
     # Get path in
@@ -36,13 +36,14 @@ def load_category(lang_path, category_path):
 
     # Load all article in path directory.
     for filename in os.listdir(path):
+        if os.path.isdir(os.path.join(path, filename)): continue
         # Exclude all non .txt files
         if not filename.endswith('.txt'):
             raise Exception('{:s} is not a txt file - what is it doing here?'.format(filename))
 
         with open(os.path.join(path, filename)) as f:
             text = f.read()
-            title = os.path.splitext(filename)[0],
+            title = os.path.splitext(filename)[0]
             article_url = 'http://{:s}.wikipedia.org/wiki/{:s}'.format(
                 lang_path, title)
 
@@ -100,6 +101,7 @@ def load_language(lang_path):
 
 if __name__ == '__main__':
     load_language('en')
+    load_language('es')
 
 
 

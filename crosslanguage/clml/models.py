@@ -10,6 +10,7 @@ LANGUAGES = (
 URL_MAX_LEN = 300
 NAME_MAX_LEN = 130
 
+#TODO: needs to add unique_together to the models
 
 class LanguageField(models.CharField):
     """
@@ -17,7 +18,6 @@ class LanguageField(models.CharField):
     """
     def __init__(self):
         super(LanguageField, self).__init__(max_length=2, choices=LANGUAGES)
-
 
 class Category(models.Model):
     """

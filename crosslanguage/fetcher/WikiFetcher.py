@@ -6,7 +6,6 @@ os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 from fetcher.CategoryFetcher import CategoryFetcher
 import urllib
-import codecs
 from wiki2plain import Wiki2Plain
 
 class FetcherError(Exception):
@@ -49,7 +48,7 @@ class WikiFetcher(object):
             print path
             raw_text = article.getWikiText()
             raw_text = unicode(raw_text, 'utf-8')
-            
+
             # clean text - leave only wiki text
             clean_text = Wiki2Plain(raw_text, self.language).text
             clean_text = clean_text.encode('utf8')
