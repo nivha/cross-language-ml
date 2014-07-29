@@ -1,0 +1,3 @@
+In theoretical physics, a near-extremal black hole is a black hole which is not far from the minimal possible mass that can be compatible with the given charges and angular momentum. The calculations of the properties of near-extremal black holes are usually performed using perturbation theory around the extremal black hole; the expansion parameter is called non-extremality.
+
+In supersymmetric theories, near-extremal black holes are often small perturbations of supersymmetric black holes. Such black holes have a very small Hawking temperature and consequently emit a small amount of Hawking radiation. Their black hole entropy can often be calculated in string theory, much like in the case of extremal black holes, at least to the first order in non-extremality.

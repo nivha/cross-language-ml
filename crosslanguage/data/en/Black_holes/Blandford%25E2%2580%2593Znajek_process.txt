@@ -1,0 +1,7 @@
+The Blandford–Znajek process is a mechanism for the extraction of energy from a rotating black hole, introduced by Roger Blandford and Roman Znajek in 1977. It is one of the best explanations for the way quasars are powered. It requires an accretion disc with a strong polar magnetic field around a spinning black hole. The magnetic field extracts spin energy and the power can be estimated as the energy density at the speed of light cylinder times area:
+
+:  P=B^2\left(\frac{r}{r_c}\right)^4 r_c c=\frac{B^2 r^4 \omega^2}{c}
+
+where B is the magnetic field strength, r_c the speed of light radius and ω the angular velocity.
+
+== References ==

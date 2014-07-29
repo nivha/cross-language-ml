@@ -1,0 +1,13 @@
+The Cryogenic Rare Event Search with Superconducting Thermometers (CRESST) is a collaboration of European experimental particle physics groups involved in the construction of cryogenic detectors for direct dark matter searches. The participating institutes are the Max-Planck Institut für Physik (Munich), Technische Universität München, Universität Tübingen, University of Oxford (Great Britain) and the Istituto Nazionale di Fisica Nucleare (INFN, Italy).
+
+The CRESST collaboration currently runs an array of cryogenic detectors in the underground laboratory of the Gran Sasso National Laboratory. The modular detectors used by CRESST facilitate discrimination of background radiation events by the simultaneous measurement of phonon and photon signals from scintillating calcium tungstate crystals. By cooling the detectors to temperatures of a few millikelvin, the excellent discrimination and energy resolution of the detectors allows identification of rare particle events.
+
+The EURECA experiment is a planned successor to CRESST, ultimately aiming to run an array of detectors with a total mass of around 1 tonne.
+
+==External links==
+* CRESST Official Website
+* CRESST Publication 2004
+* CRESST Publication 2011
+* Gran Sasso National Laboratory
+
+==References==

@@ -62,10 +62,19 @@ if __name__=="__main__":
     # wf = WikiFetcher('en', "Institute_of_Physics")
     # wf = WikiFetcher('en', "International_Young_Physicists'_Tournament")
     # wf = WikiFetcher('es', "Libros_de_ciencias_de_la_computación")
-    wf = WikiFetcher('es', "Sistemas_de_gestión_empresarial_libres")
+    # wf = WikiFetcher('es', "Sistemas_de_gestión_empresarial_libres")
     # wf = WikiFetcher('en', "Aetobatus")
 
-    wf.fetch_to_files()
+    # some real shit now:
+    en_categories = ['Dark_matter', 'Black_holes']
+    es_categories = ['Materia oscura', 'Agujeros negros']
+
+    for category in en_categories:
+        wf = WikiFetcher('en', category)
+        wf.fetch_to_files()
+    for category in es_categories:
+        wf = WikiFetcher('es', category)
+        wf.fetch_to_files()
 
 
 

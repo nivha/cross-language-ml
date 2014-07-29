@@ -1,0 +1,28 @@
+The Advanced Thin Ionization Calorimeter (ATIC) is a balloon-borne instrument flying in the stratosphere over Antarctica to measure the energy and composition of cosmic rays. ATIC was launched from McMurdo Station for the first time in December 2000 and has since completed three successful flights out of four.
+
+==Working principle==
+The detector uses the principle of ionization calorimetry: several layers of the scintillator bismuth germanate emit light as they are struck by particles, allowing to calculate the particles' energy. A silicon matrix is used to determine the particles' electrical charge.
+
+==Collaborators==
+
+The project is an international collaboration of researchers from Louisiana State University, University of Maryland, College Park, Marshall Space Flight Center, Purple Mountain Observatory in China, Moscow State University in Russia and Max Planck Institute for Solar System Research in Germany. ATIC is supported in the United States by NASA and flights are conducted under the auspices of the Balloon Program Office at Wallops Flight Facility by the staff of the Columbia Scientific Balloon Facility. Antarctic logistics are provided by the National Science Foundation and its contractor Raytheon Polar Services Corporation.
+The principal investigator for ATIC is John Wefel of Louisiana State University.
+
+==Results==
+In November 2008, researchers published in Nature the finding of a surplus of high energy electrons. During a 5-week observatory period in 2000 and 2003, ATIC counted 70 electrons with energies in the range 300-800 GeV; these electrons were in excess of those expected from the galactic background. The source of these electrons is unknown, but it is assumed to be relatively close, no more than about 3000 lightyears away, since high energy electrons rapidly lose energy as they travel through the galactic magnetic field and collide with photons. The electrons could originate from a nearby pulsar or other astrophysical object, but the researchers were not able to identify a fitting object. According to another conjecture, the electrons result from collisions of Dark Matter particles, for example WIMP Kaluza-Klein particles of mass near 620 GeV.
+
+==Related data from other experiments==
+
+Earlier in the year, the satellite PAMELA had found excess positrons (the antiparticle of the electron) in the cosmic ray signal, also believed to originate from dark matter interactions.
+ATIC cannot distinguish between electrons and positrons, so it is possible that the two results are compatible.
+
+On the other hand, in November 2008 the Milagro experiment reported cosmic ray "hotspots" in the sky, possibly supporting astrophysical objects as sources of the surplus electrons. In May 2009, observations by the Fermi space telescope were reported which did not support the spike of high-energy electrons seen by ATIC.
+
+==References==
+
+==External links==
+* ATIC page from the Department of Physics and Astronomy at Louisiana State University
+*Detailed report on ATIC 1 flight  (Antarctica 2000/2001)
+*Detailed report on ATIC 2 flight (Antarctica 2002/2003)
+*Detailed report on failed ATIC 3 flight (Antarctica 2005)
+*Detailed report on ATIC 4 flight (Antarctica 2007/2008)

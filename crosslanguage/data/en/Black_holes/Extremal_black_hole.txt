@@ -1,0 +1,23 @@
+In theoretical physics, an extremal black hole is a black hole with the minimal possible mass that can be compatible with a given charge and angular momentum. In other words, this is the smallest possible black hole that can exist while rotating at a given fixed constant speed.
+
+The concept of an extremal black hole is theoretical and none have thus far been observed in nature. However, many theories are based on their existence.
+
+In supersymmetric theories, extremal black holes are often supersymmetric: they are invariant under several supercharges. This is a consequence of the BPS bound. Such black holes are stable and emit no Hawking radiation. Their black hole entropy can be calculated in string theory.
+
+It has been suggested by Sean Carroll that the entropy of an extremal black hole is equal to zero. Carroll explains the lack of entropy by creating a separate dimension for the black hole to exist within.
+
+The hypothetical black hole electron is super-extremal (having more charge and angular momentum than a black hole of its mass "should").
+
+==See also==
+*Black hole electron
+*Black hole information paradox
+*Black hole thermodynamics
+*Hawking radiation
+*Trans-Planckian problem
+*Quantum gravity
+
+==Notes==
+
+==External links==
+*Extremal RN Black Hole (en ingles)
+*N =2 extremal black holes pdf (en ingles)

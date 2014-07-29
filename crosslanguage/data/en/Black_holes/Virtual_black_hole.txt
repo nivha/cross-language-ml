@@ -1,0 +1,90 @@
+In quantum gravity, a virtual black hole is a black hole that exists temporarily as a result of a quantum fluctuation of spacetime.  It is an example of quantum foam and is the gravitational analog of the virtual electron–positron pairs found in quantum electrodynamics.  Theoretical arguments suggest that virtual black holes should have mass on the order of the Planck mass, lifetime around the Planck time, and occur with a number density of approximately one per Planck volume.
+
+The emergence of virtual black holes at the Planck scale is a consequence of the uncertainty relation
+:\Delta R_{\mu}\Delta x_{\mu}\ge\ell^2_{P}=\frac{\hbar G}{c^3}
+where R_{\mu} is the radius of curvature of space-time small domain; x_{\mu} is the coordinate small domain; \ell_{P} is the Planck length; \hbar is the Dirac constant; G - Newton's gravitational constant; c is the speed of light. These uncertainty relations are another form of Heisenberg's uncertainty principle at the Planck scale.
+{{Hider|
+  title = Proof |
+  content =
+
+Indeed, these uncertainty relations can be obtained on the basis of Einstein's equations
+
+{{Equation box 1
+|indent=:
+|equation=G_{\mu\nu} + \Lambda g_{\mu\nu} = {8 \pi G \over c^4} T_{\mu\nu}
+|cellpadding
+|border
+|border colour = #0073CF
+|background colour=#F5FFFA}}
+
+where G_{\mu\nu} = R_{\mu\nu} - {R \over 2}  g_{\mu\nu} is the Einstein tensor, which combines the Ricci tensor, the scalar curvature and the metric tensor, \Lambda is the cosmological constant, а T_{\mu\nu} energy-momentum tensor of matter, \pi is the number, c is the speed of light, G — Newton's gravitational constant.
+
+In the derivation of his equations, Einstein suggested that physical space-time is Riemannian, ie curved. A small domain of it is approximately flat space-time.
+
+For any tensor field N_{\mu\nu...} value N_{\mu\nu...}\sqrt{-g} we may call a tensor density, where g - determinant of the metric tensor g_{\mu\nu}. The integral \int N_{\mu\nu...}\sqrt{-g}\,d^4x is a tensor if the domain of integration is small. It is not a tensor if the domain of integration is not small, because it then consists of a sum of tensors located at different points and it does not transform in any simple way under a transformation of coordinates. Here we consider only small domains. This is also true for the integration over the three-dimensional hypersurface S^{\nu}.
+
+Thus, Einstein's equations for small space-time domain can be integrated by the three-dimensional hypersurface S^{\nu}. Have 
+: \frac{1}{4\pi}\int\left (G_{\mu\nu} + \Lambda g_{\mu\nu}\right )\sqrt{-g}\,dS^{\nu} = {2G \over c^4} \int T_{\mu\nu}\sqrt{-g}\,dS^{\nu}
+Since integrable space-time domain is small, we obtain the tensor equation
+
+{{Equation box 1
+|indent=:
+|equation=R_{\mu}=\frac{2G}{c^3}P_{\mu}
+|cellpadding
+|border
+|border colour = #0073CF
+|background colour=#F5FFFA}}
+
+where P_{\mu}=\frac{1}{c}\int T_{\mu\nu}\sqrt{-g}\,dS^{\nu} is the 4-momentum, R_{\mu}=\frac{1}{4\pi}\int\left (G_{\mu\nu} + \Lambda g_{\mu\nu}\right )\sqrt{-g}\,dS^{\nu} is  
+the radius of curvature domain.
+
+The resulting tensor equation can be rewritten in another form. Since P_{\mu}=mc\,U_{\mu} then
+:R_{\mu}=\frac{2G}{c^3}mc\,U_{\mu}=r_s\,U_{\mu}
+where r_s is the Schwarzschild radius, U_{\mu} is the 4-speed, m is the  gravitational mass. This record reveals the physical meaning of R_{\mu}.
+
+In a small area of space-time is almost flat and this equation can be written in the operator form
+:\hat R_{\mu}=\frac{2G}{c^3}\hat P_{\mu}=\frac{2G}{c^3}(-i\hbar )\frac{d}{dx^{\mu}}=-2i\,\ell^2_{P}\frac{d}{dx^{\mu}}
+
+Then commutator operators \hat R_{\mu} and \hat x_{\mu} is
+:R_{\mu},\hat x_{\mu}=-2i\ell^2_{P}
+From here follow the specified uncertainty relations
+{{Equation box 1
+|indent=:
+|equation=\Delta R_{\mu}\Delta x_{\mu}\ge\ell^2_{P}
+|cellpadding
+|border
+|border colour = #0073CF
+|background colour=#F5FFFA}}
+
+Substituting the values of R_{\mu}=\frac{2G}{c^3}m\,c\,U_{\mu}  and  \ell^2_{P}=\frac{\hbar\,G}{c^3}
+and cutting right and left of the same symbols, we obtain the Heisenberg uncertainty principle
+:\Delta P_{\mu}\Delta x_{\mu}=\Delta (mc\,U_{\mu})\Delta x_{\mu}\ge\frac{\hbar}{2}
+
+In the particular case of a static spherically symmetric field  and static distribution of matter  U_{0}=1, U_i=0 \,(i=1,2,3) and have remained
+:\Delta R_{0}\Delta x_{0}=\Delta r_s\Delta r\ge\ell^2_{P}
+where r_s is the Schwarzschild radius, r is the radial coordinate.
+
+Last uncertainty relation allows make us some estimates of the equations of general relativity at the Planck scale. For example, the equation for the invariant interval dS^2 в in the Schwarzschild solution has the form
+:dS^2=\left( 1-\frac{r_s}{r}\right)c^2dt^2-\frac{dr^2}{ 1-{r_s}/{r}}-r^2(d\Omega^2+\sin^2\Omega d\varphi^2)
+Substitute according to the uncertainty relations r_s\approx\ell^2_P/r. We obtain
+:dS^2=\left( 1-\frac{\ell^2_{P}}{r^2}\right)c^2dt^2-\frac{dr^2}{ 1-{\ell^2_{P}}/{r^2}}-r^2(d\Omega^2+\sin^2\Omega d\varphi^2)
+It is seen that at the Planck scale r=\ell_P space-time metric is bounded below by the Planck length, and on this scale, there are real and virtual Planckian black holes.
+
+Similar estimates can be made in other equations of general relativity. For example, analysis of the Hamilton-Jacobi equation for a centrally symmetric gravitational field in spaces of different dimensions (with help of the resulting uncertainty relation) indicates a preference for three-dimensional space for the emergence of virtual black holes (quantum foam).
+
+Prescribed above uncertainty relation valid for strong gravitational fields, as in any sufficiently small domain of a strong field space-time is essentially flat.
+
+|frame-style = border: 1px solid rgb(200,200,200); |
+  title-style = color: black; background-color: rgb(255,255,221); font-weight: bold; text-align: left;| 
+  content-style = color: black; background-color: white; text-align: left; |
+  hidden=1
+}}
+
+If virtual black holes exist, they provide a mechanism for proton decay.  This is because when a black hole's mass increases via mass falling into the hole, and then decreases when Hawking radiation is emitted from the hole, the elementary particles emitted are, in general, not the same as those that fell in.  Therefore, if two of a proton's constituent quarks fall into a virtual black hole, it is possible for an antiquark and a lepton to emerge, thus violating conservation of baryon number.
+
+The existence of virtual black holes aggravates the black hole information loss paradox, as any physical process may potentially be disrupted by interaction with a virtual black hole.
+
+==References==
+
+==See also==
+* Quantum foam

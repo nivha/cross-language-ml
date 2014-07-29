@@ -1,0 +1,43 @@
+The DarkSide collaboration is an international affiliation of universities and labs seeking to directly detect dark matter in the form of weakly interacting massive particles (WIMPs).  The collaboration is building a series of noble liquid time projection chambers (TPCs) that are designed to be employed at the Gran Sasso National Laboratory in Assergi, Italy. The technique is based on liquid argon depleted in the radioactive isotope 39Ar, which is common in atmospheric argon.
+
+==Members==
+The following institutions' physics departments include members of DarkSide:
+* Augustana College, USA
+* Black Hills State University, USA
+* Drexel University, USA
+* Fermi National Accelerator Laboratory, USA
+* The University of Chicago, USA
+* Princeton University, USA
+* Temple University, USA
+* University of Arkansas, USA
+* University of California at Los Angeles, USA
+* University of Houston, USA
+* University of Massachusetts at Amherst, USA
+* Virginia Tech, USA
+* University College of London, GB
+* Institute of High Energy Physics, China
+* INFN - Laboratori Nazionali del Gran Sasso, Italy
+* INFN – Università degli Studi di Genova, Italy
+* INFN – Università degli Studi di Milano, Italy
+* INFN – Università degli Studi di Napoli, Italy
+* INFN – Università degli Studi di Perugia, Italy
+* Jagiellonian University, Cracow, Poland
+* Joint Institute for Nuclear Research, Dubna, Russia
+* Lomonosov Moscow State University, Russia
+* Institute for Nuclear Research of NASU, Kiev, Ukraine
+* RRC Kurchatov Institute, Russia
+* National Research Nuclear University, Moscow, Russia
+* Institute for Theoretical and Experimental Physics, Moscow, Russia
+* St. Petersburg Nuclear Physics Institute, Gatchina, Russia
+
+== References ==
+* The project web site [http://darkside.lngs.infn.it/]
+
+== Publications ==
+* D.Akimov et al., “Light Yield in DarkSide-10: a Prototype Two-phase Liquid Argon TPC for Dark Matter Searches” - 2012. - arXiv:1204.6218.
+* H.O. Back et al., “First Large Scale Production of Low Radioactivity Argon From Underground Sources” - 2012. – arXiv:1204.6024.
+* H.O. Back et al., “First Commissioning of a Cryogenic Distillation Column for Low Radioactivity Underground Argon”. - 2012. - arXiv:1204.6061.
+* J.Xu et al., “A Study of the Residual 39Ar Content in Argon from Underground Sources” - 2012. - arXiv:1204.6011.
+* A. Wright, P. Mosteiro, B. Loer and F. Calaprice, “A Highly Efficient Neutron Veto for Dark Matter Experiments”, Nuclear Instruments and Methods A 644, 18 (2011). - arXiv:1010.3609.
+* DarkSide Collaboration, “DArkSide-50 Proposal” (2008).
+* D. Acosta-Kane et al., “Discovery of underground argon with low level of radioactive 39Ar and possible applications to WIMP dark matter detectors”, Nuclear Instruments and Methods A 587, 46 (2008). - arXiv:0712.0381.

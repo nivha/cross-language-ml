@@ -1,0 +1,41 @@
+A stellar black hole (or stellar mass black hole) is a black hole formed by the gravitational collapse of a massive star.  They have masses ranging from about 3 to several tens of solar masses. The process is observed as a hypernova explosion or as a gamma ray burst. These black holes are also referred to as collapsars.
+
+==Properties==
+
+By the no-hair theorem, a black hole can only have three fundamental properties: mass, electric charge and angular momentum (spin). It is believed that black holes formed in nature all have spin, but no definite observation on the spin has been performed. The spin of a stellar black hole is due to the conservation of angular momentum of the star that produced it.
+
+The collapse of a star is a natural process that can produce a black hole. It is inevitable at the end of the life of a star, when all stellar energy sources are exhausted. If the mass of the collapsing part of the star is below the TOV limit for neutron-degenerate matter, the end product is a compact star, either a white dwarf or a neutron star or a (hypothetical) quark star. All of these stars have a maximum mass. So if the collapsing star has a mass exceeding this limit, the collapse will continue forever (catastrophic gravitational collapse) and form a black hole.
+
+The maximum mass of a neutron star is not well known. In 1939, it was estimated at 0.7 solar masses, called the TOV limit. In 1996, a different estimate put this upper mass in a range from 1.5 to 3 solar masses.
+
+In the theory of general relativity, a black hole could exist of any mass. The lower the mass, the higher the density of matter has to be in order to form a black hole. (See, for example, the discussion in Schwarzschild radius, the radius of a black hole.) There are no known processes that can produce black holes with mass less than a few times the mass of the Sun. If they exist, they are most likely primordial black holes. The largest known stellar black hole (as of 2007) is 15.65±1.45 solar masses. Additionally, there is evidence that the IC 10 X-1 X-ray source is a stellar black hole with a probable mass of 24–33 solar masses.  As of April 2008, XTE J1650-500 was reported by NASA and others to be the smallest mass black hole currently known to science, with a mass 3.8 solar masses and a diameter of only 15 miles (24 kilometers). However, this claim was subsequently retracted. The more likely mass is 5–10 solar masses.
+
+There is observational evidence for two other types of black holes, which are much more massive than stellar black holes. They are intermediate-mass black holes (in the centre of globular clusters) and supermassive black holes in the centre of the Milky Way and active galaxies.
+
+==X-ray compact binary systems==
+
+Stellar black holes in close binary systems are observable when matter is transferred from a companion star to the black hole. The energy release in the fall toward the compact star is so large that the matter heats up to temperatures of several hundred million degrees and radiates in X-rays (X-ray astronomy).  The black hole therefore is observable in X-rays, whereas the companion star can be observed with optical telescopes. The energy release for black holes and neutron stars are of the same order of magnitude. Black holes and neutron stars are often difficult to distinguish.
+
+However, neutron stars may have additional properties. They show differential rotation, and can have a magnetic field and exhibit localized explosions (thermonuclear bursts). Whenever such properties are observed, the compact object in the binary system is revealed as a neutron star.
+
+The derived masses come from observations of compact X-ray sources (combining X-ray and optical data). All identified neutron stars have a mass below 3 solar masses. None of the compact systems with a mass above 3 solar masses reveals the properties of a neutron star. The combination of these facts make it more and more likely that the class of compact stars with a mass above 3 solar masses are in fact black holes.
+
+Note that this proof of existence of stellar black holes is not entirely observational but relies on theory: We can think of no other object for these massive compact systems in stellar binaries besides a black hole.  A direct proof of the existence of a black hole would be if one actually observes the orbit of a particle (or a cloud of gas) that falls into the black hole.
+
+== Black hole kicks ==
+The large distances above the galactic plane achieved by some binaries are the result of black hole natal kicks. The velocity distribution of black hole natal kicks seems similar to that of neutron star kick velocities. One might have expected that it would be the momenta that were the same with black holes receiving lower velocity than neutron stars due to their higher mass but that doesn't seem to be the case, which may be due to the fall-back of asymmetrically expelled matter increasing the momentum of the resulting black hole.
+
+==Candidates==
+
+Our Milky Way galaxy contains several stellar-mass Black Hole Candidates (BHCs) which are closer to us than the supermassive black hole in the Galactic center region. These candidates are all members of X-ray binary systems in which the compact object draws matter from its partner via an accretion disk. The probable black holes in these pairs range from three to more than a dozen solar masses.
+
+==Stellar black holes in fiction==
+
+==References==
+
+==External links and further reading==
+
+*Black Holes: Gravity's Relentless Pull Award-winning interactive multimedia Web site about the physics and astronomy of black holes from the Space Telescope Science Institute
+* Black hole diagrams
+*Janusz Ziółkowski "Black Hole Candidates"
+*Heaviest Stellar Black Hole Discovered in Nearby Galaxy, Newswise, 17-Oct-2007

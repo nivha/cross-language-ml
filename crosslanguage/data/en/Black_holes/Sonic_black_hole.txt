@@ -1,0 +1,19 @@
+A sonic black hole (sometimes called a dumb hole) is a phenomenon in which phonons (sound perturbations) are unable to escape from a fluid that is flowing more quickly than the local speed of sound. They are called sonic, or acoustic, black holes because these trapped phonons are analogous to light in astrophysical (gravitational) black holes. Physicists are interested in them because they have many properties similar to astrophysical black holes and, in particular, are predicted to emit a phononic version of Hawking radiation. The border of a sonic black hole, at which the flow speed changes from being greater than the speed of sound to less than the speed of sound, is called the event horizon. At this point the frequency of phonons approaches zero.
+
+Sonic black holes are possible because phonons in perfect fluids exhibit the same properties of motion as fields, such as gravity, in space and time. For this reason, a system in which a sonic black hole can be created is called a gravity analogue. Nearly any fluid can be used to create an acoustic event horizon, but the viscosity of most fluids creates random motion that makes features like Hawking radiation nearly impossible to detect. The complexity of such a system would make it very difficult to gain any knowledge about such features even if they could be detected. Many nearly perfect fluids have been suggested for use in creating sonic black holes, such as superfluid helium, a degenerate Fermi gas, and Bose–Einstein condensate. Gravity analogues other than phonons in a fluid, such as slow light and a system of ions, have also been proposed for studying black hole analogues. The fact that so many systems mimic gravity is sometimes used as evidence for the theory of emergent gravity, which could help reconcile relativity and quantum mechanics.
+
+Acoustic black holes were first theorized to be useful by William Unruh in 1981. However, the first black hole analogue was not created in a laboratory until 2009. It was created in a rubidium Bose–Einstein condensate using a technique called density inversion. This technique creates a flow by repelling the condensate with a potential minimum. The  surface gravity and temperature of the sonic black hole were measured, but no attempt was made to detect Hawking radiation. However, the scientists who created it predicted that the experiment was suitable for detection and suggested a method by which it might be done by lasing the phonons.
+
+==See also==
+*Quantum Gravity
+*Analog models of gravity
+*Black hole
+*Acoustic metric
+*Optical Black Hole
+
+==Notes==
+
+==External links==
+*Top 100 Stories of 2009  #79: Sonic Black Hole Created in Lab, Discover magazine, from the January-February 2010 special issue; published online December 22, 2009
+*Ars Technica: A potential solution to the black hole information loss paradox
+*"Analogue Gravity", a detailed mathematical analysis with diagrams

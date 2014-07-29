@@ -1,0 +1,4 @@
+In cosmology, the halo mass function is a mass distribution of dark matter halos.  Specifically, it gives the number density of dark matter halos per mass interval.
+
+==External links==
+*Halo Mass Functions on the NMSU website

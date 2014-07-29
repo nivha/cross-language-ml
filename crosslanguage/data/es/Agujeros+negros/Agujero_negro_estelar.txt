@@ -1,0 +1,50 @@
+Un agujero negro estelar es un agujero negro formado por el colapso gravitacional de una estrella masiva (más de 8 masas solares) al final de su tiempo de vida. El proceso es observado como una explosión de supernova o una explosión de rayos gamma. Este agujero negro va a tener una masa de más de 3 masas solares. El agujero negro estelar más grande que se conoce (hasta el 2001) posee 33 masas solares.
+
+Teóricamente pueden existir agujeros negros de cualquier masa (Relatividad general). Mientras menos masa posea, mayor debe ser la densidad de la materia para formar un agujero negro, sobre el radio de un agujero negro. No existen procesos conocidos que puedan producir agujeros negros con una masa menor que unas pocas veces la masa del Sol. Si éstos existen, son principalmente agujeros negros primordiales.
+
+El colapso de una estrella es un proceso natural que produce un agujero negro. Es inevitable que al final de la vida de una estrella, cuando todas las fuentes de energía estelar se agotan, si la masa de la estrella que está colapsando está bajo cierto valor critico, el producto final va a ser una estrella compacta, ya sea una enana blanca, una estrella de neutrones o una estrella de quarks. Estas estrellas tienen una masa máxima. Así que si la estrella que está colapsando tiene una masa que excede este límite, el colapso va a continuar por siempre (colapso gravitacional catastrófico) y formará un agujero negro. Todavía se desconoce la masa máxima de una estrella de neutrones, sin embargo se cree que sería alrededor de 3 masas solares.
+
+También existe evidencia de otros dos tipos de agujeros negros, que son mucho más masivos que los agujeros negros estelares. Ellos son los agujeros negros de masa intermedia (en el centro de los cúmulos globulares) y los agujeros negros supermasivos en el centro de la Vía Láctea y otras galaxias activas.
+
+Un agujero negro sólo puede tener tres propiedades fundamentales: masa, carga electrica y momento angular (rotación). Se cree que todos los agujeros negros formados en la naturaleza tienen rotación, pero no se ha realizado una definida observación en la rotación. La rotación de un agujero negro estelar es debido a la conservación del momento angular de la estrella que lo produjo.
+
+== Las masas observadas de agujeros negros estelares en sistemas binarios compactos de rayos-X ==
+
+Los agujeros negros estelares en sistemas binarios cercanos son observables cuando la materia es transferida desde una estrella acompañante hacia el agujero negro. La liberación de energía en la caída hacia la estrella compacta es tan grande que la materia alcanza temperaturas de cientos de millones de grados y radiaciones de rayos-X (Astronomía de rayos-X). Por lo tanto, el agujero negro es observable en rayos-X, mientras que la estrella acompañante puede ser observada con telescopios ópticos. La liberación de energía de los agujeros negros y estrellas de neutrones son de la misma magnitud. Los agujeros negros y estrellas de neutrones son ocasionalmente difíciles de distinguir.
+
+Sin embargo, las estrellas de neutrones tienen propiedades adicionales. Estas muestran rotación diferencial, y pueden tener un campo magnético y exhibir explosiones localizadas (explosiones termonucleares). Siempre que se observen tales propiedades, el objeto compacto en el sistema binario es revelado como una estrella de neutrones.
+
+Las derivadas masas vienen de observaciones de fuentes compactas de rayos-X (combinando datos ópticos y de rayos-X). Todas las estrellas de neutrones identificadas tienen una masa de 3 a 5 masas solares. Ninguno de los sistemas compactos con una masa superior a 5 masas solares revela las propiedades de una estrella de neutrones. La combinación de esos factores nos revela que la clase de estrellas compactas con una masa superior a 5 masas solares son en realidad agujeros negros.
+
+Nótese que esta prueba de la existencia de los agujeros negros estelares no es enteramente observacional, pero se basa en una teoría: Nosotros no podemos pensar en otro objeto para esos sistemas binarios compactos masivos estelares que un agujero negro. Una prueba directa de la existencia de un agujero negro podría ser si uno actualmente observa la órbita de una partícula que cae dentro del agujero negro. En principios del 2005, un experimento (inglés) usando un Colisionador relativístico de iones pesados ha mostrado evidencia de materia que cae en un Micro agujero negro, haciendo que la materia se estirase como se esperaba.
+
+Para más información:
+*Janusz Ziółkowski "Candidatos a agujeros negros" (en inglés)
+
+== Véase también ==
+Candidatos a agujeros negros de masa estelar
+*Cygnus X-1
+*LMC X-1
+*LMC X-3
+*A 0620-00
+*SS 433
+*V404 Cyg.
+Teoría:
+*Evolución estelar
+*Colapso gravitacional
+*Agujero negro
+
+Clasificación por tipo:
+*Agujero negro de Schwarzschild
+*Agujero negro de Kerr
+*Agujero negro de Kerr-Newman y Reissner-Nordström o agujero negro cargado
+Clasificación por masa:
+*Micro agujero negro, un agujero negro extra dimensional
+*Agujero negro primordial, una sobra hipotética del Big Bang
+*Agujero negro estelar, que podría ser tanto un agujero negro estático, como un agujero negro rotante.
+*Agujero negro de masa intermedia
+*Agujero negro supermasivo, que podría ser tanto un agujero negro estático, como un agujero negro rotante.
+
+== Enlaces externos ==
+*Diagrama de los agujeros negros (en inglés)
+*Agujeros negros: el tirón implacable de la gravedad Web interactiva multimedia acerca de la física y astronomía de los agujeros negros desde el Instituto de Ciencias del Telescopio Espacial (en inglés).

@@ -1,0 +1,20 @@
+El radio de Schwarzschild es la medida del tamaño de un agujero negro de Schwarzschild, es decir, un agujero negro de simetría esférica y estático. Se corresponde con el radio aparente del horizonte de sucesos, expresado en coordenadas de Schwarzschild.
+
+Puesto que el tamaño de un agujero negro depende de la energía absorbida por el mismo, cuanto mayor es la masa del agujero negro, tanto mayor es el radio de Schwarzschild, que viene dada por:
+
+{{ecuación|r_s = {2 G M \over c^2} }}
+
+donde:
+* G es la constante gravitatoria,
+* M es la masa del objeto y
+* c es la velocidad de la luz.
+
+Esta expresión fue encontrada en 1916 por Karl Schwarzschild y constituye parte de una solución exacta para el campo gravitacional formado por una estrella con simetría esférica no rotante. La solución de Schwarzschild fue la primera solución exacta encontrada para las ecuaciones de la relatividad general. El radio de Schwarzschild es proporcional a la masa del objeto. El radio de Schwarzschild para la masa del Sol es de 3 km mientras que el radio de Schwarzschild para un objeto de la masa terrestre sería de tan solo 8,8897 mm. El radio de Schwarzschild para el agujero negro supermasivo del centro galáctico es de aproximadamente unos 7.8 millones de kilómetros.
+
+== Véase también ==
+*  Karl Schwarzschild 
+* Agujero negro de Schwarzschild
+* Métrica de Schwarzschild
+
+== Enlaces externos ==
+*Applet del radio de Schwarzschild.

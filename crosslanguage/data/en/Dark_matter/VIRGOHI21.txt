@@ -1,0 +1,32 @@
+VIRGOHI21 is an extended region of neutral hydrogen (HI) in the Virgo cluster discovered in 2005. Analysis of its internal motion indicates that it may contain a large amount of dark matter, as much as a small galaxy. Since VIRGOHI21 apparently contains no stars, this would make it one of the first detected dark galaxies. Skeptics of this interpretation argue that VIRGOHI21 is simply a tidal tail of the nearby galaxy NGC 4254.
+
+==Observational properties==
+VIRGOHI21 was detected through radio telescope observations of its neutral hydrogen 21 cm emissions. The detected hydrogen has a mass of about 100 million solar masses and is about 50 million light-years away. By analyzing the Doppler shift of the emissions, astronomers determined that the gas has a high velocity-profile width; that is, different parts of the cloud are moving at high speed relative to other parts. Follow-up Hubble space telescope deep observations of the region have detected very few stars (a few hundred).
+
+==Dark galaxy interpretation==
+If the high velocity-profile width of VIRGOHI21 is interpreted as rotation, it is far too fast to be consistent with the gravity of the detected hydrogen. Rather, it implies the presence of a dark matter halo with tens of billions of solar masses. Given the very small number of stars detected, this implies a mass-to-light ratio of about 500, far greater than that of a normal galaxy (around 50). The large gravity of the dark matter halo in this interpretation explains the perturbed nature of the nearby spiral galaxy NGC 4254 and the bridge of neutral hydrogen extending between the two entities.
+
+Under this interpretation, VIRGOHI21 would be the first discovery of the dark galaxies anticipated by simulations of dark-matter theories. Although other dark-galaxy candidates have previously been observed, follow-up observations indicated that these were either very faint ordinary galaxies or tidal tails.  VIRGOHI21 is considered the best current candidate for a dark galaxy.
+
+==Tidal tail interpretation==
+Sensitive maps covering a much wider area, obtained at Westerbork Synthesis Radio Telescope (WSRT) and at Arecibo Observatory revealed that VIRGOHI21 is embedded within a much more extensive tail originating in NGC 4254. Both the distribution of the HI gas and its velocity field can be reproduced by a model involving NGC 4254 in a high-speed collision with another galaxy (probably NGC 4192), which is now somewhat distant. Other debris tails of this magnitude have been found to be common features in the Virgo cluster, where the high density of galaxies makes interactions frequent. These results suggest that VIRGOHI21 is not an unusual object, given its location at the edge of the densest region of the Virgo cluster.
+
+The original paper describing VIRGOHI21 as a dark galaxy provides several objections to the tidal-tail interpretation: that high-velocity interactions do not generally produce significant tails, that the high velocity needed is out-of-place in this part of the Virgo cluster and that the observed velocity profile is opposite from that expected in a tidal tail. In addition, according to Robert Minchin of the Arecibo Observatory, "If the hydrogen in VIRGOHI21 had been pulled out of a nearby galaxy, the same interaction should have pulled out stars as well". Proponents of the tidal-tail interpretation counter these objections with simulations and argue that the apparently inverted velocity profile is due to the orientation of the tail with respect to Earth-based observers.
+
+Although  the nature of VIRGOHI21 remains a contentious issue, its identification as a dark galaxy seems much less certain now than immediately after its discovery.
+
+==See also==
+* LSB galaxy
+* HVC 127-41-330
+
+==References==
+
+==External links==
+*  Astronomers find star-less galaxy (BBC News), 2005
+*   A multibeam HI survey of the Virgo cluster - two isolated HI clouds?, (abstract), Davies, J, et al., 2004
+* A Dark Hydrogen Cloud in the Virgo Cluster
+* First Invisible Galaxy Discovered in Cosmology Breakthrough, (SPACE.com), 2005
+* Astronomers spot first ever dark galaxy (The Register), 2005
+* Dark Matter Galaxy? (UniverseToday)
+* Arecibo Survey Produces Dark Galaxy Candidate (SpaceDaily), 2006
+* 3D Animation from neutral Hydrogen data

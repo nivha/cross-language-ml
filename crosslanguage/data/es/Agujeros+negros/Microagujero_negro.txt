@@ -1,0 +1,46 @@
+Un microagujero negro, también llamado agujero negro de mecánica cuántica o miniagujero negro, es un simple agujero negro pequeño, en el que los efectos de la mecánica cuántica desempeñan un papel importante.
+
+== Introducción ==
+De acuerdo a los conocimientos actuales, los agujeros negros ordinarios presuntamente formados por colapso gravitatorio son objetos de gran tamaño por encima de los 3 o 4 km. Dado ese tamaño los efectos cuánticos se espera que sean poco o nada importantes, al menos en el proceso de formación y la primera parte de su desarrollo cuando el tamaño sigue siendo como mínimo de algunos kilómetros.
+
+Sin embargo, el caso de los microagujeros es diferente en ese aspecto, puesto que la pequeña masa de un microagujero negro podría ser del orden de la masa de Planck, que es aproximadamente 2 × 10−8 kg ó 1,1 × 1019 GeV. A esta escala, la fórmula de la termodinámica del agujero negro predice que el miniagujero negro podría tener una entropía de sólo 4π nats; una temperatura Hawking de \frac{T_p}{8\pi} , requiriendo energía térmica cuántica comparable aproximadamente a la masa del miniagujero negro completo; y una longitud de onda Compton equivalente al radio de Schwarzschild del agujero negro (esta distancia siendo equivalente a la longitud de Planck). Este es el punto donde la descripción gravitacional clásica del objeto no es válida, siendo probablemente muy importantes los efectos cuánticos de la gravedad.
+
+La existencia de agujeros negros con esta masa es altamente especulativa, pero si los agujeros negros primordiales existen, estos podrían alcanzar la condición de microagujeros negros como el final de la «evaporación», debido a la radiación de Hawking.
+
+De acuerdo con las estimaciones de las teorías estándar, la energía necesaria para producir microagujeros negros es mayor en varios órdenes de magnitud de la que puede ser producida en la Tierra en un acelerador de partículas como el Large Hadron Collider (con un máximo alrededor de 14 × 103 GeV), o ser detectada en colisiones de radiación cósmica en nuestra atmósfera. Se estima que para colisionar dos agregados de fermiones, dentro de una distancia de una longitud de Planck con la actual fuerza alcanzable del campo magnético, requiriría de un acelerador de partículas de alrededor de 1000 años luz de diámetro para mantener a los agregados en la pista. Aunque si esto fuera posible, cualquier producto de la colisión sería inmensamente inestable y se desintegraría casi instantáneamente.
+
+Algunos físicos teóricos han sugerido que las múltiples dimensiones postuladas por la teoría de cuerdas podrían dar lugar a la interacción gravitatoria. Esto podría reducir efectivamente la energía de Planck, y también hacer que las descripciones de agujero negro fueran válidas aún con masas muy pequeñas. Pero esto es altamente especulativo. Otros teóricos han pensado acerca de las básicas asunciones del programa de gravedad cuántica, donde realmente hay un caso que obliga a creer en la radiación de Hawking. Son sólo esas asunciones cuánticas las que guían a la crisis de la masa de Planck: en relatividad general clásica, un agujero negro podría ser en principio arbitrariamente pequeño.
+
+Todo lo que se puede afirmar con certeza es que la descripción clásica que hace la relatividad general de un agujero negro con una masa menor a la masa de Planck es inconsistente e incompleta, por lo que dichos objetos sólo podrían ser descritos en el contexto de la gravedad cuántica.
+
+== Posibilidad de microagujeros negros artificiales ==
+Al ponerse en marcha el primer gran colisionador de hadrones (LHC) de manera totalmente funcional (hasta ahora solo se han realizado pruebas), se considera probable la primera creación artificial de micro agujeros negros a partir del choque y fusión de partículas subátomicas (hadrones) aceleradas a "casi" la velocidad c, a tal velocidad la materia bariónica incrementa enormemente su masa lo cual explica la formación de microagujeros negros los cuales sin embargo serían efímeros ya que se encontrarían (proporcionalmente a su masa y a la gravitación de tal masa) a bastante distancia de otros cuerpos materiales como para crecer.
+
+== Véase también ==
+*Agujero negro
+*Gran Colisionador de Hadrones (En el LHC se pueden crear articialmente estos fenómenos). 
+Clasificación por tipo:
+*Agujero negro de Schwarzschild
+*Agujero negro de Kerr
+*Agujero negro de Kerr-Newman y Reissner-Nordström o agujero negro cargado
+Clasificación por masa:
+*Agujero negro extremo
+*Electrón agujero negro
+*Agujero negro primordial, una sobra hipotética del Big Bang.
+*Agujero negro estelar, que podría ser tanto un agujero negro estático, como un agujero negro rotante.
+*Agujero negro de masa intermedia
+*Agujero negro supermasivo, que podría ser tanto un agujero negro estático, como un agujero negro rotante.
+
+== Referencia ==
+=== Notas ===
+
+=== Artículos ===
+* Agujeros negros de mecánica cuántica: Hacia la unificación de la mecánica cuántica y la relatividad general (inglés) -- http://citebase.eprints.org/cgi-bin/citations?id=oai:arXiv.org:quant-ph/9808020
+* S.W. Hawking, Commun.Math. Phys. 43 (1975) 199 : el artículo donde todo comenzó (inglés) !
+* D. Page, Phys. Rev. D13 (1976) 198 : primeros estudios detallados del mecanismo de evaporación (inglés)
+* B.J. Carr & S.W. Hawking, Mon. Not. Roy. Astron. Soc 168 (1974) 399 : enlaces entre agujeros negros primordiales y el universo temprano (inglés)
+* A. Barrau et al., Astron. Astrophys. 388 (2002) 676 , Astron. Astrophys. 398 (2003) 403 , Astrophys. J. 630 (2005) 1015 : búsquedas experimentales para agujeros negros primordiales gracias a la antimateria emitida (inglés)
+* A. Barrau & G. Boudoul, Revisión a la charla dada en la conferencia internacional de físicos teóricos TH2002  : cosmología con los agujeros negros primordiales (inglés)
+* A. Barrau & J. Grain, Phys. Lett. B 584 (2004) 114 : búsquedas de nuevas físicas (gravedad cuántica) con agujeros negros primordiales (inglés)
+* P. Kanti, Int. J. Mod. Phys. A19 (2004) 4899 : agujeros negros evaporándose y dimensiones extra (inglés)
+* D. Ida, K.-y. Oda & S.C.Park, [http://arxiv.org/abs/hep-th/0602188]: determinación de la vida de un agujero negro y las dimensiones extra (inglés)

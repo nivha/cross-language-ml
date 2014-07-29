@@ -1,0 +1,21 @@
+GRS 1915+105 es un sistema binario, compuesto por una estrella y un agujero negro. Fue descubierto el 15 de agosto de 1992, por la sonda soviética Granat. "GRS" significa "GRanat Source", "1915" es la ascensión recta (19 h,15 min), y "+105" es la declinación: 10,5 grados. Su contraparte NIR fue confirmada por observaciones espectroscópicas. Este sistema se ubica a unos 11.000 parsecs de distancia, o unos 40000 años luz, en la constelación de Aquila. GRS 1915 +105 es el más pesado de los agujeros negros estelares conocidos hasta ahora en la Vía Láctea, con 10 a 18 veces la masa del Sol. También es un microquasar , y parece que el negro agujero puede girar a 1.150 veces por segundo.
+
+== Historia ==
+GRS 1915+105 se volvió, en 1994, la primer fuente conocida en nuestra galaxia que expulsa material en forma superlumínica, o sea, a velocidades superiores a las de la luz. 
+Las observaciones con telescopios de alta resolución de radio tales como VLA , MERLIN y VLBI muestran un flujo de salida bipolar de partículas cargadas, que emiten radiación de sincrotrón en las frecuencias de radio. Estos estudios han demostrado que el aparente movimiento superlumínico se debe a un efecto relativista conocido como aberración relativista donde la velocidad intrínseca de material expulsado es en realidad un 90% la velocidad de la luz.
+
+==Regulación del crecimiento==
+Las observaciones del Observatorio de rayos X Chandra durante el período de una década han puesto de manifiesto lo que puede ser un mecanismo de auto-regulación de la tasa de crecimiento de GRS 1915 +105. El chorro de materiales que están siendo expulsados ​​en ocasiones se ahogó por un viento caliente que sopla desde el disco de acreción. El viento priva el chorro de los materiales necesarios para sostenerlo. Cuando el viento amaina, el chorro de materiales regresa.
+
+== Referencias ==
+
+== Enlaces externos ==
+* A Very Massive Stellar Black Hole in the Milky Way Galaxy November 28, 2001 (ESO)
+* Simbad
+* Image V1487 Aquilae
+* O maior buraco negro estelar da Via Láctea (The biggest stellar black hole of the Milky Way) - in Portuguese.
+* GRS 1915+105
+* MICRO-QUASAR WITHIN OUR GALAXY
+* Image The IBIS/ISGRI 20-40 keV (  width and   height) image, showing the location of GRS 1915+105 and three other bright sources in the field, including the new transient IGR J19140+098 discovered during this observation. North is up and East is to the left.
+* A SPI 100-200 keV image of GRS 1915+105. GRS 1915+105 is clearly visible at the center of the image (marked). The three other sources seen in Fig. 2 are much fainter in this energy range and not visible.
+* The micro quasar GRS 1915+105

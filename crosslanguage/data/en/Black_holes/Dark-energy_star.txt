@@ -1,0 +1,29 @@
+A dark-energy star is a hypothetical compact astrophysical object, which a minority of physicists feel might constitute an alternative explanation for observations of astronomical black hole candidates.
+
+The concept was proposed by physicist George Chapline. The theory states that infalling matter is converted into vacuum energy or dark energy, as the matter falls through the event horizon. The space within the event horizon would end up with a large value for the cosmological constant and have negative pressure to exert against gravity. There would be no information-destroying singularity.
+
+==Theory==
+In March 2005, physicist George Chapline claimed that quantum mechanics makes it a "near certainty" that black holes do not exist and are instead dark-energy stars. The dark-energy star is a different concept from that of a gravastar.
+
+Dark-energy stars were first proposed because in quantum physics, absolute time is required; however, in general relativity, an object falling towards a black hole would, to an outside observer, seem to have time pass infinitely slowly at the event horizon. The object itself would feel as if time flowed normally.
+
+In order to reconcile quantum mechanics with black holes, Chapline theorized that a phase transition in the phase of space occurs at the event horizon. He based his ideas on the physics of superfluids. As a column of superfluid grows taller, at some point, density increases, slowing down the speed of sound, so that it approaches zero. However, at that point, quantum physics makes sound waves dissipate their energy into the superfluid, so that the zero sound speed condition is never encountered.
+
+In the dark-energy star hypothesis, infalling matter approaching the event horizon decays into successively lighter particles. Nearing the event horizon, environmental effects accelerate proton decay. This may account for high-energy cosmic-ray sources and positron sources in the sky. When the matter falls through the event horizon, the energy equivalent of some or all of that matter is converted into dark energy. This negative pressure counteracts the mass the star gains, avoiding a singularity. The negative pressure also gives a very high number for the cosmological constant.
+
+Furthermore, 'primordial' dark-energy stars could form by fluctuations of spacetime itself, which is analogous to "blobs of liquid condensing spontaneously out of a cooling gas". This not only alters the understanding of black holes, but has the potential to explain the dark energy and dark matter that are indirectly observed.
+
+==See also==
+
+* Dark energy
+* Dark matter
+* Stellar mass black hole
+* Gravastar
+
+==References==
+
+==Sources==
+
+==External links==
+* MPIE Galactic Center Research
+*  (subscription only)

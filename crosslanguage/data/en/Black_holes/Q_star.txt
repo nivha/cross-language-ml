@@ -1,0 +1,19 @@
+A Q-Star, also known as a gray hole, is hypothetical type of a compact, heavy neutron star with an exotic state of matter. The Q stands for a conserved particle number. A Q-Star may be mistaken for a stellar black hole. One such candidate is the compact object in V404 Cyg.
+
+==Types of Q-stars==
+*SUSY Q-ball
+*B-ball, stable Q-balls with a large baryon number B.  They exist in neutron stars that have absorbed Q-ball(s).
+
+==See also==
+*Black hole
+**Stellar black hole
+*Compact star
+**Exotic star
+***Preon star
+***Quark star
+
+==References==
+
+==External links==
+*Abstract, Are Q-stars a serious threat for stellar-mass black hole candidates?, Miller J.C., Shahbaz T., Nolan L.A, 1997
+*Abstract, No observational proof of the black-hole event-horizon, Marek A. Abramowicz, Wlodek Kluzniak, Jean-Pierre Lasota, 2002

@@ -1,0 +1,25 @@
+In the mathematical description of general relativity, the Boyer–Lindquist coordinates are a generalization of the coordinates used for the metric of a Schwarzschild black hole that can be used to express the metric of a Kerr black hole.
+
+The coordinate transformation from Boyer–Lindquist coordinates r, \theta, \phi to cartesian coordinates x, y, z is given by
+::{x} = \sqrt {r^2 + a^2} \sin\theta\cos\phi
+::{y} = \sqrt {r^2 + a^2} \sin\theta\sin\phi
+::{z} = r \cos\theta \quad
+
+The line element for a black hole with mass M, angular momentum J, and charge Q in Boyer–Lindquist coordinates and natural units (G=c=1) is
+
+:: ds^2 = -\frac{\Delta}{\Sigma}\left(dt - a \sin^2\theta d\phi \right)^2 +\frac{\sin^2\theta}{\Sigma}\Big((r^2+a^2)d\phi - a dt\Big)^2 + \frac{\Sigma}{\Delta}dr^2 + \Sigma d\theta^2
+
+where
+
+:: \Delta = r^2 - 2Mr + a^2 + Q^2 
+:: \Sigma = r^2 + a^2 \cos^2\theta 
+:: a = J/M , the angular momentum per unit mass of the black hole
+
+Note that in natural units M, a, and Q all have units of length.  This line element describes the Kerr–Newman metric.
+
+The Hamiltonian for test particle motion in Kerr spacetime was separable in Boyer–Lindquist coordinates.  Using Hamilton-Jacobi theory one can derive a fourth constant of the motion known as Carter's constant.
+
+==References ==
+
+*Boyer, R. H. and Lindquist, R. W. Maximal Analytic Extension of the Kerr Metric. J. Math. Phys. 8, 265-281, 1967.
+*Shapiro, S. L. and Teukolsky, S. A. Black Holes, White Dwarfs, and Neutron Stars: The Physics of Compact Objects. New York: Wiley, p. 357, 1983.

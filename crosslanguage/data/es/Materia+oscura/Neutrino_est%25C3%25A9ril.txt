@@ -1,0 +1,26 @@
+Los neutrinos estériles son un hipotético tipo de neutrino que no interaccionan a través de ninguna de las interacciones fundamentales del Modelo Estándar excepto la gravedad. Es un neutrino dextrógiro ligero o un antineutrino levógiro que se puede añadir al Modelo Estándar y tomar parte de algunos fenómenos, como la oscilación de neutrinos. La búsqueda de estas partículas es una área muy activa en la física de partículas.
+
+==Motivaciones==
+Los resultados experimentales muestran que (casi) todos los neutrinos producidos y observados son con  helicidad levógira (espines antiparalelos al momento y todos los antineutrinos son de helicidad dextrógira, dentro del margen de error. En el límite sin masa, significa que sólo uno de las dos posibles quiralidades se observa para ambas partículas. Estos son las únicas helicidades (y quiralidades) incluidas en el modelo estándar de las interacciones de partículas. El Modelo Estándar predice sólo existen estos neutrinos.
+
+Recientes experimentos tales como la oscilación de neutrinos han mostrado, sin embargo, que los neutrinos tienen una masa no nula, lo que no es predicho por el Modelo Estándar y sugiere una física nueva y desconocida. Esta inesperada masa explica a los neutrinos con helicidad dextrógira o levógira: puesto que no se mueven a la velocidad de la luz, su helicidad no es relativísticamente invariante (es posible moverse más rápido que ellos y observar la helicidad opuesta).
+
+Sin embargo, todos los neutrinos observados tienen quiralidad levógira y todos los antineutrinos dextrógira. La quiralidad es una propiedad fundamental de las partículas y es  relativísticamente invariante: es la misma independientemente de la velocidad y la masa de la partícula en cualquier marco de referencia. La duda, en consecuencia, permanece: ¿pueden los neutrinos y los antineutrinos ser diferenciados sólo por la quiralidad? ¿O los neutrinos dextrógiros y antineutrinos levógiros existen como partículas separadas?
+
+==Propiedades==
+===Masa===
+====¿Partícula de Majorana o de Dirac?====
+===Mecanismo de sierra===
+
+==Intentos de detección==
+
+==Véase también==
+* LSND (Liquid Scintillator Neutrino Detector en el LANL)
+* MiniBooNE at Fermilab
+
+==Referencias==
+
+==Enlaces externos==
+*The NuTeV experiment at Fermilab
+*The L3 Experiment at CERN
+*Experiment Nixes Fourth Neutrino (April 2007 Scientific American)

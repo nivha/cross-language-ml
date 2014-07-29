@@ -1,0 +1,11 @@
+ANAIS es un experimento de detección de partículas diseñado para la detección de materia oscura. Busca la modulación anual de la señal con centelleadores de NaI y tiene, como principal objetivo, la detección directa de la Materia Oscura galáctica a través de su dispersión con los núcleos blanco de un cristal de NaI(Tl) radiopuro. Esta señal de Materia Oscura debería estar modulada anualmente debido al cambio de la velocidad relativa WIMP-núcleo, consecuencia de la rotación de la Tierra alrededor del Sol.
+
+El proyecto ANAIS es la culminación a gran escala de estudios previos de viabilidad llevados a cabo con diferentes prototipos por el grupo de investigación de la Universidad de Zaragoza en el Laboratorio Subterráneo de Canfranc (España). El experimento completo utilizará 250 kg de cristales de NaI(Tl) ultrapuro para estudiar la modulación anual en la señal de Materia Oscura galáctica. Dos detectores prototipo con una masa total de 25 kg. tomarán datos desde octubre de 2012 como último paso antes del montaje del experimento completo.
+
+Los esfuerzos experimentales realizados por DAMA/NaI y DAMA/LIBRA en el Laboratorio Nacional de Gran Sasso, acumulando más de trece ciclos anuales de datos (también con centelleadores de NaI), obtuvieron una señal positiva para la mencionada modulación anual. La comparación de ese resultado con los resultados negativos  provenientes de otros materiales blanco y otras técnicas experimentales es muy dependiente del modelo utilizado. ANAIS (que usa el mismo material blanco y la misma técnica experimental que DAMA/LIBRA) apareció en el último roadmap de ApPEC(Astroparticle Physics European Coordination) como el experimento que permitiría comprobar dicho resultado con un montaje experimental independiente y de una forma independiente del modelo.
+
+== Referencias ==
+
+== Enlaces externos ==
+*  Experimento ANAIS
+*  Laboratorio Subterráneo de Canfranc

@@ -1,0 +1,28 @@
+SS 433 is one of the most exotic star systems observed.  It is an eclipsing X-ray binary system, with the primary most likely a black hole, or possibly a neutron star., pp. 23&ndash;24.  The spectrum of the secondary companion star suggests that it is a late A-type star.  SS 433 is a microquasar, the first discovered.
+
+SS 433's designation comes from its catalogers, Case Western Reserve astronomers Nicholas Sanduleak and C. Bruce Stephenson.  It was the 433rd entry in their 1977 catalog of stars with strong emission lines.
+
+==Location==
+
+SS 443, also known as V1343 Aquilae, located at 5.5 kpc in the galactic plane (l= 39.7° and b= -2.2°)
+
+==System==
+
+The compact central object is consuming the companion star which rapidly loses mass into an accretion disc formed around the  central object. The accretion disc is subject to extreme heating as it spirals into the primary and this heating causes the accretion disc to give off intense X-rays and opposing jets of hot hydrogen along the axis of rotation, above and below the plane of the accretion disc.  The material in the jets travels at 26% of the speed of light., pp. 23&ndash;24; , p. 508.  The companion star presumably had lower mass than the original primary object and was therefore longer lived.  Estimates for its mass range from 3, p. 25 to 30 solar masses.  The primary and secondary orbit each other at a very close distance in stellar terms, with an orbital period of 13.1 days., p. 510.
+
+==Observational data==
+
+The jets from the primary are emitted perpendicular to its accretion disk.  The jets and disk precess around an axis inclined about 79° to a line between us and SS 433.  The angle between the jets and the axis is around 20°, and the precessional period is around 162.5 days.  Precession means that the jets sometimes point more towards the Earth, and sometimes more away, producing both blue and red Doppler shifts in the observed visible spectrum., p. 508.  Also, the precession means that the jets corkscrew through space in an expanding helical spray.  As they impact the surrounding W50 supernova remnant clouds, they distort it into an elongated shape.
+
+Observations in 2004 by the Very Long Baseline Array for 42 consecutive days gave new data and understanding of the action of the jets.  It appears that the jets are sometimes impacting material shortly after being created and thus brightening.  The material the jets are impacting appears to be replaced some of the time, but not always, leading to variations in the brightening of the jets.
+
+The spectrum of SS 433 is affected not just by Doppler shifts but also by relativity: when the effects of the Doppler shift are subtracted, there is a residual redshift which corresponds to a velocity of about 12,000 kilometers per second.  This does not represent an actual velocity of the system away from the Earth; rather, it is due to time dilation, which makes moving clocks appear to stationary observers to be ticking more slowly.  In this case, the relativistically moving excited atoms in the jets appear to vibrate more slowly and their radiation thus appears red-shifted., p. 508.
+
+==References==
+
+==Further reading==
+* Observations of SS 433, Bruce Margon, in Annual review of astronomy and astrophysics, volume 22, Palo Alto, CA: Annual Reviews, Inc., 1984, pp. 507&ndash;536.  DOI 10.1146/annurev.aa.22.090184.002451.
+*The Quest for SS433, David H. Clark. New York: Viking, 1985.  ISBN 0-670-80388-X.
+
+* High-mass X-ray binary
+* Image SS 433

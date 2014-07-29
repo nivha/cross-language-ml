@@ -1,0 +1,10 @@
+The MTZ black hole, named after Cristian Martinez, Ricardo Troncoso and Jorge Zanelli, 
+is a black hole solution for (3+1)-dimensional gravity with a minimally coupled self-interacting scalar field.
+
+The event horizon is a surface of constant negative curvature, and the spacetime is asymptotically locally Anti-de-Sitter.
+
+==See also==
+BTZ black hole
+
+== References ==
+* The original MTZ-paper http://arxiv.org/pdf/hep-th/0406111

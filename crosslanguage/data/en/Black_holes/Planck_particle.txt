@@ -1,0 +1,44 @@
+A Planck particle, named after physicist Max Planck, is a hypothetical particle defined as a tiny black hole whose Compton wavelength is equal to its Schwarzschild radius. Its mass is thus approximately the Planck mass, and its Compton wavelength and Schwarzschild radius are about the Planck length.  Planck particles are sometimes used as an exercise to define the Planck mass and Planck length.  They play a role in some models of the evolution of the universe during the Planck epoch.
+
+Compared for example to a proton, the Planck particle would be extremely small (its radius being  equal to the Planck length, which is about 10−20 times the proton's radius) and heavy (the Planck mass being 1019 times the proton's mass).
+
+It is thought that such a particle would vanish in Hawking radiation.
+
+== Derivation ==
+
+While opinions vary as to its proper definition, the most common definition of a Planck particle is a particle whose Compton wavelength is equal to its Schwarzschild radius. This sets the relationship:
+
+:  \lambda = \frac{h}{m c} = \frac{2 G m}{c^2}
+
+Thus making the mass of such a particle:
+
+:  m = \sqrt{\frac{h c}{2 G}}
+
+This mass will be  \sqrt{\pi }  times larger than the Planck mass, making a Planck particle 1.772 times more massive than the Planck unit mass.
+
+Its radius will be the Compton wavelength:
+
+:  r = \frac{h}{m c} = \sqrt{\frac{2G h}{c^3}}
+
+== Dimensions ==
+
+Using the above derivations we can substitute the universal constants h, G, and c, and determine physical values for the particle's mass and radius. Assuming this radius represents a sphere of uniform density we can further determine the particle's volume and density.
+
+It should be noted that the above dimensions do not correspond to any known physical entity or material.
+
+==See also==
+* Micro black hole
+* Planck units
+* Max Planck
+* Black hole electron
+
+==References==
+
+==External links==
+* "The quasi-steady state cosmology: analytical solutions of field equations and their relationship to observations" - Astrophysics Data Systems
+* "Mach's principle: from Newton's bucket to quantum gravity" - Google Books
+* "Mysteries of Mass: Some Contrarian Views From an Experimenter"
+* "The Gauge Hierarchy Problem and Planck Oscillators" - CERN Document Server
+* "The First Turbulence and First Fossil Turbulence"
+* "Lecture on Nuclear Physics for Plasma Engineers"
+* The Planck Length

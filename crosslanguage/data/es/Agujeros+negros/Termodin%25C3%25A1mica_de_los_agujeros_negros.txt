@@ -1,0 +1,58 @@
+La termodinámica de los agujeros negros es la rama de la astrofísica desarrollada a partir del descubrimiento de la analogía entre las leyes de la termodinámica y algunas de las propiedades de los agujeros negros. Estos estudios fueron emprendidos en los años 1970 por científicos como Stephen Hawking, quien a su vez planteó el fenómeno de la evaporación de los agujeros negros en 1975 por el cual un agujero negro no es un cuerpo absolutamente oscuro sino que podría emitir una cantidad débil de radiación térmica.
+
+== Analogía termodinámica de los agujeros negros ==
+
+El estudio de los agujeros negros estableció el llamado teorema de ningún pelo que sostiene que es posible describir estos cuerpos celestes mediante únicamente tres parámetros: su masa M, su carga eléctrica Q y su momento cinético L. En ausencia de momento cinético, un agujero negro es perfectamente esférico, pero si posee un momento cinético, adoptará una forma ligeramente achatada. Así, el parámetro que pertinentemente describe la estructura del agujero negro no es su radio, sino su superficie que ha de entenderse como la superficie del horizonte de sucesos que le caracteriza. Existirá por tanto una relación entre el área del agujero negro A a los tres parámetros establecidos por el teorema.
+
+Es posible calcular cuánto varía el área de un agujero negro si se le inyectase una pequeña cantidad no nula ya sea de materia \delta M, ya sea de momento cinético \delta L o bien, de carga eléctrica \delta Q. 
+:\delta M c^2 = \frac{1}{8 \pi} \frac{c^2}{G} \kappa \delta A + \Omega \delta L + V \delta Q,
+donde G es la constante de gravitación, c la velocidad de la luz, y las cantidades V, Ω y κ se refieren respectivamente al potencial eléctrico en la proximidad de la superficie del agujero negro, su velocidad angular de rotación (deducida de su momento cinético y de su masa), y de lo que se conoce como gravedad de superficie, que mide a que velocidad el campo gravitacional del agujero negro deviene infinito a su proximidad.
+
+De acuerdo con la célebre ecuación E=mc2, el miembro a la izquierda se identifica con una variación de energía. Por su parte, los términos \Omega \delta L y V \delta Q se identifican con una variación de energía cinética de rotación y de energía potencial. Esta situación es muy parecida a la que acontece en termodinámica, donde se muestra que una parte de la variación de la energía interna de un sistema está relacionada con el trabajo de las fuerzas exteriores al mismo. Es así que en la ecuación conocida de la termodinámica:
+{\rm d} U = \delta Q + \delta W,
+el término {\rm d} U se asemeja al \delta M c^2 de la ecuación de los agujeros negros, mientras que \delta W corresponde a \Omega \delta L + V \delta Q si consideramos un sistema que posea una carga eléctrica y un momento de inercia. Para que la analogía entre los agujeros negros y la termodinámica presenten un sentido físico, hay que suponer que el término  \frac{1}{8 \pi} \frac{c^2}{G} \kappa \delta A se pueda identificar con  \delta Q que corresponde a la cantidad de calor aportada al sistema de acuerdo a la fórmula común que asocia temperatura y entropía. Para ello, es necesario entre otros identificar la superficie del agujero negro a una entropía propia.
+
+Una primera etapa de esta aproximación fue completada por Stephen Hawking quien demostró que durante la fusión de dos agujeros negros, la superficie del agujero negro resultante será siempre mayor que la suma de las superficies de los agujeros negros que lo formaron. Poco después, en 1974, Hawking puso en evidencia el fenómeno de la evaporación de los agujeros negros, demostrando que un agujero negro emite radiación con una temperatura proporcional a la gravedad de su superficie. Así, la identificación del término ecuacional \frac{1}{8 \pi} \frac{c^2}{G} \kappa \delta A con el término \delta Q quedaba completada.
+
+== Leyes de la termodinámica de los agujeros negros ==
+
+Los resultados del estudio de analogía de los agujeros negros permiten reformular el conjunto de las leyes de la termodinámica para este contexto:
+
+{| border="1" cellspacing="0" cellpadding="2" class="wikitable"
+|- bgcolor="#efefef"
+|Ley || Termodinámica común || Agujeros negros
+|-
+| Principio cero || La temperatura T de un cuerpo es la misma en todo el mismo en el equilibrio térmico || La gravedad de superficie κ es constante sobre toda la superficie del agujero negro
+|-
+| Primer principio || {\rm d} U = T {\rm d} S + {\rm trabajo\;aportado}  || \delta M c^2 = \frac{1}{8 \pi} \frac{c^2}{G} \kappa \delta A + \Omega \delta L + V \delta Q
+|-
+| Segundo principio || δ S es positivo en toda transformación que implique un sistema cerrado || δ A es positivo en toda transformación implicando a  agujeros negros
+|-
+| Tercer principio  || Es imposible obtener T = 0 por un proceso físico || Es imposible obtener κ = 0 (agujero negro extremo) por un proceso físico.
+|}
+
+El principio cero de la termodinámica es una consecuencia inmediata de las propiedades de la gravedad de superficie que es constante sobre toda la superficie del agujero negro. Esta propiedad puede resultar poco intuitiva ya que para un planeta en rotación, la intensidad del campo gravitacional es inferior en su ecuador que en los polos como consecuencia de la fuerza centrífuga. Como vemos, este efecto no se presenta en los agujeros negros donde más precisamente, la velocidad de divergencia de la intensidad del campo gravitacional al aproximarse a su superficie es constante.
+
+El tercer principio termodinámico aplicado a los agujeros negros estipula que no se puede alcanzar el estado de agujero negro extremo, la frontera entre un agujero negro y la 
+singularidad desnuda. Una conclusión de ello, por ejemplo, es si se aumentara la carga eléctrica de un agujero negro podría contemplarse que desapareciese su horizonte. Sin embargo, la energía a aportar a las partículas cargadas que se deberían lanzar contra el agujero negro de igual carga devendría cada vez más grande a medida que nos aproximamos al estado extremo. Además, surgiría el fenómeno de creación de parejas de partículas-antipartículas que en su vecindad, el agujero negro tendrá tendencia a producir parejas entre las cuales, las que tengan carga opuesta al agujero, serán absorbidas por este, mientras que las opuestas serán repelidas.
+
+James M. Bardeen (hijo del doble Premio Nobel de física John Bardeen), Brandon Carter y Stephen Hawking fueron los investigadores que formalizaron los principios de la termodinámica aplicada a los agujeros negros en 1973, dos años incluso del descubrimiento de la entropía de los agujeros negros por Hawking. Con anterioridad, una fórmula elegante que asociaría el conjunto de las cantidades termodinámicas fue establecida por Larry Smarr. En honor a su descubridor esta fórmula es conocida como fórmula de Smarr.
+
+== Interpretación estadística ==
+
+Una de las cuestiones abiertas en el campo de la termodinámica de los agujeros negros  es el de la interpretación de su entropía. Existe la posibilidad que una teoría de gravitación cuántica viable pudiera ofrecer una interpretación de la entropía asociada a los agujeros negros en términos de microestados. Aunque la teoría de las cuerdas permite una interpretación  para algunas clases de agujeros negros extremos, para el resto su complejidad no permite ser descritos por  esta misma teoría a un nivel cuántico. Igualmente, la gravedad cuántica de bucles propone una interpretación de la  entropía pero únicamente para el tipo de agujero negro de Schwarzschild, ya que su razonamiento empleado no parece poder extenderse de manera coherente a otro tipo agujeros negros.
+
+== Perspectivas de desarrollo posterior ==
+
+La aplicación de técnicas de termodinámica de los agujeros negros permite evidenciar todo un conjunto de ricos  fenómenos en los agujeros negros. En particular, es posible calcular el calor específico de los agujeros negros. El físico australiano Paul C. W. Davies demostró en 1977 que este calor específico diverge como 1/(T - T_{\rm c}) para ciertas configuraciones que alcanzan una temperatura crítica T_{\rm c} dependiendo de los parámetros del agujero negro. Tal comportamiento se interpreta habitualmente en términos de una transición de fase de segundo orden. Parece pues posible que tales fenómenos estén presentes en una interpretación microscópica de la entropía de los agujeros negros.
+
+== Notas ==
+
+== Referencias ==
+*  Robert M. Wald, "General Relativity", University of Chicago Press, 1984, 498 pag. (ISBN 0226870332). En particular la sección 12.5 Black holes and thermodynamics (p. 330 y ss.).
+*  Stephen W. Hawking, G. F. R. Ellis, "The large scale structure of space-time", Cambridge University Press, coll. « Cambridge Monographs on Mathematical Physics», 1975, 400 pag. (ISBN 0521099064). En particular sección 9.2 pag. 318 y ss., sección 9.3, pag. 332 y 333.
+*  J. D. Bekenstein, "Generalized second law of thermodynamics in  black hole physics", Phys. Rev. D 9:3292-3300  (1974). resumen online. 
+*  J. D. Bekenstein, "Black holes and entropy", Phys. Rev. D 7:2333-2346 (1973). resumen online.
+*  J. M. Bardeen, B. Carter and S. W. Hawking, "The four laws of black hole mechanics", Commun. Math. Phys. 31, 161 (1973).
+*  S. W. Hawking, "Black hole explosions?", Nature 248, 30 (1974). resumen online.
+*  S. W. Hawking, "Particle creation by black holes", Commun. Math. Phys. 43, 199 (1975).

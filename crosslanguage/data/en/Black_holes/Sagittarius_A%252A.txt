@@ -1,0 +1,79 @@
+Sagittarius A* (pronounced "Sagittarius A-star", standard abbreviation Sgr A*) is a bright and very compact astronomical radio source at the center of the Milky Way galaxy, near the border of the constellations Sagittarius and Scorpius. It is part of a larger astronomical feature known as Sagittarius A. Sagittarius A* is believed to be the location of a supermassive black hole, like those that are now generally accepted to be at the centers of most spiral and elliptical galaxies. Observations of the star S2 in orbit around Sagittarius A* have been used to show the presence of, and produce data about, the Milky Way's central supermassive black hole, and have led to the conclusion that Sagittarius A* is the site of that black hole.
+
+==Observation and description ==
+Astronomers have been unable to observe Sgr A* in the optical spectrum because of the effect of 25 magnitudes of extinction by dust and gas between the source and Earth. Several teams of researchers have attempted to image Sagittarius A* in the radio spectrum using Very Long Baseline Interferometry (VLBI). The current highest-resolution measurement, made at a wavelength of 1.3 mm, indicated an angular diameter for the source of 37 μas.  At a 26,000 light-year distance, this yields a diameter of 44 million kilometers. For comparison, the Earth is 150 million kilometers from the Sun, and Mercury is 46 million kilometers from the Sun at its perihelion. The proper motion of Sgr A* is approximately −2.70 mas per year for the right ascension and −5.6 mas per year for the declination.
+
+==History==
+Sgr A* was discovered on February 13 and 15, 1974, by astronomers Bruce Balick and Robert Brown using the baseline interferometer of the National Radio Astronomy Observatory. The name Sgr A* was coined by Brown because the radio source was "exciting," and excited states of atoms are denoted with asterisks.
+
+On October 16, 2002, an international team led by Rainer Schödel of the Max Planck Institute for Extraterrestrial Physics reported the observation of the motion of the star S2 near Sagittarius A* over a period of ten years. According to the team's analysis, the data ruled out the possibility that Sgr A* contains a cluster of dark stellar objects or a mass of degenerate fermions, strengthening the evidence for a massive black hole. The observations of S2 used near-infra red (NIR) interferometry (in the K-band, i.e. 2.2 μm) because of reduced interstellar extinction in this band. SiO masers were used to align NIR images with radio observations, as they can be observed in both NIR and radio bands. The rapid motion of S2 (and other nearby stars) easily stood out against slower-moving stars along the line-of-sight so these could be subtracted from the images.
+
+The VLBI radio observations of Sagittarius A* could also be aligned centrally with the images so S2 could be seen to orbit Sagittarius A*. From examining the Keplerian orbit of S2, they determined the mass of Sagittarius A* to be 2.6 ± 0.2 million solar masses, confined in a volume with a radius no more than 17 light-hours (120 AU). Later observations of the star S14 showed the mass of the object to be about 4.1 million solar masses within a volume with radius no larger than 6.25 light-hours (45 AU) or about 6.7 billion kilometres. They also determined the distance from Earth to the galactic centre (the rotational center of the Milky Way galaxy), which is important in calibrating astronomical distance scales, as 8.0 ± 0.6 × 103 parsecs.
+
+In November 2004 a team of astronomers reported the discovery of a potential intermediate-mass black hole, referred to as GCIRS 13E, orbiting three light-years from Sagittarius A*. This black hole of 1,300 solar masses is within a cluster of seven stars. This observation may add support to the idea that supermassive black holes grow by absorbing nearby smaller black holes and stars.
+
+After monitoring stellar orbits around Sagittarius A* for 16 years, Gillessen et al. estimate the object's mass at 4.31 ± 0.38 million solar masses. The result was announced in 2008 and published in The Astrophysical Journal in 2009. Reinhard Genzel, team leader of the research, said the study has delivered "what is now considered to be the best empirical evidence that super-massive black holes do really exist. The stellar orbits in the galactic centre show that the central mass concentration of four million solar masses must be a black hole, beyond any reasonable doubt."
+
+==Central black hole==
+
+If the apparent position of Sagittarius A* were exactly centered on the black hole, it would be possible to see it magnified beyond its actual size, because of gravitational lensing.  According to general relativity, this would result in a minimum observed size of at least 5.2 times the black hole's Schwarzschild radius, which, for a black hole of around 4 million solar masses, corresponds to a minimum observed size of approximately 52 μas.  This is much larger than the observed size of 37 μas and so suggests that the Sagittarius A* radio emissions are not centered on the hole but arise from a bright spot in the region around the black hole, close to the event horizon, possibly in the accretion disc or a relativistic jet of material ejected from the disc.
+
+The mass of Sagittarius A* has been estimated in two different ways.
+#Two groups&mdash;in Germany and the U.S.&mdash;monitored the orbits of individual stars very near to the black hole and used Kepler's laws to infer the enclosed mass. The German group found a mass of 4.31 ± 0.38 million solar masses while the American group found 4.1 ± 0.6 million solar masses. Given that this mass is confined inside a 44 million km diameter sphere, this yields a density ten times higher than previous estimates.
+#More recently, measurement of the proper motions of a sample of several thousand stars within approximately one parsec from the black hole, combined with a statistical technique, has yielded both an estimate of the black hole's mass, and also of the distributed mass in this region. The black hole mass was found to be consistent with the values measured from individual orbits; the distributed mass was found to be 1.0 ± 0.5 million solar masses. The latter is believed to be composed of stars and stellar remnants.
+
+Astronomers are confident that these observations of Sagittarius A* provide good empirical evidence that our own Milky Way galaxy has a supermassive black hole at its center, 26,000 light-years from the Solar System because:
+:* The star S2 follows an elliptical orbit with a period of 15.2 years and a pericenter (closest distance) of 17 light hours () from the center of the central object. 
+:* From the motion of star S2, the object's mass can be estimated as 4.1 million solar masses. (The corresponding Schwarzschild radius is 0.08 AU/12 million km/7.4 million miles; 17 times bigger than radius of Sun.)
+:* The radius of the central object must be significantly less than 17 light hours, because otherwise, S2 would collide with it. In fact, recent observations indicate that the radius is no more than 6.25 light-hours (6,75 billion km/4.2 billion miles/45 AU), about the diameter of Uranus' orbit, leading to density limit  /  = .
+:* The only widely hypothesized type of object which can contain 4.1 million solar masses in a volume that small is a black hole.
+
+While, strictly speaking, there are other mass configurations that would explain the measured mass and size, such an arrangement would collapse into a single supermassive black hole on a timescale much shorter than the life of the Milky Way.
+
+The comparatively small mass of this black hole, along with the low luminosity of the radio and infrared emission lines, imply that the Milky Way is not a Seyfert galaxy.
+
+Ultimately, what is seen is not the black hole itself, but observations that are consistent only if there is a black hole present near Sgr A*. In the case of such a black hole, the observed radio and infrared energy emanates from gas and dust heated to millions of degrees while falling into the black hole. Although other possibilities exist for how these gases emanate energy, such as radiation pressure and interaction with other gas streams, interaction with a massive source of gravity is the simplest explanation. The black hole itself is believed to emit only Hawking radiation at a negligible temperature, on the order of 10−14 kelvin.
+
+The European Space Agency's gamma-ray observatory INTEGRAL has observed gamma rays interacting with the nearby giant molecular cloud Sagittarius B2, causing x-ray emission from the cloud. This energy was emitted about 350 years earlier by Sgr A*, possibly detectable from the Earth around the year 1650. The total luminosity from this outburst (≈1,5 erg/s) is estimated to be a million times stronger than the current output from Sgr A* and is comparable with a typical AGN. This conclusion has been supported in 2011 by Japanese astronomers observed the Galaxy center with Suzaku satellite.
+
+==Discovery of G2 gas cloud on an accretion course==
+First noticed as something unusual in images of the centre of our galaxy in 2002, the gas cloud G2, which has a mass about three times that of the Earth, was confirmed to be likely on a course taking it into the accretion zone of Sgr A* in a paper published in Nature in 2012. Predictions of its orbit suggest it will have a closest approach to the black hole (a perinigricon) in early 2014. At this time the gas cloud will be at a distance of just over 3000 times the radius of the event horizon (or ≈260 AU, 36 light hours) from the black hole. Opinions differ as to the effect this might have on both G2 and the black hole. G2 has been observed to be disrupting since 2009, and was predicted to be completely destroyed by the encounter, which could have led to a significant brightening of X-ray and other emission from the black hole. Other astronomers have suggested the gas cloud may be hiding a dim star, or even a stellar mass black hole, which would hold it together against the tidal forces of Sgr A* and the ensemble may pass by without any effect.  In addition to the tidal effects on the cloud itself, it has recently been proposed that, prior to its perinigricon, G2 may experience multiple close encounters with members of the black hole and neutron-star populations believed to orbit near the Galactic Centre. These encounters may offer some insight into the region surrounding the supermassive black hole at the centre of the Milky Way.
+
+The average rate of accretion onto Sgr A* is unusually small for a black hole of its mass and is only detectable because it is so close to Earth. This passage of G2 in 2013 will offer astronomers the chance to learn much more about how material accretes onto supermassive black holes. A suite of astronomical facilities are planning to observe this closest approach, with observations confirmed with Chandra, XMM, EVLA, INTEGRAL, Swift, Fermi and requested at VLT and Keck.
+
+Astronomers from the UCLA Galactic Center Group published observations obtained on March 19 and 20, 2014, concluding that G2 is still intact, in contrast to predictions for a simple gas cloud hypothesis and therefore most likely hosts a central star.
+
+Groups at ESO (link to press release) and LLNL (link to press release) have been working on simulations of the passage.
+
+Sgr A* is monitored on a daily basis with the X-ray telescope of the Swift satellite: link to monitoring website
+
+==Notes==
+
+==References==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+
+==External links==
+
+* UCLA Faculty Research presentation on Sagittarius A* (Video)
+* UCLA Galactic Center Group - latest results retrieved 8/12/2009
+*  Is there a Supermassive Black Hole at the Center of the Milky Way? (arxiv preprint)
+* 2004 paper deducing mass of central black hole from orbits of 7 stars (arxiv preprint)
+* ESO video clip of orbiting star (533 KB MPEG Video)
+* Star Orbiting Massive Milky Way Centre Approaches to within 17 Light-Hours ESO Press Release, October 16, 2002
+* Max Planck page on the galactic center, with animation
+* The Proper Motion of Sgr A* and the Mass of Sgr A* (PDF)
+* NRAO article regarding VLBI radio imaging of Sgr A*

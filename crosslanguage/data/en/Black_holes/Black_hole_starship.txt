@@ -1,0 +1,21 @@
+A black hole starship is a theoretical idea for enabling interstellar travel by propelling a starship by creating an artificial black hole and using a parabolic reflector to reflect its Hawking radiation. In 2009, Louis Crane and Shawn Westmoreland of Kansas State University published a paper investigating the feasibility of this idea. Their conclusion was that it was on the edge of possibility, but that quantum gravity effects that are presently unknown may make it easier or make it impossible.
+
+Although beyond current technological capabilities, a black hole starship offers some advantages compared to other possible methods. For example, in nuclear fusion or fission, only a small proportion of the mass is converted into energy so enormous quantities of material would be needed thus a nuclear starship would greatly deplete Earth of fissile and fusile material. One possibility is antimatter, but the manufacturing of antimatter is hugely energy inefficient and antimatter is difficult to contain. The Crane and Westmoreland paper continues:
+
+On the other hand, the process of generating a BH from collapse is naturally efficient, so it would require millions of times less energy than a comparable amount of antimatter or at least tens of thousands of times given some optimistic future antimatter generator. As to confinement, a BH confines itself. We would need to avoid colliding with it or losing it, but it won't explode. Matter striking a BH would fall into it and add to its mass. So making a BH is extremely difficult, but it would not be as dangerous or hard to handle as a massive quantity of antimatter. Although the process of generating a BH is extremely massive, it does not require any new Physics. Also, if a BH, once created, absorbs new matter, it will radiate it, thus acting as a new energy source; while antimatter can only act as a storage mechanism for energy which has been collected elsewhere and converted at extremely low efficiency. (None of the other ideas suggested for interstellar flight seems viable either. The proposal for an interstellar ramjet turns out to produce more drag than thrust, while the idea of propelling a ship with a laser beam runs into the problem that the beam spreads too fast.)
+
+According to the authors, a black hole to be used in space travel needs to meet five criteria:
+
+# has a long enough lifespan to be useful,
+#  is powerful enough to accelerate itself up to a reasonable fraction of the speed of light in a reasonable amount of time,
+#  is small enough that we can access the energy to make it,
+#  is large enough that we can focus the energy to make it,
+#  has mass comparable to a starship.
+
+Black holes seem to have a sweet spot in terms of size, power and lifespan which is almost ideal. A black hole weighing 606,000 metric tons (this is about the mass of the Seawise Giant, the longest sea-going ship ever built) would have a Schwarzschild radius of 0.9 attometers, a power output of 25.6 gigawatts, and a 593 year lifespancalculated by solving r_s = \frac{2GM}{c^2} \;, P = \frac{\hbar c^6}{15360 \pi G^2 M^2} \; and t_{\operatorname{ev}} = \frac{5120 \pi G^2 M_0^{3}}{\hbar c^4} \;.
+
+Getting the black hole to act as a power source and engine also requires a way to convert the Hawking radiation into energy and thrust. One potential method involves placing the hole at the focal point of a parabolic reflector attached to the ship, creating forward thrust. A slightly easier, but less efficient method would involve simply absorbing all the gamma radiation heading towards the fore of the ship, and let the rest shoot out the back to push you onwards.
+
+== Notes ==
+
+==References==

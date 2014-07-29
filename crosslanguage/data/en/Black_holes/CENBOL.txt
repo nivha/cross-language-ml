@@ -1,0 +1,13 @@
+In astronomy, CENBOL (derived from "CENtrifugal pressure supported BOundary Layer) is the region of an accretion flow around a black hole.
+
+==Centrifugal force dominated boundary layer ==
+
+Because centrifugal force l2/r3 increases very rapidly compared to the gravitational force (which goes as 1/r2) as the distance r decreases, matter feels increasing centrifugal force as it approaches a black hole. Thus the matter initially slows down, typically through a shock transition, and then accelerates again to become a supersonic flow.
+
+The importance of CENBOL is that it behaves like a boundary layer of a black hole. This region is located between the shock and the innermost sonic point of an accretion flow. CENBOL becomes hot due to sudden reduction of  radial kinetic energy and the flow is puffed up, since hot gas can fight against gravitational. In a certain sense it behaves like a thick accretion disk (ion pressure supported torus if the acretion rate is low; or radiation pressure supported torus, if the accretion rate is high), except that it also has radial velocity, which original models of thick disk did not have. Because it is hot, the electrons transfer their thermal energy to the photons. In other words CENBOL  inverse Comptonizes low energy X-rays or soft photons (also called seed photons) and produces very high energy X-rays (also called hard photons). Just as a boundary layer, it also produces jets and outflows.
+
+The observed spectrum of a black hole accretion disk is in reality partly coming from a Keplerian disk (viscous Shakura and Sunyaev (1973)  type disk) in the form of multi-colour black body emission. But the power-law component primarily comes from the CENBOL. In presence of high accretion rates in the Keplerian component, the CENBOL can be cooled down so that the spectrum may be totally dominated by the low energy X-rays. The spectrum goes to a 'so-called' soft state. When the Keplerian rate is not high compared to the low-angular momentum component, the CENBOL survives and the spectrum is dominated by the high energy X-rays. The is said to be in so-called 'hard-state'.
+
+In the presence of radiative or thermal cooling effects, CENBOL may start to oscillate, especially when the infall time scale and the cooling time scale are comparable. In this case, number of intercepted low energy photons would be modulated. As a result, the number of high energy photons are also modulated. This effect produces what is known as quasi-periodic oscillations (or QPOs) in black hole candidates.
+
+==References==

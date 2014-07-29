@@ -1,0 +1,32 @@
+An Intermediate-mass black hole (IMBH) is a hypothetical class of black hole with mass in the range 100 to one million solar masses: significantly more than stellar black holes but less than supermassive black holes. There is as yet no unambiguous detection of an IMBH but the indirect evidence from various directions is tantalizing.
+
+== Observational evidence ==
+The strongest evidence for IMBHs comes from a few low-luminosity active galactic nuclei. Due to their activity, these galaxies almost certainly contain accreting black holes, and in some case the black hole masses can be estimated using the technique of reverberation mapping. For instance, the spiral galaxy NGC 4395 at a distance of about 4 Mpc appears to contain a nuclear black hole with mass of about  solar masses.
+
+Some ultra-luminous X ray sources (ULXs) in nearby galaxies are suspected to be IMBHs, with masses of a hundred to a thousand solar masses. The ULXs are observed in star-forming regions (e.g., in starburst galaxy M82), and are seemingly associated with young star clusters which are also observed in these regions. However, only a dynamical mass measurement from the analysis of the optical spectrum of the companion star can unveil the presence of an IMBH as the compact accretor of the ULX.
+
+A few globular clusters have been claimed to contain IMBHs, based on measurements of the velocities of stars near their centers; the figure shows one candidate object. However none of the claimed detections has stood up to scrutiny. For instance, the data for G1, the object shown in the figure, can be fit equally well without a massive central object.
+
+Additional evidence for the existence of IMBHs can be obtained from observation of gravitational radiation, emitted by the compact remnant that orbits the IMBH. Also, the M-sigma relation predicts the existence of black holes with masses of 104 to 106 solar masses in low-luminosity galaxies.
+
+== Claimed discoveries ==
+
+In November 2004 a team of astronomers reported the discovery of GCIRS 13E, the first intermediate-mass black hole in our galaxy, orbiting three light-years from Sagittarius A*.  This medium black hole of 1,300 solar masses is within a cluster of seven stars, possibly the remnant of a massive star cluster that has been stripped down by the Galactic Center.  This observation may add support to the idea that supermassive black holes grow by absorbing nearby smaller black holes and stars. However, in 2005, a German research group claimed that the presence of an IMBH near the galactic center is doubtful, based on a dynamical study of the star cluster in which the IMBH was said to reside. An IMBH near the galactic center could also be detected via its perturbations on stars orbiting around the supermassive black hole.
+
+In January 2006 a team led by Philip Kaaret of the University of Iowa announced the discovery of a quasiperiodic oscillation from an intermediate-mass black hole candidate located using NASA's Rossi X-ray Timing Explorer. The candidate, M82 X-1, is orbited by a red giant star that is shedding its atmosphere into the black hole.  Neither the existence of the oscillation nor its interpretation as the orbital period of the system are fully accepted by the rest of the scientific community.  While the interpretation is quite reasonable, the periodicity claimed is based on only about 4 cycles, meaning that it is quite possible for this to be random variation. If the period is real, it could be either the orbital period, as suggested, or a super-orbital period in the accretion disk, as is seen in many other systems.
+
+In 2009, a team of astronomers lead by Sean Farrell discovered HLX-1, an intermediate-mass black hole with a smaller cluster of stars around it, in the galaxy ESO 243-49. This evidence suggested that ESO 243-49 had a galactic collision with HLX-1's galaxy and absorbed the majority of the smaller galaxy's matter.
+
+In 2012, a research group led by Tomoharu Oka at Keio University identified three new locations that are strong candidates for containing intermediate-mass black holes. Further work is necessary to attempt to confirm their existence.
+
+A team at the CSIRO radio telescope in Australia announced on 9 July 2012 that it had discovered the first intermediate-mass black hole.
+
+==Origin==
+IMBHs are too massive to be formed by the collapse of a single star, which is how stellar black holes are thought to form. Their environments lack the extreme conditions—i.e., high density and velocities observed at the centers of galaxies—which seemingly lead to the formation of supermassive black holes. There are three popular formation scenarios for IMBHs. The first, is the merging of stellar mass black holes and other compact objects by means of accretion. The second one is the runaway collision of massive stars in dense stellar clusters and the collapse of the collision product into an IMBH.  The third is that they are primordial black holes formed in the Big Bang.
+
+==References==
+
+== External links ==
+* Chandra images of starburst galaxy M82
+* NASA press release for discovery of IMBHs by Hubble Space Telescope
+* A New Breed of Black Holes, by Davide Castelvecchi Sky & Telescope April 2006

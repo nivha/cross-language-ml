@@ -1,0 +1,9 @@
+El neutralino es una partícula elemental hipotética de tipo fermiónico y eléctricamente neutra que aparece en algunas versiones de las teorías o modelos de partículas con supersimetría. El símbolo estándar de los neutralinos es N͂0
+1 (el más ligero), N͂0
+2, N͂0
+3 and N͂0
+4 (el más pesado) aunque ocasionalmente también se representan mediante \tilde{\chi}^0_i (chi), donde i va de 1 a 4.
+
+En cosmología, el neutralino se considera una posible WIMP, y por lo tanto buena candidata para resolver el problema de la materia oscura.
+
+Según la supersimetría, las supercompañeras del bosón Z (zino), el fotón (fotino) y el bosón de Higgs (higgsino) tienen todas los mismos números cuánticos, así que se mezclan para formar neutralinos. Prácticamente indetectable, sólo interactúa a través de la gravedad y de la interacción débil, no presentando carga eléctrica ni de color. Es un fermión y si existe y es estable (algo que se desconoce), podría tener una masa comprendida entre 30 y 5000 GeV/c^2.

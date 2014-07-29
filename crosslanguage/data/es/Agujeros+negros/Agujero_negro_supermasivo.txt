@@ -1,0 +1,34 @@
+thumb|300px|Arriba: Representación artística de un agujero negro supermasivo absorbiendo materia de una estrella cercana. Abajo: imágenes de un supuesto agujero negro supermasivo devorando una estrella en la galaxia RXJ 1242-11. Izq.: en rayos x; Der.: en luz visible.Un agujero negro supermasivo es un agujero negro con una masa del orden de millones o miles de millones de masas solares.
+
+Estudios científicos sugieren fuertemente que la Vía Láctea tiene un agujero negro supermasivo en el centro galáctico, llamado Sagitario A*. Se cree que muchas, si no todas las galaxias, albergan un agujero negro supermasivo en su centro. De hecho, una de las teorías más extendidas en los últimos tiempos es la de suponer que todas las galaxias elípticas y espirales poseen en su centro un agujero negro supermasivo, el cual generaría la gravedad suficiente para mantener la unidad.
+
+== Introducción ==
+Un agujero negro supermasivo tiene algunas propiedades interesantes que lo diferencian de otros de menor masa:
+* La densidad media de un agujero negro supermasivo puede ser muy baja, de hecho puede ser menor que la densidad del agua, si su masa es suficientemente grande. Esto ocurre porque el radio del agujero negro se incrementa linealmente con la masa, por lo que la densidad decae con el cuadrado de la masa, mientras que el volumen es proporcional al cubo del radio de Schwarschild de tal manera que la densidad satisface la siguiente proporcionalidad:
+{{ecuación|
+\rho \propto \frac{M}{R_S^3} \propto \frac{c^6}{G^3 M^2} \approx
+6,177\cdot 10^{17}\left(\frac{M_\odot}{M}\right)^2\ \frac{\mbox{g}}{\mbox{cm}^3}  
+||left}}
+:Donde \scriptstyle M_\odot es la masa del sol y \scriptstyle M la masa del agujero negro supermasivo. La cantidad anterior es inferior a la densidad del agua cuando la masa supera mil millones de veces la masa solar.
+* Las fuerzas de marea en la vecindad del Horizonte de sucesos son sensiblemente menores. Dado que el centro de la singularidad está muy alejado del horizonte, un hipotético astronauta viajando hacia el centro del agujero negro no experimentaría fuerzas de marea significativas hasta adentrarse mucho en el agujero negro.
+
+Los agujeros negros de este tamaño pueden formarse solo de dos formas: por un lento crecimiento de materia (a partir de un tamaño estelar), o directamente por presión externa en los primeros instantes del Big Bang. El primer método requiere un largo período y grandes cantidades de materia disponibles para el crecimiento del agujero negro.
+
+Mediciones Doppler de la materia que rodea el núcleo de galaxias vecinas a la Vía Láctea, revelan un movimiento giratorio muy rápido, que sólo es posible por una gran concentración de materia en el centro. Actualmente, el único objeto conocido que puede contener suficiente materia en tan reducido espacio es un agujero negro.
+
+En galaxias activas más alejadas, se piensa que el ancho de las líneas espectrales está relacionado con la masa del agujero negro que genera la actividad de la galaxia.
+
+Se especula que agujeros negros supermasivos en el centro de muchas galaxias, actuarían como los "motores" de las mismas, provocando sus movimientos giratorios, tales como galaxias Seyfert y quasares. Se cree que Sagitario A* es el agujero negro supermasivo central de la Vía Láctea.
+
+== Posibles agujeros negros supermasivos ==
+No se ha identificado con seguridad ningún agujero negro supermasivo, sin embargo, existe un cierto número de astros que son candidatos a ser considerados como tal cuando haya mayor evidencia disponible:
+* En mayo de 2004, Paolo Padovani y otros astrónomos anunciaron el descubrimiento de 30 agujeros negros supermasivos fuera de la Vía Láctea. Su descubrimiento sugiere que hay al menos el doble de estos agujeros negros de los que se pensaba previamente.
+* Entre los agujeros negros supermasivos más grandes podrían estar un hipotético agujero situado en la galaxia OJ 287, con una masa estimada en 18 mil millones de masas solares, el situado en el centro del cúmulo de Phoenix (Fénix) con 20 mil millones de masas solares,y el de la galaxia NGC 4889, cuya masa puede llegar a 21 mil millones de masas solares.
+
+== Referencias ==
+
+=== Bibliografía ===
+* Robert M. Wald, General Relativity, Chicago University Press, ISBN 0-226-87033-2. 
+* Steven Weinberg, Gravitation and Cosmology: principles and applications of the general theory of relativity, Wiley (1972), ISBN 0-471-92567-5.
+
+tr:Kara delik#Dev kara delikler

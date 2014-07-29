@@ -1,0 +1,11 @@
+The CERN Axion Solar Telescope (CAST) is an experiment in astroparticle physics to search for axions originating from the Sun. The experiment, sited at CERN in Switzerland, came online in 2002 with the first data-taking run starting in May 2003. The successful detection of solar axions would constitute a major discovery in particle physics, and would also open up a brand new window on the astrophysics of the solar core.
+
+If the hypothetical axions exist, they may be produced in the Sun's core when X-rays scatter off electrons and protons in the presence of strong electric fields. The experimental setup is built around a 9.26 m long LHC magnet capable of producing a field of up to 9.5 teslas. This strong magnetic field is expected to convert solar axions back into X-rays for subsequent detection by X-ray detectors. The telescope observes the Sun for about 1.5 hours at sunrise and another 1.5 hours at sunset each day. The remaining 21 hours, with the instrument pointing away from the Sun, are spent measuring background axion levels.
+
+As of October 2006, CAST has not turned up definitive evidence for solar axions. It has, however, considerably narrowed down the range of parameters where these elusive particles may exist.  The last phase of data-taking is expected to continue through 2010.
+
+==External links==
+* November 24, 2004 news article by PhysicsWeb.org
+* CAST Experiment
+* CAST at MPI/MPE
+* CAST at TUD

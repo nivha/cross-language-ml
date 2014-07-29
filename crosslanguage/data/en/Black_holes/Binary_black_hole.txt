@@ -1,0 +1,51 @@
+A binary black hole is two black holes in close orbit around each other.  Although only a theoretical idea, they are important in astrophysics in that they would be the strongest known gravitational wave source in the universe.  As the orbiting black holes give off these waves, the orbit decays, and the orbital period decreases.  This stage is called binary black hole inspiral. The black holes will merge once they are close enough.  Once merged, the single hole goes through a stage called ring-down, where any distortion in the shape is dissipated as more gravitational waves.
+
+==Occurrence==
+
+Super massive black hole binaries are believed to form during galaxy mergers.  Some likely candidates for binary black holes are galaxies with double cores still far apart. An example double nucleus is NGC 6240.  Much closer black hole binaries are likely in single core galaxies with double emission lines. Examples include SDSS J104807.74+005543.5 and EGSD2 J142033.66 525917.5.   Other galactic nuclei have periodic emissions suggesting large objects orbiting a central black hole in for example OJ287.
+
+==The final-parsec problem==
+The natural separation of two supermassive black holes at the center of a galaxy is a few to a few tens of parsecs (pc). This is the separation at which the two black holes form a bound, binary system. In order to generate gravitational waves at a significant level, the binary must first shrink to a much smaller separation, roughly 0.01 - 0.001 pc.  This is called the "final-parsec problem". A number of solutions to the final parsec problem have been proposed; most involve the interaction of the massive binary with surrounding matter, either stars or gas, which can extract energy from the binary and cause it to shrink. For instance, gravitational slingshot ejection of passing stars can bring the two black holes together in a time much less than the age of the universe.
+
+==Lifecycle==
+Different parts of the life of a binary black-hole are the inspiral which resembles a gradually changing orbit. The last stable orbit or innermost stable circular orbit (ICSO) is the innermost complete orbit before the inspiral to merge transition.  This is followed by a plunging orbit in which the two black-holes meet.  The merger follows after which is the ringdown.  Once the merger has taken place, the direction of spin of the resulting black-hole can be very different from the original.  This change in direction of angular momentum is called spin-flip.
+
+==Modelling==
+Some simplified algebraic models can be used for the case where the black-holes are far apart, and can be applicable for the inspiral stage.
+ 
+Numerical relativity models space-time and simulates it change over time.   In these calculations it is important to have enough fine detail close into the black holes, and yet have enough volume to determine the gravitation radiation that propagates to infinity.  In order to make this have few enough points to be tractable to calculation in a reasonable time, special coordinate systems can be used such as Boyer-Lindquist coordinates or fish-eye coordinates. A helical Killing vector is a spinning vector.  It can determine a spinning coordinate system which rotates with the orbiting objects, greatly reducing the rate of change due to fast moving orbital motion.
+
+Post Newtonian approximations approximate the general relativity field equations at a higher polynomial order than Newton's theory of gravitation.  Orders used in these calculations may be termed 2PN (second order post Newtonian)  2.5PN or 3PN (third order post Newtonian).
+
+Effective One Body (EOB) treats the binary black hole system as if it was one object.  This is useful where mass ratios are large, such as a stellar mass black hole merging with a galactic core black hole.  In this a test object is orbiting a deformed black hole.
+
+A perturbation method can use the simpler Kerr space-time formula and distort it with a smaller nearby black-hole's field.  The black hole perturbation BHP method is useful for a distorted black hole, such as occurs in the ringdown phase.  For the regions of space more remote from the two black holes a simplified more linear perturbation method can be used to model the propagation of gravitational radiation away.
+
+Full Numerical (FN) calculates each point numerically without assuming that the results would be the same as an approximate polynomial. The full simulation is required in the most distorted space-time in complex situations such as spinning black hole merger.
+
+In the full calculations of an entire merger, several of the above methods can be used together.  It is then important to fit the different pieces of the model that were worked out using different algorithms.  The Lazarus Project linked the parts on a spacelike hypersurface at the time of the merger.
+
+Results from the calculations can include the binding energy.  In a stable orbit the binding energy is a local minimum relative to parameter perturbation.  At the innermost stable circular orbit the local minimum becomes an inflection point.
+
+The gravitational waveform produced is important for observation prediction and confirmation. When inspiralling reaches the strong zone of the gravitational field, the waves scatter within the zone producing what is called the post Newtonian tail (PN tail).
+
+In the ringdown phase of a Kerr black-hole, frame-dragging produces a gravitation wave with the horizon frequency.  In contrast the Schwarzschild black-hole ringdown looks like the scattered wave from the late inspiral, but with no direct wave.
+
+The radiation reaction force can be calculated by Padé resummation of gravitational wave flux. A technique to establish the radiation is the Cauchy characteristic extraction technique CCE which gives a close estimate of the flux at infinity, without having to calculate at larger and larger finite distances.
+
+The final mass of the resultant black-hole depends on the definition of mass in general relativity.  The Bondi mass MB is calculated from the Bondi-Sach mass loss formula. dMB/dU = -f(U). With f(U) the gravitational wave flux at retarded time U. f is a surface integral of the News function at null infinity varied by solid angle.  The Arnowitt-Deser-Misner (ADM) energy or ADM mass is the mass as measured at infinite distance and includes all the gravitational radiation emitted. MADM = MB(U) + integral form negative infinity to U of F(V) dV.
+
+Angular momentum is also lost in the gravitational radiation.  This is primarily in the z axis of the initial orbit.  It is calculated by integrating the product of the multipolar metric waveform with the news function complement over retarded time.
+
+==Shape==
+One of the problems to solve is the shape or topology of the event horizon during a black-hole merger. In numerical models, test geodesics are inserted to see if they encounter an event horizon. As two black-holes approach each other, a duckbill shape protrudes from the two event horizons towards the other one.  This protrusion extends longer and narrower until it meets the protrusion from the other black-hole.   At this point in time the event horizon has a very narrow X-shape at the meeting point. The protrusions are drawn out into a thin thread.  The meeting point expands to a roughly cylindrical connection called a bridge.  Simulations as of 2011 had not produced any event horizons with toroidal topology, although others suggested that it would be possible, for example if several black-holes orbiting in the same circle coalesce.
+
+==Black hole merger recoil==
+An unexpected result can occur with binary black holes that merge in that the gravitational waves carry momentum and the merging black hole pair accelerates seemingly violating Newton's third law.  The center of gravity can add over 1000 km/s of kick velocity. The greatest kick velocities (approaching 5000  km/s) occur for equal-mass and equal-spin-magnitude black-hole binaries, when the spins directions are optimally oriented to be counter-aligned, parallel to the orbital plane  or nearly aligned with the orbital angular momentum.  This is enough to escape large galaxies.  With more likely orientations a smaller effect takes place, perhaps only a few hundred kilometers per second.  This sort of speed will eject merging binary black holes from globular clusters, thus preventing the formation of massive black holes in globular cluster cores.  In turn this reduces the chances of subsequent mergers, and thus the chance of detecting gravitational waves. For non spinning black holes a maximum recoil velocity of 175 km/s occurs for masses in the ratio of five to one.  When spins are aligned in the orbital plane a recoil of 1300 km/s is possible with two identical black holes.
+
+Parameters that may be of interest include the point at which the black holes merge, the mass ratio which produces maximum kick, and how much mass/energy is radiated via gravitational waves. In a head on collision this fraction is calculated at 0.002 or 0.2%.
+
+==References==
+
+==External links==
+*Binary Black Holes Orbit and Collide by djxatlanta

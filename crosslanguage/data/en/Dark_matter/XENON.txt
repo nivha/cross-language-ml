@@ -1,0 +1,80 @@
+The XENON dark matter search experiment aims to detect dark matter in the form of Weakly interacting massive particles (WIMPs) by looking for rare interactions via nuclear recoils in a liquid xenon target. The detector consists of a dual phase Time projection chamber (TPC). This phased project is operated at Gran Sasso underground laboratory in Italy. The collaboration is led by Elena Aprile, an astrophysics professor at Columbia University.
+
+== Detector Principle ==
+
+The XENON experiments operate a dual phase Time projection chamber (TPC), which utilizes a liquid xenon target with a gaseous phase on top.  Particle interactions in the liquid target produce scintillation and ionization.  The prompt scintillation light (S1) is detected by photomultiplier tubes (PMTs), while the ionization signal is drifted to the top of the liquid phase by an electric field.  The ionization is then extracted into the gas phase by a strong electric field, where it is accelerated to the point that it creates a proportional scintillation signal that is also collected by the PMTs (S2).  The time delay due to the uniform drift velocity and the hit pattern of the S2 signal allow for 3D position determination. The ratio of S2/S1 is different for electron recoils, typical of gamma and beta radiation, than for nuclear recoils produced by WIMPs or neutrons.  This is used as a discrimination parameter to suppress backgrounds from electron recoils by more than 99% at 50% nuclear recoil acceptance.
+
+== XENON10 ==
+
+A 15 kg liquid xenon detector was installed at Gran Sasso underground laboratory in Italy during March 2006, and searched for WIMP interactions until October 2007. No WIMP signatures were found, the limits on WIMP-nucleon cross sections extend down to below 10−43cm2 for a 30 GeV/c2 WIMP mass.
+
+== XENON100 ==
+
+The current phase, XENON100, contains 165 kg of liquid Xenon, with 62 kg in the target region and the remaining xenon in an active veto. The detector was installed at the Gran Sasso Laboratory in 2008, and has conducted several science runs. In each science run, no dark matter signal was observed above the expected background, leading to the most stringent limit on the spin independent WIMP-nucleon cross section with a minimum at 2.0 &times; 10−45cm2 for a 65 GeV/c2 WIMP mass.   These results constrain interpretations of signals in other experiments as dark matter interactions, and rule out exotic models such as inelastic dark matter, which would resolve this discrepancy.
+
+XENON100 currently operates the lowest background experiment, for dark matter searches, with a background of 50 mdru (1 mdru = 10−3 events/kg/day/keV).
+
+== XENON1T ==
+
+The collaboration is currently designing the next phase, XENON1T, whose fiducial volume will contain 1 ton of ultra radio-pure liquid Xenon.  This experiment will also be conducted at the Gran Sasso Laboratory, with construction to begin in 2013.  The detector will be housed in a 10 m water tank that will serve as a muon veto. The predicted sensitivity at 50 GeV/C2 is 2.0 x 10−47cm2. This is 100x lower than the current limit published for XENON100.
+
+== Collaborating institutions ==
+
+=== XENON1T ===
+
+Gran Sasso National Laboratory (Italy),
+Johannes Gutenberg University, Mainz (Germany),
+Columbia University (USA),
+Max-Planck-Institut fur Kernphysik (Germany),
+Rice University (USA),
+SUBATECH, Universite de Nantes (France),
+University of Bologna and INFN-Bologna (Italy),
+University of California - Los Angeles (USA),
+University of Coimbra (Portugal),
+University of Munster (Germany),
+University of Zurich (Switzerland),
+NIKHEF (Netherlands),
+Weizmann Institute of Science (Israel),
+Purdue University (USA),
+University of Bern (Switzerland)
+
+=== XENON100 ===
+
+Columbia University (USA),
+Johannes Gutenberg University, Mainz (Germany),
+Gran Sasso National Laboratory (Italy),
+Max-Planck-Institut fur Kernphysik (Germany),
+Rice University (USA),
+SUBATECH, Universite de Nantes (France),
+University of Bologna and INFN-Bologna (Italy),
+University of California - Los Angeles (USA),
+University of Coimbra (Portugal),
+University of Munster (Germany),
+University of Zurich (Switzerland),
+NIKHEF (Netherlands),
+Weizmann Institute of Science (Israel),
+Purdue University (USA),
+University of Bern (Switzerland),
+Shanghai Jiao Tong University (China)
+
+=== XENON10 ===
+Brown (USA), 
+Case Western Reserve (USA),
+Columbia University (USA),
+Gran Sasso National Laboratory (Italy),
+Lawrence Livermore National Laboratory (USA), 
+Rice University (USA),
+University of Coimbra (Portugal), 
+University of Zurich (Switzerland),
+Yale (USA)
+
+==References==
+
+==External links==
+*Enlightening the dark, CERN Courier, Sep 27, 2013 
+*XENON home page at Columbia University
+*XENON home page at the University of Zurich
+*XENON home page at Rice University
+*XENON home page at Brown University
+*XENON home page at University of California, Los Angeles
+*Dark matter limit plotter with the latest results from XENON and other experiments

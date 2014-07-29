@@ -1,0 +1,9 @@
+In black hole physics and inflationary cosmology, the trans-Planckian problem refers to the appearance of quantities beyond the Planck scale, which raise doubts on the physical validity of some results in these two areas, since one expects the physical laws to suffer radical modifications beyond the Planck scale.
+
+In black hole physics, the original derivation of Hawking radiation involved field modes that, near the black hole horizon, have arbitrarily high frequencies—in particular, higher than the inverse Planck time, although these do not appear in the final results. A number of different alternative derivations have been proposed in order to overcome this problem.
+
+The trans-Planckian problem can be conveniently considered in the framework of sonic black holes, condensed matter systems which can be described in a similar way as real black holes. In these systems, the analogue of the Planck scale is the interatomic scale, where the continuum description loses its validity. One can study whether in these systems the analogous process to Hawking radiation still occurs despite the short-scale cutoff represented by the interatomic distance.
+
+The trans-Planckian problem also appears in inflationary cosmology. The cosmological scales that we nowadays observe correspond to length scales smaller than the Planck length at the onset of inflation.
+
+==Notes==

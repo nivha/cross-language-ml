@@ -1,0 +1,38 @@
+In physics, mirror matter, also called shadow matter or Alice matter, is a hypothetical counterpart to ordinary matter.
+
+Modern physics deals with three basic types of spatial symmetry: reflection, rotation and translation. The known elementary particles respect rotation and translation symmetry but do not respect mirror reflection symmetry (also called P-symmetry or parity). Of the four fundamental interactions—electromagnetism, the strong interaction, the weak interaction, and gravity—only the weak interaction breaks parity.
+
+Parity violation in weak interactions was first postulated by Tsung Dao Lee and Chen Ning Yang in 1956 as a solution to the τ-θ puzzle. They suggested a number of experiments to test if the weak interaction is invariant under parity. These experiments were performed half a year later and they confirmed that the weak interactions of the known particles violate parity.J. J. Friedman and V. L. Telegdi, Nuclear emulsion evidence for parity nonconservation in the decay chain \pi^{+}\rightarrow\mu^{+}\rightarrow e^{+}, Phys. Rev. 105, 1681 (1957).
+
+However parity symmetry can be restored as a fundamental symmetry of nature if the particle content is enlarged so that every particle has a mirror partner. The theory in its modern form was written down in 1991, although the basic idea dates back further. Mirror particles interact amongst themselves in the same way as ordinary particles, except where ordinary particles have left-handed interactions, mirror particles have right-handed interactions. In this way, it turns out that mirror reflection symmetry can exist as an exact symmetry of nature, provided that a "mirror" particle exists for every ordinary particle. Parity can also be spontaneously broken depending on the Higgs potential. While in the case of unbroken parity symmetry the masses of particles are the same as their mirror partners, in case of broken parity symmetry the mirror partners are lighter or heavier.
+
+Mirror matter, if it exists, would have to be very weakly interacting with ordinary matter. This is because the forces between mirror particles are mediated by mirror bosons. With the exception of the graviton, none of the known bosons can be identical to their mirror partners. The only way mirror matter can interact with ordinary matter via forces other than gravity is via so-called kinetic mixing of mirror bosons with ordinary bosons or via the exchange of Holdom particles. These interactions can only be very weak. Mirror particles have therefore been suggested as candidates for the inferred dark matter in the universe.
+
+In another context, mirror matter has been proposed to give rise to an effective Higgs mechanism responsible for the electroweak symmetry breaking. In such a scenario, mirror fermions have masses on the order of 1 TeV since they interact with an additional interaction, while some of the mirror bosons are identical to the ordinary gauge bosons. In order to emphasize the distinction of this model from the ones above, these mirror particles are usually called katoptrons.
+
+==Observational effects of mirror matter==
+If mirror matter is present in the universe with sufficient abundance then its gravitational effects can be detected. Because mirror matter is analogous to ordinary matter, it is then to be expected that a fraction of the mirror matter exists in the form of mirror galaxies, mirror stars, mirror planets etc. These objects can be detected using gravitational microlensing. One would also expect that some fraction of stars have mirror objects as their companion. In such cases one should be able to detect periodic Doppler shifts in the spectrum of the star. There are some hints that such effects may already have been observed.
+
+What if mirror matter does exist but has almost zero abundance? Like magnetic monopoles, mirror matter could have been diluted to unobservably low densities during the inflation epoch. Sheldon Glashow has shown that if at some high energy scale particles exist which interact strongly with both ordinary and mirror particles, radiative corrections will lead to a mixing between photons and mirror photons. This mixing has the effect of giving mirror electric charges a very small ordinary electric charge. Another effect of photon-mirror photon mixing is that it induces oscillations between positronium and mirror positronium. Positronium could then turn into mirror positronium and then decay into mirror photons.
+
+The mixing between photons and mirror photons could be present in tree level Feynman diagrams or arise as a consequence of quantum corrections due to the presence of particles that carry both ordinary and mirror charges. In the latter case, the quantum corrections have to vanish at the one and two loop level Feynman diagrams, otherwise the predicted value of the kinetic mixing parameter would be larger than experimentally allowed.
+
+An experiment to measure this effect is currently being planned.
+
+If mirror matter does exist in large abundances in the universe and if it interacts with ordinary matter via photon-mirror photon mixing, then this could be detected in dark matter direct detection experiments such as DAMA/NaI and its successor DAMA/LIBRA. In fact, it is one of the few dark matter candidates which can explain the positive DAMA/NaI dark matter signal whilst still being consistent with the null results of other dark matter experiments.
+
+Mirror matter may also be detected in electromagnetic field penetration experiments and there would also be consequences for planetary science and astrophysics.
+
+Mirror matter could also be responsible for the GZK puzzle. Topological defects in the mirror sector could produce mirror neutrinos which can oscillate to ordinary neutrinos. Another possible way to evade the GZK bound is via neutron–mirror neutron oscillations.
+
+==Alternate terminology==
+The phrase "mirror matter" was also introduced by physicist and author Dr. Robert L. Forward as an alternative term for what is commonly called antimatter, in an attempt to emphasize that antimatter is identical to ordinary matter, except reversed in all possible ways (i.e., CPT). (Forward was apparently not aware of the use of the word "mirror particles" by Russian physicists to mean parity reversed matter that does not interact strongly with "ordinary" matter). This is elucidated in his book Mirror Matter: Pioneering Antimatter Physics (1988), and his editing the small review journal Mirror Matter Newsletter (1986–1990). However, this use of the term "mirror matter" for antimatter was never widely picked up by others and is not currently in common use.
+
+==References==
+
+==External links==
+* A collection of scientific articles on various aspects of mirror matter theory
+* Mirror matter article on h2g2
+* 
+* 
+*

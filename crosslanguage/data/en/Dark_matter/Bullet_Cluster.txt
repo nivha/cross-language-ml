@@ -1,0 +1,44 @@
+The Bullet Cluster (1E 0657-558) consists of two colliding clusters of galaxies. Strictly speaking, the name Bullet Cluster refers to the smaller subcluster, moving away from the larger one. It is at a co-moving radial distance of .
+
+Gravitational lensing studies of the Bullet Cluster are claimed to provide the best evidence to date for the existence of dark matter. At a statistical significance of 8σ, it was found that the spatial offset of the center of the total mass from the center of the baryonic mass peaks cannot be explained with an alteration of the gravitational force law. However, this interpretation of the gravitational lensing results is disputed, see below. Observations of other galaxy cluster collisions, such as MACS J0025.4-1222, also show significant displacement between their center of visible matter and their gravitational potential.
+
+== Overview ==
+The major components of the cluster pair—stars, gas and the putative dark matter—behave differently during collision, allowing them to be studied separately.  The stars of the galaxies, observable in visible light, were not greatly affected by the collision, and most passed right through, gravitationally slowed but not otherwise altered.  The hot gas of the two colliding components, seen in X-rays, represents most of the mass of the ordinary (baryonic) matter in the cluster pair. The gases interact electromagnetically, causing the gases of both clusters to slow much more than the stars. The third component, the dark matter, was detected indirectly by the gravitational lensing of background objects.  In theories without dark matter, such as Modified Newtonian Dynamics (MOND), the lensing would be expected to follow the baryonic matter; i.e. the X-ray gas.  However, the lensing is strongest in two separated regions near (possibly coincident with) the visible galaxies.  This provides support for the idea that most of the mass in the cluster pair is in the form of collisionless dark matter.
+
+The Bullet Cluster is one of the hottest known clusters of galaxies. It provides an observable constraint for cosmological models, which may diverge at temperatures beyond their predicted critical cluster temperature. Observed from Earth, the subcluster passed through the cluster center 150 million years ago creating a "bow-shaped shock wave located near the right side of the cluster" formed as "70 million degree Celsius gas in the sub-cluster plowed through 100 million degree Celsius gas in the main cluster at a speed of about 6 million miles per hour". This energy output is equivalent to that of 10 typical quasars.
+
+== Significance to dark matter ==
+The Bullet Cluster provides the best current evidence for the nature of dark matter and provides "evidence against some of the more popular versions of Modified Newtonian Dynamics (MOND)" as applied to large galactic clusters.
+
+"Particularly compelling results were inferred from the Chandra observations of the 'bullet cluster' (1E0657-56; Fig. 2) by Markevitch et al. (2004) and Clowe et al. (2004). Those authors report that the cluster is undergoing a high-velocity (around 4500 km/s) merger, evident from the spatial distribution of the hot, X-ray emitting gas, but this gas lags behind the subcluster galaxies. Furthermore, the dark matter clump, revealed by the weak-lensing map, is coincident with the collisionless galaxies, but lies ahead of the collisional gas. This—and other similar observations—allow good limits on the cross-section of the self-interaction of dark matter."
+
+"The velocity of the bullet subcluster is not exceptionally high for a cluster substructure, and can be accommodated within the currently favoured Lambda-CDM model cosmology."
+
+However, a more recent 2010 study has concluded that the velocities of the collision as currently measured are "incompatible with the prediction of a LCDM model".
+
+In an independent confirmation of results from the Bullet Cluster, more recent observations of the cluster MACS J0025.4-1222 indicate that a titanic collision has separated the dark from ordinary matter.
+
+However, while the Bullet Cluster phenomenon may provide direct evidence for dark matter on large cluster scales, it offers no specific insight into the original galaxy rotation problem.  In fact, the observed ratio of dark matter to visible matter in a typical rich galaxy cluster is much lower than predicted.  This may indicate that the prevailing cosmological model is insufficient to describe the mass discrepancy on galaxy scales, or that its predictions about the shape of the universe are incorrect.
+
+== Alternative interpretations ==
+Mordehai Milgrom, the original proposer of MOND (Modified Newtonian Dynamics), has posted on-line a refutation of claims that the Bullet Cluster proves the existence of dark matter. Milgrom claims that MOND correctly accounts for the dynamics of galaxies outside of galaxy clusters, and even in clusters such as the Bullet Cluster it removes the need for most dark matter, leaving only a factor of two which Milgrom expects to be simply unseen ordinary matter (non-luminous baryonic matter) rather than cold dark matter. Without MOND, or some similar theory, the matter discrepancy in galaxy clusters is a factor of 10, i.e. MOND reduces this discrepancy five-fold to a factor of 2. Another study in 2006 cautions against "simple interpretations of the analysis of weak lensing in the bullet cluster", leaving it open that even in the non-symmetrical case of the Bullet Cluster, MOND, or rather its relativistic version TeVeS (Tensor–vector–scalar gravity), could account for the observed gravitational lensing.
+
+==See also==
+* Abell 520 - a similar galaxy cluster whose dark and luminous matter have been separated during a major collision
+* List of Galaxy Clusters
+
+== References ==
+
+==Further reading==
+
+* arXiv: A direct empirical proof of the existence of dark matter
+* arXiv: Strong and weak lensing united III: Measuring the mass distribution of the merging galaxy cluster 1E0657-56 (Marusa Bradac) Fri, 18 Aug 2006 20:06:48 GMT
+* arXiv: Can MOND take a bullet? Analytical comparisons of three versions of MOND beyond spherical symmetry
+* arXiv: On the Law of Gravity, the Mass of Neutrinos, and the Proof of Dark Matter
+* arXiv: The Bullet Cluster 1E0657-558 evidence shows Modified Gravity in the absence of Dark Matter Brownstein and Moffat
+* CXO: Bedeviling Devil's Advocate Cosmology (The Chandra Chronicles) August 21, 2006
+* CXO: 1E 0657-56: NASA Finds Direct Proof of Dark Matter
+* Harvard animation of the collision showing how the dark matter and normal matter become separated.
+* Harvard Harvard Symposium: Markevitch PDF 36 color images and text pages proving the existence of Dark Matter from Bullet cluster data
+* NASA: NASA Finds Direct Proof of Dark Matter (NASA Press Release 06-096) Aug. 21, 2006
+* Scientific American Scientific American article SCIENCE NEWS August 22, 2006 Colliding Clusters Shed Light on Dark Matter that includes a movie of a simulation of the collision

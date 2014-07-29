@@ -1,0 +1,28 @@
+{{infobox nebula
+|image= Smith's_Cloud_-_2008_-_Bill_Saxton,_NRAO,_AUI,_NSF.jpg
+|caption= An image of Smith's Cloud, taken in 2008 by the Green Bank Telescope
+|name= Smith's Cloud
+|type= High-velocity cloud
+|epoch= J2000.0 
+|ra=  
+|dec=  
+|appdia= 11&deg;
+|dimensions= 
+|names= Smith Cloud, WV 360, HVC 040-15
+}}
+Smith's Cloud is a high-velocity cloud of hydrogen gas located in the constellation Aquila at Galactic coordinates l = 39°, b = −13°. The cloud was discovered in 1963 by Gail Bieger, née Smith, who was an astronomy student at Leiden University in the Netherlands.
+
+==Properties==
+Using the National Science Foundation's Robert C. Byrd Green Bank Telescope, radio astronomers have found that Smith's cloud has a mass of at least one million solar masses and measures  long by  wide in projection. The cloud is between  and  from Earth and has an angular diameter of 10 to 12 degrees, approximately as wide as the Orion constellation, or about 20 times the diameter of the full moon, although the cloud is not visible to the naked eye.
+
+The cloud is apparently moving towards the disk of the Milky Way at 73 ± 26 kilometers per second. Smith's Cloud is expected to merge with the Milky Way in 27 million years at a point in the Perseus arm. Astronomers believe it will strike the Milky Way disk at a 45° angle, and its impact may produce a burst of star formation or a supershell of neutral hydrogen.
+
+Projecting the cloud's trajectory backwards through time, it is estimated that it had passed through the disk of the Milky Way some 70 million years ago. To have survived this previous encounter, astronomers have suggested that it is embedded inside a massive dark matter halo. The fact that it survived this previous encounter means that it is likely to be much more massive than previously thought, and may be a candidate for being a dark galaxy. Thus it would be a failed dwarf galaxy, with the ingredients to form a stellar galaxy, but few if any detectable stars. The dark matter halo separates it from other high velocity clouds which are not so embedded. Most HVCs are of Galactic origin, while the halo indicates an extragalactic origin for Smith Cloud.
+
+== References ==
+
+== External links ==
+
+*National Radio Astronomy Observatory: Massive Gas Cloud Speeding Toward Collision With Milky Way
+*BBC: Huge gas cloud will hit Milky Way
+*Smith's Cloud

@@ -1,0 +1,23 @@
+Image:Abell S740.jpg|thumb|This image from NASA's Hubble Space Telescope shows the galaxy cluster Abell S0740 that is over 450 million light-years away in the direction of the constellation Centaurus.  The giant elliptical galaxy ESO 325-G004 looms large at the cluster's center. This BCG is as massive as 100 billion of our suns.
+
+A brightest cluster galaxy (BCG) is defined as the brightest galaxy in a cluster of galaxies.  BCGs include the most massive galaxies in the universe. They are generally elliptical galaxies which lie close to the geometric and kinematical center of their host galaxy cluster, hence at the bottom of the cluster potential well.  They are also generally coincident with the peak of the cluster X-ray emission.
+
+Formation scenarios for BCGs include:
+*Cooling flow—Star formation from the central cooling flow in high density cooling centers of X-ray cluster halos.
+The study of accretion populations in BCGs has cast doubt over this theory and astronomers have seen no evidence of cooling flows in radiative cooling clusters. The two remaining theories exhibit healthier prospects.
+*Galactic cannibalism—Galaxies sink to the center of the cluster due to dynamical friction and tidal stripping.
+*Galactic merger—Rapid galactic mergers between several galaxies take place during cluster collapse.
+
+It is possible to differentiate the cannibalism model from the merging model by considering the formation period of the BCGs. In the cannibalism model, there are numerous small galaxies present in the evolved cluster, whereas in the merging model, a hierarchical cosmological model is expected due to the collapse of clusters. It has been shown that the orbit decay of cluster galaxies is not effective enough to account for the growth of BCGs. 
+The merging model is now generally accepted as the most likely one, but recent observations are at odds with some of its predictions. For example, it has been found that the stellar mass of BCG's was assembled much earlier than the merging model predicts.
+
+BCGs are divided into various classes of galaxies: giant ellipticals (gE), D galaxies and cD galaxies. cD and D galaxies both exhibit an extended diffuse envelope surrounding an elliptical-like nucleus akin to regular elliptical galaxies. The light profiles of BCGs are often described by a Sersic surface brightness law, a double Sersic profile or a de Vaucouleurs law. The different parametrizations of the light profile of BCG's, as well as the faintness of the diffuse envelope lead to discrepancies in the reported values of the sizes of these objects.
+
+== References ==
+
+== See also ==
+* Fossil group
+
+lb:D-Galaxis
+no:CD-galakse
+sv:CD-galax

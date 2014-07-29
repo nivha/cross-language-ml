@@ -1,0 +1,26 @@
+The cuspy halo problem arises from cosmological simulations that seem to indicate cold dark matter (CDM) would form cuspy distributions &mdash; that is, increasing sharply to a high value at a central point &mdash; in the most dense areas of the universe. This would imply that the center of our galaxy, for example, should exhibit a higher dark-matter density than other areas. However, it seems rather that the centers of these galaxies likely have no cusp in the dark-matter distribution at all.
+
+This remains an intractable problem.  Speculation that the distribution of baryonic matter may somehow displace cold dark matter in the dense cores of spiral galaxies has not been substantiated by any plausible explanation or computer simulation.
+
+==Simulation Results==
+
+"The presence of a cusp in the centers of CDM halos is one of the earliest and strongest results derived from N-body cosmological simulations." Numerical simulations for CDM structure formation predict some structure properties that conflict with astronomical observations.
+
+==Observations==
+
+The discrepancies range from galaxies to clusters of galaxies. "The main one that has attracted a lot of attention is the cuspy halo problem, namely that CDM models predict halos that have a high density core or have an inner profile that is too steep compared to observations."
+
+==Potential Solutions==
+
+The conflict between numerical simulations and astronomical observations creates numerical constraints related to the core/cusp problem. Observational constraints on halo concentrations imply the existence of theoretical constraints on cosmological parameters. According to McGaugh, Barker, and de Blok, there might be 3 basic possibilities for interpreting the halo concentration limits stated by them or anyone else:
+#"CDM halos must have cusps, so the stated limits hold and provide new constraints on cosmological parameters."
+#"Something (e.g. feedback, modifications of the nature of dark matter) eliminates cusps and thus the constraints on cosmology."
+# "The picture of halo formations suggested by CDM simulations is wrong."
+
+One approach to solving the cusp-core problem in galactic halos is to consider models that modify the nature of dark matter; theorists have considered warm, fuzzy, self-interacting, and meta-cold dark matter, among other possibilities.
+
+==References==
+
+==See also==
+*Dwarf galaxy problem (also known as "the missing satellites problem")
+*List of unsolved problems in physics

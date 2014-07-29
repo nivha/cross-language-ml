@@ -1,0 +1,29 @@
+Image:Gcle.jpg|thumb|300px|Sagitario A* y dos ecos de luz de una explosión reciente
+
+Sagitario A* (abreviado como Sgr A*) es una fuente de radio muy compacta y brillante en el centro de la Vía Láctea que forma parte de una estructura mayor llamada Sagitario A.
+
+Se considera que Sagitario A* contiene un agujero negro supermasivo, al igual que sucede en los núcleos de la mayoría de galaxias de tipo espiral y elíptica. Observaciones de la órbita de la estrella S2 alrededor de Sgr A* indican la presencia de dicho agujero negro.
+
+== Historia ==
+
+Sgr A* fue descubierto entre los días 13 y 15 de febrero de 1974 por los astrónomos Bruce Balick y Robert Brown en el National Radio Astronomy Observatory, mediante el uso de la técnica interferometría. El nombre de Sgr A* fue acuñado por Brown para distinguir esta fuente compacta de los otros componentes del centro galáctico y para enfatizar su naturaleza excitada, estableciendo así una analogía con los estados excitados en los átomos, que se denotan con un asterisco (Fe*, He*, etc).
+
+En octubre de 2002, un equipo internacional liderado por Rainer Schödel del Instituto Max Planck para Física Extraterrestre informó de la observación del movimiento de la estrella S2 cercana a Sagitario A* durante un período de 10 años. De acuerdo con el análisis, los datos descartaron la posiblidad de que Sgr A* contuviera un cúmulo de objetos oscuros estelares o una masa de fermiones degenerados, fortaleciendo la evidencia de que se trataba de un agujero negro supermasivo. Las observaciones de S2 usaron interferometría de la región espectral del infrarrojo cercano (NIR) (K-band, i.e. 2.2 μm), a causa de la extinción interestelar reducida en esta banda. Se utilizaron máseres SiO para alinear las imágenes NIR con las observaciones de radio, como puede observarse en NIR y bandas de radio. El movimiento rápido de S2 (y otras estrellas cercanas) destaca frente a otras estrellas de movimiento lento a lo largo de la línea de visión de modo que esas podrían ser sustraídas de las imágenes. Las observaciones de VLBI de Sagitario A* podrían también alinearse centralmente con las imágenes, de modo que S2 pudiera verse orbitando alrededor de Sagitario A*. Examinando dicha órbita estimaron que la masa de Sagitario A* era de 3,7 ± 0,2 millones de veces la masa solar, confinada en un volumen con un radio no mayor de 17 horas-luz (120 UA).
+
+Observaciones posteriores mostraron que la masa de Sgr A* era aproximadamente 4.1 millones de veces la masa solar de volumen con un radio no mayor que 6.25 horas-luz (45 UA) o 6.700 millones de kilómetros. También determinaron que la distancia entre la Tierra y el centro de la galaxia (el centro rotacional de la Vía Láctea) era de 26.000 años luz o 8.0 ± 0.6 × 103 pársecs. Las ondas de radio e infrarrojo detectadas provienen del gas y polvo calentado a millones de grados en su caída hacia el agujero negro. Este último tan solo emite radiación de Hawking a una baja temperatura del orden de 10-14 K.
+
+En noviembre de 2004, un equipo de astrónomos reportaron el descubrimiento de un posible agujero negro intermedio, referido como GCIRS 13E, orbitando a tres años luz de Sgr A*.  Este agujero negro de 1.300 veces la masa solar está en un clúster compuesto por siete estrellas. Dicha observación apoya la idea de que los agujeros negros supermasivos crecen absorbiendo agujeros negros menores y estrellas.
+
+Tras monitorizar las órbitas estelares alrededor de Sgr A* durante 16 años, Gillessen et al. estimaron su masa en 4.31  ± 0.38 millones de veces la masa del Sol. Los resultados fueron anunciados en 2008 y publicados en The Astrophysical Journal en 2009.   Reinhard Genzel, director del proyecto, dijo que el estudio reflejaba "lo que es considerado hasta ahora la mejor evidencia empírica de que los agujeros negros supermasivos existen. Las órbitas estelares en el centro galáctico muestran que la concentración de masa central de 4 millones de masas solares debe ser un agujero negro, más allá de cualquier duda razonable".
+
+== Véase también ==
+* Sagitario A
+* Sagitario A Este
+* Sagitario A Oeste
+
+== Enlaces externos ==
+
+* The Galactic Center, Max Planck Institute (en inglés)
+* Saggitarius A East, Chandra X-Ray Observatory (en inglés)
+
+== Referencias ==

@@ -1,0 +1,18 @@
+A trapped null surface is a set of points defined in the context of general relativity as a closed surface on which outward-pointing light rays are actually converging (moving inwards).
+
+Trapped null surfaces are used in the definition of the apparent horizon which typically surrounds a black hole.
+
+==Definition==
+We take a (compact, orientable, spacelike) surface, and find its outward pointing normal vectors.  The basic picture to think of here is a ball with pins sticking out of it; the pins are the normal vectors.
+
+Now we look at light rays that are directed outward, along these normal vectors.  The rays will either be diverging (the usual case one would expect) or converging.  Intuitively, if the light rays are converging, this means that the light is moving backwards inside of the ball.  If all the rays around the entire surface are converging, we say that there is a trapped null surface.
+
+More formally, if every null congruence orthogonal to a spacelike two-surface has negative expansion, then such surface is said to be trapped. See also Raychaudhuri equation.
+
+==See also==
+*Apparent horizon
+*Null surface
+
+==References==
+*   This is the gold standard in black holes because of its place in history.  It is also quite thorough.
+*   This book is somewhat more up-to-date.

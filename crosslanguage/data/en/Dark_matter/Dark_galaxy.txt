@@ -1,0 +1,49 @@
+A dark galaxy is a hypothetical galaxy composed of dark matter. Dark galaxies receive their name because they have no detectable stars and are theoretically invisible. They are not able to generate stars because their density of gas is too low. Some scientists have theorized that dark galaxies were actually common in the early stages of the universe. Originally, these galaxies had trouble creating stars because of their density, but as time progressed galaxies began to create stars. An influential community of scientists conjecture the existence of dark galaxies to support theories based on other well-studied celestial bodies.
+There is experimental evidence to support the existence of dark galaxies, although scientists have no conclusive evidence and continue their research. Scientists have proposed a means to track down the dark dwarf galaxies that should be orbiting the Milky Way, saying they have now found evidence of one.
+
+==Observational evidence==
+Astronomers first suspected that there was an invisible dark galaxy upon observing galaxy NGC 4254. This unusual-looking galaxy appears to be one partner in a cosmic collision. The only evidence is the following: gas is being siphoned away into a tenuous stream, and one of its spiral arms is being stretched out. The other partner in this collision is nowhere to be seen. The researchers calculated that an object with a mass of 1011  made close passage with NGC 4254 within the last 100 million years creating the gas stream and tearing at one of its arms. This was the clue that an invisible dark matter galaxy might be nearby.
+
+==Nature of dark galaxy==
+===Origin===
+In 2000 astronomers found a gas cloud VIRGOHI21 and tried to find a theory of what it was and or why it could cause such a gravitational pull from NGC 4254 galaxy. After years of running out of other explanations some have concluded that VIRGOHI21 is a dark galaxy, due to the massive effect it had on NGC 4254.
+
+===Size===
+The actual size of a dark galaxy is unknown, because they cannot be spotted with a normal telescope. There have been various estimations of the size of dark galaxies. Two potential sizes could be either double the size of the Milky Way or the size of a small quasar.
+
+===Structure===
+Dark galaxies are composed of dark matter. Furthermore, dark galaxies are theoretically composed of hydrogen and dust.  Some scientists support the idea that dark galaxies may contain stars. Yet the exact composition of dark galaxies is unknown because there is no conclusive way to spot them so far. However, astronomers estimate that the mass of the gas in these galaxies is approximately 1 billion times that of the sun.
+
+===Methodology to observe dark bodies===
+Dark galaxies contain no visible stars, and are not visible using optical telescopes. The Arecibo Galaxy Environment Survey (AGES) is a current study using the Arecibo radio telescope to search for dark galaxies, which are predicted to contain detectable amounts of neutral hydrogen. The Arecibo radio telescope is useful where others are not because of its ability to detect the emission from this neutral hydrogen, specifically the 21 cm line.
+
+===Alternative theories===
+Scientists do not have much explanation for some astronomic events, so some use the idea of a dark galaxy to explain these events. Little is known about dark galaxies, and some scientists believe dark galaxy is actually a newly forming galaxy. One such candidate is in the Virgo cluster. This candidate contains very few stars. Scientists classify this galaxy as a newly forming galaxy, rather than a dark galaxy. Recently, scientists have made some interesting discoveries.
+Scientists say that the galaxies we see today only began to create stars after dark galaxies. Based on numerous scientific assertions, dark galaxies played a big role in many of the galaxies astronomers and scientists see today. Martin Haehnel, from Kavli Institute for Cosmology at the University of Cambridge, claims that the precursor to the Milky Way galaxy was actually a much smaller bright galaxy that had merged with dark galaxies nearby to form the Milky Way we currently see. Multiple scientists agree that dark galaxies are building blocks of modern galaxies. Sebastian Cantalupo of the University of California, Santa Cruz, agrees with this theory. He goes on to say, "In our current theory of galaxy formation, we believe that big galaxies form from the merger of smaller galaxies. Dark galaxies bring to big galaxies a lot of gas, which then accelerates star formation in the bigger galaxies." Scientists have specific techniques they use to locate these dark galaxies. These techniques have the capability of teaching us more about other special events that occur in the universe; for instance, the “cosmic web”. This “web” is made of invisible filaments of gas and dark matter believed to permeate the universe, as well as “feeding and building galaxies and galaxy clusters where the filaments intersect.”
+
+==Potential dark galaxies==
+
+===HE0450-2958===
+
+HE0450-2958 is an unusual quasar (a star like object that may send out radio waves and other forms of energy). This one in particular has many large red shifts. HE0450-2958 has no visible host galaxy (a galaxy surrounding the quasar) detected around it. It has been suggested that this may be a dark galaxy in which a quasar has become active. However subsequent observations revealed that a normal host galaxy is probably present.
+
+===HVC 127-41-330===
+
+HVC 127-41-330 is a cloud rotating at high speed between the Andromeda and the Triangulum Galaxy. Astronomer Josh Simon considers this cloud to be a dark galaxy because of the speed of its rotation and its predicted mass.
+
+===VIRGOHI21===
+
+The discovery of VIRGOHI21 was announced in February 2005, and it was the first good candidate to be a true dark galaxy. It was found when AGES was looking for the 21 cm-wavelength radio waves emitted by hydrogen (H). Its dynamics are apparently inconsistent with the predictions of the Modified Newtonian Dynamics (MOND) theory. Some researchers have since discounted the possibility of VIRGOHI21 being a dark galaxy and believe it is more likely a "tidal tail" of nearby galaxy NGC 4254, which is experiencing gravitational perturbations as it enters the Virgo cluster.
+
+==See also==
+
+* Low surface brightness galaxy
+* Dwarf spheroidal galaxy
+* Dark matter halo
+* Dark matter
+* Smith's cloud
+
+==References==
+
+==External links==
+* Universe Today, Some Galaxies Are Made Almost Entirely of Dark Matter

@@ -1,0 +1,47 @@
+The Axion Dark Matter Experiment (ADMX, also written as Axion Dark Matter eXperiment in the project's documentation) uses a resonant microwave cavity within in a large superconducting magnet to search for cold dark matter axions in the local galactic dark matter halo. Sited at the Center for Experimental Physics and Astrophysics (CENPA) at the University of Washington, ADMX is a large collaborative effort with researchers from universities and laboratories around the world.
+
+==Background==
+
+The axion is a hypothetical elementary particle originally postulated to solve the strong CP problem. The axion is also an extremely attractive dark matter candidate. The axion is the puzzle piece allowing these two mysteries to fit naturally into our understanding of the universe.
+
+===Strong CP problem===
+
+The axion was originally postuated to exist as part of the solution to the "strong CP problem". This problem arose from the observation that the strong force holding nuclei together and the weak force making nuclei decay differ in the amount of CP violation in their interactions. Weak interaction was expected to feed into the strong interactions (QCD), yielding appreciable QCD CP violation, but no such violation has been observed to very high accuracy. One solution to this Strong CP Problem ends up introducing a new particle called the axion. If the axion is very light, it interacts so weakly that it would be nearly impossible to detect but would be an ideal dark matter candidate. The ADMX experiment aims to detect this extraordinarily weakly coupled particle.
+
+===Dark matter===
+
+Although dark matter can't be seen directly, its gravitational interactions with familiar matter leave unmistakable evidence for its existence. The universe we see today simply wouldn't look the way it does without dark matter. Approximately five times more abundant than ordinary matter, the nature of dark-matter remains one of the biggest mysteries in physics today. In addition to solving the strong CP problem, the axion could provide an answer to the question "what is dark matter made of?" The axion is a neutral particle that is extraordinarily weakly interacting and could be produced in the right amount to constitute dark matter. If the dark-matter accounting for the bulk of all matter in our universe is axions, there is only one experiment in the world that is sensitive enough to discover it; that experiment is ADMX.
+
+==History==
+Pierre Sikivie invented the axion haloscope in 1983.  After smaller scale experiments at the University of Florida demonstrated the practicality of the axion haloscope, ADMX was constructed at Lawrence Livermore National Laboratory in 1995. In 2010 ADMX moved to the Center for Experimental Physics and Astrophysics (CENPA) at the University of Washington. Led by professor Leslie Rosenberg, ADMX is undergoing an upgrade that will allow it to be sensitive to a broad range of plausible dark-matter axion masses and couplings.
+
+==Experiment==
+
+The experiment (written as "eXperiment" in the project's documentation) detects the very weak conversion of dark matter axions into microwave photons. Axion conversion into photons is stimulated by an apparatus consisting of an 8 tesla magnet and a cryogenically cooled high-Q tunable microwave cavity (shown at the upper right). When the cavity's resonant frequency is tuned to the axion mass, the interaction between nearby axions in the Milky Way halo and ADMX's magnetic field is enhanced. This results in the deposit of a very tiny amount of power (less than a yoctowatt) into the cavity.
+
+An extraordinarily sensitive microwave receiver allows the very weak axion signal to be extracted from the noise. The experiment receiver features quantum-limited noise performance delivered by an exotic Superconducting QUantum Interference Device (SQUID) amplifier and lower temperatures from a 3He refrigerator. ADMX is the first experiment sensitive to realistic dark-matter axion masses and couplings and the improved detector allows an even more sensitive search.
+
+===Cavity===
+
+The microwave cavity within the magnet bore is at the heart of ADMX. It is a circular cylinder, 1 meter long and 0.5 meter diameter. ADMX searches for axions by slowly scanning the cavity resonant frequency by adjusting positions of two tuning rods within the cavity. A signal appears when the cavity resonant frequency matches the axion mass.
+
+The expected signal from axion decay is so small that the entire experiment is cooled to well below 4.2 kelvin with a liquid helium refrigerator to minimize thermal noise. The electric field within the cavity is sampled by a tiny antenna connected to an ultra-low-noise microwave receiver.
+
+===Receiver===
+
+The ultra-low noise microwave receiver makes the experiment possible. The dominant background is thermal noise arising from the cavity and the receiver electronics. Signals from the cavity are amplified by an exotic cryogenic Superconducting QUantum Interference Device (SQUID) amplifier followed by ultralow noise cryogenic HFET amplifiers. The receiver then downconverts mirowave cavity frequencies to a lower frequency that can be easily digitized and saved. The receiver chain is sensitive to powers smaller than 0.01 yoctowatts; this is the world's lowest-noise microwave receiver in a production environment.
+
+==Progress==
+ADMX has already eliminated the one of the two axion benchmark models from 1.9 μeV to 3.53 μeV, assuming axions saturate the Milky Way's halo.  ADMX hopes to exclude or discover 2 μeV to 20 μeV dark matter axions within the next 10 years. ADMX is undergoing an upgrade to the "Definitive Experiment"; this is sensitive to a very broad range of plausible dark-matter axion masses and couplings. Greater sensitivity will be possible with the upgrade to SQUID amplifiers and the addition of a dilution refrigerator.
+
+===SQUID amplifiers===
+Several years ago, the ADMX amplifier noise was around 2K. Recently the amplifiers were replaced by SQUID amplifiers, which greatly lowered the noise and vastly improved sensitivity. ADMX has demonstrated that the SQUID amplifier allows for quantum-limited-power sensitivity.
+
+===Dilution refrigerator===
+
+The addition of a dilution refrigerator is the main focus of the ADMX upgrade program. The dilution refrigerator allows cooling the apparatus down to 100mK or less which makes data taking 400 times faster. This makes it the "Definitive Experiment".
+
+==References==
+
+==External links==
+*ADMX web site

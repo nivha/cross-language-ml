@@ -1,0 +1,11 @@
+thumb|230px|La ergosfera sería la región donde podría producirse el proceso Penrose.
+El proceso Penrose (también llamado mecanismo de Penrose) es un proceso teorizado por Roger Penrose por el cual se puede extraer energía de un agujero negro en rotación. Esta extracción se hace posible debido a que la energía rotacional de un agujero negro no está localizada dentro del horizonte de sucesos, sino que se encuentra en una región exterior que rodea al agujero llamada ergosfera. En esta región una partícula es necesariamente propulsada por concurrencia locomotriz con el espacio-tiempo rotativo. Todos los objetos en la ergosfera se ven arrastrados por un espacio-tiempo rotacional. En este proceso, si un objeto material entra en la ergosfera de un agujero negro se divide en dos. El momento de ambas piezas de materias puede resultar tal, que una parte escape hacia el infinito, y otra parte caiga a través del horizonte de sucesos hacia el agujero. La pieza que escapa puede posiblemente tener mayor cantidad de materia-energía que la pieza original que entró en la ergosfera, por lo que el balance energético es negativo. En resumen, el proceso resulta en una disminución del momento angular del agujero negro, y por tanto en una reducción correspondiente a una transferencia de energía donde la perdida de momento se convierte en energía extraída.
+
+El proceso obedece a las leyes termodinámicas de los agujeros negros. Una consecuencia de estas leyes es que si el proceso se repite continuamente, el agujero negro podría finalmente perder su momento angular y convertirse en un agujero negro no rotativo. Demetrios Christodoulou calculó un límite superior para la cantidad total de energía que podía ser extraída mediante el proceso de Penrose.
+
+== Detalles de la ergosfera ==
+
+==Referencias==
+* Misner, Thorne, and Wheeler, Gravitation, Freeman and Company, 1973.
+
+* Energetics of the Kerr-Newman Black Hole by the Penrose Process; Manjiri Bhat, Sanjeev Dhurandhar & Naresh Dadhich; J. Astrophys. Astr. (1985) 6, 85 –100 - www.ias.ac.in

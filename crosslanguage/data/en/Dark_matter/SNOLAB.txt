@@ -1,0 +1,41 @@
+SNOLAB is a Canadian underground physics laboratory at a depth of 2 km in Sudbury, Ontario in Vale's Creighton nickel mine.  The original Sudbury Neutrino Observatory (SNO) experiment has ended, but the facilities have been expanded into a permanent underground laboratory.
+
+SNOLAB is the world's second-deepest underground lab facility; the deeper Kolar Gold Fields experiments ended with the closing of the mine in 1992, and the planned DUSEL laboratory has been greatly scaled back after the National Science Foundation refused major funding.  In 2010, it was surpassed by the China Jinping Underground Laboratory, which achieves a muon flux of less than 0.2 μ/m²/day, compared with SNOLAB's 0.27 μ/m²/day.
+
+Although accessed through a mine, the laboratory proper is maintained as a class-2000 cleanroom, with very low levels of dust and background radiation.  The 6800 ft (2070 m) overburden of rock provides 6010 metres of water equivalent (MWE) shielding from cosmic rays, providing a low-background environment for experiments requiring high sensitivities and extremely low counting rates.
+
+== History ==
+
+A large deep cavity was originally constructed for the SNO experiment, but other groups were interested in conducting experiments in the very deep location. In 2002 funding was approved by the Canada Foundation for Innovation to expand the SNO facilities into a general-purpose laboratory, and more funding was received in 2007 and 2008.
+
+Construction of the major laboratory space was completed in 2009, with the entire lab entering operation as a 'clean' space in March 2011.
+
+== Experiments ==
+It currently hosts five physics experiments:
+* The PICASSO dark matter search,
+* The DEAP-1 dark matter search.
+* The HALO (Helium and Lead Observatory) supernova neutrino detector.
+* The second-generation COUPP 60-kg bubble chamber dark matter search.
+* DAMIC (Dark Matter in CCDs) detector
+
+Three more experiments are currently under construction:
+* The SNO+ neutrino detector (using the original SNO experiment chamber),
+* The second-generation DEAP-3600 dark matter detector,
+* MiniCLEAN dark matter detector.
+
+Three experiments have completed and are no longer operating:
+* The original heavy water based Sudbury Neutrino Observatory experiment,
+* The POLARIS underground project at SNOLAB (PUPS), observing seismic signals at depth in very hard rock,
+* The first-generation COUPP 4-kg bubble chamber dark matter search. is no longer in operation.
+
+Additional planned experiments have requested laboratory space, notably the SuperCDMS and DarkSide dark matter detectors.  There are also plans for a third-generation COUPP-500 detector and the second-generation Enriched Xenon Observatory search for neutrinoless double beta decay.
+
+The total size of the SNOlab underground facilities, including utility spaces and personnel spaces, is:
+
+==References==
+
+==External links==
+* SNOLAB website
+* SNOLAB french presentations
+* 
+*

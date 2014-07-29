@@ -1,0 +1,9 @@
+En astrofísica se denominan MACHOs (de su acrónimo en inglés: Massive astrophysical compact halo object) u objeto astrofísico masivo de halo compacto a cualquiera de los tipos de cuerpos astronómicos que puedan utilizarse para explicar la presencia de materia oscura en los halos galácticos, es decir, es una forma general de llamar a objetos másivos difíciles de detectar.
+
+Un MACHO es un objeto pequeño de materia bariónica que se mueve por el espacio interestelar de manera aislada (no se encuentra asociado a ningún sistema solar) y que emite muy poca o ninguna radiación. El hecho de no emitir luz propia los hace muy difíciles de detectar. Mientras cumplan estas características dentro de la categoría de MACHOs pueden entrar diferentes tipos de objetos, desde agujeros negros o estrellas de neutrones a enanas marrones o planetas aislados, incluso se han propuesto como MACHOs enanas blancas y enanas rojas muy débiles.
+
+Es un tipo de materia oscura propuesta en la teoría del big bang que ayudaría a explicar el comportamiento gravitatorio de las galaxias, tanto a escala individual como en el interior de cúmulos.
+
+La principal forma de detección de MACHOs es mediante microlentes gravitacionales, es decir al captar variaciones aparentes en tamaños de objetos brillantes situados detrás, ya que la masa del MACHO desvía la trayectoria de la luz. Aunque según algunos autores en la via lactea podrían representar el 20% de toda la materia, las observaciones realizadas indican que este tipo de objetos no pueden explicar en su totalidad el problema cosmológico de la ausencia de materia.
+
+== Referencias ==

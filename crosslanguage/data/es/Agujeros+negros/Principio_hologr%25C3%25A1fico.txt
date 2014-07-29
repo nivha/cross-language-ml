@@ -1,0 +1,58 @@
+El principio holográfico es una conjetura especulativa acerca de las teorías de la gravedad cuántica propuesta en 1993 por Gerard 't Hooft, y mejorada y promovida por Leonard Susskind en 1995. Postula que toda la información contenida en cierto volumen de un espacio concreto se puede conocer a partir de la información codificable sobre la frontera de dicha región. Una importante consecuencia es que la cantidad máxima de información que puede contener una determinada región de espacio rodeada por una superficie diferenciable está limitada por el área total de dicha superficie.
+
+Por ejemplo, se pueden modelar todos los eventos que ocurran en un cuarto o habitación creando una teoría en la que sólo tome en cuenta lo que suceda en sus paredes. En el principio holográfico también se afirma que por cada cuatro unidades de Planck existe al menos un grado de libertad (o una unidad constante de Boltzmann k de máxima entropía). Esto se conoce como frontera Bekenstein:
+
+{{ecuación|S\le\frac{A}{4}||left}}
+
+donde S es la entropía y A es la unidad de mensura considerada. En unidades convencionales la fórmula anterior se escribe:
+
+{{ecuación|S\le \left( \frac{kc^3}{G\hbar} \right) \frac{A}{4} = k \frac{A}{4\ell_P^2}||left}}
+donde:
+* k\,, es la constante de Boltzmann.
+* c\,, es la velocidad de la luz.
+* G\,, es la constante de la gravitación universal.
+* \hbar\,, es la constante de Planck racionalizada.
+* \ell_P\,, es la longitud de Planck.
+
+== Relación entre el principio holográfico y la estructura del universo ==
+En un sentido más amplio y más especulativo, la teoría sugiere que el universo entero puede ser visto como una estructura de información de dos dimensiones "pintada" en el horizonte cosmológico, de tal manera que las tres dimensiones que observamos serían sólo una descripción eficaz a escalas macroscópicas y en bajas energías; por lo que entonces el universo sería en realidad un holograma. El principio holográfico no se ha hecho aún matemáticamente preciso, en parte debido a que el horizonte cosmológico tiene un área finita y crece con el tiempo.
+
+== Explicación ==
+Dada cualquier región compacta de espacio finita, por ejemplo una esfera, en su interior hay materia y energía. Si la energía sobrepasa una densidad crítica, la teoría de la relatividad general predice que dicha región colapsará en un agujero negro (u hoyo negro). Teóricamente, el agujero negro resultante posee entropía. Esto último se desprende de los trabajos de J. Bekenstein y S. Hawking en la década de 1970, que demostraron que dicha entropía es directamente proporcional al área de la superficie del horizonte de sucesos del agujero negro. Diversos argumentos físicos, permiten establecer que los agujeros negros son objetos de entropía máxima, así que la entropía contenida en determinada región del «espacio» no puede ser mayor que la entropía del agujero negro más grande que pueda caber en tal volumen. Este límite se conoce como frontera Bekenstein.
+
+El «horizonte de sucesos» de un agujero negro encierra un volumen. Obviamente, los horizontes de sucesos de agujeros negros de mayor masa son más grandes y encierran mayores volúmenes. El agujero negro de mayor masa que puede caber en una región dada es aquél cuyo horizonte de sucesos corresponda exactamente a la frontera de la región dada. Una mayor masa de un agujero implicará que dicho agujero tendrá mayor entropía. Por lo tanto, el límite máximo de la entropía de una región ordinaria del espacio es directamente proporcional al área superficial de ésta, no a su volumen. Pero este resultado es contraintuitivo, debido a que la entropía es una magnitud extensiva, por lo que se esperaría que fuera directamente proporcional a la masa, la cual es proporcional al volumen (con igualdad de todo lo demás, incluida la densidad de la masa).
+
+Si la entropía de una masa ordinaria (no sólo de agujeros negros) es también proporcional a su área superficial, implica que de algún modo el volumen en sí mismo sea ilusorio: que la masa ocupe área, no volumen, y que entonces el universo sea en realidad un holograma, el cual es isomórfico a la información inscrita en sus fronteras. El trabajo de Juan Maldacena sugirió que en cromodinámica cuántica hay sistemas reales que efectivamente satisfacen esta propiedad holográfica, lo cual es interpretada por Susskind y otros proponentes del principio holográfico como una evidencia en favor de que la gravedad cuántica podría presentar igualmente esa propiedad.
+
+== Límite de densidad informativa ==
+Considerada como información, en última instancia la entropía se puede cuantificar en bits o nats. Un nat corresponde a cerca de 1.44 bits, y a cuatro unidades de Planck [3]. La cantidad total de bits se relaciona con el total de grados de libertad de la materia/energía. Los bits mismos codificarían la información acerca de los estados que esté ocupando esa materia/energía.
+
+En un volumen dado hay un límite superior a la densidad de la información acerca del lugar de todas las partículas que compongan la materia en ese volumen. Sugiriendo que la materia en sí misma no se puede subdividir infinitas veces, debe haber un último nivel de partículas fundamentales. Es decir, siendo una partícula integrada por subpartículas, los grados de libertad de cada partícula serían producto de todos los grados de libertad de sus subpartículas.
+
+Si estas subpartículas también están divididas en subpartículas (infrapartículas), y así indefinidamente, los grados de libertad de la partícula original deberían ser infinitos, lo cual violaría el límite máximo de la densidad de entropía. El principio holográfico implica así que las subdivisiones deben detenerse en cierto nivel, y que la partícula fundamental es un bit (1  ó 0) de la información.
+
+La realización más rigurosa del principio holográfico (hasta el año 2009) es la correspondencia AdS/CFT de Juan Maldacena. Sin embargo, J. D. Brown y Marc Henneaux demostraron rigurosamente, ya en 1986, que la simetría asintótica de 2 + 1 g dimensiones da lugar a una álgebra de Virasoro, cuya correspondiente teoría cuántica es una teoría de «bidimensional conforme de campos».
+
+== Resumen ==
+Hay que entender el principio holográfico como un cubo, o bien como habitación, tal como se describe en la introducción. Si a un cubo se le  representa en un eje de coordenadas resultarían tres cuadrados. Cada partícula tiene carga eléctrica, momento angular, etcétera. Todo ello constituye valores matemáticos representables no en tres, sino en muchos más ejes. En eso consistiría la información de la citada partícula.
+
+También se entiende que cuando la densidad de tal información es enorme acaba siendo un agujero negro (información/partículas en demasía por el espacio definido): a más información más horizonte de sucesos, o límite exterior del hoyo negro. Como tal, la información se puede dividir en bits, y estos bits se plasman en una una unidad de Planck.
+
+== Véase también ==
+* Singularidad
+* Forma del universo
+* Fractal
+* Geometría sagrada
+* Universo holonómico
+* Mecánica cuántica
+* Realidad simulada
+
+== Referencias ==
+
+=== Bibliografía ===
+* Leonard Susskind: La guerra de los Agujeros negros. Una controversia científica sobre las leyes últimas de la naturaleza, ed. Crítica, 2009, ISBN 9788498920239.
+
+=== Enlaces externos ===
+* UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video
+* Scientific American article on holographic principle by Jacob Bekenstein
+* El Principio Holográfico y la Teoría M

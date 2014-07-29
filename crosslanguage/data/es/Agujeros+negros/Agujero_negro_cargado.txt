@@ -1,0 +1,24 @@
+Un agujero negro cargado es un agujero negro que posee carga eléctrica. Aunque la repulsión electromagnética en masas comprimidas y eléctricamente cargadas es dramáticamente mayor que atracción gravitacional (por cerca de 40 clases de magnitudes), no se espera que agujeros negros con una carga eléctrica tan significativa puedan ser formados en la naturaleza.
+
+Un agujero negro cargado es uno de los 3 posibles agujeros negros que podrían existir en la teoría de la gravedad llamada relatividad general. Los agujeros negros se caracterizan por 3 (y solo 3) cualidades, las que son:
+* Masa M (llamado un agujero negro de Schwarzschild si este no posee momento angular ni carga eléctrica),
+* Momento angular J (llamado un agujero negro de Kerr si este no tiene carga), y
+* Carga eléctrica Q (agujero negro cargado o agujero negro de Reissner-Nordström si el momento angular es cero, o un agujero negro de Kerr-Newman si tiene ambos momento angular y carga eléctrica).
+
+Un artículo especial, matemáticamente orientado, describe la métrica de Reissner-Nordstrom para un agujero negro cargado sin rotación.
+
+Las soluciones de la ecuación del campo de Einstein para el campo gravitacional de un punto de masa eléctricamente cargado (con momento angular igual a cero) en un espacio vacío fue obtenida en 1918 por Hans Reissner y Gunnar Nordstrom, no mucho tiempos después, Karl Schwarzschild encontró la métrica de Schwarzschild como solución para el punto de masa sin carga eléctrica ni momento angular.
+
+== Véase también ==
+* Agujero negro
+
+Clasificación por tipo:
+* Agujero negro de Schwarzschild
+* Agujero negro de Kerr
+* Agujero negro de Kerr-Newman y Reissner-Nordström o agujero negro cargado.
+Clasificación por masa:
+* Micro agujero negro, un agujero negro extra dimensional.
+* Agujero negro primordial, una sobra hipotética del Big Bang.
+* Agujero negro estelar, que podría ser tanto un agujero negro estático, como un agujero negro rotante.
+* Agujero negro de masa intermedia
+* Agujero negro supermasivo, que podría ser tanto un agujero negro estático, como un agujero negro rotante.

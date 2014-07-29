@@ -1,0 +1,20 @@
+Microlensing Observations in Astrophysics (MOA) is a collaborative project between researchers in New Zealand and Japan, led by Professor Yasushi Muraki of Nagoya University. They use microlensing to observe dark matter, extra-solar planets, and stellar atmospheres from the Southern Hemisphere. The group concentrates especially on the detection and observation of gravitational microlensing events of high magnification, of order 100 or more, as these provide the greatest sensitivity to extrasolar planets. They work with other groups in Australia, the United States and elsewhere. Observations are conducted at New Zealand's Mt. John University Observatory using a  reflector telescope built for the project.
+
+==MOA telescope mirror images==
+
+Image:MOA telescope underside of main mirror.jpg | Underside of main mirror
+Image:MOA telescope secondary.jpg | Camera assembly
+Image:MOA telescope mirror.jpg | Main mirror, side view
+
+==Planets discovered==
+The following planets have been announced by this survey, some in conjunction with other surveys.
+
+==See also==
+* Optical Gravitational Lensing Experiment or OGLE, a similar microlensing survey
+* List of extrasolar planets
+
+==References==
+
+==External links==
+*MOA website
+*MicroFUN - Microlensing Follow-Up Network

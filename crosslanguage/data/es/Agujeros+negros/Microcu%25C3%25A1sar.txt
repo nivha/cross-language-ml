@@ -1,0 +1,31 @@
+thumb|400px|Concepción artística del microcuásar SS 433.
+Un microcuásar o microquasar es un objeto galáctico que posee características similares a las observadas en los cuasares. Es decir, representa una réplica a pequeña escala de los últimos.
+
+== Características ==
+
+Sus características comunes con los cuásares son la emisión variable en radio, a veces en forma de jets bipolares (es decir, chorros de materia simétricos y opuestos) y un disco de acrecimiento alrededor de un objeto compacto, por lo general una estrella de neutrones o un agujero negro. En los cuásares, el agujero negro es supermasivo, lo que significa que tiene una masa de millones de masas solares. En cambio, en el caso de los microcuásares el objeto compacto tiene solamente unas pocas masas solares.
+
+Los microcuásares son en realidad una estrella binaria de Rayos X —una estrella normal muy masiva y un objeto compacto— que desde la Tierra se detecta también en radio. El sistema está ligado gravitacionalmente, orbitando un objeto alrededor del otro. Cuando ambas estrellas están suficientemente cerca entre sí se produce transferencia de materia de la estrella masiva hacia el objeto compacto, debido a la atracción gravitatoria. Parte de esta energía se libera en forma de haces de partículas que viajan a velocidades cercanas a la de la luz, produciendo espectaculares emisiones de radiación. En algunos, debido a un efecto óptico por la orientación del jet con respecto al observador, se observa un movimiento superlumínico, en el que la masa del jet aparenta moverse a una velocidad superior a la de la luz. El disco de acrecimiento es detectado con una luminosidad muy alta en luz visible y rayos X. La diferencia entre los discos de acrecimiento de estos objetos y de los cuásares está en que la masa acrecida procede de la estrella compañera, mientras que en el caso de los cuásares la masa procede de la galaxia que lo rodea.
+
+== Estudio de microcuásares ==
+
+Los microcuásares son muy importantes para el estudio de los jets relativistas. Los jets se forman cerca del agujero negro, y las escalas temporales, es decir, el tiempo en que ocurren procesos cerca del mismo son proporcionales a la masa del agujero. De esta manera, procesos que duran del orden de siglos en los cuásares tienen lugar en escalas de días para los microcuásares.
+
+Los microcuásares son también sospechosos de contribuir a la producción de rayos cósmicos cuyo origen, casi cien años después de su descubrimiento, sigue siendo un misterio.
+
+La revista Nature anunciaba en la portada el descubrimiento de los microcuásares (1992) y de la primera fuente superlumínica en la galaxia (1994). La revista Science publicaba en el mes de junio de 2006 que el candidato a microcuásar llamado LS I +61 303 fue observado por el telescopio MAGIC, revelando emisión de rayos gamma. Esta radiación presentaba una propiedad muy interesante: la intensidad de la emisión de rayos gamma de LS I +61 303 varía con el tiempo. Los microcuásares son considerados laboratorios galácticos que permiten contrastar aspectos de la teoría de la relatividad general y comprensión de la física en el limite de los campos gravitacionales más intensos.
+
+== Véase también ==
+* Agujero negro supermasivo
+* Blazar
+* Galaxia activa
+* Jet / Chorro de materia
+* Cuásar
+
+== Referencias ==
+
+== Enlaces externos ==
+
+* Microquasar, The Internet Encyclopedia of Science (en inglés)
+
+en:X-ray binary#Microquasar

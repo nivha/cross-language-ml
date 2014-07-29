@@ -1,0 +1,25 @@
+M33 X-7 is a black hole binary system in the galaxy M33. The system is made up of a stellar mass black hole and a companion star. M33 X-7 is the largest known stellar black hole with an estimated mass of 15.7 times that of the Sun. The total mass of the system is estimated to be around 85.7 times that of the Sun which would make it the most massive black hole binary system.
+==Location==
+
+M33 X-7 lies within the Triangulum Galaxy which is approximately 3 million light years (ly) distance from the Milky Way in constellation Triangulum. This would make M33 X-7 one of the furthest confirmed stellar mass black holes known.
+==System==
+
+M33 X-7 orbits a companion star that eclipses the black hole every 3.45 days. The companion star also has an unusually large mass, 70 times that of the Sun. This makes it the most massive companion star in a binary system containing a black hole.
+
+==Observational data==
+
+The black hole was studied in combination by NASA's Chandra X-ray Observatory and the Gemini telescope on Mauna Kea, Hawaii.
+
+The properties of the M33 X-7 binary system are difficult to explain using conventional models for the evolution of massive stars. The parent star for the black hole must have had a mass greater than the existing companion to have formed a black hole before the companion star. Such a massive star would have had a radius larger than the present separation between the stars, so the stars must have been brought closer while sharing a common outer atmosphere. This process typically results in a large amount of mass being lost from the system, so much that the parent star should not have been able to form a 15.7 solar-mass black hole.
+
+In new models of the formation of the black hole, the star that will form the black hole is nearly 100 times the mass of our sun, orbiting a second star with mass of about 30 solar masses.
+
+In such an orbit, the future black hole is able to start transferring mass while it is still fusing hydrogen into helium. As a result, it loses most of its hydrogen becoming a Wolf-Rayet star and shedding the rest of the envelope in the form of stellar wind, exposing its core. Its companion grows more massive in the process, becoming more massive of the two stars.
+
+Finally, the star collapses creating the black hole, and begins absorbing material from its companion, leading to X-ray emissions.
+
+==Future==
+
+Due to the mass, it is assumed that the companion will collapse into a black hole, creating a binary black hole system.
+
+==References==

@@ -1,0 +1,33 @@
+In theoretical physics, in particular in numerical relativity, a dynamical horizon (DH) is a mathematical formalism that was originally developed by Abhay Ashtekar and others (see ).  It provides a description of a black hole that is evolving (e.g. one that has a non-zero mass-energy influx).  A related formalism, for black holes with zero influx, is an isolated horizon.
+
+==Formal definition==
+The formal definition of a dynamical horizon is as follows:
+
+== See also ==
+*Isolated horizon
+*Non-expanding horizon
+
+== References ==
+
+===Cross-reference===
+
+===Sources used===
+
+*
+
+== Further reading ==
+
+===Broad outlines===
+*
+
+===Major papers===
+* 
+*
+
+===Other work===
+* 
+* 
+* 
+* 
+* 
+*

@@ -1,0 +1,58 @@
+The no-hair theorem postulates that all black hole solutions of the Einstein-Maxwell equations of gravitation and electromagnetism in general relativity can be completely characterized by only three externally observable classical parameters: mass, electric charge, and angular momentum. All other information (for which "hair" is a metaphor) about the matter which formed a black hole or is falling into it, "disappears" behind the black-hole event horizon and is therefore permanently inaccessible to external observers. Physicist John Archibald Wheeler expressed this idea with the phrase "black holes have no hair" which was the origin of the name.
+
+There is still no rigorous mathematical proof of the no-hair theorem, and mathematicians refer to it as the no-hair conjecture. Even in the case of gravity alone (i.e. zero electric fields), the conjecture has been only partially resolved by results of Stephen Hawking, Brandon Carter, and David C. Robinson, under the additional hypothesis of non-degenerate event horizons and the technical, restrictive and difficult-to-justify assumption of real analyticity of the space-time.
+
+==Example==
+Suppose two black holes have the same masses, electrical charges, and angular momenta, but the first black hole is made out of ordinary matter whereas the second is made out of antimatter; nevertheless, they will be completely indistinguishable to an observer outside the event horizon. None of the special particle physics pseudo-charges (i.e., the global charges baryonic number, leptonic number, etc.) are conserved in the black hole.
+
+==Changing the reference frame==
+Every isolated unstable black hole decays rapidly to a stable black hole; and (modulo quantum fluctuations) stable black holes can be completely described (in a Cartesian coordinate system) at any moment in time by these eleven numbers:
+* mass-energy M,
+* linear momentum P (three components),
+* angular momentum J (three components),
+* position X (three components),
+* electric charge Q.
+These numbers represent the conserved attributes of an object which can be determined from a distance by examining its gravitational and electromagnetic fields. All other variations in the black hole will either escape to infinity or be swallowed up by the black hole.
+
+By changing the reference frame one can set the linear momentum and position to zero and orient the spin angular momentum along the positive z axis. This eliminates eight of the eleven numbers, leaving three which are independent of the reference frame. Thus any black hole which has been isolated for a significant period of time can be described by the Kerr–Newman metric in an appropriately chosen reference frame.
+
+==Four-dimensional space-time==
+The no-hair theorem was originally formulated for black holes within the context of a four-dimensional spacetime, obeying the Einstein field equation of general relativity with zero cosmological constant, in the presence of electromagnetic fields, or optionally other fields such as scalar fields and massive vector fields (Proca fields, spinor fields, etc.).
+
+==Extensions==
+It has since been extended to include the case where the cosmological constant is positive (which recent observations are tending to support).
+
+Magnetic charge, if detected as predicted by some theories, would form the fourth parameter possessed by a classical black hole.
+
+==Counterexamples==
+Counterexamples in which the theorem fails are known in spacetime dimensions higher than four; in the presence of non-abelian Yang-Mills fields, non-abelian Proca fields, some non-minimally coupled scalar fields, or skyrmions; or in some theories of gravity other than Einstein’s general relativity. However, these exceptions are often unstable solutions and/or do not lead to conserved quantum numbers so that "The 'spirit' of the no-hair conjecture, however, seems to be maintained". It has been proposed that "hairy" black holes may be considered to be bound states of hairless black holes and solitons.
+
+In 2004, the exact analytical solution of a (3+1)-dimensional spherically-symmetric black hole with minimally-coupled scalar field was derived. This showed that, apart from mass, electrical charge and angular momentum, black holes can carry a finite scalar charge which might be a result of interaction with cosmological scalar fields such as the inflaton. The solution is stable and does not possess any unphysical properties.
+
+==Black holes in quantum gravity==
+
+The no-hair theorem is formulated in the classical spacetime of Albert Einstein's general relativity, assumed to be infinitely divisible with no limiting short-range structure or short-range correlations. In such a model, each possible macroscopically-defined classical black hole corresponds to an infinite density of microstates, each of which can be chosen as similar as desired to any of the others (hence the loss of information).
+
+===Finite entropy===
+Proposals towards a theory of quantum gravity do away with this picture. Rather than having a potentially infinite information capacity, it is suggested that the entropy of a quantum black hole should be a strictly finite A/4, where A is the area of the black hole in Planck units.
+
+Along with a finite (non-infinite) entropy, quantum black holes acquire a finite (non-zero) temperature, and with it the emission of Hawking radiation with a black body spectrum characteristic of that temperature. At a statistical level, this can be understood as a consequence of detailed balance following from the presumed micro-reversibility (unitarity) of the interaction between the quantum states of the radiation field and the quantum states of the black hole. This implies that if black holes can absorb radiation, they should therefore also emit radiation, with a black body spectrum characteristic of the temperature of the relevant part of the system.
+
+===Near the event horizon===
+From a different perspective, if it is correct that the properties of a quantum black hole should correspond at a broad level more or less to a classical general-relativistic black hole, then it is believed that the appearance and effects of the Hawking radiation can be interpreted as quantum "corrections" to the classical picture, as Planck's constant is "tuned up" away from zero up to h. Outside the event horizon of an astronomical-sized black hole these corrections are tiny. The classical infinite information density is actually quite a good approximation to the finite but large black hole entropy, the black hole temperature is very nearly zero, and there are very few Hawking particles to disrupt the classical trajectories.
+
+===Within the event horizon===
+Very little changes for a test particle as the event horizon is crossed; classical general relativity is still a very good approximation to the quantum gravity outcome. But the further the particle falls down the gravity well, the more the Hawking temperature increases, the more Hawking particles there are buffeting the test particle, and the greater become its deviations from a classical path as the increasingly limited density of quantum states starts to pinch. Ultimately, much further in, the density of the quantum "corrections" becomes so pronounced that the classical variables cease to be good quantum numbers to describe the system. This deep into the black hole it becomes the quantum gravitational forces, above all else, that dominate the environmental interactions which determine the appropriate decohered states for sensibly talking about the system. Further in than this, the core of the system needs to be treated in its own, specifically quantum, terms.
+
+===A quantum black hole compared to a classical black hole===
+In this way, the quantum black hole can still manage to look like the black hole of classical general relativity, not just at the event horizon but also for a substantial way inside it, despite actually possessing only finite entropy.
+
+A quantum black hole only has finite entropy and therefore presumably exists in one of a limited effective number of corresponding states. With reference to a careful description of the available states, this granularity may be revealed. However, trying to enforce a purely classical description represents a projection into a much bigger space, made possible presumably by probabilities supplied by environmental decoherence. Any structure implicit in the finite entropy against a quantum description could then be totally washed out by the huge injection of uncertainty this projection represents. This may explain why even though Hawking radiation has non-zero entropy, calculations so far have been unable to relate this to any fluctuations from perfect isotropy.
+
+==See also==
+*Black hole information paradox
+
+==References==
+
+==External links==
+*, Stephen Hawking’s purported solution to the black hole unitarity paradox, first reported in July 2004.

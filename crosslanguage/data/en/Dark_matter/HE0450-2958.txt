@@ -1,0 +1,30 @@
+HE0450-2958 is an unusual quasar. It has been called the "naked quasar" and the "quasar without a home" because it appears to lack a host galaxy. It is estimated to lie approximately one billion parsecs away.
+
+==History==
+
+A team of researchers led by Pierre Magain of the Universite de Liege, Belgium announced their findings in the September 14, 2005 issue of the journal Nature. The quasar lies close on the sky to a disturbed, starburst galaxy (see figure, upper left). However, no galaxy was seen around the quasar itself (figure, middle), leading the authors to speculate
+
+One might suggest that the host galaxy has disappeared from our view as a result of the collision formed the disturbed galaxy, but it is hard to imagine how the complete disruption of a galaxy could happen.
+
+In order for the quasar's host galaxy to have escaped detection, Magain et al. estimated that it would need to be approximately five magnitudes (100,000 times) dimmer than expected for such a quasar, or to have a radius of 300 light-years or less (typical quasars are embedded in galaxies 5000 to 50,000 light-years across).
+
+Shortly after Magain et al.'s paper was published, three theoretical papers appeared, all in the week of November 6, 2005, which claimed to explain the peculiar properties of this object. Two of the papers—from groups in Cambridge, Massachusetts and Cambridge, England  -- suggested that the quasar was a supermassive black hole that had been ejected from the center of the nearby, disturbed galaxy, either by gravitational radiation recoil or by an interaction involving three black holes. The ejection velocity would have to be approximately 1000 km/s in order to place the quasar so far from its original host galaxy.
+
+The third paper, from a team led by David Merritt, critically examined the ejection hypothesis and concluded that it could not be correct. The two main arguments were: (1) The quasar spectrum reveals it to be a narrow-line Seyfert 1 galaxy. NLS1's are believed to have abnormally small black holes; since black hole size is strongly correlated with galaxy size, the host galaxy of the quasar should also be abnormally small, explaining why it had not been detected by Magain et al. (2) The quasar spectrum also reveals the presence of a classic, narrow emission line region (NLR). The gas producing the narrow lines lies roughly a thousand light-years from the black hole, and such gas could not remain bound to the black hole following a kick large enough to remove it from its host galaxy.  These authors concluded that the "naked" quasar was in fact a perfectly normal, narrow-line Seyfert galaxy that happened to lie close on the sky to a disturbed galaxy.
+
+A number of scientific studies since 2005 have supported this conclusion. (1) Kim et al. (2006)  made a more careful attempt to find the quasar's host galaxy. They concluded that it was impossible to rule out the presence of a galaxy given the confusing light from the quasar. (2) Zhou et al. (2007)  observed the X-ray emission from the quasar and used it to estimate the mass of the black hole.  They confirmed a small mass for the black hole, implying an even fainter host galaxy than predicted by Merritt et al. (3) Feain et al. (2007)  detected radio emission from the quasar, which they interpreted as indicating ongoing star formation, which "contradicts any suggestion that this is a 'naked' quasar'".
+
+The current scientific consensus is that HE0450-2958 probably does have a host galaxy but that it is difficult to see behind the bright quasar light.
+
+Recently, the consensus has been questioned after a European Southern Observatory study.
+
+==See also==
+* Dark galaxy
+
+== References ==
+
+==External links==
+* Black Hole in Search of a Home (ESO)
+* Crashing galaxies may have spit out monster black hole
+* Image HE0450-2958
+*  Black Hole Caught Zapping Galaxy into Existence?

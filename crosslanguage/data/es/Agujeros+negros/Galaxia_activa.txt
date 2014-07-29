@@ -1,0 +1,29 @@
+Una galaxia se dice activa cuando una fracción significativa de la radiación electromagnética que emite no es debida a los componentes "normales" de una galaxia (estrellas, polvo y gas interestelar).
+
+El término núcleo activo de galaxia (AGN, por sus siglas en inglés) se usa frecuentemente para denominar este tipo de objeto, ya que la energía emitida por las galaxias activas se debe aparentemente a una región compacta en su centro. En algunos casos, esta región central emite chorros de partículas que se extienden por grandes distancias, provocando emisión desde regiones extendidas, si bien en todos los casos la fuente última de la energía emitida es la región central.
+
+El modelo teórico más aceptado unifica distintos tipos de objetos, tales como galaxias seyfert, quasares y blazares, los que aparentan ser distintos debido al ángulo de inclinación en el cielo.
+
+Según el modelo unificado, la energía se genera por materia (gas y polvo) que cae a un agujero negro supermasivo, de entre 10^6 y 10^9 masas solares. El material al caer forma un disco de acreción, debido a la conservación de momento angular. El calentamiento por fricción causa que el material se transforme en plasma y genere un campo magnético a través del mecanismo alfa. La acreción es altamente eficiente para transformar materia en energía, pudiendo convertir hasta la mitad de la masa en reposo de la materia en energía (en comparación, por ejemplo, al pequeño porcentaje de eficiencia de la fusión nuclear).
+
+Se cree que cuando el agujero negro ha consumido todo el gas y polvo de su vecindad, la galaxia activa deja de emitir grandes cantidades de energía y se transforma en una galaxia normal. Este modelo se apoya en lo que parece ser un agujero negro supermasivo sin actividad en el centro de la Vía Láctea y otras galaxias cercanas. También este modelo explica el hecho de que los quasares sean mucho más frecuentes en el universo temprano.
+
+Las galaxias activas se dividen en dos grupos: las que resultan muy brillantes al ser observadas con un radio-telescopio (radio-loud AGN) y las que no (radio-quiet AGN).
+
+== Historia ==
+
+En 1909 Edward A. Fath descubre líneas de emisión en un espectro de la "nebulosa espiral" NGC 1068. El espectro se componía de líneas de absorción junto con líneas de emisión como las que se veían en las nebulosas gaseosas. Carl K. Seyfert descubre en 1943 que algunas galaxias tienen un núcleo, en apariencia puntual, que es el originario de estas líneas de emisión. Este es el primer trabajo sistemático en busca de este tipo especial de galaxias. La emisión de estas galaxias era muy parecida a las líneas de emisión de una nebulosa planetaria sobreimpresas a un espectro típico de una estrella como el Sol (tipo G). La anchura de las líneas es atribuida por Seyfert al desplazamiento Doppler, de esta manera se obtienen velocidades de hasta 8500 km/s en la zona nuclear. Esto se correspondería con un gas muy caliente que se mueve a alta velocidad, en contraste con los 300 km/s a los que se mueven como promedio las estrellas y el gas de una galaxia espiral normal. A este tipo de galaxias se les denomina galaxias Seyfert.
+
+En los años 50 y 60 las galaxias activas adquieren un papel importante en la astronomía que llega hasta hoy día. Tras el desarrollo inicial de la radioastronomía por los pioneros en esta área como Jansky y Reber se empiezan a realizar las primeras exploraciones del cielo en radio, buscando posiciones precisas de las fuentes y la identificación óptica de éstas. Smith en 1951 obtiene posiciones precisas para Cyg A, Cas A y otras fuentes. Con estas posiciones, Baade y Minkowski en 1954 identifican ópticamente Cyg A y Cas A, pudiendo estimarse sus distancias a partir de sus espectros. Se observan galaxias muy distorsionadas como el origen de esta emisión. Estas fuentes presentaban luminosidades altísimas en radio, incluso más fuertes que en visible. Se descubren más tarde un tipo de galaxias con núcleos muy brillantes en longitudes de onda de radio, a las que llamarían "radio estrellas", que, tras comprobar que eran fuentes extragalácticas pasan a denominarse cuásares. Estos cuásares son galaxias del tipo de Cyg A situados a grandes distancias.
+
+Sandage (1965) encuentra una gran población de objetos que, aún sin tener una emisión fuerte en radio, se asemeja en todos los demás aspectos a los cuásares. Estos objetos presentan una gran emisión en ultravioleta (UV) con respecto al óptico y son conocidos como QSO (de Quasi-Stellar Objets). Se encuentra un paralelismo entre estos objetos, situados en núcleos de galaxias muy lejanas, con las galaxias Seyfert. Más tarde se encuentran galaxias emisoras de radio de un tipo denominado BL Lac, galaxias con regiones nucleares emisoras de baja ionización (LINERs) y otras galaxias con una fenomenología parecida. Todas las características comunes llevaron a postular la idea de un origen común de todos estos diferentes objetos englobándolos dentro del concepto de AGN.
+
+== Resumen ==
+Los núcleos activos de galaxia se pueden resumir de forma general en la siguiente tabla.
+
+== Véase también ==
+* Objeto astronómico
+* Galaxia elíptica M87
+* Agujero negro
+* JET Chorros de partículas
+* Rayo cósmico

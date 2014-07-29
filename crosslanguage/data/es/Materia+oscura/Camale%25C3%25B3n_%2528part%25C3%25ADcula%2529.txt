@@ -1,0 +1,21 @@
+El "camaleón" es una partícula escalar hipotética con una auto-interacción no lineal que le dota de una masa efectiva dependiente del entorno, de la presencia de otros campos. Podría tener una masa pequeña en la mayor parte del espacio intergaláctico pero su masa aumentaría cuanto más cerca se encuentre de una fuente de campo gravitatorio, por lo que su detención es complicada.
+El camaleón es un posible candidato para resolver el problema de la energía oscura y la materia oscura.
+
+== Propiedades hipotéticas ==
+En la mayoría de las teorías, los camaleones tiene una masa se aproxima a una potencia de la densidad de energía local:
+::::m_{eff} \sim \rho^\alpha, donde \alpha \simeq 1.
+
+Los camaleones se pueden acoplar a los fotones, permitiendo a ambas partículas oscilar entre sí en presencia de un campo magnético externo.
+
+Los camaleones pueden ser confinados en recipientes en vacío porque su masa incrementa rápidamente a medida que atraviesan las paredes del recipiente, causando así su reflexión. Una forma para buscar experimentalmente camaleones es dirigir fotones al interior de una cavidad, confinando los camaleones producidos, y, después, apagar la fuente de luz. La presencia de una luminiscencia residual indicaría que, en la cavidad, los camaleones han decaído otra vez en fotones.
+
+== Experimentos ==
+Varios experimentos han intentado detectar camaleones y axiones.
+El experimento GammeV busca axiones, pero también ha sido utilizado para la búsqueda de camaleones. El experimento consiste en introducir una cámara cilíndrica en un campo magnético de 5 T. En cada extremo de la cámara, hay ventanas de vidrio que permiten la entrada de la luz de un láser y la salida de la luminiscencia residual.
+Los últimos resultados de estos experimentos fueron publicados en noviembre de 2010, pero no encontraron nada.
+
+== Referencias ==
+
+* 
+* 
+*

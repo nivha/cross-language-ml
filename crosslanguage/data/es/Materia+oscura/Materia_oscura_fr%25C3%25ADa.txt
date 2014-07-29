@@ -1,0 +1,19 @@
+La materia oscura fría o CDM (del inglés cold dark matter) es uno de los tipos de materia oscura propuesto a principios de los años 1980 para explicar la formación de estructura cósmica en el modelo del Big Bang. Partiendo con una cierta distribución para las fluctuaciones iniciales, la manera en que estas se amplifican y crecen depende de las características de la materia.
+
+Modelos que sólo tenían materia bariónica no predecían correctamente la estructura observada, además que ya se sabía que la cantidad de materia bariónica era muy baja. En modelos con materia oscura caliente, formada por partículas moviéndose a altas velocidades (de ahí "caliente"), las fluctuaciones en escalas pequeñas eran "borradas" por el movimiento de las partículas calientes. En ese caso las primeras estructuras en formarse serían de dimensiones de supercúmulos, los panqueques de Zeldovich, los que después se frangmentarían, dando origen a una formación de estructura "de arriba abajo" (top-down).
+
+Con materia oscura fría, en cambio, las fluctuaciones en pequeñas escalas no son borradas, y la materia colapsa empezando por pequeñas escalas (menores que galaxias), y luego a escalas cada vez mayores, en una formación "de abajo arriba" (bottom-up). Según este modelo, en la época actual la materia aún está colapsando en las escalas de cúmulos. Durante más de una década la materia oscura fría fue la favorita, y las simulaciones computacionales la favorecían.
+
+Sin embargo, en los últimos años del siglo XX, a medida que las simulaciones computacionales se hacían más detalladas, la materia oscura fría comenzó a tener problemas explicando la estructura a escalas subgalácticas.
+
+==Véase también==
+*Materia oscura
+**Materia oscura caliente
+**Materia oscura templada
+*Modelo Lambda-CDM
+*Dinámica newtoniana modificada
+
+== Referencias ==
+
+=== Bibliografía ===
+*

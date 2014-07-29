@@ -1,0 +1,82 @@
+A blazar  is a very compact quasar (quasi-stellar radio source) associated with a presumed supermassive black hole at the center of an active, giant elliptical galaxy. Blazars are among the most energetic phenomena in the universe and are an important topic in extragalactic astronomy.
+
+Blazars are members of a larger group of active galaxies that host active galactic nuclei (AGN). A few rare objects may be "intermediate blazars" that appear to have a mixture of properties from both optically violent variable (OVV) quasars and BL Lac objects. The name "blazar" was originally coined in 1978 by astronomer Edward Spiegel to denote the combination of these two classes.
+
+Blazars are AGN with a relativistic jet that is pointing in the general direction of the Earth. We observe "down" the jet, or nearly so, and this accounts for the rapid variability and compact features of both types of blazars. Many blazars have apparent superluminal features within the first few parsecs of their jets, probably due to relativistic shock fronts.
+
+The generally accepted picture is that OVV quasars are intrinsically powerful radio galaxies while BL Lac objects are intrinsically weak radio galaxies. In both cases the host galaxies are giant ellipticals.
+
+Alternative models, for example, gravitational lensing, may account for a few observations of some blazars which are not consistent with the general properties.
+
+== Structure ==
+
+Blazars, like all AGN, are thought to be ultimately powered by material falling onto a supermassive black hole at the center of the host galaxy. Gas, dust and the occasional star are captured and spiral into this central black hole creating a hot accretion disk which generates enormous amounts of energy in the form of photons, electrons, positrons and other elementary particles. This region is quite small, approximately 10−3 parsecs in size.
+
+There is also a larger opaque toroid extending several parsecs from the central black hole, containing a hot gas with embedded regions of higher density. These "clouds" can absorb and then re-emit energy from regions closer to the black hole. On Earth the clouds are detected as emission lines in the blazar spectrum.
+
+Perpendicular to the accretion disk, a pair of relativistic jets carries a highly energetic plasma away from the AGN. The jet is collimated by a combination of intense magnetic fields and powerful winds from the accretion disk and toroid. Inside the jet, high energy photons and particles interact with each other and the strong magnetic field. These relativistic jets can extend as far as many tens of kiloparsecs from the central black hole.
+
+All of these regions can produce a variety of observed energy, mostly in the form of a nonthermal spectrum ranging from very low frequency radio to extremely energetic gamma rays, with a high polarization (typically a few percent) at some frequencies. The nonthermal spectrum consists of synchrotron radiation in the radio to X-ray range, and inverse Compton emission in the X-ray to gamma-ray region. A thermal spectrum peaking in the ultraviolet region and faint optical emission lines are also present in OVV quasars, but faint or non-existent in BL Lac objects.
+
+==Relativistic beaming==
+
+The observed emission from a blazar is greatly enhanced by relativistic effects in the jet, a process termed relativistic beaming. The bulk speed of the plasma that constitutes the jet can be in the range of 95%&ndash;99% of the speed of light. (This bulk velocity is not the speed of a typical electron or proton in the jet. The individual particles move in many directions with the result being that the net speed for the plasma is in the range mentioned.)
+
+The relationship between the luminosity emitted in the rest frame of the jet and the luminosity observed from Earth depends on the characteristics of the jet. These include whether the luminosity arises from a shock front or a series of brighter blobs in the jet, as well as details of the magnetic fields within the jet and their interaction with the moving particles.
+
+A simple model of beaming however, illustrates the basic relativistic effects connecting the luminosity emitted in the rest frame of the jet, Se and the luminosity observed on Earth, So. These are connected by a term referred to in astrophysics as the doppler factor, D, where So is proportional to Se × D2.
+
+When looked at in much more detail than shown here, three relativistic effects are involved:
+* Relativistic Aberration contributes a factor of D2. Aberration is a consequence of special relativity where directions which appear isotropic in the rest frame (in this case, the jet) appear pushed towards the direction of motion in the observer's frame (in this case, the Earth).
+* Time Dilation contributes a factor of D+1. This effect speeds up the apparent release of energy. If the jet emits a burst of energy every minute in its own rest frame this may be observed on Earth as being a much faster release, perhaps one burst every ten seconds.
+* Windowing can contribute a factor of D−1 and then works to decrease the amount of boosting. This happens for a steady flow, because there are then D fewer elements of fluid within the observed window, as each element has been expanded by factor D.  However, for a freely propagating blob of material, the radiation is boosted by the full D+3.
+
+===An example===
+Consider a jet with an angle to the lines of sight θ = 5° and a speed of 99.9% of the speed of light. On Earth the observed luminiosity is 70 times that of the emitted luminosity. However if θ is at the minimum value of 0° the jet will appear 600 times brighter from Earth.
+
+===Beaming away===
+Relativistic beaming also has another critical consequence. The jet which is not approaching Earth will appear dimmer because of the same relativistic effects. Therefore two intrinsically identical jets will appear significantly asymmetric. Indeed, in the example given above any jet where θ < 35° will be observed on Earth as less luminous than it would be from the rest frame of the jet.
+
+A further consequence is that a population of intrinsically identical AGN scattered in space with random jet orientations will look like a very inhomogeneous population on Earth. The few objects where θ is small will have one very bright jet, while the rest will apparently have considerably weaker jets.  Those where θ varies from 90° will appear to have asymmetric jets.
+
+This is the essence behind the connection between blazars and radio galaxies. AGN which have jets oriented close to the line of sight with Earth can appear extremely different from other AGN even if they are intrinsically identical.
+
+== Discovery ==
+
+Many of the brighter blazars were first identified, not as powerful distant galaxies, but as irregular variable stars in our own galaxy. These blazars, like genuine irregular variable stars, changed in brightness on periods of days or years, but with no pattern.
+
+The early development of radio astronomy had shown that there are numerous bright radio sources in the sky. By the end of the 1950s the resolution of radio telescopes was sufficient to be able to identify specific radio sources with optical counterparts, leading to the discovery of quasars. 
+Blazars were highly represented among these early quasars, and indeed the first redshift was found for 3C 273 &mdash; a highly variable quasar which is also a blazar.
+
+In 1968 a similar connection between the "variable star" BL Lacertae and a powerful radio source VRO 42.22.01 was made. BL Lacertae shows many of the characteristics of quasars, but the optical spectrum was devoid of the spectral lines used to determine redshift. Faint indications of an underlying galaxy &mdash; proof that BL Lacertae was not a star &mdash; were found in 1974.
+
+The extragalactic nature of BL Lacertae was not a surprise. In 1972 a few variable optical and radio sources were grouped together and proposed as a new class of galaxy: BL Lacertae-type objects. This terminology was soon shortened to "BL Lacertae object", "BL Lac object" or simply "BL Lac". (Note that the latter term can also mean the original blazar and not the entire class.)
+
+As of 2003, a few hundred BL Lac objects are known.
+
+== Current vision ==
+
+Blazars are thought to be active galactic nuclei, with relativistic jets oriented close to the line of sight with the observer.
+
+The special jet orientation explains the general peculiar characteristics: high observed luminosity, very rapid variation, high polarization (when compared with non-blazar quasars), and the apparent superluminal motions detected along the first few parsecs of the jets in most blazars.
+
+A Unified Scheme or Unified Model has become generally accepted where highly variable quasars are related to intrinsically powerful radio galaxies, and BL Lac objects are related to intrinsically weak radio galaxies. The distinction between these two connected populations explains the difference in emission line properties in blazars.
+
+Alternate explanations for the relativistic jet/unified scheme approach which have been proposed include gravitational microlensing and coherent emission from the relativistic jet. Neither of these explain the overall properties of blazars. For example microlensing is achromatic. That is, all parts of a spectrum will rise and fall together. This is very clearly not observed in blazars. However it is possible that these processes, as well as more complex plasma physics can account for specific observations or some details.
+
+Some examples of blazars include 3C 454.3, 3C 273, BL Lacertae, PKS 2155-304, Markarian 421, and Markarian 501. The latter two are also called "TeV Blazars" for their high energy (teraelectron-volt range) gamma-ray emission.
+
+==See also==
+
+*Astrophysics
+*Quasar
+*Seyfert galaxy
+*List of plasma (physics) articles
+
+==Notes==
+
+==External links==
+
+* AAVSO High Energy Network
+* Expanding Gallery of Hires Blazar Images
+* (with animation)

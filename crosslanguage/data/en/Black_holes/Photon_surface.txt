@@ -1,0 +1,22 @@
+Photon sphere (definition):
+A photon sphere of a static spherically symmetric metric is a timelike hypersurface \{r=r_{ps}\} if the  deflection angle of a light ray with the closest distance of approach r_o diverges  as r_o \rightarrow r_{ps}.
+
+For a general static spherically symmetric metric
+
+g = - \beta\left(r\right) dt^2 - \alpha(r) dr^2 - \sigma(r) r^2 (d\theta^2 + \sin^2\theta d\phi^2),
+
+the photon sphere equation is:
+
+2\sigma(r) \beta + r \frac{d\sigma(r)}{dr} \beta(r) - r \frac{d\beta(r)}{dr} \sigma(r) = 0.
+
+The concept of a photon sphere in a static spherically metric was generalized to a photon surface of any metric.
+
+Photon surface (definition) : 
+A photon surface of (M,g) is an immersed, nowhere spacelike hypersurface S of  (M, g)  such that, for every point p∈S and every null vector k∈TpS, there exists a null geodesic {\gamma}:(-ε,ε)→M of (M,g) such that {\dot{\gamma}}(0)=k, |γ|⊂S.
+
+Both definitions give the same result for a general static spherically symmetric metric.
+
+Theorem:
+Subject to an energy condition, a black hole in any  spherically symmetric  spacetime  must be surrounded by a photon sphere. Conversely, subject to an energy condition, any photon sphere must cover more than a certain amount of matter, a black hole, or a naked singularity.
+
+==References==

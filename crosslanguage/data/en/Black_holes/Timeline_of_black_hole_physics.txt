@@ -1,0 +1,44 @@
+Timeline of black hole physics
+
+* 1640 — Ismaël Bullialdus suggests an inverse-square gravitational force law
+* 1676 — Ole Rømer proves that light has a finite speed
+* 1684 — Isaac Newton writes down his inverse-square Law of universal gravitation
+* 1758 — Rudjer Josip Boscovich develops his Theory of forces, where gravity can be repulsive on small distances. So according to him strange classical bodies, such as white holes, can exist, which won't allow other bodies to reach their surfaces
+* 1784 — John Michell discusses classical bodies which have escape velocities greater than the speed of light
+* 1795 — Pierre Laplace discusses classical bodies which have escape velocities greater than the speed of light
+* 1798 — Henry Cavendish measures the gravitational constant G
+* 1876 — William Kingdon Clifford suggests that the motion of matter may be due to changes in the geometry of space
+* 1909 — Albert Einstein, together with Marcel Grossmann, starts to develop a theory which would bind metric tensor gik, which defines a space geometry, with a source of gravity, that is with mass
+* 1910 — Hans Reissner and Gunnar Nordström defines Reissner-Nordström singularity, Hermann Weyl solves special case for a point-body source
+* 1916 — Karl Schwarzschild solves the Einstein vacuum field equations for uncharged spherically-symmetric non-rotating systems
+* 1917 — Paul Ehrenfest gives conditional principle a three-dimensional space
+* 1918 — Hans Reissner and Gunnar Nordström solve the Einstein–Maxwell field equations for charged spherically-symmetric non-rotating systems
+* 1918 — Friedrich Kottler gets Schwarzschild solution without Einstein vacuum field equations
+* 1923 — George David Birkhoff proves that the Schwarzschild spacetime geometry is the unique spherically symmetric solution of the Einstein vacuum field equations
+* 1931 — Subrahmanyan Chandrasekhar calculates, using special relativity, that a non-rotating body of electron-degenerate matter above a certain limiting mass (at 1.4 solar masses) has no stable solutions. 
+* 1939 — Robert Oppenheimer and Hartland Snyder calculate the gravitational collapse of a pressure-free homogeneous fluid sphere
+* 1958 — David Finkelstein theorises that the Schwarzschild radius of a black holes is a causality barrier: an event horizon
+* 1963 — Roy Kerr solves the Einstein vacuum field equations for uncharged symmetric rotating systems, deriving the Kerr metric
+* 1964 — Roger Penrose proves that an imploding star will necessarily produce a singularity once it has formed an event horizon
+* 1964 — The first recorded use of the term 'Black Hole' by a journalist Ann Ewing
+* 1965 — Ezra T. Newman, E. Couch, K. Chinnapared, A. Exton, A. Prakash, and Robert Torrence solve the Einstein-Maxwell field equations for charged rotating systems
+* 1967 — Werner Israel presented the proof of the no-hair theorem at King's College London
+* 1967 — John Wheeler helps to popularize the term "black hole"
+* 1968 — Brandon Carter uses Hamilton–Jacobi theory to derive first-order equations of motion for a charged particle moving in the external fields of a Kerr-Newman black hole
+* 1969 — Roger Penrose discusses the Penrose process for the extraction of the spin energy from a Kerr black hole
+* 1969 — Roger Penrose proposes the cosmic censorship hypothesis
+* 1971 — Identification of Cygnus X-1/HDE 226868 as a binary black hole candidate system
+* 1972 — Stephen Hawking proves that the area of a classical black hole's event horizon cannot decrease
+* 1972 — James Bardeen, Brandon Carter, and Stephen Hawking propose four laws of black hole mechanics in analogy with the laws of thermodynamics
+* 1972 — Jacob Bekenstein suggests that black holes have an entropy proportional to their surface area due to information loss effects
+* 1974 — Stephen Hawking applies quantum field theory to black hole spacetimes and shows that black holes will radiate particles with a black-body spectrum which can cause black hole evaporation
+* 1989 — Identification of GS2023+338/V404 Cygni as a binary black hole candidate system
+* 2002 — Astronomers at the Max Planck Institute for Extraterrestrial Physics present evidence for the hypothesis that Sagittarius A* is a supermassive black hole at the center of the Milky Way galaxy
+* 2002 — NASA's Chandra X-ray Observatory identifies double galactic black holes system in merging galaxies NGC 6240
+* 2004 — Further observations by a team from UCLA present even stronger evidence supporting Sagittarius A* as a black hole.
+* 2012 — First visual proof of existence of black-holes. Suvi Gezari's team in Johns Hopkins University, using the Hawaiian telescope Pan-STARRS 1, publish images of a supermassive black hole 2.7 million light-years away swallowing a red giant.
+
+== References ==
+
+==See also==
+* Timeline of gravitational physics and relativity

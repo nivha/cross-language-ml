@@ -1,0 +1,27 @@
+En la relatividad general, una singularidad desnuda es una singularidad gravitacional carente de horizonte de sucesos. Las singularidades en los agujeros negros están siempre circundadas por un área que impide la fuga de la luz y por esto es imposible su directa observación. Una singularidad desnuda, por el contrario, sería un punto del espacio en donde la densidad es infinita aunque sería (de allí la adjetivación) observable desde el exterior.
+
+La existencia — actualmente teórica— de las singularidades desnudas resulta importante porque permitiría la observación de objetos colapsando hasta densidades infinitas.
+
+== Evidencia ==
+Las simulaciones mediante ordenador del colapso de un disco de polvo sugieren que estos objetos pueden existir, y por ende que la hipótesis de censura cósmica (que asevera que las singularidades están siempre ocultas) no regiría de un modo absoluto.
+
+Se tiene con esto un ejemplo de una dificultad matemática (en este caso la divergencia al infinito de la densidad) que pone de manifiesto un problema profundo para la comprensión de la física implicada en tal posible proceso. Una teoría practicable de la gravedad cuántica resultaría probablemente muy útil para la resolución de tal tipo de problema.
+
+Se hipotetizan casos de agujeros negros donde debido a altas cargas o a altas velocidades de giro, la zona que rodea (el horizonte de sucesos) a la singularidad desaparece dejándola a ésta visible ("desnuda") en el universo que conocemos.
+Se calcula que, por ejemplo, haciendo discurrir una cantidad considerable de corriente eléctrica a través de la singularidad de un agujero negro se ocasionaría una sobreposición de horizontes de sucesos y que estos dejarían entonces de existir, formándose de este modo una singularidad desnuda. Tal cantidad de electricidad requeriría utilizar aproximadamente todos los electrones de cada átomo del sistema solar lo cual es naturalmente impracticable. A fines del 2007 un equipo de investigadores de la Universidad de Cambridge dirigido por Arlie Petters publicó sus cálculos en la Physical Review, allí se considera que hasta el presente ningún agujero negro ha sido observado directamente como para llegar a la conclusión de que sea plenamente negro. Petters y su equipo han calculado que los agujeros negros podrían perder la "protección" del horizonte de sucesos y devenir en singularidades desnudas si su momento angular superase a su masa, tal tipo de evento podría ocurrir con mayores probabilidades en agujeros negros cuyas masas fueran unas 10 veces superiores a las de nuestro Sol y poseyeran un "espín" de algunas miles de rotaciones por segundo; en tales situaciones se supone que la singularidad desnuda se evidenciaría deformando la luz de las estrellas tras ésta de un modo diferente a la deformación provocada por un agujero negro. Una de las mayores dificultades teóricas es que la teoría de la relatividad no es apta para describir un tipo tal de singularidad gravitacional y, en consecuencia, una región de nuestro universo que se hallara bajo la influencia de tales objetos no podría ser descrita mediante tal instrumental teórico; de este modo la hipótesis de la inexistencia de las singularidades desnudas ha sido formulada por el célebre matemático inglés Roger Penrose en los años 1970 dando en gran medida origen a la noción de una "censura cósmica". Stephen Hawking mantenía una opinión semejante y perdió una apuesta cuando las simulaciones por ordenador probaron la posibilidad de la existencia de singularidades desnudas si existe una energía negativa. De tal modo la existencia de las singularidades desnudas es un concepto de un modelo alternativo propuesto por Hawking y Ellis al modelo estándar del universo; en cierto modo el mismo Big Bang en su origen puede entenderse como una especie de singularidad desnuda.
+
+== Hipótesis de censura cósmica ==
+Las hipótesis de censura cósmica se refieren a conjeturas matemáticas sobre la estructura de las singularidades tal como se han mencionado. La hipótesis débil de censura cósmica supone que el único tipo de singularidad desnuda observable son las singularidades iniciales como la que ocurre el modelo del Big Bang.
+
+== Véase también ==
+*Singularidad espaciotemporal
+*Agujero blanco
+*Diagrama de Penrose-Carter
+== Referencias ==
+
+== Enlaces externos ==
+(En inglés)
+*Naked singularity on arxiv.org
+*Magnification relations for Kerr lensing and testing cosmic censorship
+(En italiano)
+* Experimento hipotetizado que permitiría revelar de manera indirecta las singularidades desnudas

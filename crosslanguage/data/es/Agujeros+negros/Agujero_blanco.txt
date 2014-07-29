@@ -1,0 +1,21 @@
+350px|thumb|Diagrama de Kruskal, en que se muestra la región de agujero negro (zona blanca adyacente a la zona gris superior), la región de agujero blanco (zona blanca adyacente a la zona gris inferior), y las dos regiones asintóticamente planas en blanco, a izquierda y derecha, las cuales describen el campo gravitatorio en los alrededores de un cuerpo esférico.
+Agujero blanco es el término propuesto para definir una solución de las ecuaciones del campo gravitatorio de Einstein, cuya existencia se cree imposible, debido a las condiciones tan especiales que requiere.
+
+Se trata de una región finita del espacio-tiempo, visible como objeto celeste con una densidad tal que deforma el espacio pero que, a diferencia del agujero negro, deja escapar materia y energía en lugar de absorberla. De hecho ningún objeto puede permanecer en el interior de dicha región durante un tiempo infinito. Por ello se define un agujero blanco como el reverso temporal de un agujero negro: el agujero negro absorbe a su interior a la materia en cambio el agujero blanco la expulsa.
+
+Los más importantes avances en esta teoría son debidos a los trabajos independientes de los matemáticos Ígor Nóvikov y Yuval Ne'eman en la década de 1960, basados en la solución de Kruskal-Schwarzschild de las ecuaciones de la relatividad general.
+
+El agujero negro de Schwarzschild es descrito como una singularidad en la cual una geodésica puede sólo ingresar, tal tipo de agujero negro incluye dos tipos de horizonte: un horizonte "futuro" (es decir, una región de la cual no se puede salir una vez que se ha ingresado en ella, y en la cual el tiempo -con el espacio- son curvados hacia el futuro), y un horizonte "pasado", el horizonte pasado tiene por definición la de una región donde es imposible la estancia y de la cual sólo se puede salir; el horizonte futuro entonces ya correspondería a un agujero blanco
+
+En el caso de un agujero negro de Reißner-Nordstrøm el agujero blanco pasa a ser -por ahora siempre hipotéticamente- la "salida" de un agujero negro en otro "universo", es decir, otra región asintóticamente plana similar a la región de la que procede un objeto emergente por ese otro tipo de agujero. La carga eléctrica del agujero del Reissner-Nordstrøm proporciona un mecanismo físico más razonable para construir posibles agujeros blancos.
+
+== Hipótesis varias ==
+A diferencia de los agujeros negros para los cuales existe un proceso físico bien estudiado, el colapso gravitatorio (que da lugar a agujeros negros cuando una estrella algo más masiva que el sol agota su "combustible" nuclear), no hay un proceso análogo claro que lleve con seguridad a producir agujeros blancos. Aunque se han apuntado algunas hipótesis:
+* En principio se ha supuesto a los agujeros blancos como una especie de "salida" de los agujeros negros, ambos tipos de singularidades probablemente estarían conectadas por un agujero de gusano (notar que, como los agujeros blancos, los agujeros de gusano aún no han sido encontrados hasta ahora); cuando se descubrieron los cuásares se supuso que estos eran los buscados agujeros blancos pero en la actualidad tal supuesto ha sido descartado.
+* Otra idea generalizada en la actualidad es que los agujeros blancos serían muy inestables, durarían muy poco tiempo e incluso tras formarse podrían colapsar y transformarse en agujeros negros.
+* También se ha llegado a conjeturar que la singularidad inicial del big bang pudo haber sido una especie de agujero blanco en sus momentos iniciales.
+
+== Notas ==
+
+== Bibliografía ==
+*

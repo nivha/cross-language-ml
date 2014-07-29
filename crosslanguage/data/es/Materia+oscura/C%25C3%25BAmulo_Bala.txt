@@ -1,0 +1,18 @@
+El Cúmulo Bala (1E 0657-56) consiste de dos cúmulos de galaxias en colisión. Los estudios hechos sobre este cúmulo, presentados en agosto de 2006, constituyen hasta ese momento la mejor evidencia en favor de la existencia de la materia oscura. Estrictamente hablando, el nombre de «Cúmulo Bala» se refiere a un pequeño subcúmulo que se aleja de un cúmulo mayor.
+
+== Propiedades y morfología ==
+
+El Cúmulo Bala es uno de los cúmulos de galaxias más calientes que se conocen. Visto desde la Tierra, una de las componentes pasó a través del centro del cúmulo hace unos 150 millones de años, con lo que se creó una onda de choque en forma de arco localizada sobre el lado derecho del cúmulo. Esta onda de choque se formó al pasar gas a 70 millones de grados centígrados contenidos en el subcúmulo a través de gas a una temperatura de unos 100 millones de grados en el centro del cúmulo a una velocidad de unos 10 millones de kilómetros por hora.
+
+== El Cúmulo Bala como evidencia a favor de la materia oscura ==
+
+Las principales componentes del cúmulo, estrellas, gas y la materia oscura se comportan de forma diferente durante una colisión, de tal forma que es posible estudiar cada una de ellas de manera separada. Las estrellas en las galaxias, observadas en luz visible, no se alteran cuando ocurre una colisión, aunque su movimiento sí se modifica, siendo desacelerado gravitacionalmente. El gas caliente de las dos componentes que chocan y que es observado en rayos X representa la mayor parte de la masa de la materia ordinaria, conocida como materia bariónica. La tercera componente, la materia oscura, se detectó indirectamente por medio del fenómeno conocido como lente gravitacional que afecta a los objetos en el fondo. En teorías que no toman en cuenta la materia oscura, como la Dinámica newtoniana modificada, se esperaría que la lente gravitacional ocurriera gracias a la materia bariónica como el gas emisor de rayos X. Sin embargo, este fenómeno es más acentuado en dos regiones separadas cerca de las galaxias visibles. Este hecho fortalece la idea de que la mayor parte de la masa en el sistema es materia oscura no afectada por colisiones.
+
+Los resultados más concluyentes fueron inferidos a partir de las observaciones del satélite Chandra en este cúmulo, publicados por Markevitch et al. y Clowe et al., ambos en 2004. Estos autores reportan que el cúmulo experimenta una alta velocidad de fusión, la cual resulta evidente de la distribución espacial del gas caliente emisor de rayos X. El gas se encuentra detrás de los subcúmulos, mientras que el conjunto de materia oscura se encuentra delante del gas.
+
+== Véase también ==
+
+* Materia oscura
+* Cúmulo de galaxias
+
+== Referencias ==

@@ -1,0 +1,15 @@
+Q0906+6930 es el blazar más distante conocido (corrimiento al rojo 5.47 / 12.7 mil millones de años luz), descubierto en julio de 2004. El motor del blazar es un agujero negro súper masivo de al menos 16 mil millones de veces más masivo que el Sol (prácticamente el 3% de la masa de la Vía Láctea). El volumen de sucesos es de 1000 veces el del Sistema Solar. Q0906+6930 es uno de los agujeros negros más masivos registrados en la base de datos.
+
+== Ficha técnica ==
+
+* Época 2000.0 
+* RA: 09h 06m 30.8s
+* Dec: +69° 30' 31"
+* Clasificación: FSRQ
+* Corrimiento al rojo (z) = 5.47
+* R = 19.9
+* Poder (BL Lac) = 1.4-3.5
+
+== Referencias ==
+*«Q0906+6930» (en inglés)
+*«Q0906+6930: The Highest Redshift Blazar», The Astrophysical Journal, volume 610, part 2 (2004), pages L9–L11 (en inglés)

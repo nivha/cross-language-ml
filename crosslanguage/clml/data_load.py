@@ -98,10 +98,18 @@ def load_language(lang_path):
         load_category(lang_path, category_path)
 
 
+def clean_all():
+    """
+    Cleans all DB..
+    """
+    Category.objects.all().delete()
+
 
 if __name__ == '__main__':
-    load_language('en')
-    load_language('es')
+    clean_all()
+
+    # load_language('en')
+    # load_language('es')
 
 
 

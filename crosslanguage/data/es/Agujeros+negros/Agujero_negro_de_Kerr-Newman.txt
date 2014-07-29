@@ -1,0 +1,30 @@
+Un agujero negro de Kerr-Newman o agujero negro en rotación con carga eléctrica es aquel que se define por tres parámetros: la masa M, el momento angular J y la carga eléctrica Q. Esta solución fue obtenida en 1960 por los matemáticos Roy Kerr y Erza Newman a las ecuaciones de campo de la relatividad para objetos masivos eléctricamente cargados o con conservación de momento angular.
+
+== Introducción ==
+El agujero negro de Kerr-Newman es una región no isótropa que queda delimitada por tres zonas: un horizonte de Cauchy, un horizonte de sucesos externo y una ergoesfera. Debido a la conservación del momento angular, la forma que toma el conjunto es la de un elipsoide, que en cuyo interior contiene una singularidad en forma de anillo o toro comprimido a volumen prácticamente cero (el caso contrario sería un agujero negro de Reissner-Nordström).
+
+La fórmula que determina al límite estático de la ergoesfera depende de la masa, la carga y el momento angular del agujero:
+
+{{ecuación|r_s = M + \sqrt{M^2 - a^{2}\cos^{2}\theta - Q^2}||left}}
+
+donde:
+* r_s es el perímetro de la ergoesfera,
+* M es la masa,
+* a el parámetro de rotación J\over M donde J es el momento angular, y Q es la carga eléctrica.
+
+En tanto la que determina los bordes de sus horizontes de sucesos es así:
+
+{{ecuación| r = r_\pm = M \pm \sqrt{M^2-a^2-Q^2}||left}}
+
+donde  r_\pm es la distancia de cada horizonte de sucesos, siendo el valor de  r_+ para el horizonte de sucesos externo, y el valor de  r_- para el horizonte de sucesos interno.
+
+== Sobre Q y J en un agujero de Kerr-Newman ==
+* Velocidad de giro. Cuando la velocidad de giro tiende a ser muy grande, el horizonte de sucesos se divide en dos, lo que genera enormes corrientes de dirección única entre ellos, afectando al límite estático de la ergoesfera, que fuerza a algunos fotones a ser emitidos como rayos gamma.
+* Otro fenómeno común en este tipo de agujeros, y cuya energía depende directamente de su velocidad, es la formación de intensos campos magnéticos y corrientes de gas ionizado perpendiculares al disco de acreción que se arremolina en torno a la ergoesfera.
+* Sobre la relación Q y J con M en el radio giromagnético. Los valores que toman la carga eléctrica y el momento angular son muy importantes en la anatomía de un agujero negro de Kerr-Newman, debido a que es su relación la que determina el límite concreto entre sus horizontes de sucesos y el radio giromagnético o momento magnético dipolar siendo su fórmula r_g = {2Mm\over JQ} donde r_g es el radio giromagnérico y m es el momento magnético. Existen básicamente tres relaciones:
+** | Q | ^ J < M, aquí el momento magnético dipolar es mayor, lo que significa que se genera un ligero efecto de electro-imán fuera de la ergoesfera. Los horizontes de sucesos se mantienen a prudente distancia.
+** |Q | ^ J = M, para este caso el dipolo es normal, creándose un campo magnético moderado. Los horizontes de sucesos se fusionan en uno único que rodea a la singularidad en forma de anillo.
+** | Q | ^ J > M, este caso en particular no es el más común, aquí el efecto del campo magnético es muy intenso y los horizontes de sucesos desaparecen dejando a la singularidad visible; esto parece estar prohibido por la regla del censor cósmico ideada por Roger Penrose, que no permite singularidades desnudas.
+
+== Véase también ==
+* Agujero negro de Kerr (o métrica de Kerr).

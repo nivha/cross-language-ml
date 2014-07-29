@@ -1,0 +1,73 @@
+A photon sphere is a spherical region of space where gravity is strong enough that photons are forced to travel in orbits. The radius of the photon sphere, which is also the lower bound for any stable orbit, is:
+
+r = \frac{3GM}{c^{2}}
+
+which is one and one-half times the Schwarzschild radius.
+
+This equation entails that photon spheres can only exist in the space surrounding an extremely compact object (a black hole or possibly a neutron star).
+
+As photons travel near the event horizon of a black hole they can escape being pulled in by the gravity of a black hole by traveling at a nearly vertical direction known as an exit cone.  A photon on the boundary of this cone will not completely escape the gravity of the black hole.  Instead it orbits the black hole. These orbits are not stable.
+
+The photon sphere is located farther from the center of a black hole than the event horizon and ergosphere.  Within a photon sphere it is possible to imagine a photon that starts at the back of your head and orbits around a black hole only then be seen by your eyes.
+For non-rotating black holes, the photon sphere is a sphere of radius 3/2 Rs, where Rs denotes the Schwarzschild radius (the radius of the event horizon) - see below for a derivation of this result.  There are no stable free fall orbits that exist within or cross the photon sphere.  Any free fall orbit that crosses it from the outside spirals into the black hole.  Any orbit that crosses it from the inside escapes to infinity. No unaccelerated orbit with a semi-major axis less than this distance is possible, but within the photon sphere, a constant acceleration will allow a spacecraft or probe to hover above the event horizon.
+
+Another property of the photon sphere is centrifugal force (nb: not centripetal) reversal.   Outside the photon sphere, the faster one orbits the greater the outward force one feels.  Centrifugal force falls to zero at the photon sphere, including non-freefall orbits at any speed, i.e. you weigh the same no matter how fast you orbit, and becomes negative inside it.  Inside the photon sphere the faster you orbit the greater your felt weight or inward force.  This has serious ramifications for the fluid dynamics of inward fluid flow.
+
+A rotating black hole has two photon spheres.  As a black hole rotates, it drags space with it.  The photon sphere that is closer to the black hole is moving in the same direction as the rotation, whereas the photon sphere further away is moving against it.  The greater the angular velocity of the rotation of a black hole the greater distance between the two photon spheres.  Since the black hole has an axis of rotation, this only holds true if approaching the black hole in the direction of the equator.  If approaching at  a different angle, such as one from the poles of the black hole to the equator, there is only one photon sphere.  This is because approaching at this angle the possibility of traveling with or against the rotation does not exist.
+
+==Derivation for a Schwarzschild black hole==
+Since a Schwarzschild black hole has spherical symmetry, all possible axes for a circular photon orbit are equivalent, and all circular orbits have the same radius.
+
+This derivation involves using the Schwarzschild metric, given by:
+
+ds^{2} = \left(1 - \frac{2GM}{rc^{2}}\right)c^{2}dt^{2} - \left(1 - \frac{2GM}{rc^{2}}\right)^{-1}dr^{2} - r^{2}(\textrm{sin}^{2}\theta d\phi^{2} + d\theta^{2})
+
+For a photon traveling at a constant radius r (i.e. in the Φ-coordinate direction), dr=0. Since it is a photon ds=0 (a "light-like interval"). We can always rotate the coordinate system such that θ is constant, dθ=0.
+
+Setting ds, dr and dθ to zero, we have:
+
+\left(1 - \frac{2GM}{rc^{2}}\right)c^{2}dt^{2} = r^{2}\textrm{sin}^{2}\theta d\phi^{2}
+
+Re-arranging gives:
+
+\frac{d\phi}{dt} = \frac{c}{r\textrm{sin}\theta}\sqrt{1 - \frac{R_s}{r}}
+
+where Rs is the Schwarzschild radius.
+
+To proceed we need the relation  \frac{d\phi}{dt} . To find it we use the radial geodesic equation
+
+\frac{d^2r}{d\tau^2}+\Gamma^{r}_{\mu\nu}u^{\mu}u^{\nu}=0.
+
+Non vanishing  \Gamma-connection coefficients  are  \Gamma^r_{tt}=\frac{BB^{\prime}}{2}, \; \Gamma^r_{rr}, \; \Gamma^r_{\theta\theta}, \; \Gamma^r_{\phi\phi}=-Br\sin^2\theta , where  B^{\prime}=\frac{dB}{dr}, B=1-\frac{R_s}{r} .
+
+We treat photon radial geodesic with constant r and  \theta , therefore
+
+\frac{dr}{d\tau}, \; \frac{d^2r}{d\tau^2}, \; \frac{d\theta}{d\tau}=0 .
+
+Putting it all into r-geodesic equation we obtain
+
+\left(\frac{d\phi}{dt}\right)^2=\frac{c^2R_s}{2r^3\sin^2\theta}
+
+Comparing it with obtained previously, we have:
+
+c\sqrt{\frac{R_s}{2r}} = c\sqrt{1 - \frac{R_s}{r}}
+
+where we have inserted \theta = \frac{\pi}{2} radians (imagine that the central mass, about which the photon is orbitting, is located at the centre of the coordinate axes. Then, as the photon is travelling along the  \phi -coordinate line, for the mass to be located directly in the centre of the photon's orbit, we must have \theta = \frac{\pi}{2} radians).
+
+Hence, rearranging this final expression gives:
+
+r = \frac{3}{2}R_s
+
+which is the result we set out to prove.
+
+==Spherical photon orbits around a Kerr black hole==
+In contrast to a Schwarzschild black hole, a Kerr (spinning) black hole does not have spherical symmetry, but only an axis of symmetry, which has profound consequences for the photon orbits. A circular orbit can only exist in the equatorial plane, and there are two of them (prograde and retrograde), with different radii. All other constant-radius orbits have more complicated paths that oscillate in latitude about the equator.
+
+==References==
+*General Relativity:  An Introduction for Physicists
+
+==External links==
+*Step by Step into a Black Hole
+*Virtual Trips to Black Holes and Neutron Stars
+*Guide to Black Holes
+*Spherical Photon Orbits Around a Kerr Black Hole

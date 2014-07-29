@@ -1,0 +1,5 @@
+A tendex line is a traversal line describing the path matter takes through the accretion disc of a black hole.  A tendex line typically follows a spiral around the black hole descending to the event horizon.  Matter on this line experiences a twisting and stretching effect.
+
+Matter subject to the forces along this line depends upon the masses and vectors of both the black hole and the approaching matter. The magnitude of the influential force of the black hole on matter along the tendex line is inversely proportional to the distance of the matter to the event horizon.
+
+==References==

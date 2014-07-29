@@ -1,0 +1,5 @@
+Minicharged particles (or milli-charged particles) are a proposed type of subatomic particle.  They are charged, but with a tiny fraction of the charge of the electron.  They weakly interact with matter.  Minicharged particles are not part of the Standard Model.  One proposal to detect them involved photons tunneling through an opaque barrier in the presence of a perpendicular magnetic field, the rationale being that a pair of oppositely charged minicharged particles are produced that curve in opposite directions, and recombine on the other side of the barrier reproducing the photon again.
+
+Minicharged particles would result in vacuum magnetic dichroism, and would cause energy loss in microwave cavities.  Photons from the cosmic microwave background would be dissipated by galactic-scale magnetic fields if minicharged particles existed, so this effect could be observable.  In fact the dimming observed of remote supernovae that was used to support dark energy could also be explained by the formation of minicharged particles.
+
+==References==

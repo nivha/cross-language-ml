@@ -1,0 +1,41 @@
+En la física, hay una noción especulativa que dice que si hubiera un agujero negro con la misma masa y carga que un electrón, compartirían muchas de las propiedades del electrón incluido el momento magnético y la longitud de onda. Esta idea se fundamenta en una serie de artículos publicados por Albert Einstein entre 1927 y 1949. En ellos, mostró que si las partículas elementales fueran tratados como singularidades en el espacio-tiempo, no es necesario postular movimiento geodésico en el marco de la relatividad general.
+
+== Problemas ==
+La mecánica cuántica permite velocidades superlumínicas para un objeto con una masa tan pequeña como el electrón en escalas de distancia más grande que el radio de Schwarzschild del electrón.
+
+== Radio de Schwarzschild ==
+El radio de Schwarzschild (rs) de cualquier masa se calcula utilizando la siguiente fórmula:
+:r_s = \frac{2Gm}{c^2}
+Para un electrón:
+
+*G es la constante gravitacional;
+*m es la masa del electrón = 9.109×10−31kg;
+*c es la velocidad de la luz.
+
+Esto da un valor
+:rs = 1.353×10−57m
+Así que si el electrón tiene un radio tan pequeño como este, se convertiría en una singularidad gravitacional. A continuación, tendría una serie de propiedades en común con los agujeros negros. En la métrica de Reissner-Nordström, que describe los agujeros negros con carga eléctrica, una cantidad similar rq se define como
+:
+r_{q} = \sqrt{\frac{q^{2}G}{4\pi\epsilon_{0} c^{4}}}
+
+donde q es la carga y ε0 es la permitividad del vacío .
+
+Para un electrón con q = -e = −1.602×10−19 C , esto le da un valor de
+:rq = 9.152×10−37m
+Este valor indica que un agujero negro de electrones sería super extremo y tendría una singularidad desnuda. La teoría electrodinámica cuántica trata al electrón como una partícula puntual, un punto de vista completamente apoyado por la experiencia. En la práctica, sin embargo, los experimentos de partículas no pueden probar la energía a escalas arbitrariamente grandes, y la electrodiámica cuántica basada en experimentos tan ligados al radio del electrón con un valor menor que la longitud de onda de una gran masa, del orden de 10^6 GeV, o
+:r \approx \frac{\alpha \hbar c}{10^6 GeV} \approx 10^{-24} m.
+
+Ningún experimento propuesto sería capaz de sondear r a valores tan bajos como rs o rq, los cuales son más pequeños que la longitud de Planck. Se cree que un agujero negro super extremo sería inestable. Además, toda la física más pequeña que la longitud de Planck probablemente requiere una teoría coherente de la gravedad cuántica.
+
+== Véase también ==
+* Gravedad cuántica
+* Agujero negro extremo
+* Singularidad desnuda
+
+== Referencias ==
+* Burinskii, A., (2005) " El Kerr-electrón de Dirac.
+* Burinskii, A., (2007) " Geometría Kerr como en tiempo de la estructura espacial del electrón de Dirac.
+* Michael Duff (1994) " Teoría de Kaluza-Klein en perspectiva.
+* Stephen Hawking (1971), "," Noticias Mensuales de la Sociedad Astronómica Real 152: 75.
+* Roger Penrose (2004) El camino a la realidad: Una guía completa a las leyes del Universo.
+* 'T Hooft G. (1990) " La interpretación agujero negro de la teoría de cuerdas, "Física Nuclear B 335: 138-154.

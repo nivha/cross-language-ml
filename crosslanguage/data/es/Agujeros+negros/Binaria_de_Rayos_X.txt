@@ -1,0 +1,23 @@
+Las binarias de rayos x son una clase de sistemas binarios que son muy luminosos en rayos x (1033 - 1039erg/s). Están formados por un objeto compacto que se ha formado por colapso de una estrella, y una estrella convencional, de la secuencia principal. El objeto compacto puede ser una estrella de neutrones o un agujero negro. Ambos tienen masas mayores a la del Sol, pero concentradas en un volumen mucho menor. La estrella convencional se suele llamar estrella compañera.
+
+Materia de la estrella convencional cae en el objeto compacto, en general formando un disco de acrecimiento que orbita alrededor del objeto compacto. En la caída se convierte energía potencial gravitatoria en calor, haciendo que el disco alcance temperaturas de millones de kelvin y emita rayos x. A tan alta temperatura, toda la materia del disco está en forma de plasma.
+
+thumb|250px|right|Representación artística de una binaria de rayos X.
+
+Las binarias de rayos X se clasifican según la masa de la estrella compañera en binarias de rayos x de baja masa y binarias de rayos x de alta masa. Las de baja masa tienen una compañera de masa mucho menor a la del Sol (son estrellas rojas de tipo espectral K o M). Las de alta masa tienen una compañera con masa mucho mayor a del Sol (estrellas azules de tipo O o Be).
+
+Existen cientos de binarias de rayos X en nuestra galaxia y se cuentan entre los objetos más brillantes del cielo en rayos X, como por ejemplo Scorpius X-1 o Cygnus X-1.
+
+Son objetos muy variables, en escalas de tiempo que van desde pocos minutos a años. La variabilidad está relacionada con cambios en el acrecimiento de materia, que a su vez puede deberse, por ejemplo, al movimiento orbital de las dos estrellas o a precesión del disco de acrecimiento.
+
+Cuando el objeto compacto es una estrella de neutrones, su fuerte campo magnético puede conducir el plasma hacia los polos magnéticos. En los polos colisionan con la superficie de la estrella de neutrones y emiten importantes cantidades de rayos X muy enfocados a lo largo de los ejes magnéticos. Son los llamados pulsares de rayos x.
+
+Al igual que en las galaxias activas, en algunas binarias de rayos X se general un jet o chorros de materia que emerge del disco de acrecimiento, sale del sistema binario y puede extenderse a lo largo de parsecs. Los chorros emiten en radio por radiación de sincrotrón. En algunos de estos chorros se observan componentes que viajan a velocidades próximas a la velocidad de la luz. En tal caso, la binaria de rayos X se conoce como microquasar.
+
+== Véase también ==
+* Binarias de rayos x de baja masa
+* Binarias de rayos x de alta masa
+* Pulsares de rayos x
+* Binarias de rayos x suaves
+* Microquasares
+* Fuentes X Ultraluminosas

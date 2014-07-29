@@ -1,0 +1,58 @@
+En relatividad general, el horizonte de sucesos —también llamado horizonte de eventos— se refiere a una hipersuperficie frontera del espacio-tiempo, tal que los eventos a un lado de ella no pueden afectar a un observador situado al otro lado. Obsérvese que esta relación no tiene por qué ser simétrica o biyectiva, es decir, si A y B son las dos regiones del espacio tiempo en que el horizonte de eventos divide el espacio, A puede no ser afectada por los eventos dentro de B, pero los eventos de B generalmente sí son afectados por los eventos en A. Por dar un ejemplo concreto, la luz emitida desde uno de los lados del horizonte de eventos jamás podría alcanzar a un observador situado al otro lado.
+
+Existen diversos tipos de horizontes de eventos, y estos pueden aparecer en diversas circunstancias. Una de ellas particularmente importante sucede en presencia de agujeros negros, aunque este no es el único tipo de horizonte de eventos posibles, existiendo además horizontes de Cauchy, horizontes de Killing, horizontes de partícula u horizontes cosmológicos.
+
+== Horizonte de sucesos de un agujero negro rotativo ==
+thumb|Esquema del horizonte de sucesos y la ergosferaEl horizonte de sucesos es una superficie imaginaria de forma esférica que rodea a un agujero negro, en la cual la velocidad de escape necesaria para alejarse del mismo coincide con la velocidad de la luz. Por ello, ninguna cosa dentro de él, incluyendo los fotones, puede escapar debido a la atracción de un campo gravitatorio extremadamente intenso.
+
+Las partículas del exterior que caen dentro de esta región nunca vuelven a salir, ya que para hacerlo necesitarían una velocidad de escape superior a la de la luz y, hasta el momento, la teoría indica que nada puede alcanzarla.
+
+Por tanto, no existe modo de observar el interior del horizonte de sucesos, ni de transmitir información hacia el exterior. Esta es la razón por la cual los agujeros negros no tienen características externas visibles de ningún tipo, que permitan determinar su estructura interior o su contenido, siendo imposible establecer en qué estado se encuentra la materia desde que rebasa el horizonte de sucesos hasta que colapsa en el centro del agujero negro.
+
+Si cayéramos en un agujero negro, en el momento de atravesar el horizonte de sucesos no notaríamos ningún cambio, ya que no se trata de una superficie material, sino de una frontera imaginaria, alejada de la zona central donde se concentra la masa. La característica peculiar de esta frontera es que representa el punto de no retorno, a partir del cual no puede existir otro suceso más que caer hacia el interior, dando así origen al nombre de esta superficie.
+
+Al incluir efectos cuánticos en el horizonte de sucesos, se hace posible la emisión de radiación por parte del agujero negro debido a las fluctuaciones del vacío que dan origen a la llamada radiación de Hawking.
+
+== Horizonte de un observador acelerado ==
+Otro tipo de horizonte diferente es que es el que ve un observador uniformemente acelerado. Para caracterizar este tipo de horizonte necesitamos introducir las coordenadas de Rindler para el espacio-tiempo de Minkowski. Partiendo de las coordenadas cartesianas la métrica de dicho espacio-tiempo:
+
+Consideremos ahora la región conocida como "cuña de Rindler", dada por el conjunto de puntos que verifican:
+{{ecuación|
+\mathcal{R}_{Rind} = \{(T,X,Y,Z)\in\R^4| 0 
+||left}}
+Y definamos sobre ella un cambio de coordenadas dado por:
+{{ecuación|
+ t = \operatorname{arctanh}(T/X), \; x= \sqrt{X^2-T^2}, \; y = Y, \; z = Z
+||left}}
+Cuya transformación inversa viene dada por:
+
+Usando estas coordenadas la cuña de Rindler del espacio de Minkowski tiene una métrica expresada en las nuevas coordenadas dada por la expresión:
+
+Esta métrica tiene una singularidad aparente en x = 0, donde el tensor expresado en las coordenas de Rindler tiene un determinante que se anula. Esto sucede porque en x \rightarrow 0 la aceleración asociada al observador se hace infinita. En estas coordenadas el horizonte de Rindler es precisamente la frontera de la cuña de Rindler. Es interesante que puede demostrarse que este horizonte es análogo en muchos aspectos al horizonte de eventos de un agujero negro.
+
+== Horizonte en el universo observable ==
+El límite del universo observable es una hipersuperficie que constituye la barrera de lo que que puede ser observado en cada instante de tiempo, más allá existirían partículas cuya luz todavía no ha tenido tiempo de alcanzarnos, debido a que la edad del universo es finita (ver Big Bang). Todo suceso actual o pasado situado tras el horizonte de eventos, no forma parte del universo observable actual (aunque puede ser visible en el futuro cuando las señales luminosas procedentes de ellos alcancen nuestra posición futura).
+
+La forma en que este horizonte del universo observable cambia según la naturaleza de la expansión del universo. Si la expansión tiene ciertas características, que no serán nunca observables, por ejemplo, sin importar cuanto tiempo transcurra (eso pasa en cierto tipo de expansión acelerada, por ejemplo). La frontera pasada de los eventos que nunca podrán ser observados es propiamente un horizonte de sucesos llamado horizonte de sucesos de partícula.
+
+El criterio para determinar si el horizonte de sucesos del universo es diferente del vacío es el siguiente, defínase una distancia comóvil d_E mediante la expresión:
+{{ecuación|
+d_E=\int_{t_0}^\infty \frac{c}{a(t)}dt\ .
+||left}}
+En esta ecuación, a(t) es el factor de escala, c es la velocidad de la luz y t0 es la edad actual del universo. Si d_E \rightarrow \infty, es decir, los puntos arbitrariamente lejanos pueden ser observados, entonces el horizonte de sucesos es vacío. Si d_E \neq \infty entonces existirá un horizonte de sucesos.
+
+Ejemplos de modelos cosmológicos sin horizonte de sucesos son los modelos de universos dominados por materia o por radiación. Un ejemplo de modelo cosmológico con horizonte de sucesos es un universo dominado por la constante cosmológica, como por ejemplo un Universo de De Sitter.
+
+== Horizonte de sucesos y topología ==
+El estudio de la causalidad en relatividad general se lleva a cabo siguiendo un enfoque topológico, así un horizonte de eventos futuro o pasado puede caracterizarse como el conjunto de puntos de la clausura topológica del dominio de dependencia de una hipersuperficie lumínica situada en el "infinito" que no pertenecen al pasado o futuro cronológico de dicho dominio. Conviene aclarar que cuando se dice que una hipersuperficie está ubicada en el "infinito" se quiere decir que está situada sobre los puntos del diagrama conforme de Penrose que representa el espacio-tiempo, en signos los horizontes de eventos pasado H^-(\mathcal{S}_L) y futuro H^+(\mathcal{S}_L) de una hipersuperficie lumínica \mathcal{S}_Lvienen dados por:
+{{Ecuación|H^-(\mathcal{S}_L) = \overline{D^-(\mathcal{S}_L)} - I^+(D^-(\mathcal{S}_L)) \qquad H^+(\mathcal{S}_L) = \overline{D^+(\mathcal{S}_L)} - I^-(D^+(\mathcal{S}_L))||left}}
+Donde la definición de los signos que aparecen es la misma usada en glosario de relatividad.
+
+== Véase también ==
+
+*Agujero negro.
+*Ergosfera.
+*Singularidad desnuda.
+*Singularidad espaciotemporal.
+*Anexo:Glosario de relatividad.
+*:w:Event Horizon Telescope (en la Wikipedia en inglés).
