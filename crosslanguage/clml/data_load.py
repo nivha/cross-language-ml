@@ -79,7 +79,13 @@ def load_category(lang_path, category_path):
                 text = f.read()
                 article_url = 'http://'+lang_path+'.wikipedia.org/wiki/' + category_path
 
-                article = Article.objects.get(original_language=lang_path, title=os.path.splitext(filename)[0])
+                # TODO: I delete here articles that appear twice (meaning that they appear in more than
+                # TODO:   one category). This should be done somewhere else before..
+                articles = Article.objects.filter(original_language=lang_path, title=os.path.splitext(filename)[0])
+                if len(articles) != 1:
+                    articles.delete()
+                    continue
+                article = articles[0]
 
                 print 'adding ' + lang_dir + ' translation to ' + article.title + ' , originally in ' + lang_path
                 article_content = ArticleContent.objects.create(
@@ -108,8 +114,8 @@ def clean_all():
 if __name__ == '__main__':
     clean_all()
 
-    # load_language('en')
-    # load_language('es')
+    load_language('en')
+    load_language('es')
 
 
 

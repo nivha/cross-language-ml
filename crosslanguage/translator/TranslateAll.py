@@ -56,7 +56,7 @@ class CategoryTranslator(object):
                 translator.translate_to_file(file_source_path, file_target_path)
 
 
-def translate_all_lang_categories(source_lang, targe_lang_list):
+def translate_all_lang_categories(source_lang, target_lang_list):
     """
     Translate all categories of a given language
     """
@@ -66,8 +66,8 @@ def translate_all_lang_categories(source_lang, targe_lang_list):
             # Skip non-folders
             continue
 
-        print 'Translating category: %s from %s to %r' % (category_name, source_lang, targe_lang_list)
-        CategoryTranslator(source_lang, targe_lang_list, category_name).do_translation()
+        print 'Translating category: %s from %s to %r' % (category_name, source_lang, target_lang_list)
+        CategoryTranslator(source_lang, target_lang_list, category_name).do_translation()
         print '> Done!'
 
 
@@ -80,7 +80,9 @@ class DataTranslator(object):
 
 
 if __name__ == '__main__':
-    translate_all_lang_categories(Language(Language.Spanish), [Language(Language.English)])
+    # translate_all_lang_categories(Language(Language.Spanish), [Language(Language.English)])
+    translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
+
     # tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], 'Maxwell_Medal_and_Prize_recipients')
     # tr.do_translation()
 

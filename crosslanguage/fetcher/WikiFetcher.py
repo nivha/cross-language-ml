@@ -67,7 +67,7 @@ if __name__=="__main__":
 
     # some real shit now:
     en_categories = ['Dark_matter', 'Black_holes']
-    es_categories = ['Materia oscura', 'Agujeros negros']
+    es_categories = ['Materia_oscura', 'Agujeros_negros']
 
     for category in en_categories:
         wf = WikiFetcher('en', category)

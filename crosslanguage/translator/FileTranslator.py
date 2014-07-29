@@ -9,6 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from crosslanguage.utils import Language
 import codecs
+import traceback
 
 
 # TODO: wrap the selenium with 'with'
@@ -34,6 +35,9 @@ class FileTranslator(object):
             translated_text = result.text
 
             return translated_text
+        except Exception:
+            print traceback.format_exc()
+            print "="*50
         finally:
             # Quit no matter what
             if quit_browser:
