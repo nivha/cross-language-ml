@@ -6,11 +6,12 @@ os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 
 from clml.models import Category
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import MultinomialNB, GaussianNB, BernoulliNB
 from sklearn.linear_model import SGDClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 import numpy
+from pylab import plot, savefig, clf
 
 class Direction(object):
     Pre = 'pre'
@@ -67,7 +68,7 @@ class SimpleClassifierTester(object):
             for article in category.article_set.all():
                 testing_text = self._get_text(article)
                 self.test_data.append(testing_text)
-                self.test_target.append(training_categories[i].name)
+                self.test_target.append(self.training_categories[i].name)
 
 
     def _train(self):
@@ -80,17 +81,47 @@ class SimpleClassifierTester(object):
         #                      ('clf', SGDClassifier(loss='hinge', penalty='l2',
         #                                            alpha=1e-3, n_iter=5)),
         #                      ])
+        # self.clf = Pipeline([('vect', CountVectorizer()),
+        #                      ('tfidf', TfidfTransformer()),
+        #                      ('clf', MultinomialNB(alpha=1e-2, fit_prior=False)),
+        #                      ])
         self.clf = Pipeline([('vect', CountVectorizer()),
                              ('tfidf', TfidfTransformer()),
-                             ('clf', MultinomialNB()),
+                             ('clf', BernoulliNB(alpha=1.0)),
                              ])
-
         self.clf = self.clf.fit(self.train_data, self.train_target)
 
     def _test(self):
         predicted = self.clf.predict(self.test_data)
+        # print predicted
+        # print self.test_target
         score = numpy.mean(predicted == self.test_target)
         return score
+
+    def plot_words_scores(self):
+        final_clf = self.clf.steps[2][1]
+        classes = final_clf.classes_
+        for i, cls_name in enumerate(classes):
+            # plot sorted indices
+            q = numpy.array(final_clf.feature_log_prob_[i])
+            q.sort()
+            q = q[::-1]
+            clf()
+            plot(range(len(q)), q)
+            savefig('{:s}.png'.format(cls_name))
+
+    def _k_most_important_words_per_category(self, k):
+        countvectorizer = self.clf.steps[0][1]
+        final_clf = self.clf.steps[2][1]
+        classes = final_clf.classes_
+        most_important_words = []
+        for i, cls_name in enumerate(classes):
+            sorted_indices = final_clf.feature_log_prob_[i].argsort()
+            max_indices = sorted_indices[-k:][::-1]
+            important_words = [countvectorizer.get_feature_names()[index] for index in max_indices]
+            most_important_words.append([cls_name, important_words])
+
+        return most_important_words
 
     def score(self):
 
@@ -102,8 +133,12 @@ class SimpleClassifierTester(object):
 
 
 if __name__ == '__main__':
-    training_categories = Category.objects.filter(language='en')
-    testing_categories = Category.objects.filter(language='es')
+    trainc = Category.objects.filter(language='en')
+    testc = Category.objects.filter(language='es')
 
-    s = SimpleClassifierTester('en', 'es', training_categories, testing_categories, Direction.Pre)
+    s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Pre)
+    # s._train()
+    # s._k_most_important_words_per_category(5)
+    print s.score()
+    s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
     print s.score()

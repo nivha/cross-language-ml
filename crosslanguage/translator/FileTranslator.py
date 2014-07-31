@@ -12,6 +12,9 @@ import codecs
 import traceback
 
 
+
+
+
 # TODO: wrap the selenium with 'with'
 class FileTranslator(object):
 
