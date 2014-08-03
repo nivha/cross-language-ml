@@ -1,10 +1,11 @@
 import os
+
 from clml.data_load import load_category
-from crosslanguage.utils import get_category_folder
+from clml.utils import get_category_folder
+
 
 __author__ = 'Niv & Ori'
 
-from clml.models import Category
 
 def download_cateogries(language, categories, max_articles_num):
 
@@ -16,6 +17,7 @@ def download_cateogries(language, categories, max_articles_num):
     #     tr = CategoryTranslator(Language(Language.Spanish), [Language(Language.English)], c)
     #     tr.do_translation()
     pass
+
 
 def clean_untranslated_articels(language, category_name):
     # clean articles that counldn't be translated

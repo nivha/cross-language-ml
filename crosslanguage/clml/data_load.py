@@ -1,13 +1,14 @@
 # coding=utf-8
 
 import os
+
 from fetcher.utils import cat_lang
+
 
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 
 from clml.models import Category, Article, ArticleContent
-from crosslanguage.utils import Language
 
 
 def load_category(language, category_name):

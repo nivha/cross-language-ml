@@ -7,12 +7,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from crosslanguage.utils import Language
+from clml.utils import Language
 import codecs
 import httplib
 import traceback
 from threading import Timer
-
 
 
 # TODO: wrap the selenium with 'with'
@@ -52,7 +51,6 @@ class FileTranslator(object):
         translated_text = result.text
         self.driver.get('http://www.google.com')
         return translated_text
-
 
     def translate_file(self, path):
         with open(path) as f:

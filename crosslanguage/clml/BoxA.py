@@ -43,7 +43,7 @@ class SimpleClassifierTester(object):
         self.test_target = []
 
         self._prepare_data()
-
+        self._train()
 
     def _get_text(self, article):
         if self.direction == Direction.Pre:
@@ -81,20 +81,18 @@ class SimpleClassifierTester(object):
         #                      ('clf', SGDClassifier(loss='hinge', penalty='l2',
         #                                            alpha=1e-3, n_iter=5)),
         #                      ])
-        # self.clf = Pipeline([('vect', CountVectorizer()),
-        #                      ('tfidf', TfidfTransformer()),
-        #                      ('clf', MultinomialNB(alpha=1e-2, fit_prior=False)),
-        #                      ])
         self.clf = Pipeline([('vect', CountVectorizer()),
                              ('tfidf', TfidfTransformer()),
-                             ('clf', BernoulliNB(alpha=1.0)),
+                             ('clf', MultinomialNB(alpha=1e-2, fit_prior=False)),
                              ])
+        # self.clf = Pipeline([('vect', CountVectorizer()),
+        #                      ('tfidf', TfidfTransformer()),
+        #                      ('clf', BernoulliNB(alpha=1.0)),
+        #                      ])
         self.clf = self.clf.fit(self.train_data, self.train_target)
 
     def _test(self):
         predicted = self.clf.predict(self.test_data)
-        # print predicted
-        # print self.test_target
         score = numpy.mean(predicted == self.test_target)
         return score
 
@@ -124,24 +122,22 @@ class SimpleClassifierTester(object):
         return most_important_words
 
     def score(self):
-
-        self._prepare_data()
-        self._train()
         score = self._test()
         return score
 
 
 
 if __name__ == '__main__':
-    trainc = Category.objects.filter(name__in=['Asian_art', 'Latin_American_art'])
-    testc = Category.objects.filter(name__in=['Arte_de_Asia', 'Arte_latinoamericano'])
+    trainc = [Category.objects.get(name='Asian_art'),
+              Category.objects.get(name='Latin_American_art')]
+    testc = [Category.objects.get(name='Arte_de_Asia'),
+             Category.objects.get(name='Arte_latinoamericano')]
 
     s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Pre)
-    # s._train()
     # s.plot_words_scores()
     print s.score()
     s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
     print s.score()
 
-    # s._train()
-    # s._k_most_important_words_per_category(5)
+    # for c, l in s._k_most_important_words_per_category(20):
+    #     print c, l

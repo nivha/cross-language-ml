@@ -2,11 +2,9 @@ import os
 os.environ["DJANGO_SETTINGS_MODULE"] = 'crosslanguage.settings'
 from django.conf import settings
 
-import time
 from translator.FileTranslator import FileTranslator
 
-from crosslanguage.utils import Language
-import shutil
+from clml.utils import Language
 
 
 class CategoryTranslator(object):
