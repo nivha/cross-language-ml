@@ -9,9 +9,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from crosslanguage.utils import Language
 import codecs
+import httplib
 import traceback
-
-
+from threading import Timer
 
 
 
@@ -22,30 +22,37 @@ class FileTranslator(object):
         self.source_lang = source_lang
         self.target_lang = target_lang
 
+        self.driver = webdriver.Firefox()
+
+    def _forcefully_kill_firefox(self):
+        """ This is needed in order to kill Firefox when it gets stuck.. """
+        print "Killing Firefox forcefully..."
+        os.system('taskkill /im firefox.exe /f /t')
+
     def translate_text(self, text_to_translate, quit_browser=True):
-        try:
-            # Initialize firefox driver
-            driver = webdriver.Firefox()
-            # Open Google Translate website
-            url = "http://translate.google.com/#%s/%s/%s" % (self.source_lang.to_google_translate(),
-                                                             self.target_lang.to_google_translate(),
-                                                             text_to_translate)
-            # print 'url: ' + url
-            driver.get(url)
+        # # Initialize firefox driver
+        # driver = webdriver.Firefox()
 
-            # Wait for results to appear and retrive them
-            result = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "result_box")))
-            translated_text = result.text
+        # Open Google Translate website
+        url = "http://translate.google.com/#%s/%s/%s" % (self.source_lang.to_google_translate(),
+                                                         self.target_lang.to_google_translate(),
+                                                         text_to_translate)
+        # print 'url: ' + url
+        self.driver.get(url)
 
-            return translated_text
-        except Exception:
-            print traceback.format_exc()
-            print "="*50
-        finally:
-            # Quit no matter what
-            if quit_browser:
-                driver.quit()
-                pass
+        # Wait for results to appear and retrieve them
+        # If results don't show up in 11 seconds, it means that Firefox stuck,
+        # kill it and continue
+        t = Timer(11.0, self._forcefully_kill_firefox)
+        t.start()
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//span[@id='result_box']/span[@class='hps']")))
+        t.cancel()
+
+        result = self.driver.find_element_by_id('result_box')
+        translated_text = result.text
+        self.driver.get('http://www.google.com')
+        return translated_text
+
 
     def translate_file(self, path):
         with open(path) as f:
@@ -53,7 +60,18 @@ class FileTranslator(object):
             return self.translate_text(text)
 
     def translate_to_file(self, source_path, target_path):
-        translated_text = self.translate_file(source_path)
+        try:
+            translated_text = self.translate_file(source_path)
+        except httplib.CannotSendRequest:
+            self.driver = webdriver.Firefox()
+            return
+        except Exception, e:
+            print "Failed to translate: {:s}".format(source_path)
+            print '='*60
+            import traceback
+            print traceback.format_exc()
+            return
+
         with codecs.open(target_path, 'w', 'utf-8') as f:
             f.write(translated_text)
 

@@ -32,6 +32,10 @@ class Category(models.Model):
     # Language of the category
     language = LanguageField()
 
+    def get_folder(self):
+        """ returns the folder where this category is found in the fs """
+        pass
+
     def __unicode__(self):
         return "%s: %s" % (self.language, self.name)
 

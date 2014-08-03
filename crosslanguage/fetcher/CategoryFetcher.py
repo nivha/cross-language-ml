@@ -30,17 +30,22 @@ class CategoryFetcher(object):
         }
         self.site = wiki.Wiki(sites_by_language[self.language])
 
-    def get_category(self, category):
+    def get_category_articles(self, category):
         return [article for article in category.getAllMembersGen()]
 
     def is_category(self, category):
         category_pattern = u'{:s}:'.format(cat_lang[self.language])
         return category[:len(category_pattern)] == category_pattern
 
-    def get_category_recursively(self, category_title):
+    def get_category_recursively(self, category_title, max_articles_num=None):
         """
-            Iterative BFS on the category tree
-            returns all articles found in the run, as wiki Page objects
+        Iterative BFS on the category tree
+        returns all articles found in the run, as wiki Page objects
+
+        :param category_title: title of needed category
+        :param max_articles_num: maximum number of articles to fetch. stops after reaching the limit
+                                 'None' means without limit.
+        :return:
         """
 
         closed_categories = set()
@@ -53,11 +58,14 @@ class CategoryFetcher(object):
             if current_category_name in closed_categories: continue
             current_category = category.Category(self.site, current_category_name)
 
-            for d in self.get_category(current_category):
+            for d in self.get_category_articles(current_category):
                 if self.is_category(d.title):
                     open_categories.append(d.title)
                 else:
                     articles.add(d)
+                    # quit if maximum_articles_num reached
+                    if max_articles_num is not None and len(articles) >= max_articles_num:
+                        return articles
             closed_categories.add(current_category)
 
         return articles

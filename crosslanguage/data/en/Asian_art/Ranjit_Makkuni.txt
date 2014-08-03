@@ -1,0 +1,79 @@
+Ranjit Makkuni is an international multimedia  artist and  designer, the honorary director of the design think tank, the Sacred World Research Laboratory. His multidimensional, multimedia museum works are intersections between traditional and modern art, design and technology, such that the results help both traditional and modern cultures. They are intended to show that the wisdom of traditional communities can positively negate the homogenizing influences of modern technology; and  that  the intelligence, creativity and sense of freedom afforded by modern design and technology can reciprocally help traditional artists.
+
+His major works are several museum projects: Eternal Gandhi Multimedia Museum,
+Planet Health Museum, The Goddess and Temples of Music, and The Crossing: Living, Dying and Transformation in Banaras.
+
+==Education and research==
+
+Ranjit obtained a B.Arch. from IIT, Kharagpur, and a Masters in Design Theory and Methods from University of California Los Angeles (UCLA). He has been a scientific consultant to HP Labs Palo Alto, HP Labs Bangalore, and a member of the Explorer’s club of the Ivrea Institute of Design, Ivrea, Italy. He is a member of the mentoring group of Nehru Memorial Museum, New Delhi, constituted by the Prime Minister of India.
+
+==Works done at Xerox Palo Alto Research Center (PARC)==
+In 1985, Ranjit joined the System Concepts Lab of PARC,   becoming part of the group which developed the Smalltalk-80 Object Oriented programming language and the world's first graphic user interface.
+From that base, Ranjit pioneered explorations in computer-aided design (CAD), gesture-based interfaces, and multimedia applications to develop the Active Learning Project at PARC.  These have been demonstrated as museum exhibitions in the US, India, Europe and Thailand (see Bibliography - Exhibitions below), transforming people’s perceptions of traditional cultures,and  presenting an Asian approach to interaction with computing technology.
+
+In 1989, The Electronic Sketchbook of Tibetan Thangka Painting was displayed in the Asian Art Museum of San Francisco. This project represents one of the world's first multimedia applications of any kind   and a pioneering example of a computer based cultural learning tool.
+
+During 1994-1997, he worked with   scholars at the Indira Gandhi National Centre for the Arts, New Delhi, to develop the Gita-Govinda Multimedia Experience, a pioneering demonstration of a physical-virtual multimedia document based on the poet Jayadeva’s 12th century love poem, the Gita Govinda. This project brought the footprints of multimedia computing technology to India.
+
+==Works done at Sacred World Research Laboratory==
+During 1998-2002, Ranjit conceived and directed The Crossing Project: Living, Dying, and Transformation in Banaras which developed a panorama of digital information access devices and technologies personalized by the cultural traditions of Banaras. The project brought together Western Information Access Knowledge systems and Indian notions of 'connection' and interaction based on India’s city of Knowledge, Banaras. The project was a pioneering demonstration of physical computing, and culturally personalized computing hardware and interactions.
+
+During 2003-2005, Ranjit visualized and directed the Eternal Gandhi Multimedia Museum, New Delhi, one of the world’s first digital multimedia museums. Located at the site where Mahatma Gandhi attained martyrdom, the museum preserves the historical events of Gandhiji’s life in digital form but also presents a spectrum of information technology visions inspired by Gandhian thought. The project revives the values by which India obtained freedom; it also redefines those values in order to animate modern products and design. Through a collection of over 50 originally designed works of technology and art, the project interpreted Gandhian thought in the design of new technology and illustrated how village aesthetics and creativity can shape modern design.
+
+In 2010, Ranjit built the Planet Health Museum, an interactive museum that allows people to access traditional Green philosophy and the concept and experience of health from the perspectives of Ayurveda and Yoga. Starting from the concept of health and Indian perspectives of the body, the project illustrated new visions and tools for a healthy society and planet. The project presents this vision across a spectrum of disciplines using many forms of visual and performing arts, ancient sciences and modern interaction design to communicate the vision.
+
+Ranjit’s 2012 exhibition, The Goddess and Temples of Music project puts forth a vision of the beauty and spirituality of the feminine, and hopes to inspire in people respect for Woman, based on the world’s Goddess traditions. Using the forms of musical instruments and music as a tool to unravel the language of the sacred feminine, the project transforms Modern Man’s perceptions, illustrating possibilities for a positive, compassionate, sustainable way of life.
+
+The project presents both traditional and new instruments based on Indian Vina based instruments, Sitar, Burmese Harp, Thai Xylophone, Korean Kayagum, and Javanese & Balinese Gamelan. New Instruments with embedded computation demonstrate tactile computing, i.e., interaction with computers through gesture and kinaesthetic action. In addition, through responsive computing, people by their position, gesture, and movements control musical events in the environment.
+
+In 2013, Ranjit launched Musical Landscapes and the Goddesses of Music at the National Museum, New Delhi. 
+ This exhibition explores the science, art and spirituality of Music, and its reflections in the Goddess images across Asian cultures.
+
+==Awards==
+* Co-recipient of the Mahavir Mahatma award 2005, India for the propagation of peace.
+* Asian Cultural Council fellowship, New York, 2003.
+* Ars Electronica award for Interactive art, Linz, 2002.
+* ID Magazine award, New York, 1998.
+* ID Magazine award, New York, 2002.
+* ID Magazine award, New York, 2005.
+* Nomination for National Award for Design, USA, 2012.
+* A award, Italy, 2012.
+* A award, Italy, Cultural Heritage and Culture Industry Design Award for 2013 - 2014, 2014.
+
+==Bibliography - books==
+*     Banaras: The Crossing. Living, Dying and Transformation in Banaras, 2003, Co authored with Dr. Madhu Khanna. 
+*     Eternal Gandhi Multimedia Museum, design of the museum, 2007.
+
+==Bibliography - museums==
+*     Planet Health Museum, Sacred World Research Laboratory, New Delhi, 2010. 
+*     Eternal Gandhi Multimedia Museum, Sacred World Research Laboratory, Gandhi Smriti and Darshan Samiti, New Delhi, 2005.
+
+==Bibliography - exhibitions==
+
+*     Musical Landscapes and the Goddesses of Music, National Museum, New Delhi, 2013.
+*     Goddess and her Temples of Music, National Museum, New Delhi, 2013.
+*     So Many Minds II, Contributing artist, CMU art museum, Thailand, 2013.
+*     New India Designscape, Contributing artist, Triennale Design Museum, Milan, 2012. 
+*     So Many Minds I, Contributing artist, CMU art museum, Thailand, 2011.
+*     Sacred Touch,  Winter Olympics, Vancouver, Canada, 2010.
+*     Eternal Gandhi, Technology Center, Jaipur, 2008.
+*     Eternal Gandhi, Science City, Ahmadabad, 2007.
+*     Eternal Gandhi, International Convention Centre, Pune, 2006.
+*     Eternal Gandhi, Prince of Wales Museum, Mumbai, 2006.
+*     Eternal Gandhi, National Gallery of Modern Art, Mumbai, 2006.
+
+*     Secrets of Shiva, National Gallery, Bangkok, 2006.
+*     The Crossing Project: Living, Dying and Transformation in Banaras, OK Center for the Arts, Linz, 2002.
+*     The Crossing Project: Living, Dying and Transformation in Banaras, Asia Society, New York, 2002.
+*     The Crossing Project: Living, Dying and Transformation in Banaras, National Gallery of Modern Art, Mumbai, 2002.
+*     The Crossing Project: Living, Dying and Transformation in Banaras, India Habitat Centre, New Delhi. 2001.
+*     Gita-Govinda Multimedia Experience, Indira Gandhi National Center for the Arts, New Delhi, 1997.
+*     Electronic Sketch Book of Tibetan Thangka Painting, Asian Art Museum, San Francisco, 1989.
+
+==Sitar music==
+
+Ranjit Makkuni studied sitar under the tutelage of maestro Ustad Ali Akbar Khan, and carries jewels of composition from bygone eras.
+
+Music Website
+
+==References==

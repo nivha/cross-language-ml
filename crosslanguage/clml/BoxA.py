@@ -133,12 +133,15 @@ class SimpleClassifierTester(object):
 
 
 if __name__ == '__main__':
-    trainc = Category.objects.filter(language='en')
-    testc = Category.objects.filter(language='es')
+    trainc = Category.objects.filter(name__in=['Asian_art', 'Latin_American_art'])
+    testc = Category.objects.filter(name__in=['Arte_de_Asia', 'Arte_latinoamericano'])
 
     s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Pre)
     # s._train()
-    # s._k_most_important_words_per_category(5)
+    # s.plot_words_scores()
     print s.score()
     s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
     print s.score()
+
+    # s._train()
+    # s._k_most_important_words_per_category(5)

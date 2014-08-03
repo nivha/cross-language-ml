@@ -24,9 +24,9 @@ class CategoryTranslator(object):
         target_lang_path_list = [l.to_path() for l in self.target_lang_list]
 
         # First, remove folders with any translated content
-        for folder in os.listdir(self.category_path):
-            if folder in target_lang_path_list:
-                shutil.rmtree(os.path.join(self.category_path, folder))
+        # for folder in os.listdir(self.category_path):
+        #     if folder in target_lang_path_list:
+        #         shutil.rmtree(os.path.join(self.category_path, folder))
 
         # Then, translate all files for each language
         for target_lang in self.target_lang_list:
@@ -34,25 +34,29 @@ class CategoryTranslator(object):
             target_path = os.path.join(self.category_path, target_lang.to_path())
 
             # Delete old folder of translations
-            if os.path.isdir(target_path):
-                shutil.rmtree(target_path)
-                time.sleep(5)
+            # if os.path.isdir(target_path):
+            #     shutil.rmtree(target_path)
+            #     time.sleep(5)
 
             # Make new directory for translated articles
-            os.makedirs(target_path)
+            if not os.path.exists(target_path):
+                os.makedirs(target_path)
 
             # Make translator
             translator = FileTranslator(self.source_lang, target_lang)
 
             # Translate all files in directory
             for filename in os.listdir(self.category_path):
-                if not filename.endswith('.txt'):
-                    # Skip files which are not text files (ends with .txt)
-                    continue
+                # Skip files which are not text files (ends with .txt)
+                if not filename.endswith('.txt'): continue
 
-                # Translate source file to target file
                 file_source_path = os.path.join(self.category_path, filename)
                 file_target_path = os.path.join(target_path, filename)
+
+                # don't translate if translation already exists
+                if os.path.exists(file_target_path): continue
+
+                # Translate source file to target file
                 translator.translate_to_file(file_source_path, file_target_path)
 
 
@@ -81,8 +85,14 @@ class DataTranslator(object):
 
 if __name__ == '__main__':
     # translate_all_lang_categories(Language(Language.Spanish), [Language(Language.English)])
-    translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
+    # translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
 
-    # tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], 'Maxwell_Medal_and_Prize_recipients')
-    # tr.do_translation()
+    en_categories = ['Asian_art', 'Latin_American_art']
+    es_categories = ['Arte_de_Asia', 'Arte_latinoamericano']
 
+    for c in en_categories:
+        tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], c)
+        tr.do_translation()
+    for c in es_categories:
+        tr = CategoryTranslator(Language(Language.Spanish), [Language(Language.English)], c)
+        tr.do_translation()

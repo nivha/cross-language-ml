@@ -25,15 +25,16 @@ class WikiFetcher(object):
             wf.fetch_to_files()
     """
 
-    def __init__(self, language, category):
+    def __init__(self, language, category, max_articles_num=None):
         self.category = category
         self.language = language
+        self.max_articles_num = max_articles_num
 
         self.category_base_dir = os.path.join(settings.DATA_DIR, self.language, urllib.quote_plus(self.category))
 
     def fetch_raw_articles(self):
         cf = CategoryFetcher(self.language)
-        return cf.get_category_recursively(self.category)
+        return cf.get_category_recursively(self.category, self.max_articles_num)
 
     def fetch_to_files(self):
         """
@@ -42,6 +43,7 @@ class WikiFetcher(object):
         if not os.path.exists(self.category_base_dir): os.makedirs(self.category_base_dir)
 
         articles = self.fetch_raw_articles()
+        print 'Fetched {:d} articles'.format(len(articles))
         for article in articles:
             article_title = urllib.quote_plus(article.urltitle)
             path = os.path.join(self.category_base_dir, "{:s}.txt".format(article_title))
@@ -66,14 +68,17 @@ if __name__=="__main__":
     # wf = WikiFetcher('en', "Aetobatus")
 
     # some real shit now:
-    en_categories = ['Dark_matter', 'Black_holes']
-    es_categories = ['Materia_oscura', 'Agujeros_negros']
+    # en_categories = ['Dark_matter', 'Black_holes']
+    # es_categories = ['Materia oscura', 'Agujeros negros']
 
-    for category in en_categories:
-        wf = WikiFetcher('en', category)
-        wf.fetch_to_files()
+    en_categories = ['Asian_art', 'Latin_American_art']
+    es_categories = ['Arte_de_Asia', 'Arte_latinoamericano']
+
+    # for category in en_categories:
+    #     wf = WikiFetcher('en', category, 200)
+    #     wf.fetch_to_files()
     for category in es_categories:
-        wf = WikiFetcher('es', category)
+        wf = WikiFetcher('es', category, 200)
         wf.fetch_to_files()
 
 
