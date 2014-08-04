@@ -1,18 +1,1 @@
-V404 Cygni is a binary star system consisting of a black hole with a mass of about  and a late G or early K companion star of mass slightly smaller than the Sun in the constellation of Cygnus. The two stars orbit each other every  at fairly close range. Due to their close proximity the main sequence star would be distorted into egg shape by the black hole's gravity and lose mass to the black hole.
-
-The "V" in the name indicates that it is a variable star, which repeatedly gets brighter and fainter over time. It is also considered a nova, because at least three times in the 20th century it produced a bright outburst of energy. Finally, it is a soft X-ray transient because it periodically emits short bursts of X-rays.
-
-It has been suggested that the more massive component of the system might be a Q star instead of a black hole.
-
-In 2009, the black hole in the V404 Cygni system became the first black hole to have an accurate parallax measurement for its distance from our solar system; the distance is , or  light-years.
-
-==Discovery==
-On May 22, 1989 the Japanese Ginga Team discovered a new X-ray source that was cataloged as GS 2023+338. This source was subsequently identified as coincident in position with a previously known nova cataloged as V404 Cygni.
-
-==See also==
-* Q star
-
-==References==
-
-*"V404 Cyg: 10 years in quiescence" Elena P. Pavlenko, Yuliana G. Kuznetsova, Sergei Yu. Shugarov and Vladislav S. Petrov. Astrophysics and Space Science Supplement, 276, pp. 65-66
-*"The 1989 outburst of V404 cygni: A very unusual x-ray nova" R. M. Wagner, S. Starrfield, A. Cassatella, R. Gonzalez-Riestra, T. J. Kreidl, S. B. Howell, R. M. Hjellming, X. -H. Han, G. Sonneborn
+{"text": "V404 Cygni is a binary star system consisting of a black hole with a mass of about  and a late G or early K companion star of mass slightly smaller than the Sun in the constellation of Cygnus. The two stars orbit each other every  at fairly close range. Due to their close proximity the main sequence star would be distorted into egg shape by the black hole's gravity and lose mass to the black hole.\n\nThe \"V\" in the name indicates that it is a variable star, which repeatedly gets brighter and fainter over time. It is also considered a nova, because at least three times in the 20th century it produced a bright outburst of energy. Finally, it is a soft X-ray transient because it periodically emits short bursts of X-rays.\n\nIt has been suggested that the more massive component of the system might be a Q star instead of a black hole.\n\nIn 2009, the black hole in the V404 Cygni system became the first black hole to have an accurate parallax measurement for its distance from our solar system; the distance is , or  light-years.\n\n==Discovery==\nOn May 22, 1989 the Japanese Ginga Team discovered a new X-ray source that was cataloged as GS 2023+338. This source was subsequently identified as coincident in position with a previously known nova cataloged as V404 Cygni.\n\n==See also==\n* Q star\n\n==References==\n\n*\"V404 Cyg: 10 years in quiescence\" Elena P. Pavlenko, Yuliana G. Kuznetsova, Sergei Yu. Shugarov and Vladislav S. Petrov. Astrophysics and Space Science Supplement, 276, pp. 65-66\n*\"The 1989 outburst of V404 cygni: A very unusual x-ray nova\" R. M. Wagner, S. Starrfield, A. Cassatella, R. Gonzalez-Riestra, T. J. Kreidl, S. B. Howell, R. M. Hjellming, X. -H. Han, G. Sonneborn", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/V404_Cygni"}

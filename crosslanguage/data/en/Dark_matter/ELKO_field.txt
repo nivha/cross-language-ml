@@ -1,9 +1,1 @@
-In cosmology and theoretical physics the ELKO field is a dark matter candidate.
-
-The ELKO field was originally suggested in 2005 by D. V. Ahluwalia (then, under the name Ahluwalia-Khalilova) and D. Grumiller. The name comes from the acronym of the original German term Eigenspinoren des LadungsKonjugationsOperators, designating spinors that are eigenspinors of the charge conjugation operator.
-
-ELKO quantum fields ﬁelds describe spin-1/2 fermions with mass dimension one. Since the field has a mass dimensionality mismatch with standard model matter fields it was suggested as a dark matter candidate. As a result of their scalar-like mass dimension they differ significantly from the mass dimension 3/2 Dirac fermions.
-
-An up-to-date reference is a 2013 preprint.
-
-==References==
+{"text": "In cosmology and theoretical physics the ELKO field is a dark matter candidate.\n\nThe ELKO field was originally suggested in 2005 by D. V. Ahluwalia (then, under the name Ahluwalia-Khalilova) and D. Grumiller. The name comes from the acronym of the original German term Eigenspinoren des LadungsKonjugationsOperators, designating spinors that are eigenspinors of the charge conjugation operator.\n\nELKO quantum fields \ufb01elds describe spin-1/2 fermions with mass dimension one. Since the field has a mass dimensionality mismatch with standard model matter fields it was suggested as a dark matter candidate. As a result of their scalar-like mass dimension they differ significantly from the mass dimension 3/2 Dirac fermions.\n\nAn up-to-date reference is a 2013 preprint.\n\n==References==", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/ELKO_field"}

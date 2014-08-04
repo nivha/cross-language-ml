@@ -1,4 +1,5 @@
 import os
+from clml.cleaner import clean_untranslated_articels
 
 from clml.data_load import load_category
 from clml.utils import get_category_folder
@@ -18,22 +19,6 @@ def download_cateogries(language, categories, max_articles_num):
     #     tr.do_translation()
     pass
 
-
-def clean_untranslated_articels(language, category_name):
-    # clean articles that counldn't be translated
-
-    category_path = get_category_folder(language, category_name)
-    other_lang = 'es' if language == 'en' else 'en'
-    # get original language files
-    orig = set(filter(lambda x: os.path.splitext(x)[-1]=='.txt', os.listdir(category_path)))
-    trans = set(filter(lambda x: os.path.splitext(x)[-1]=='.txt', os.listdir(os.path.join(category_path, other_lang))))
-
-    untranslated = orig - trans
-    # delete untranslated
-    for fname in untranslated:
-        path = os.path.join(category_path, fname)
-        print 'deleting', path
-        os.remove(path)
 
 
 en_categories = ['Asian_art', 'Latin_American_art']

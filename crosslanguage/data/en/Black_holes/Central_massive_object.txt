@@ -1,11 +1,1 @@
-Central massive object (CMO) refers to a mass concentration at the center of a galaxy.
-It can be either a supermassive black hole or a nuclear star cluster, i.e., a dense cluster of stars.
-
-The most massive galaxies are believed to always contain a supermassive black hole (SBH); these galaxies do not contain nuclear star clusters, and the CMO is identified with the SBH. Fainter galaxies usually contain a nuclear star cluster (NSC); in most of these galaxies it is not known whether a supermassive black hole is present, and the CMO is identified with the NSC. A few galaxies, for instance the Milky Way and NGC 4395, are known to contain both a SBH and a NSC.
-
-The mass associated with CMOs is roughly 0.1-0.3% times the total mass of the galactic bulge.
-
-==See also==
-*Stellar dynamics
-
-==References==
+{"text": "Central massive object (CMO) refers to a mass concentration at the center of a galaxy.\nIt can be either a supermassive black hole or a nuclear star cluster, i.e., a dense cluster of stars.\n\nThe most massive galaxies are believed to always contain a supermassive black hole (SBH); these galaxies do not contain nuclear star clusters, and the CMO is identified with the SBH. Fainter galaxies usually contain a nuclear star cluster (NSC); in most of these galaxies it is not known whether a supermassive black hole is present, and the CMO is identified with the NSC. A few galaxies, for instance the Milky Way and NGC 4395, are known to contain both a SBH and a NSC.\n\nThe mass associated with CMOs is roughly 0.1-0.3% times the total mass of the galactic bulge.\n\n==See also==\n*Stellar dynamics\n\n==References==", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/Central_massive_object"}

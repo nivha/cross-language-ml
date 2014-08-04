@@ -1,11 +1,1 @@
-La materia oscura caliente es un tipo de materia oscura que estaría constituido por partículas que viajan a velocidad relativista.
-El candidato más probable para la materia oscura caliente es el neutrino.
-
-Los neutrinos tienen una masa insignificante, no tienen carga eléctrica y por lo tanto prácticamente no interaccionan con la materia, lo cual los convierte en increíblemente difícil de detectar. Estas mismas características, es también lo que los convierte en buenos candidatos para ser la materia oscura caliente.
-
-La materia oscura caliente, sin embargo, no puede explicar cómo se formaron las galaxias individuales a partir del Big Bang.
-El fondo de radiación de microondas, tal como ha sido medido por el satélite COBE es uniforme y no puede explicarse como las partículas de movimiento rápido se agregarían desde este estado inicial. Para explicar la estructura del universo, se hace necesaria la materia oscura fría. La materia oscura caliente es, en la actualidad, discutida como una parte de la teoría mixta de la materia oscura.
-
-==Véase también==
-*Materia oscura
-*Energía oscura
+{"text": "La materia oscura caliente es un tipo de materia oscura que estar\u00eda constituido por part\u00edculas que viajan a velocidad relativista.\nEl candidato m\u00e1s probable para la materia oscura caliente es el neutrino.\n\nLos neutrinos tienen una masa insignificante, no tienen carga el\u00e9ctrica y por lo tanto pr\u00e1cticamente no interaccionan con la materia, lo cual los convierte en incre\u00edblemente dif\u00edcil de detectar. Estas mismas caracter\u00edsticas, es tambi\u00e9n lo que los convierte en buenos candidatos para ser la materia oscura caliente.\n\nLa materia oscura caliente, sin embargo, no puede explicar c\u00f3mo se formaron las galaxias individuales a partir del Big Bang.\nEl fondo de radiaci\u00f3n de microondas, tal como ha sido medido por el sat\u00e9lite COBE es uniforme y no puede explicarse como las part\u00edculas de movimiento r\u00e1pido se agregar\u00edan desde este estado inicial. Para explicar la estructura del universo, se hace necesaria la materia oscura fr\u00eda. La materia oscura caliente es, en la actualidad, discutida como una parte de la teor\u00eda mixta de la materia oscura.\n\n==V\u00e9ase tambi\u00e9n==\n*Materia oscura\n*Energ\u00eda oscura", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Materia_oscura_caliente"}

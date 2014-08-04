@@ -1,15 +1,1 @@
-VIRGOHI21 es un halo galáctico de materia oscura situado en el Cúmulo de Virgo, a 60 millones de años luz de la Vía Láctea. Fue descubierto mediante estudios del hidrógeno neutro en el cúmulo, teniendo una masa entre 100 millones y 10 mil millones de masas solares. De esa masa, apenas la centésima parte está en la forma de gas.
-
-Este objeto no parece tener estrellas, o si las tiene son muy escasas; un estudio realizado por el Telescopio Espacial Hubble únicamente encontró 129 estrellas gigantes rojas.
-
-VIRGOHI21 parece haber interactuado con la galaxia M 99, siendo la responsable de la peculiar forma de uno de sus brazos.
-
-Sin embargo, otros autores piensan que su existencia es dudosa y que ha sido otra galaxia la responsable del aspecto de la galaxia M 99, siendo VIRGO HI21 simplemente los restos del encuentro entre las dos.
-
-== Referencias ==
-*http://nedwww.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=Virgo+HI21&extend=no&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
-*http://space.newscientist.com/article/dn12100-dark-galaxy-continues-to-puzzle-astronomers.html
-*http://www.pparc.ac.uk/Nw/d_galaxy2.asp
-*http://arxiv.org/abs/0706.1586
-*http://arxiv.org/abs/0707.0113
-*http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?2008ApJ...673..787D&db_key=AST&nosetcookie=1
+{"text": "VIRGOHI21 es un halo gal\u00e1ctico de materia oscura situado en el C\u00famulo de Virgo, a 60 millones de a\u00f1os luz de la V\u00eda L\u00e1ctea. Fue descubierto mediante estudios del hidr\u00f3geno neutro en el c\u00famulo, teniendo una masa entre 100 millones y 10 mil millones de masas solares. De esa masa, apenas la cent\u00e9sima parte est\u00e1 en la forma de gas.\n\nEste objeto no parece tener estrellas, o si las tiene son muy escasas; un estudio realizado por el Telescopio Espacial Hubble \u00fanicamente encontr\u00f3 129 estrellas gigantes rojas.\n\nVIRGOHI21 parece haber interactuado con la galaxia M 99, siendo la responsable de la peculiar forma de uno de sus brazos.\n\nSin embargo, otros autores piensan que su existencia es dudosa y que ha sido otra galaxia la responsable del aspecto de la galaxia M 99, siendo VIRGO HI21 simplemente los restos del encuentro entre las dos.\n\n== Referencias ==\n*http://nedwww.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=Virgo+HI21&extend=no&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES\n*http://space.newscientist.com/article/dn12100-dark-galaxy-continues-to-puzzle-astronomers.html\n*http://www.pparc.ac.uk/Nw/d_galaxy2.asp\n*http://arxiv.org/abs/0706.1586\n*http://arxiv.org/abs/0707.0113\n*http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?2008ApJ...673..787D&db_key=AST&nosetcookie=1", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/VIRGOHI21"}

@@ -1,4 +1,1 @@
-Inspiral refers to the path of binary stars which are losing energy and approaching each other.  Several things can cause the loss of energy including tidal forces, mass transfer, and gravitational radiation.  The stars describe the path of a spiral as they approach each other.  This sometimes results in a merger of the two stars or the creation of a black hole.  The last several revolutions of the stars around each other take only a few seconds in the latter case.
-
-== External Links ==
-Inspiral Gravitational Waves on the website of LIGO
+{"text": "Inspiral refers to the path of binary stars which are losing energy and approaching each other.  Several things can cause the loss of energy including tidal forces, mass transfer, and gravitational radiation.  The stars describe the path of a spiral as they approach each other.  This sometimes results in a merger of the two stars or the creation of a black hole.  The last several revolutions of the stars around each other take only a few seconds in the latter case.\n\n== External Links ==\nInspiral Gravitational Waves on the website of LIGO", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/Inspiral"}

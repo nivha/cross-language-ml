@@ -1,11 +1,1 @@
-El axino es una hipotética partícula elemental predicha por algunas teorías de física de partículas. La teoría de Peccei–Quinn intenta explicar el fenómeno observado conocido como el gran problema CP introduciendo una hipotética partícula escalar llamada axión. Añadiendo la supersimetría al modelo, predice la existencia de un supercompañero fermiónico para el axión, el axino, y un supercompañero bosón, el saxión. Todos ellos se encuentran agrupados en una supercampo quiral.
-
-Según tal teoría, el axino sería la partícula supersimétrica más ligera.  Debido a esta propiedad, entre otras, se considera un candidato para ser él o uno de los componentes de la materia oscura
-
-== Véase también ==
-* Quiralidad (física)
-* Supergravedad
-* Supersimetría
-* Saxión
-
-== Referencias ==
+{"text": "El axino es una hipot\u00e9tica part\u00edcula elemental predicha por algunas teor\u00edas de f\u00edsica de part\u00edculas. La teor\u00eda de Peccei\u2013Quinn intenta explicar el fen\u00f3meno observado conocido como el gran problema CP introduciendo una hipot\u00e9tica part\u00edcula escalar llamada axi\u00f3n. A\u00f1adiendo la supersimetr\u00eda al modelo, predice la existencia de un supercompa\u00f1ero fermi\u00f3nico para el axi\u00f3n, el axino, y un supercompa\u00f1ero bos\u00f3n, el saxi\u00f3n. Todos ellos se encuentran agrupados en una supercampo quiral.\n\nSeg\u00fan tal teor\u00eda, el axino ser\u00eda la part\u00edcula supersim\u00e9trica m\u00e1s ligera.  Debido a esta propiedad, entre otras, se considera un candidato para ser \u00e9l o uno de los componentes de la materia oscura\n\n== V\u00e9ase tambi\u00e9n ==\n* Quiralidad (f\u00edsica)\n* Supergravedad\n* Supersimetr\u00eda\n* Saxi\u00f3n\n\n== Referencias ==", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Axino"}

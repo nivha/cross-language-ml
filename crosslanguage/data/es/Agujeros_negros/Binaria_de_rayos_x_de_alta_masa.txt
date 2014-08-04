@@ -1,6 +1,1 @@
-Las binarias de rayos x de alta masa son un tipo de binarias de rayos X que se componen de una estrella de la secuencia principal de masa mucho mayor que la del Sol, normalmente una estrella Be o una supergigante azul, y otra que es un objeto compacto, ya sea un agujero negro o una estrella de neutrones.
-En este tipo de binaria de rayos X la acreción de materia se realiza mediante viento. El viento estelar de la estrella primaria es capturado por la estrella secundaria, y, cuando éste cae en el objeto, produce rayos x. Uno de los más famosos sistemas de este tipo es Cygnus X-1; en él se descubrió el primer agujero negro estelar.
-
-== Véase también ==
-* Binaria de Rayos X
-* Binaria de rayos x de baja masa
+{"text": "Las binarias de rayos x de alta masa son un tipo de binarias de rayos X que se componen de una estrella de la secuencia principal de masa mucho mayor que la del Sol, normalmente una estrella Be o una supergigante azul, y otra que es un objeto compacto, ya sea un agujero negro o una estrella de neutrones.\nEn este tipo de binaria de rayos X la acreci\u00f3n de materia se realiza mediante viento. El viento estelar de la estrella primaria es capturado por la estrella secundaria, y, cuando \u00e9ste cae en el objeto, produce rayos x. Uno de los m\u00e1s famosos sistemas de este tipo es Cygnus X-1; en \u00e9l se descubri\u00f3 el primer agujero negro estelar.\n\n== V\u00e9ase tambi\u00e9n ==\n* Binaria de Rayos X\n* Binaria de rayos x de baja masa", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Binaria_de_rayos_x_de_alta_masa"}

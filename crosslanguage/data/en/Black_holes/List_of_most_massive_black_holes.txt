@@ -1,17 +1,1 @@
-This is a list of the largest known black holes by mass. The unit of measurement used is the solar mass, or the mass of the Sun (approx. 2 kilograms).
-
-All black holes in this list are classified as supermassive, with masses from a few million to several billion solar masses.
-
-The order of this list is speculative:
-
-* There are wildly varying ranges in mass estimates of some black holes, due to unknown speed and rotation of their event horizons, giving estimates in a wide range. Such an example is the black hole in NGC 4889, which can be as low as 6 billion solar masses or can be as large as 37 billion solar masses.
-
-* Most black holes are occluded by matter from their host galaxies, making the estimates of their mass not clearly defined.
-
-* The M-sigma relation can only be estimated by observing orbiting bodies, however, due to their distances, such estimates are often quite doubtful.
-
-* The Nuclear Spectroscopic Telescope Array (NuSTAR) has surveyed some supermassive black holes in distant galaxies and 10 of them are found to be larger than the 1 billion solar mass cutoff point at this table, with the largest of around 17 billion M☉.
-
-==List==
-
-==References==
+{"text": "This is a list of the largest known black holes by mass. The unit of measurement used is the solar mass, or the mass of the Sun (approx. 2 kilograms).\n\nAll black holes in this list are classified as supermassive, with masses from a few million to several billion solar masses.\n\nThe order of this list is speculative:\n\n* There are wildly varying ranges in mass estimates of some black holes, due to unknown speed and rotation of their event horizons, giving estimates in a wide range. Such an example is the black hole in NGC 4889, which can be as low as 6 billion solar masses or can be as large as 37 billion solar masses.\n\n* Most black holes are occluded by matter from their host galaxies, making the estimates of their mass not clearly defined.\n\n* The M-sigma relation can only be estimated by observing orbiting bodies, however, due to their distances, such estimates are often quite doubtful.\n\n* The Nuclear Spectroscopic Telescope Array (NuSTAR) has surveyed some supermassive black holes in distant galaxies and 10 of them are found to be larger than the 1 billion solar mass cutoff point at this table, with the largest of around 17 billion M\u2609.\n\n==List==\n\n==References==", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/List_of_most_massive_black_holes"}

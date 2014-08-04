@@ -1,13 +1,1 @@
-Sagitario A (o Sgr A) es una fuente de emisión de radio compleja situada en el centro de nuestra galaxia. Debe su nombre a su ubicación en la constelación de Sagitario.
-
-Está formada por tres componentes: 
-* Sagitario A Este, los restos de una supernova 
-* Sagitario A Oeste, una estructura en espiral 
-* Sagitario A*, una radiofuente compacta y extremadamente brillante en el centro de la espiral.
-
-Muchos astrónomos creen que el centro de la galaxia está ocupado por un agujero negro supermasivo. 
-Parece que Sagitario A* es el candidato más plausible en donde puede estar situado el agujero negro.
-
-== Enlaces externos ==
-* The Galactic Center (en inglés)
-*  Sagittarius A East (Chandra X-Ray Observatory, en inglés)
+{"text": "Sagitario A (o Sgr A) es una fuente de emisi\u00f3n de radio compleja situada en el centro de nuestra galaxia. Debe su nombre a su ubicaci\u00f3n en la constelaci\u00f3n de Sagitario.\n\nEst\u00e1 formada por tres componentes: \n* Sagitario A Este, los restos de una supernova \n* Sagitario A Oeste, una estructura en espiral \n* Sagitario A*, una radiofuente compacta y extremadamente brillante en el centro de la espiral.\n\nMuchos astr\u00f3nomos creen que el centro de la galaxia est\u00e1 ocupado por un agujero negro supermasivo. \nParece que Sagitario A* es el candidato m\u00e1s plausible en donde puede estar situado el agujero negro.\n\n== Enlaces externos ==\n* The Galactic Center (en ingl\u00e9s)\n*  Sagittarius A East (Chandra X-Ray Observatory, en ingl\u00e9s)", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Sagitario_A"}

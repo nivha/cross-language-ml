@@ -1,12 +1,1 @@
-Una galaxia oscura es un objeto del tamaño de una galaxia que contiene muy pocas o ninguna estrella, por lo que apenas emite luz. Puede contener gas, polvo interestelar y materia oscura. Varios objetos son candidatos para ser considerados galaxias oscuras:
-
-* HE0450-2958
-* HVC 127-41-330
-* VIRGOHI21
-
-== Véase también ==
-* Galaxia de baja luminosidad superficial
-
-== Referencias ==
-* 
-*
+{"text": "Una galaxia oscura es un objeto del tama\u00f1o de una galaxia que contiene muy pocas o ninguna estrella, por lo que apenas emite luz. Puede contener gas, polvo interestelar y materia oscura. Varios objetos son candidatos para ser considerados galaxias oscuras:\n\n* HE0450-2958\n* HVC 127-41-330\n* VIRGOHI21\n\n== V\u00e9ase tambi\u00e9n ==\n* Galaxia de baja luminosidad superficial\n\n== Referencias ==\n* \n*", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Galaxia_oscura"}

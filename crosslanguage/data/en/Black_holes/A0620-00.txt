@@ -1,13 +1,1 @@
-A0620-00 (V616 Monocerotis, V616 Mon) is a low-mass X-ray binary star and black-hole candidate in the constellation of Monoceros.
-
-==Evidence from observation==
-
-One of the components of the A0620-00 binary system is known to be a dark, compact stellar object, with a mass between nine and thirteen times the mass of the Sun. The other component is observed to be a K-type  star (approximately 0.5 solar masses).
-
-==Significance==
-
-This binary system is located at a distance of approximately 3,000 light years, making the system the likely location of the nearest known black hole.
-
-==References==
-
-==External links==
+{"text": "A0620-00 (V616 Monocerotis, V616 Mon) is a low-mass X-ray binary star and black-hole candidate in the constellation of Monoceros.\n\n==Evidence from observation==\n\nOne of the components of the A0620-00 binary system is known to be a dark, compact stellar object, with a mass between nine and thirteen times the mass of the Sun. The other component is observed to be a K-type  star (approximately 0.5 solar masses).\n\n==Significance==\n\nThis binary system is located at a distance of approximately 3,000 light years, making the system the likely location of the nearest known black hole.\n\n==References==\n\n==External links==", "spanish_url": "//es.wikipedia.org/wiki/A0620-00", "original_url": "//en.wikipedia.org/wiki/A0620-00"}

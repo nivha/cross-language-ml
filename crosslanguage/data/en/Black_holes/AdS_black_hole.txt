@@ -1,13 +1,1 @@
-In theoretical physics, an AdS black hole is a black hole solution of general relativity or its extensions which represents an isolated massive object, but with a negative cosmological constant.  Such a solution asymptotically approaches anti-de Sitter space at spatial infinity, and is a generalization of the Kerr vacuum solution, which asymptotically approaches Minkowski spacetime at spatial infinity.
-
-In 3+1 dimensions, the metric is given by
-:ds^2 = - \left( k^2r^2 + 1 - \frac{C}{r} \right)dt^2 + \frac{1}{k^2r^2 + 1 - \frac{C}{r}}dr^2 + r^2 d\Omega^2
-where t is the time coordinate, r is the radial coordinate, Ω are the polar coordinates, C is a constant and k is the AdS curvature.
-
-In general, in d+1 dimensions, the metric is given by
-:ds^2 = - \left( k^2r^2 + 1 - \frac{C}{r^{d-2}} \right)dt^2 + \frac{1}{k^2r^2 + 1 - \frac{C}{r^{d-2}}}dr^2 + r^2 d\Omega^2
-
-According to the AdS/CFT correspondence, if gravity were quantized, an AdS black hole would be dual to a thermal state on the conformal boundary. In the context of say, AdS/QCD, this would correspond to the deconfinement phase of the quark–gluon plasma.
-
-==See also==
-*BTZ black hole
+{"text": "In theoretical physics, an AdS black hole is a black hole solution of general relativity or its extensions which represents an isolated massive object, but with a negative cosmological constant.  Such a solution asymptotically approaches anti-de Sitter space at spatial infinity, and is a generalization of the Kerr vacuum solution, which asymptotically approaches Minkowski spacetime at spatial infinity.\n\nIn 3+1 dimensions, the metric is given by\n:ds^2 = - \\left( k^2r^2 + 1 - \\frac{C}{r} \\right)dt^2 + \\frac{1}{k^2r^2 + 1 - \\frac{C}{r}}dr^2 + r^2 d\\Omega^2\nwhere t is the time coordinate, r is the radial coordinate, \u03a9 are the polar coordinates, C is a constant and k is the AdS curvature.\n\nIn general, in d+1 dimensions, the metric is given by\n:ds^2 = - \\left( k^2r^2 + 1 - \\frac{C}{r^{d-2}} \\right)dt^2 + \\frac{1}{k^2r^2 + 1 - \\frac{C}{r^{d-2}}}dr^2 + r^2 d\\Omega^2\n\nAccording to the AdS/CFT correspondence, if gravity were quantized, an AdS black hole would be dual to a thermal state on the conformal boundary. In the context of say, AdS/QCD, this would correspond to the deconfinement phase of the quark\u2013gluon plasma.\n\n==See also==\n*BTZ black hole", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/AdS_black_hole"}

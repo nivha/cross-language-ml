@@ -1,5 +1,1 @@
-M82 X-1 is an ultra-luminous X-ray source located in the galaxy M82. It is a candidate intermediate-mass black hole.
-
-== External links ==
-* Dying Star Reveals More Evidence for New Kind of Black Hole
-* A medium-sized black hole?
+{"text": "M82 X-1 is an ultra-luminous X-ray source located in the galaxy M82. It is a candidate intermediate-mass black hole.\n\n== External links ==\n* Dying Star Reveals More Evidence for New Kind of Black Hole\n* A medium-sized black hole?", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/M82_X-1"}

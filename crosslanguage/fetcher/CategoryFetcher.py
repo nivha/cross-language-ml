@@ -1,4 +1,5 @@
 # coding=utf-8
+import urllib
 
 __author__ = 'Niv & Ori'
 
@@ -23,12 +24,13 @@ class CategoryFetcher(object):
     def __init__(self, language='en'):
         self.language = language
 
-        # Determine wiki site
-        sites_by_language = {
-            'en':   "https://en.wikipedia.org/w/api.php",
-            'es':   "http://es.wikipedia.org/w/api.php"
-        }
-        self.site = wiki.Wiki(sites_by_language[self.language])
+        # base_sites_by_language = {
+        #     'en':   "https://en.wikipedia.org/w/api.php",
+        #     'es':   "http://es.wikipedia.org/w/api.php"
+        # }
+        self.site_url = "https://{:s}.wikipedia.org/w/api.php".format(language)
+        self.site = wiki.Wiki(self.site_url)
+
 
     def get_category_articles(self, category):
         return [article for article in category.getAllMembersGen()]
@@ -36,6 +38,11 @@ class CategoryFetcher(object):
     def is_category(self, category):
         category_pattern = u'{:s}:'.format(cat_lang[self.language])
         return category[:len(category_pattern)] == category_pattern
+
+    def attach_metadata(self, article):
+        """ attaches the original url as an attribute """
+        article.url = u"http://{:s}.wikipedia.org/wiki/".format(self.language) + article.urltitle
+        return article
 
     def get_category_recursively(self, category_title, max_articles_num=None):
         """
@@ -62,7 +69,7 @@ class CategoryFetcher(object):
                 if self.is_category(d.title):
                     open_categories.append(d.title)
                 else:
-                    articles.add(d)
+                    articles.add(self.attach_metadata(d))
                     # quit if maximum_articles_num reached
                     if max_articles_num is not None and len(articles) >= max_articles_num:
                         return articles

@@ -1,14 +1,1 @@
-Korea Invisible Mass Search (KIMS), also known as the KIMS collaboration, is a group of South Korean researchers using (CsI(Tl)) crystals to search for Weakly interacting massive particles (WIMPs), which are one of the strongest candidates for the existence of dark matter. The experiments take place in tunnels from a preexisting underground power plant. KIMS is supported by the Creative Research Initiative program of the Korea Science and Engineering Foundation. It is the first physics experiment located, and largely built, in Korea.
-
-Besides the WIMP search, other research topics include detector development for a neutrinoless double beta decay search and the creation of an extreme low temperature diamond calorimeter.
-
-The director of KIMS is Sun Kee Kim.
-
-==History==
-The KIMS experiment was funded in 2000 to search for WIMP, a strong candidate for cold dark matter. To avoid the cost of creating a new underground tunnel for testing, a preexisting Yangyang Pumped Storage Power Plant belonging to Korea Middleland Power Co. in Yangyang, Korea was used instead. Laboratories were finished being built in 2003. After a substantial effort for the initial setup and crystal development, KIMS began recording data in 2004 with one full-size crystal.
-The CsI crystal used is one of the scintillating crystals with the highest light yield. Another advantage is it is easy to get a large mass with an affordable cost.
-
-==References==
-
-==External links==
-* Official page (English)
+{"text": "Korea Invisible Mass Search (KIMS), also known as the KIMS collaboration, is a group of South Korean researchers using (CsI(Tl)) crystals to search for Weakly interacting massive particles (WIMPs), which are one of the strongest candidates for the existence of dark matter. The experiments take place in tunnels from a preexisting underground power plant. KIMS is supported by the Creative Research Initiative program of the Korea Science and Engineering Foundation. It is the first physics experiment located, and largely built, in Korea.\n\nBesides the WIMP search, other research topics include detector development for a neutrinoless double beta decay search and the creation of an extreme low temperature diamond calorimeter.\n\nThe director of KIMS is Sun Kee Kim.\n\n==History==\nThe KIMS experiment was funded in 2000 to search for WIMP, a strong candidate for cold dark matter. To avoid the cost of creating a new underground tunnel for testing, a preexisting Yangyang Pumped Storage Power Plant belonging to Korea Middleland Power Co. in Yangyang, Korea was used instead. Laboratories were finished being built in 2003. After a substantial effort for the initial setup and crystal development, KIMS began recording data in 2004 with one full-size crystal.\nThe CsI crystal used is one of the scintillating crystals with the highest light yield. Another advantage is it is easy to get a large mass with an affordable cost.\n\n==References==\n\n==External links==\n* Official page (English)", "spanish_url": "", "original_url": "//en.wikipedia.org/wiki/Korea_Invisible_Mass_Search"}

@@ -1,17 +1,1 @@
-En la física teórica, un agujero negro extremo es un agujero negro con la masa mínima posible que puede ser compatible con la carga eléctrica y el momento angular.
-
-En las teorías de la supersimetría, los agujeros negros extremos son a menudo supersimétricos, es decir, son invariantes bajo varias supercargas. Esto es una consecuencia del BPS envolvente. Tales agujeros negros son estables y no emiten radiación de Hawking. Su entropía de agujero negro puede ser calculada por medio de la teoría de cuerdas. El hipotético electrón agujero negro se define como un agujero negro extremo.
-
-== Véase también ==
-* Agujero negro
-* Radiación de Hawking
-* Teoría de cuerdas
-
-== Enlaces externos ==
-* Extremal Black Holes pdf (en inglés)
-
-* Extremal RN Black Hole (en inglés)
-
-* N =2 extremal black holes pdf (en inglés)
-
-== Referencias ==
+{"text": "En la f\u00edsica te\u00f3rica, un agujero negro extremo es un agujero negro con la masa m\u00ednima posible que puede ser compatible con la carga el\u00e9ctrica y el momento angular.\n\nEn las teor\u00edas de la supersimetr\u00eda, los agujeros negros extremos son a menudo supersim\u00e9tricos, es decir, son invariantes bajo varias supercargas. Esto es una consecuencia del BPS envolvente. Tales agujeros negros son estables y no emiten radiaci\u00f3n de Hawking. Su entrop\u00eda de agujero negro puede ser calculada por medio de la teor\u00eda de cuerdas. El hipot\u00e9tico electr\u00f3n agujero negro se define como un agujero negro extremo.\n\n== V\u00e9ase tambi\u00e9n ==\n* Agujero negro\n* Radiaci\u00f3n de Hawking\n* Teor\u00eda de cuerdas\n\n== Enlaces externos ==\n* Extremal Black Holes pdf (en ingl\u00e9s)\n\n* Extremal RN Black Hole (en ingl\u00e9s)\n\n* N =2 extremal black holes pdf (en ingl\u00e9s)\n\n== Referencias ==", "spanish_url": "", "original_url": "//es.wikipedia.org/wiki/Agujero_negro_extremo"}
