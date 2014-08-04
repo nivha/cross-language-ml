@@ -1,6 +1,7 @@
 # coding=utf-8
 
 import os
+import simplejson
 
 from fetcher.utils import cat_lang
 
@@ -40,7 +41,9 @@ def load_category(language, category_name):
             raise Exception('{:s} is not a txt file - what is it doing here?'.format(filename))
 
         with open(os.path.join(path, filename)) as f:
-            text = f.read()
+            json = f.read()
+            d = simplejson.loads(json)
+            text = d['text']
             title = os.path.splitext(filename)[0]
             article_url = 'http://{:s}.wikipedia.org/wiki/{:s}'.format(
                 language, title)
@@ -74,7 +77,9 @@ def load_category(language, category_name):
                 continue
 
             with open(os.path.join(path, lang_dir, filename)) as f:
-                text = f.read()
+                json = f.read()
+                d = simplejson.loads(json)
+                text = d['text']
                 article_url = 'http://'+language+'.wikipedia.org/wiki/' + category_name
 
                 # TODO: I delete here articles that appear twice (meaning that they appear in more than
