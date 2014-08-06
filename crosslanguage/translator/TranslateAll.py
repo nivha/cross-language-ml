@@ -85,8 +85,11 @@ if __name__ == '__main__':
     # translate_all_lang_categories(Language(Language.Spanish), [Language(Language.English)])
     # translate_all_lang_categories(Language(Language.English), [Language(Language.Spanish)])
 
-    en_categories = ['Asian_art', 'Latin_American_art']
-    es_categories = ['Arte_de_Asia', 'Arte_latinoamericano']
+    # en_categories = ['Asian_art', 'Latin_American_art']
+    # es_categories = ['Arte_de_Asia', 'Arte_latinoamericano']
+
+    en_categories = ['Dark_matter', 'Black_holes']
+    es_categories = ['Materia_oscura', 'Agujeros_negros']
 
     for c in en_categories:
         tr = CategoryTranslator(Language(Language.English), [Language(Language.Spanish)], c)

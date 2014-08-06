@@ -77,9 +77,11 @@ def load_category(language, category_name):
                 continue
 
             with open(os.path.join(path, lang_dir, filename)) as f:
-                json = f.read()
-                d = simplejson.loads(json)
-                text = d['text']
+                # json = f.read()
+                # d = simplejson.loads(json)
+                # text = d['text']
+                text = f.read()
+
                 article_url = 'http://'+language+'.wikipedia.org/wiki/' + category_name
 
                 # TODO: I delete here articles that appear twice (meaning that they appear in more than
