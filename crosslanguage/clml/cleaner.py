@@ -7,6 +7,15 @@ __author__ = 'Mojo'
 
 
 def clean_english_articles_with_spanish_parallels(en_category_name, es_category_name):
+    """
+    Iterates on english articles and for each english article,
+    checks if there exists a spanish article which is the direct link from the english article.
+    Removes those english articles..
+
+    :param en_category_name: name of the english category to check
+    :param es_category_name: name of the respective category in spanish
+
+    """
     en_folder = get_category_folder('en', en_category_name)
     es_folder = get_category_folder('es', es_category_name)
 
@@ -31,12 +40,8 @@ def clean_english_articles_with_spanish_parallels(en_category_name, es_category_
         print 'removing', path
         os.remove(path)
 
-
-clean_english_articles_with_spanish_parallels('Black_holes', 'Agujeros_negros')
-clean_english_articles_with_spanish_parallels('Dark_matter', 'Materia_oscura')
-
 def clean_untranslated_articels(language, category_name):
-    # clean articles that counldn't be translated
+    """ Clean articles that couldn't be translated """
 
     category_path = get_category_folder(language, category_name)
     other_lang = 'es' if language == 'en' else 'en'
@@ -50,3 +55,24 @@ def clean_untranslated_articels(language, category_name):
         path = os.path.join(category_path, fname)
         print 'deleting', path
         os.remove(path)
+
+
+
+
+#############################################################
+#       Testing...                                          #
+#############################################################
+
+if __name__=="__main__":
+
+    # clean_english_articles_with_spanish_parallels('Black_holes', 'Agujeros_negros')
+    # clean_english_articles_with_spanish_parallels('Dark_matter', 'Materia_oscura')
+
+    en_cs = ['Black_holes', 'Dark_matter']
+    es_cs = ['Agujeros_negros', 'Materia_oscura']
+    for c in en_cs:
+        print c
+        clean_untranslated_articels('en', c)
+    for c in es_cs:
+        print c
+        clean_untranslated_articels('es', c)

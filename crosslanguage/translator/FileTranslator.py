@@ -27,6 +27,7 @@ class FileTranslator(object):
         self.source_lang = source_lang
         self.target_lang = target_lang
 
+        # instantiate the relevant browser for the instance
         self.headless_browser = self.driver = None
         if translate_type == 'headless':
             self.headless_browser = Browser()
@@ -34,6 +35,7 @@ class FileTranslator(object):
         elif translate_type == 'selenium':
             self.driver = webdriver.Firefox()
 
+        # determine the kind of translator needed
         self.translate = {
             'simple': self.translate_simple,
             'headless': self.translate_text_google_headless,
@@ -46,6 +48,9 @@ class FileTranslator(object):
         os.system('taskkill /im firefox.exe /f /t')
 
     def translate_text_google(self, text_to_translate, quit_browser=True):
+        """
+            Uses selenium to translate the text. kinda slow, and gets stuck..
+        """
         # Open Google Translate website
         url = "http://translate.google.com/#%s/%s/%s" % (self.source_lang.to_google_translate(),
                                                          self.target_lang.to_google_translate(),
@@ -65,6 +70,10 @@ class FileTranslator(object):
         return translated_text
 
     def translate_text_google_headless(self, text_to_translate):
+        """
+            Uses spynner - a headless browser, to translate the text.
+            This works really fast...
+        """
         url = "https://translate.google.com/#%s/%s/%s" % (self.source_lang.to_google_translate(),
                                                           self.target_lang.to_google_translate(),
                                                           text_to_translate)
@@ -75,6 +84,10 @@ class FileTranslator(object):
         return translated_text
 
     def translate_simple(self, text_to_translate):
+        """
+            Uses simple urllib to translte.
+            It doesn't really work on more than 2000 characters for some reason (maybe a limit posed by google)
+        """
         '''Return the translation using google translate
         you must shortcut the langage you define (French = fr, English = en, Spanish = es, etc...)
         if you don't define anything it will detect it or use english by default
@@ -93,6 +106,12 @@ class FileTranslator(object):
         return result
 
     def translate_text_spanishenglish(self, text_to_translate):
+        """
+            An attempt to use spynner to translate through spanishenglish.com
+            (instead of google.. in case google will block us or something..)
+            The problem is that for some reason spanishenglish.com doesn't work with the
+            spynner core (it does work well with chrome though)... so it's stuck now...
+        """
         pass
         # url = "http://www.spanishenglish.com/"
         # self.headless_browser.load(url)
