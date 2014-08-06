@@ -46,9 +46,9 @@ class SimpleClassifierTester(object):
         self._train()
 
     def _get_text(self, article):
-        if self.direction == Direction.Pre:
-            return article.articlecontent_set.get(language=self.source_language).text
         if self.direction == Direction.Post:
+            return article.articlecontent_set.get(language=self.source_language).text
+        if self.direction == Direction.Pre:
             return article.articlecontent_set.get(language=self.target_language).text
 
     def _prepare_data(self):
@@ -76,16 +76,16 @@ class SimpleClassifierTester(object):
 
         :return:
         """
-        # self.clf = Pipeline([('vect', CountVectorizer()),
+        # self.clf = Pipeline([('vect', CountVectorizer(stop_words='english')),
         #                      ('tfidf', TfidfTransformer()),
         #                      ('clf', SGDClassifier(loss='hinge', penalty='l2',
         #                                            alpha=1e-3, n_iter=5)),
         #                      ])
-        self.clf = Pipeline([('vect', CountVectorizer()),
+        self.clf = Pipeline([('vect', CountVectorizer(stop_words='english')),
                              ('tfidf', TfidfTransformer()),
                              ('clf', MultinomialNB(alpha=1e-2, fit_prior=False)),
                              ])
-        # self.clf = Pipeline([('vect', CountVectorizer()),
+        # self.clf = Pipeline([('vect', CountVectorizer(stop_words='english')),
         #                      ('tfidf', TfidfTransformer()),
         #                      ('clf', BernoulliNB(alpha=1.0)),
         #                      ])
@@ -93,7 +93,9 @@ class SimpleClassifierTester(object):
 
     def _test(self):
         predicted = self.clf.predict(self.test_data)
-        score = numpy.mean(predicted == self.test_target)
+        result = predicted == self.test_target
+        score = numpy.mean(result)
+        print 'scored:', numpy.sum(result), 'out of:', numpy.size(result)
         return score
 
     def plot_words_scores(self):
@@ -128,16 +130,20 @@ class SimpleClassifierTester(object):
 
 
 if __name__ == '__main__':
-    trainc = [Category.objects.get(name='Asian_art'),
-              Category.objects.get(name='Latin_American_art')]
-    testc = [Category.objects.get(name='Arte_de_Asia'),
-             Category.objects.get(name='Arte_latinoamericano')]
+    # en_cs = ['Asian_art', 'Latin_American_art']
+    # es_cs = ['Arte_de_Asia', 'Arte_latinoamericano']
+    en_cs = ['Black_holes', 'Dark_matter']
+    es_cs = ['Agujeros_negros', 'Materia_oscura']
+    trainc = map(lambda x: Category.objects.get(name=x), en_cs)
+    testc = map(lambda x: Category.objects.get(name=x), es_cs)
 
-    s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Pre)
+
+    # s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Pre)
     # s.plot_words_scores()
-    print s.score()
-    s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
-    print s.score()
+    # print s.score()
+    # s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
+    # print s.score()
 
-    # for c, l in s._k_most_important_words_per_category(20):
-    #     print c, l
+    s = SimpleClassifierTester('en', 'es', trainc, testc, Direction.Post)
+    for c, l in s._k_most_important_words_per_category(20):
+        print c, l
